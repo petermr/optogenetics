@@ -1,0 +1,108 @@
+//known light sensitive proteins
+
+phytochrome
+PHY
+cryptochrome
+CRY
+UV-B resistance 8 
+UVR8
+Zeitlupe 
+ZTL
+Flavin-binding klech repeat box, F box 
+FKF1
+LOV-kelch protein 2
+LKP2 
+phototropin 
+phot
+EL222
+pDusk
+pDawn
+FixJ 
+YF1 histidine kinase
+
+
+
+
+
+
+//light sensitive and related domains 
+
+Light-Oxygen-Voltage 
+LOV domain 
+LOV 2 domain
+Blue Light Using FAD
+BLUF domain  
+Per-Arnt-SIM 
+PAS domain 
+Phytochrome Domain 
+PHY domain 
+cGMP-specific phosphodiesterases, adenylyl cyclases and FhIA 
+GAF Domain 
+Photolyase Homology Region 
+PHR 
+Cryptochrome C terminal 
+CCT 
+photoactivated adenylyl cyclases
+PAC
+VIVID domain
+white-collar-complex
+WCC
+
+
+//chromophores and amino acids
+
+chromophore
+accessory chromophore
+photoreceptor
+vitamin A aldehyde
+all-trans retinal 
+retinal
+phytochromobilin
+phycocyanobilin
+bilin
+Flavin adenine dinucleotide
+FAD
+Flavin mononucleotide
+FMN
+methenyltetrahydrofolate
+MTHF
+tryptophan triad
+tryptophan 
+schiff base
+
+
+//optogenetic switch key words
+
+Two-Component System
+TCS 
+photon
+wavelength 
+logic gate 
+photoactivation
+histidine kinase
+serine threonine kinase
+photosensory 
+synthetic biology
+photocycle
+photoactivatable
+
+//microbiology
+
+extremophile 
+light sensitive
+cyanobacteria
+photosynthesis
+algae
+beggiatoa
+bradyrhizobium japonicum 
+erythrobacter litoralis
+
+
+
+
+
+
+
+
+
+
