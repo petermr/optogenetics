@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC5094582/results/species/binomial/results.xml">
+  <result pre="itive chloride pump. 19 Variants of the yellow light-sensitive " exact="Natronomonas pharaonis" xpath="/html[1]/body[1]/div[2]/div[3]/div[2]/p[2]" match="Natronomonas pharaonis" post=" halorhodopsin (NpHR) have been used as inhibitory opsins. 20 W" name="binomial"/>
+  <result pre="monstrated in vivo optical pacing with blue light in transgenic fruit flies (of the species " exact="Drosophila melanogaster" match="Drosophila melanogaster" post=") expressing ChR2. " name="binomial"/>
+ </snippets>
+</snippetsTree>

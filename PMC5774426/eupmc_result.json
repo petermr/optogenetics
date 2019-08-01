@@ -1,0 +1,340 @@
+{
+  "id": [
+    "29362703"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29362703"
+  ],
+  "pmcid": [
+    "PMC5774426"
+  ],
+  "doi": [
+    "10.2142/biophysico.14.0_183"
+  ],
+  "title": [
+    "Chimeric microbial rhodopsins for optical activation of Gs-proteins."
+  ],
+  "authorString": [
+    "Yoshida K, Yamashita T, Sasaki K, Inoue K, Shichida Y, Kandori H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yoshida K"
+          ],
+          "firstName": [
+            "Kazuho"
+          ],
+          "lastName": [
+            "Yoshida"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Life Science and Applied Chemistry, Nagoya Institute of Technology, Nagoya, Aichi 466-8555, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Yamashita T"
+          ],
+          "firstName": [
+            "Takahiro"
+          ],
+          "lastName": [
+            "Yamashita"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Biophysics, Graduate School of Science, Kyoto University, Kyoto 606-8502, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Sasaki K"
+          ],
+          "firstName": [
+            "Kengo"
+          ],
+          "lastName": [
+            "Sasaki"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Life Science and Applied Chemistry, Nagoya Institute of Technology, Nagoya, Aichi 466-8555, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Inoue K"
+          ],
+          "firstName": [
+            "Keiichi"
+          ],
+          "lastName": [
+            "Inoue"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Life Science and Applied Chemistry, Nagoya Institute of Technology, Nagoya, Aichi 466-8555, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Shichida Y"
+          ],
+          "firstName": [
+            "Yoshinori"
+          ],
+          "lastName": [
+            "Shichida"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Biophysics, Graduate School of Science, Kyoto University, Kyoto 606-8502, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kandori H"
+          ],
+          "firstName": [
+            "Hideki"
+          ],
+          "lastName": [
+            "Kandori"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Life Science and Applied Chemistry, Nagoya Institute of Technology, Nagoya, Aichi 466-8555, Japan."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2534311"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biophysics and physicobiology"
+          ],
+          "ISOAbbreviation": [
+            "Biophys Physicobiol"
+          ],
+          "medlineAbbreviation": [
+            "Biophys Physicobiol"
+          ],
+          "NLMid": [
+            "101675089"
+          ],
+          "ISSN": [
+            "2189-4779"
+          ],
+          "ESSN": [
+            "2189-4779"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "183-190"
+  ],
+  "abstractText": [
+    "We previously showed that the chimeric proteins of microbial rhodopsins, such as light-driven proton pump bacteriorhodopsin (BR) and Gloeobacter rhodopsin (GR) that contain cytoplasmic loops of bovine rhodopsin, are able to activate Gt protein upon light absorption. These facts suggest similar protein structural changes in both the light-driven proton pump and animal rhodopsin. Here we report two trials to engineer chimeric rhodopsins, one for the inserted loop, and another for the microbial rhodopsin template. For the former, we successfully activated Gs protein by light through the incorporation of the cytoplasmic loop of β2-adrenergic receptor (β2AR). For the latter, we did not observe any G-protein activation for the light-driven sodium pump from Indibacter alkaliphilus (IndiR2) or a light-driven chloride pump halorhodopsin from Natronomonas pharaonis (NpHR), whereas the light-driven proton pump GR showed light-dependent G-protein activation. This fact suggests that a helix opening motion is common to G protein coupled receptor (GPCR) and GR, but not to IndiR2 and NpHR. Light-induced difference FTIR spectroscopy revealed similar structural changes between WT and the third loop chimera for each light-driven pump. A helical structural perturbation, which was largest for GR, was further enhanced in the chimera. We conclude that similar structural dynamics that occur on the cytoplasmic side of GPCR are needed to design chimeric microbial rhodopsins."
+  ],
+  "affiliation": [
+    "Department of Life Science and Applied Chemistry, Nagoya Institute of Technology, Nagoya, Aichi 466-8555, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "FTIR",
+        "Retinal",
+        "Gpcr",
+        "Microbial Rhodopsin",
+        "G-protein Activation"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5774426?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5774426"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2142/biophysico.14.0_183"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen",
+        "uniprot"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-01-25"
+  ],
+  "firstIndexDate": [
+    "2018-01-25"
+  ],
+  "dateOfRevision": [
+    "2018-01-26"
+  ],
+  "electronicPublicationDate": [
+    "2017-12-19"
+  ],
+  "firstPublicationDate": [
+    "2017-12-19"
+  ]
+}

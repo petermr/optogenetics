@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6399599/results/search/funders/results.xml">
+  <result pre=": bold;} span.year {font-family : courier ; font-style : italic;}" exact="EMBO" post="Rep EMBO Rep 10.1002/(ISSN)1469-3178 EMBR embor EMBO Reports 1469-221X"/>
+  <result pre="span.year {font-family : courier ; font-style : italic;} EMBO Rep" exact="EMBO" post="Rep 10.1002/(ISSN)1469-3178 EMBR embor EMBO Reports 1469-221X 1469-3178 John"/>
+  <result pre="font-style : italic;} EMBO Rep EMBO Rep 10.1002/(ISSN)1469-3178 EMBR embor" exact="EMBO" post="Reports 1469-221X 1469-3178 John Wiley and Sons Inc. Hoboken"/>
+  <result pre="EC | H2020 | H2020 Priority Excellent Science | H2020" exact="European Research Council" post="ERC 637860, SLEEPCONTROL Max Planck Society ‐ Max Planck"/>
+  <result pre="Planck Research Group &quot;Sleep and Wake&quot; fig-count: table-count: page-count: word-count:" exact="EMBO" post="Reports ( 2019) 20: e46807 See the Glossary for"/>
+  <result pre="the Max Planck Society (Max Planck Research Group) and the" exact="European Research Council" post="(Horizon 2020 Starting Grant, agreement no. 637860, SLEEPCONTROL). References"/>
+ </snippets>
+</snippetsTree>

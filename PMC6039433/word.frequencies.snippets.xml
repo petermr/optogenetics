@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6039433/results/word/frequencies/results.xml">
+  <result title="frequency" word="elegans" count="51"/>
+  <result title="frequency" word="neurons" count="41"/>
+  <result title="frequency" word="egg-laying" count="35"/>
+  <result title="frequency" word="neural" count="33"/>
+  <result title="frequency" word="behavior" count="28"/>
+ </snippets>
+</snippetsTree>

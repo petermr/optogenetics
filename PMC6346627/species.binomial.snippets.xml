@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6346627/results/species/binomial/results.xml">
+  <result pre="ive potentials of a current–clamped hippocampal neuron evoked by 980 nm light irradiation (right). " exact="Caenorhabditis elegans" xpath="/html[1]/body[1]/div[2]/div[3]/div[3]/p[3]" match="Caenorhabditis elegans" post=". Top: Representative images showing the upconversion-mediated optogenetic reversal behavior of a w" name="binomial"/>
+  <result pre=" with permission from ref ( 71). Copyright 2015 Royal Society of Chemistry. Panel " exact="C. elegans" xpath="/html[1]/body[1]/div[2]/div[3]/div[3]/p[3]" match="Caenorhabditis elegans" post=" and panel Zebrafish reproduced with permission from refs ( 74 and &lt;a href=&quot;#ref75" name="binomial"/>
+  <result pre="p&gt; In early 2016, the successful activation of ChR2 using NaYF 4:Yb/Tm nanoparticles in " exact="Caenorhabditis elegans" match="Caenorhabditis elegans" post=" was reported, as evidenced by the reversal response of the worms ( Figure &lt;a href=" name="binomial"/>
+ </snippets>
+</snippetsTree>

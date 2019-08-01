@@ -1,0 +1,1212 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Br J Pharmacol</journal-id><journal-id journal-id-type="iso-abbrev">Br. J. Pharmacol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1476-5381</journal-id><journal-id journal-id-type="publisher-id">BPH</journal-id><journal-title-group><journal-title>British Journal of Pharmacology</journal-title></journal-title-group><issn pub-type="ppub">0007-1188</issn><issn pub-type="epub">1476-5381</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5979753</article-id><article-id pub-id-type="doi">10.1111/bph.14183</article-id><article-id pub-id-type="publisher-id">BPH14183</article-id><article-id pub-id-type="other">2017-BJP-1131-RP.R1</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Papers</subject></subj-group></article-categories><title-group><article-title>Defining the ionic mechanisms of optogenetic control of vascular tone by channelrhodopsin&#x02010;2</article-title><alt-title alt-title-type="right-running-head">Channelrhodopsin&#x02010;2 in vascular optogenetics</alt-title><alt-title alt-title-type="left-running-head">N J G Rorsman et al.</alt-title></title-group><contrib-group><contrib id="bph14183-cr-0001" contrib-type="author"><name><surname>Rorsman</surname><given-names>Nils J G</given-names></name><xref ref-type="aff" rid="bph14183-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="bph14183-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bph14183-cr-0002" contrib-type="author"><name><surname>Ta</surname><given-names>Chau M</given-names></name><xref ref-type="aff" rid="bph14183-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bph14183-cr-0003" contrib-type="author"><name><surname>Garnett</surname><given-names>Hannah</given-names></name><xref ref-type="aff" rid="bph14183-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bph14183-cr-0004" contrib-type="author"><name><surname>Swietach</surname><given-names>Pawel</given-names></name><xref ref-type="aff" rid="bph14183-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="bph14183-cr-0005" contrib-type="author" corresp="yes"><name><surname>Tammaro</surname><given-names>Paolo</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-6183-8187</contrib-id><address><email>paolo.tammaro@pharm.ox.ac.uk</email></address><xref ref-type="aff" rid="bph14183-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="bph14183-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="bph14183-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Pharmacology</named-content>
+<institution>University of Oxford</institution>
+<named-content content-type="city">Oxford</named-content>
+<country country="GB">UK</country>
+</aff><aff id="bph14183-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">OXION Initiative in Ion Channels and Disease</named-content>
+<institution>University of Oxford</institution>
+<named-content content-type="city">Oxford</named-content>
+<country country="GB">UK</country>
+</aff><aff id="bph14183-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Physiology, Anatomy and Genetics</named-content>
+<institution>University of Oxford</institution>
+<named-content content-type="city">Oxford</named-content>
+<country country="GB">UK</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold> Paolo Tammaro, Department of Pharmacology, University of Oxford, Mansfield Road, Oxford OX1 3QT, UK. E&#x02010;mail: <email>paolo.tammaro@pharm.ox.ac.uk</email></corresp></author-notes><pub-date pub-type="epub"><day>17</day><month>4</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>6</month><year>2018</year></pub-date><pub-date pub-type="pmc-release"><day>17</day><month>4</month><year>2018</year></pub-date><!-- PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>. --><volume>175</volume><issue>11</issue><issue-id pub-id-type="doi">10.1111/bph.v175.11</issue-id><issue-title content-type="special-issue-title">Themed Section: Nicotinic Acetylcholine Receptors. Guest Editors: Sue Wonnacott, Isabel Bermudez, Neil S Millar and Socrates J Tzartos</issue-title><fpage>2028</fpage><lpage>2045</lpage><history><date date-type="received"><day>07</day><month>9</month><year>2017</year></date><date date-type="rev-recd"><day>16</day><month>1</month><year>2018</year></date><date date-type="accepted"><day>14</day><month>2</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 The British Pharmacological Society <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. British Journal of Pharmacology published by John Wiley &#x00026; Sons Ltd on behalf of British Pharmacological Society.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:BPH-175-2028.pdf"/><abstract><sec id="bph14183-sec-0001"><title>Background and Purpose</title><p>Optogenetic control of electromechanical coupling in vascular smooth muscle cells (VSMCs) is emerging as a powerful research tool with potential applications in drug discovery and therapeutics. However, the precise ionic mechanisms involved in this control remain unclear.</p></sec><sec id="bph14183-sec-0002"><title>Experimental Approach</title><p>Cell imaging, patch&#x02010;clamp electrophysiology and muscle tension recordings were used to define these mechanisms over a wide range of light stimulations.</p></sec><sec id="bph14183-sec-0003"><title>Key Results</title><p>Transgenic mice expressing a channelrhodopsin&#x02010;2 variant [ChR2(H134R)] selectively in VSMCs were generated. Isolated VSMCs obtained from these mice demonstrated blue light&#x02010;induced depolarizing whole&#x02010;cell currents. Fine control of artery tone was attained by varying the intensity of the light stimulus. This arterial response was sufficient to overcome the endogenous, melanopsin&#x02010;mediated, light&#x02010;evoked, arterial relaxation observed in the presence of contractile agonists. Ca<sup>2+</sup> entry through voltage&#x02010;gated Ca<sup>2+</sup> channels, and opening of plasmalemmal depolarizing channels (TMEM16A and TRPM) and intracellular IP<sub>3</sub> receptors were involved in the ChR2(H134R)&#x02010;dependent arterial response to blue light at intensities lower than ~0.1&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup>. Light stimuli of greater intensity evoked a significant Ca<sup>2+</sup> influx directly through ChR2(H134R) and produced marked intracellular alkalinization of VSMCs.</p></sec><sec id="bph14183-sec-0004"><title>Conclusions and Implications</title><p>We identified the range of light intensity allowing optical control of arterial tone, primarily by means of endogenous channels and without substantial alteration to intracellular pH. Within this range, mice expressing ChR2(H134R) in VSMCs are a powerful experimental model for achieving accurate and tuneable optical voltage&#x02010;clamp of VSMCs and finely graded control of arterial tone, offering new approaches to the discovery of vasorelaxant drugs.</p></sec></abstract><funding-group><award-group><funding-source>BHF</funding-source><award-id>RE/08/004</award-id><award-id>RG/15/9/31534</award-id></award-group></funding-group><counts><fig-count count="7"/><table-count count="3"/><page-count count="18"/><word-count count="9820"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>bph14183</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>June 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.4.0 mode:remove_FC converted:31.05.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="bph14183-cit-0000">
+<string-name>
+<surname>Rorsman</surname>, <given-names>N. J. G.</given-names>
+</string-name>, <string-name>
+<surname>Ta</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name>
+<surname>Garnett</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Swietach</surname>, <given-names>P.</given-names>
+</string-name>, and <string-name>
+<surname>Tammaro</surname>, <given-names>P.</given-names>
+</string-name> (<year>2018</year>) <article-title>Defining the ionic mechanisms of optogenetic control of vascular tone by channelrhodopsin&#x02010;2</article-title>. <source xml:lang="en">British Journal of Pharmacology</source>, <volume>175</volume>: <fpage>2028</fpage>&#x02013;<lpage>2045</lpage>. doi: <ext-link ext-link-type="doi" xlink:href="10.1111/bph.14183">10.1111/bph.14183</ext-link>.</mixed-citation>
+</p></notes></front><body><def-list list-content="abbreviations" id="bph14183-lp-0001"><title>Abbreviations</title><def-item><term id="bph14183-li-0001">2<italic>&#x02010;</italic>APB</term><def id="bph14183-li-0002"><p>2&#x02010;aminoethoxydiphenyl borate</p></def></def-item><def-item><term id="bph14183-li-0003">Ani9</term><def id="bph14183-li-0004"><p>2&#x02010;(4&#x02010;Chloro&#x02010;2&#x02010;methylphenoxy)&#x02010;N'&#x02010;(2&#x02010;methoxybenzylidene) acetohydrazide</p></def></def-item><def-item><term id="bph14183-li-0005">CaCC</term><def id="bph14183-li-0006"><p>Ca<sup>2+</sup>&#x02010;activated Cl<sup>&#x02212;</sup> channel</p></def></def-item><def-item><term id="bph14183-li-0007">Ca<sub>v</sub></term><def id="bph14183-li-0008"><p>voltage&#x02010;gated Ca<sup>2</sup>
+<sup>+</sup> channel</p></def></def-item><def-item><term id="bph14183-li-0009">ChR2</term><def id="bph14183-li-0010"><p>channelrhodopsin&#x02010;2</p></def></def-item><def-item><term id="bph14183-li-0011">ChR2(H134R)</term><def id="bph14183-li-0012"><p>channelrhodopsin&#x02010;2 in which histidine at position 134 was substituted with an arginine</p></def></def-item><def-item><term id="bph14183-li-0013">CICR</term><def id="bph14183-li-0014"><p>Ca<sup>2+</sup>&#x02010;induced Ca<sup>2+</sup> release</p></def></def-item><def-item><term id="bph14183-li-0015">EC</term><def id="bph14183-li-0016"><p>endothelial cell</p></def></def-item><def-item><term id="bph14183-li-0017">eYFP</term><def id="bph14183-li-0018"><p>enhanced yellow fluorescent protein</p></def></def-item><def-item><term id="bph14183-li-0019">MONNA</term><def id="bph14183-li-0020"><p>2&#x02010;[(4&#x02010;Methoxy&#x02010;2&#x02010;naphthalenyl)amino]&#x02010;5&#x02010;nitro&#x02010;benzoic acid</p></def></def-item><def-item><term id="bph14183-li-0021">pH<sub>i</sub></term><def id="bph14183-li-0022"><p>intracellular pH</p></def></def-item><def-item><term id="bph14183-li-0023">RyR</term><def id="bph14183-li-0024"><p>ryanodine receptor</p></def></def-item><def-item><term id="bph14183-li-0025"><italic>V</italic><sub><italic>m</italic></sub></term><def id="bph14183-li-0026"><p>cell membrane potential</p></def></def-item><def-item><term id="bph14183-li-0027">VSMC</term><def id="bph14183-li-0028"><p>vascular smooth muscle cell</p></def></def-item></def-list><sec id="bph14183-sec-0005"><title>Introduction</title><p>Optogenetics is an experimental approach involving the use of light in conjunction with microbial opsins (light&#x02010;sensitive proteins) to control cell, tissue or organ function (Fenno <italic>et al</italic>., <xref rid="bph14183-bib-0027" ref-type="ref">2011</xref>; Lin, <xref rid="bph14183-bib-0043" ref-type="ref">2011</xref>; Entcheva, <xref rid="bph14183-bib-0025" ref-type="ref">2013</xref>). For instance, cells engineered to express the non&#x02010;selective, blue light&#x02010;activated cation channel channelrhodopsin&#x02010;2 (ChR2) can be controlled for excitability with exceptional spatio&#x02010;temporal accuracy (Fenno <italic>et al</italic>., <xref rid="bph14183-bib-0027" ref-type="ref">2011</xref>; Lin, <xref rid="bph14183-bib-0043" ref-type="ref">2011</xref>; Entcheva, <xref rid="bph14183-bib-0025" ref-type="ref">2013</xref>). The ChR2 channel is permeable to monovalent and divalent cations, including H<sup>+</sup>, Na<sup>+</sup> and Ca<sup>2+</sup>. Thus, opening of ChR2 channels typically leads to cell membrane potential (<italic>V</italic>
+<sub><italic>m</italic></sub>) depolarization (Nagel <italic>et al</italic>., <xref rid="bph14183-bib-0052" ref-type="ref">2003</xref>; Caldwell <italic>et al</italic>., <xref rid="bph14183-bib-0021" ref-type="ref">2008</xref>; Lin, <xref rid="bph14183-bib-0043" ref-type="ref">2011</xref>). Several ChR2 variants have been generated, including ChR2(H134R), characterized by reduced current desensitization and enhanced photocurrents as a consequence of the replacement of histidine at position 134 by arginine (Nagel <italic>et al</italic>., <xref rid="bph14183-bib-0051" ref-type="ref">2005</xref>; Lin, <xref rid="bph14183-bib-0043" ref-type="ref">2011</xref>; Reinbothe <italic>et al</italic>., <xref rid="bph14183-bib-0058" ref-type="ref">2014</xref>; Bruegmann <italic>et al</italic>., <xref rid="bph14183-bib-0017" ref-type="ref">2015</xref>; Wu <italic>et al</italic>., <xref rid="bph14183-bib-0068" ref-type="ref">2015</xref>).</p><p>ChR2 and its variants have been used extensively as experimental tools in the field of neuroscience to define brain circuitry (Boyden <italic>et al</italic>., <xref rid="bph14183-bib-0015" ref-type="ref">2005</xref>; Zhang <italic>et al</italic>., <xref rid="bph14183-bib-0072" ref-type="ref">2007</xref>; Yizhar <italic>et al</italic>., <xref rid="bph14183-bib-0071" ref-type="ref">2011</xref>). These opsins have also been harnessed to control the function of non&#x02010;neuronal cell types. For example, ChR2 has enabled control of myocardial excitability and inotropy (Arrenberg <italic>et al</italic>., <xref rid="bph14183-bib-0007" ref-type="ref">2010</xref>; Bruegmann <italic>et al</italic>., <xref rid="bph14183-bib-0018" ref-type="ref">2010</xref>; Entcheva, <xref rid="bph14183-bib-0025" ref-type="ref">2013</xref>) and skeletal muscle contraction (Asano <italic>et al</italic>., <xref rid="bph14183-bib-0008" ref-type="ref">2012</xref>; Sakar <italic>et al</italic>., <xref rid="bph14183-bib-0060" ref-type="ref">2012</xref>; Bruegmann <italic>et al</italic>., <xref rid="bph14183-bib-0017" ref-type="ref">2015</xref>). Optogenetics has also the potential to revolutionize vascular research. An advance in this direction was recently made by Wu <italic>et al</italic>. (<xref rid="bph14183-bib-0068" ref-type="ref">2015</xref>), who selectively expressed a ChR2 mutant in murine vascular smooth muscle cells (VSMCs) to achieve optogenetic control of VSMC contraction and hence arterial tone. In their study, isolated aortic VSMCs expressing ChR2 channels demonstrated blue light&#x02010;induced currents. The tone of isolated mesenteric artery rings increased in response to high&#x02010;intensity blue light stimuli (ranging from 10 to 24 mW&#x000b7;mm<sup>&#x02212;2</sup>), which were reported to evoke maximal ChR2 channel activation (Lin <italic>et al</italic>., <xref rid="bph14183-bib-0044" ref-type="ref">2009</xref>; Mattis <italic>et al</italic>., <xref rid="bph14183-bib-0047" ref-type="ref">2011</xref>). Furthermore, it was possible to optogenetically modulate the perfusion pressure of the coronary and renal circulations in isolated hearts and kidneys (Wu <italic>et al</italic>., <xref rid="bph14183-bib-0068" ref-type="ref">2015</xref>). Optogenetics has also been used to gain insights into the role of arterioles and pericyte&#x02010;covered capillaries in the control of cerebral blood flow (Hill <italic>et al</italic>., <xref rid="bph14183-bib-0036" ref-type="ref">2015</xref>). These important studies have demonstrated the utility and potential of optogenetics in vascular research. Critically important mechanistic aspects, however, need to be addressed to enable a complete interpretation of vascular optogenetics experiments and to exploit this technology in an <italic>in vivo</italic> setting. This technology has the potential of offering new approaches to the identification and testing of new compounds that could relieve vasoconstriction.</p><p>To provide a more complete and comprehensive mechanistic appraisal of vascular optogenetics, it is critical to probe arterial responses over an adequately wide range of light stimulations to determine whether different degrees of ChR2 activation produce fine, graded control of vessel tone. Furthermore, it is well established that isolated wild&#x02010;type mammalian systemic arteries pre&#x02010;constricted with agonists, such as noradrenaline or phenylephrine, relax in response to blue light in a ChR2&#x02010;independent manner (Furchgott <italic>et al</italic>., <xref rid="bph14183-bib-0030" ref-type="ref">1955</xref>; Ehrreich and Furchgott, <xref rid="bph14183-bib-0024" ref-type="ref">1968</xref>; Sikka <italic>et al</italic>., <xref rid="bph14183-bib-0062" ref-type="ref">2014</xref>). Blue light&#x02010;mediated relaxation was also observed in murine cerebral arterioles <italic>in situ</italic> (Rungta <italic>et al</italic>., <xref rid="bph14183-bib-0059" ref-type="ref">2017</xref>). Thus, evaluating the capacity of ChR2&#x02010;induced contraction to overcome the intrinsic blue light&#x02010;dependent arterial relaxation is an essential prerequisite for establishing vascular optogenetics <italic>in vivo</italic>, where the circulating levels of catecholamines will vary depending on the extent of the sympathetic drive. It is also important to explain the precise ionic mechanisms linking light stimulation with arterial contraction. This includes an understanding of the extent to which ChR2 channel opening evokes depolarization and activates endogenous channels, as opposed to providing a direct route for non&#x02010;physiological Ca<sup>2+</sup> entry. A related point is to assess possible changes in intracellular pH (pH<sub>i</sub>) of VSMCs, which may occur as a consequence of prolonged ChR2 activation due to its permeability to H<sup>+</sup> (Nagel <italic>et al</italic>., <xref rid="bph14183-bib-0052" ref-type="ref">2003</xref>; Lin <italic>et al</italic>., <xref rid="bph14183-bib-0044" ref-type="ref">2009</xref>; Berndt <italic>et al</italic>., <xref rid="bph14183-bib-0011" ref-type="ref">2010</xref>, <xref rid="bph14183-bib-0012" ref-type="ref">2011</xref>; Gradmann <italic>et al</italic>., <xref rid="bph14183-bib-0033" ref-type="ref">2011</xref>). Light&#x02010;evoked changes in pH<sub>i</sub> would be highly relevant because of their known modulatory effects on of excitation&#x02013;contraction coupling and responses to pharmacological agents (Wakabayashi <italic>et al</italic>., <xref rid="bph14183-bib-0064" ref-type="ref">2006</xref>; Boedtkjer and Aalkjaer, <xref rid="bph14183-bib-0013" ref-type="ref">2012</xref>).</p><p>To address the issues outlined above, we generated mice expressing ChR2(H134R) selectively in VSMCs. We systematically examined the effects of a wide range (0.01&#x02013;12.1&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup>) of blue light intensities on both the magnitude of ChR2(H134R) current in isolated VSMCs and the extent of contraction of artery rings. A broad range of artery type was included in these studies, namely, large conduit, small systemic and pulmonary arteries. In the case of isolated aortic VSMCs and isolated rings, experiments were extended to accurately map the effect of blue light on <italic>V</italic>
+<sub><italic>m</italic></sub> and on the ionic mechanisms involved in contraction. We found that expression of ChR2(H134R) channels enabled optical voltage clamp of these VSMCs. At blue light stimulations lower than 0.1&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup>, ChR2(H134R) activation served as a depolarizing trigger for endogenous voltage&#x02010;gated Ca<sup>2+</sup> (<ext-link ext-link-type="uri" xlink:href="http://www.guidetopharmacology.org/GRAC/FamilyIntroductionForward?familyId=80">http://www.guidetopharmacology.org/GRAC/FamilyIntroductionForward?familyId=80</ext-link> and Ca<sup>2+</sup>&#x02010;activated depolarizing channels, such as the TMEM16A <ext-link ext-link-type="uri" xlink:href="http://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=130">http://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=130</ext-link> (CaCCs) and <ext-link ext-link-type="uri" xlink:href="http://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=78">http://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=78</ext-link> non&#x02010;selective cation channels. At higher intensities of blue light, substantial ChR2(H134R)&#x02010;mediated Ca<sup>2+</sup> influx increased the likelihood of Ca<sup>2+</sup> overload. Additionally, a meaningful increase of pH<sub>i</sub> was observed at these higher light intensities, adding another level of influence on excitation&#x02013;contraction coupling. Overall, this work provided a detailed analysis of the use of ChR2(H134R) channels in vascular optogenetics, which highlights its potential and identifies the limitations for use in vascular research, including the identification of novel vasodilating drugs.</p></sec><sec id="bph14183-sec-0006"><title>Methods</title><p>An expanded <xref rid="bph14183-sec-0006" ref-type="sec">Methods</xref> section is available in the <xref rid="bph14183-supitem-0001" ref-type="supplementary-material">Supporting Information</xref>.</p><sec id="bph14183-sec-0007"><title>Generation of ChR2(H134R)&#x02010;expressing mice</title><p>All animal care and experimental protocols were in accordance with the UK Home Office regulations (Guidance on the Operation of Animals, Scientific Procedures Act, 1986). The use of transgenic mice was approved by the University Ethics Committee. Animal studies are reported in compliance with the ARRIVE guidelines (Kilkenny <italic>et al</italic>., <xref rid="bph14183-bib-0040" ref-type="ref">2010</xref>; McGrath and Lilley, <xref rid="bph14183-bib-0049" ref-type="ref">2015</xref>).</p><p>Mice expressing ChR2(H134R) tagged with the enhanced yellow fluorescent protein [ChR2(H134R)&#x02010;eYFP] specifically in smooth muscle were generated and termed ChR2(H134R)&#x02010;SM mice. Mice engineered to harbour the ChR2(H134R)&#x02010;eYFP coding sequence within the Gt(ROSA)26Sor locus downstream of a STOP cassette were used as a control. Fuller descriptions of the mouse strains used (from Jackson Laboratories) are given in the <xref rid="bph14183-supitem-0001" ref-type="supplementary-material">Supporting Information</xref>. Mice (maximum six per cage) were housed in a pathogen&#x02010;free environment in Tecniplast Sealsafe IVC cages (floor area 542&#x000a0;cm<sup>2</sup>). Treated Aspen chip and Sizzle&#x02010;Nest bedding and environmental enrichment (such as play tunnels) were present in each cage. Mice were maintained in a 12&#x000a0;h light/dark cycle, in controlled temperatures (20&#x02013;22&#x000b0;C) and fed normal chow and water <italic>ad libitum</italic>. For each genotype, mice of either sex were selected randomly on the day of the experiment. Adult mice aged 8&#x02013;14&#x000a0;weeks were used in this study.</p></sec><sec id="bph14183-sec-0008"><title>Cell fluorescence imaging</title><p>Confocal and epifluorescence microscopy was used to estimate the cellular distribution and degree of expression of ChR2(H134R) in freshly isolated VSMCs (aortic, mesenteric and pulmonary) respectively (Adomaviciene <italic>et al</italic>., <xref rid="bph14183-bib-0002" ref-type="ref">2013</xref>; McCloy <italic>et al</italic>., <xref rid="bph14183-bib-0048" ref-type="ref">2014</xref>).</p></sec><sec id="bph14183-sec-0009"><title>Electrophysiology</title><p>Ionic currents were recorded with the whole&#x02010;cell configuration of the patch&#x02010;clamp technique in isolated VSMCs. The <italic>V</italic>
+<sub><italic>m</italic></sub> was recorded with the perforated patch&#x02010;clamp configuration during current clamp. Current recordings were normalized to cell capacitance to obtain current density (in pA&#x000b7;pF<sup>&#x02212;1</sup>). Only cells with a seal resistance &#x02265;1&#x000a0;G&#x003a9; were considered for analysis. Cells were exposed to pulses of blue light (470&#x000a0;nm wavelength) of 0.01&#x02013;12.1&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup> intensity. Duration of the pulses was 2&#x000a0;s, unless stated otherwise.</p><p>ChR2(H134R) currents were measured at &#x02212;80&#x000a0;mV. The ChR2(H134R) current versus blue light intensity relationship was fitted with the Hill equation of the form:
+<disp-formula id="bph14183-disp-0001"><label>(1)</label><mml:math id="nlm-math-1"><mml:mi>I</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:msub><mml:mi>I</mml:mi><mml:mi>max</mml:mi></mml:msub><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:msup><mml:mfenced open="(" close=")"><mml:mfrac><mml:msub><mml:mi>EL</mml:mi><mml:mn>50</mml:mn></mml:msub><mml:mtext>light intensity</mml:mtext></mml:mfrac></mml:mfenced><mml:mi>h</mml:mi></mml:msup></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:math></disp-formula>where <italic>I</italic> is the steady&#x02010;state ChR2(H134R) current density measured at a given light intensity, <italic>I</italic>
+<sub>max</sub> is the maximal asymptotic current reached, EL<sub>50</sub> is the light intensity causing half&#x02010;maximal current activation and <italic>h</italic> is the slope coefficient. The small current observed in the dark was subtracted offline from the current measured at each light intensity. Thus, <italic>I</italic> represents the ChR2(H134R) blue light&#x02010;activated current.</p><p>The membrane potential (<italic>V</italic>
+<sub><italic>m</italic></sub>) versus light intensity relationship was fitted with a modified Hill equation of the form:
+<disp-formula id="bph14183-disp-0002"><label>(2)</label><mml:math id="nlm-math-2"><mml:msub><mml:mi>V</mml:mi><mml:mi>m</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:msub><mml:mi>V</mml:mi><mml:mtext>rest</mml:mtext></mml:msub><mml:mo>+</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>V</mml:mi><mml:mi>max</mml:mi></mml:msub><mml:mo>&#x02212;</mml:mo><mml:msub><mml:mi>V</mml:mi><mml:mtext>rest</mml:mtext></mml:msub></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:msup><mml:mfenced open="(" close=")"><mml:mfrac><mml:msub><mml:mi>EL</mml:mi><mml:mn>50</mml:mn></mml:msub><mml:mtext>light intensity</mml:mtext></mml:mfrac></mml:mfenced><mml:mi>v</mml:mi></mml:msup></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:math></disp-formula>where <italic>V</italic>
+<sub><italic>m</italic></sub> is the membrane potential, <italic>V</italic>
+<sub>rest</sub> is the resting <italic>V</italic>
+<sub><italic>m</italic></sub> (in the absence of light stimulation), <italic>V</italic>
+<sub>max</sub> is the maximal asymptotic <italic>V</italic>
+<sub><italic>m</italic></sub> reached, EL<sub>50</sub> is the light intensity causing half&#x02010;maximal membrane depolarization and <italic>v</italic> is the slope coefficient.</p><p>The whole&#x02010;cell current density versus voltage relationship for Ca<sub>V</sub> channels was obtained by applying 200&#x000a0;ms pulses from &#x02212;70 to +60&#x000a0;mV in 5&#x000a0;mV steps from a holding potential (<italic>V</italic>
+<sub>hold</sub>) of &#x02212;60&#x000a0;mV. The peak current density was measured for each <italic>V</italic>
+<sub><italic>m</italic></sub> and plotted versus <italic>V</italic>
+<sub><italic>m</italic></sub>. The resulting relationship was fitted with a modified Boltzmann equation of the form:
+<disp-formula id="bph14183-disp-0003"><label>(3)</label><mml:math id="nlm-math-3"><mml:msub><mml:mi>I</mml:mi><mml:mi>p</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:msub><mml:mi>G</mml:mi><mml:mi>max</mml:mi></mml:msub><mml:mo>&#x000d7;</mml:mo><mml:mfrac><mml:mfenced open="(" close=")"><mml:mrow><mml:msub><mml:mi>V</mml:mi><mml:mi>m</mml:mi></mml:msub><mml:mo>&#x02212;</mml:mo><mml:msub><mml:mi>V</mml:mi><mml:mi>rev</mml:mi></mml:msub></mml:mrow></mml:mfenced><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:mo>exp</mml:mo><mml:mfenced open="(" close=")"><mml:mfrac><mml:mrow><mml:msub><mml:mi>V</mml:mi><mml:mi>m</mml:mi></mml:msub><mml:mo>&#x02212;</mml:mo><mml:msub><mml:mi>V</mml:mi><mml:mrow><mml:mn>0.5</mml:mn><mml:mo>,</mml:mo><mml:mi>a</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:msub><mml:mi>s</mml:mi><mml:mi>a</mml:mi></mml:msub></mml:mfrac></mml:mfenced></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:math></disp-formula>where <italic>I</italic>
+<sub><italic>p</italic></sub> is the peak current density, <italic>G</italic>
+<sub>max</sub> is the whole&#x02010;cell Ca<sup>2+</sup> conductance, <italic>V</italic>
+<sub>rev</sub> is the whole&#x02010;cell current reversal potential, <italic>V</italic>
+<sub>0.5,<italic>a</italic></sub> is the midpoint voltage for current activation and <italic>s</italic>
+<sub><italic>a</italic></sub> is the <italic>e</italic>&#x02010;fold slope.</p><p>Steady&#x02010;state inactivation properties were assessed by applying 1.5&#x000a0;s conditioning prepulses from &#x02212;90 to +40&#x000a0;mV in 10&#x000a0;mV steps. Each prepulse was followed by a 200&#x000a0;ms test pulse to +10&#x000a0;mV. The <italic>V</italic>
+<sub>hold</sub> was &#x02212;60&#x000a0;mV. The peak current (<italic>I</italic>
+<sub><italic>p</italic></sub>) in response to each test pulse was measured, normalized for the maximal <italic>I</italic>
+<sub><italic>p</italic></sub> and plotted versus the <italic>V</italic>
+<sub><italic>m</italic></sub> of the prepulse. The resulting steady&#x02010;state inactivation was fitted with a Boltzmann equation of the form:
+<disp-formula id="bph14183-disp-0004"><label>(4)</label><mml:math id="nlm-math-4"><mml:msub><mml:mi>I</mml:mi><mml:mi>p</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:msub><mml:mi>I</mml:mi><mml:mi>max</mml:mi></mml:msub><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:mo>exp</mml:mo><mml:mfenced open="(" close=")"><mml:mfrac><mml:mrow><mml:msub><mml:mi>V</mml:mi><mml:mi>m</mml:mi></mml:msub><mml:mo>&#x02212;</mml:mo><mml:msub><mml:mi>V</mml:mi><mml:mrow><mml:mn>0.5</mml:mn><mml:mo>,</mml:mo><mml:mi>h</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:msub><mml:mi>s</mml:mi><mml:mi>h</mml:mi></mml:msub></mml:mfrac></mml:mfenced></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:math></disp-formula>where <italic>I</italic>
+<sub>max</sub> is the maximal current and <italic>V</italic>
+<sub>0.5,<italic>h</italic></sub> is the midpoint voltage for current inactivation and <italic>s</italic>
+<sub><italic>h</italic></sub> is the <italic>e</italic>&#x02010;fold slope.</p></sec><sec id="bph14183-sec-0010"><title>Myography</title><p>Contraction of isolated artery (aortic, mesenteric and pulmonary) rings was measured using a small vessel wire myograph (model 420A, Danish Myo Technology, Aarhus, Denmark). Tension measurements (in mN) were normalized for the artery ring length (in mm) to enable comparison of data obtained from rings of slightly different length. Tissue was stimulated with blue light of various intensities (0.02&#x02013;7.21&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup>). Duration of the pulses was 7&#x000a0;min, unless stated otherwise.</p><p>The tension versus blue light intensity relationships in the absence of PE were fitted with the Hill equation of the form:
+<disp-formula id="bph14183-disp-0005"><label>(5)</label><mml:math id="nlm-math-5"><mml:mi>T</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:msub><mml:mi>T</mml:mi><mml:mi mathvariant="italic">ss</mml:mi></mml:msub><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:msup><mml:mfenced open="(" close=")"><mml:mfrac><mml:msub><mml:mi>EL</mml:mi><mml:mn>50</mml:mn></mml:msub><mml:mtext>light intensity</mml:mtext></mml:mfrac></mml:mfenced><mml:mi>s</mml:mi></mml:msup></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:math></disp-formula>where <italic>T</italic> is the tension (normalized for length of the artery ring) measured at a given light intensity, <italic>T</italic>
+<sub><italic>ss</italic></sub> is the maximal asymptotic tension reached, EL<sub>50</sub> is the light intensity causing half&#x02010;maximal tension and <italic>s</italic> is the slope coefficient.</p><p>As outlined in the main text and shown in Figure&#x000a0;<xref rid="bph14183-fig-0007" ref-type="fig">7</xref>, the response of isolated aortic rings to phenylephrine was characterized by a rapid contraction followed by a transient relaxation and a slow increase in tension. Thus, phenylephrine did not induce a stable level of contraction. To account for this changing level of tension, in the experiments conducted in the presence of phenylephrine (Figure&#x000a0;<xref rid="bph14183-fig-0004" ref-type="fig">4</xref>), the effect of each light stimulation on artery ring tension was expressed relative to the mean of the tension measured immediately before and after a given light exposure and the average data fitted using Equation&#x000a0;<xref rid="bph14183-disp-0005" ref-type="disp-formula">(5)</xref>.</p><p>Equation&#x000a0;<xref rid="bph14183-disp-0005" ref-type="disp-formula">(5)</xref> was also used to quantify the tension versus extracellular KCl concentration ([KCl]<sub>e</sub>) (Supporting Information Figure&#x000a0;<xref rid="bph14183-supitem-0001" ref-type="supplementary-material">S1</xref>) or noradrenaline concentration ([NA]) (Supporting Information&#x000a0;<xref rid="bph14183-supitem-0001" ref-type="supplementary-material">Figure S3</xref>) relationships. In these cases, the independent variable was [KCl]<sub>e</sub> or [NA], and EL<sub>50</sub> was substituted with EC<sub>50</sub>, the [KCl]<sub>e</sub> or [NA] causing half&#x02010;maximal response.</p></sec><sec id="bph14183-sec-0011"><title>pH imaging</title><p>Freshly isolated aortic VSMCs were loaded with cSNARF1 (10&#x000a0;&#x003bc;M of its AM&#x02010;ester for 10&#x000a0;min) and imaged for pH ratiometrically (Zeiss LSM confocal system; excitation 555&#x000a0;nm, emission collected simultaneously at 580 and 640&#x000a0;nm). Ratio was converted to pH<sub>i</sub> using a calibration curve determined in separate experiments by nigericin clamping of pH<sub>i</sub>. pH<sub>i</sub> was measured before and after 7&#x000a0;min exposure of blue light of various intensities (0.03&#x02013;2.1&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup>).</p></sec><sec id="bph14183-sec-0012"><title>Blue light stimulation systems for optogenetics</title><p>In patch&#x02010;clamp experiments, optical stimulation of ChR2(H134R)&#x02010;expressing VSMCs was performed using an optoLED system (Cairn Research, Kent, UK), comprising of a 3.5&#x000a0;W blue light (470&#x000a0;nm)&#x02010;emitting diode (LED) mounted on the rear port of an inverted microscope (IX51, Olympus, Southend&#x02010;on&#x02010;Sea, UK). The optoLED system was controlled by GePulse software (Dr M. Pusch, CNR, Italy) with an analogue&#x02010;to&#x02010;digital and digital&#x02010;to&#x02010;analogue converter (USB&#x02010;6221; National Instruments, Newbury, UK).</p><p>For myography experiments, blue light was provided by a 5&#x000a0;W LED, controlled by a power supply made in&#x02010;house (Mr M. Preston, Dept. Pharmacology, University of Oxford) and delivered through a glass window positioned at the bottom of the myography bath chambers. Intensity and duration of the stimulus were digitally controlled. In pH imaging experiments, the same LED power supply system was used, and blue light was delivered to the sample through a liquid light guide with a core diameter of 3.0&#x000a0;mm (Newport, Irvine, CA, USA), reaching the sample on the microscope stage perpendicularly from above.</p><p>Light intensity (in mW&#x000b7;mm<sup>&#x02212;2</sup>) was measured at the sample (cell or tissue) site using a Newport digital optical power meter (Model 843, Newport), with a sensor area of 0.4&#x000a0;&#x000d7;&#x000a0;0.4&#x000a0;cm, with wavelength set at 470&#x000a0;nm. Calibration performed at the beginning of the experiments confirmed that the LED current (in the range 0&#x02013;1.0&#x000a0;A) was linearly related to the illumination wattage at the sample plane.</p></sec><sec id="bph14183-sec-0013"><title>Blinding</title><p>It was not feasible for the operator to be blinded to the genotype of the mice used during each individual experiment as the absence or presence of the effects assessed (such as the ionic current or force of contraction), immediately revealed the genotype of the sample under examination. The methods of analysis were established during study design, and prior to execution of the experiments, to remove possible operator bias.</p></sec><sec id="bph14183-sec-0014"><title>Data and statistical analysis</title><p>The data and statistical analysis in this study comply with the recommendations on experimental design and analysis in pharmacology (Curtis <italic>et al</italic>., <xref rid="bph14183-bib-0023" ref-type="ref">2015</xref>). Multiple measurements on samples derived from a single animal (such as isolated cells or vessel fragments) were considered as non&#x02010;independent samples. Thus, we averaged the results per animal to obtain a single value. Statistical analyses were therefore carried out on the complete data set of independent experiments. The number of animals used was &#x02265;5 in each case. Results are expressed as mean&#x000a0;&#x000b1;&#x000a0;SEM of <italic>N</italic> (number of independent experiments, i.e. number of animals). The number of total observations (i.e. numbers of vessels or cells) is reported in the figure legends and tables, and it is denoted by the letter <italic>n</italic>. Statistical significance was determined with two&#x02010;tailed unpaired <italic>t</italic>&#x02010;test or one&#x02010;way ANOVA with Bonferroni's <italic>post hoc</italic> test, as appropriate. For all statistical tests, <italic>P</italic>&#x02010;values &#x0003c;0.05 were considered significant. SPSS (version 22; SPSS Inc., Chicago, IL, USA) or Excel (2013 Edition, Microsoft, Redmond, WA, USA) were used for statistical analysis.</p></sec><sec id="bph14183-sec-0035"><title>Materials</title><p>Compounds used in the experiments described here were supplied as follows: nifedipine, noradrenaline, phenylephrine and <ext-link ext-link-type="uri" xlink:href="http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=4303">http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=4303</ext-link> by Sigma<italic>&#x02010;</italic>Aldrich (Gillingham, Dorset, UK); <ext-link ext-link-type="uri" xlink:href="http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=2433">http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=2433</ext-link>), Ani9, <ext-link ext-link-type="uri" xlink:href="http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=2330">http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=2330</ext-link> and MONNA by Tocris (Abingdon, Oxfordshire, UK).</p></sec><sec id="bph14183-sec-0015"><title>Nomenclature of targets and ligands</title><p>Key protein targets and ligands in this article are hyperlinked to corresponding entries in <ext-link ext-link-type="uri" xlink:href="http://www.guidetopharmacology.org/">http://www.guidetopharmacology.org/</ext-link>, the common portal for data from the IUPHAR/BPS Guide to PHARMACOLOGY (Harding <italic>et al</italic>., <xref rid="bph14183-bib-0035" ref-type="ref">2018</xref>), and are permanently archived in the Concise Guide to PHARMACOLOGY 2017/18 (Alexander <italic>et al</italic>., <xref rid="bph14183-bib-0004" ref-type="ref">2017a</xref>,<xref rid="bph14183-bib-0005" ref-type="ref">b</xref>,<xref rid="bph14183-bib-0006" ref-type="ref">c</xref>).</p></sec></sec><sec id="bph14183-sec-0016"><title>Results</title><sec id="bph14183-sec-0017"><title>ChR2(H134R) expression and current density in VSMCs</title><p>To assess the utility of vascular optogenetics in different vascular beds, we determined the degree of ChR2(H134R) expression in various artery types obtained from ChR2(H134R)&#x02010;SM mice, as this may influence the arterial sensitivity to blue light stimuli. VSMCs (from aortic, mesenteric and pulmonary arteries) were isolated from control and ChR2(H134R)&#x02010;SM mice and imaged confocally to assess ChR2(H134R) distribution within the cell (Figure&#x000a0;<xref rid="bph14183-fig-0001" ref-type="fig">1</xref>A&#x02013;C). VSMCs obtained from ChR2(H134R)&#x02010;SM mice had prominent eYFP signal demonstrating expression of the channel construct (Figure&#x000a0;<xref rid="bph14183-fig-0001" ref-type="fig">1</xref>A). The fluorescence signal was primarily detected in the plasma membrane of VSMCs (Figure&#x000a0;<xref rid="bph14183-fig-0001" ref-type="fig">1</xref>B), as indicated by the eYFP intensity profiles (along the solid white lines in Figure&#x000a0;<xref rid="bph14183-fig-0001" ref-type="fig">1</xref>A). In contrast, no detectable fluorescence was identified in VSMCs isolated from control mice (Figure&#x000a0;<xref rid="bph14183-fig-0001" ref-type="fig">1</xref>A). To obtain a measure of the total ChR2(H134R) expression in the various VSMCs types, the average eYFP fluorescence intensity was assessed by epifluorescence microscopy and normalized for cell area (fluorescence density). The fluorescence density in mesenteric VSMCs was about ~0.5 that of the aortic VSMCs, while the intensity of pulmonary artery VSMCs was indistinguishable from that of the aortic VSMCs (Figure&#x000a0;<xref rid="bph14183-fig-0001" ref-type="fig">1</xref>C).</p><fig fig-type="Figure" xml:lang="en" id="bph14183-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Expression of ChR2(H134R) channels and current density in isolated VSMCs. (A) Representative confocal images of freshly isolated aortic, mesenteric and pulmonary VSMCs obtained from control and ChR2(H134R)&#x02010;SM mice, as indicated. Similar fluorescence distribution was observed in cells obtained from a total of five mice. (B) Normalized fluorescence intensity of cell cross sections of aortic, mesenteric and pulmonary VSMCs (cross&#x02010;section location indicated by white bars in A). (C) Average fluorescence density of aortic (<italic>N</italic>&#x000a0;=&#x000a0;5, <italic>n</italic>&#x000a0;=&#x000a0;61), mesenteric (<italic>N</italic>&#x000a0;=&#x000a0;5, <italic>n</italic>&#x000a0;=&#x000a0;49) and pulmonary artery (<italic>N</italic>&#x000a0;=&#x000a0;5, <italic>n</italic>&#x000a0;=&#x000a0;64) VSMCs isolated from ChR2(H134R)&#x02010;SM. (D) Whole&#x02010;cell currents recorded from aortic, mesenteric and pulmonary artery VSMCs isolated from control and ChR2(H134R)&#x02010;SM mice, as indicated. Currents were recorded at &#x02212;80&#x000a0;mV. VSMCs isolated from control and ChR2(H134R)&#x02010;SM mice were exposed to periods (2&#x000a0;s) of blue light of various intensities, as indicated by the horizontal blue bars. The dashed lines represent the level of current in the absence of light stimulation. (E) Mean current density versus blue light intensity relationships for VSMCs obtained from control aortic (<italic>N</italic>&#x000a0;=&#x000a0;5, <italic>n</italic>&#x000a0;=&#x000a0;5), mesenteric (<italic>N</italic>&#x000a0;=&#x000a0;5, <italic>n</italic>&#x000a0;=&#x000a0;10) and pulmonary artery (<italic>N</italic>&#x000a0;=&#x000a0;5, <italic>n</italic>&#x000a0;=&#x000a0;6) VSMCs or ChR2(H134R)&#x02010;SM aortic (<italic>N</italic>&#x000a0;=&#x000a0;10, <italic>n</italic>&#x000a0;=&#x000a0;18), mesenteric (<italic>N</italic>&#x000a0;=&#x000a0;6, <italic>n</italic>&#x000a0;=&#x000a0;16) and pulmonary artery (<italic>N</italic>&#x000a0;=&#x000a0;7, <italic>n</italic>&#x000a0;=&#x000a0;23) VSMCs. The curves through the open symbols (control) were drawn by the eye. The curves through the filled symbols represent the best fit of the data with Equation&#x000a0;<xref rid="bph14183-disp-0001" ref-type="disp-formula">(1)</xref>. <sup>*</sup>
+<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05, significantly different as indicated; one&#x02010;way ANOVA.</p></caption><graphic id="nlm-graphic-1" xlink:href="BPH-175-2028-g001"/></fig><p>To test if differences in ChR2(H134R) expression affected the current density, whole&#x02010;cell currents were recorded from aortic, mesenteric and pulmonary VSMCs isolated from ChR2(H134R)&#x02010;SM mice. As observed with ChR2(H134R) currents in heterologous expression systems (Nagel <italic>et al</italic>., <xref rid="bph14183-bib-0051" ref-type="ref">2005</xref>; Lin <italic>et al</italic>., <xref rid="bph14183-bib-0044" ref-type="ref">2009</xref>; Berndt <italic>et al</italic>., <xref rid="bph14183-bib-0012" ref-type="ref">2011</xref>), ChR2(H134R) currents in isolated VSMCs were characterized by a rapid activation followed by a rapid inactivation to a new steady&#x02010;state level (Figure&#x000a0;<xref rid="bph14183-fig-0001" ref-type="fig">1</xref>D). The steady&#x02010;state current increased as light intensity was increased. The fit of the steady&#x02010;state current density versus blue light intensity relationships with Equation&#x000a0;<xref rid="bph14183-disp-0001" ref-type="disp-formula">(1)</xref> yielded a maximal asymptotic current (<italic>I</italic>
+<sub>max</sub>) of approximately &#x02212;18, &#x02212;9 and &#x02212;22&#x000a0;pA&#x000b7;pF<sup>&#x02212;1</sup> for aortic, mesenteric and pulmonary VSMCs respectively (Table&#x000a0;<xref rid="bph14183-tbl-0001" ref-type="table-wrap">1</xref>). The light intensity causing half&#x02010;maximal effect (EL<sub>50</sub>) was ~0.3&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup>, and the slope factor (<italic>h</italic>) was ~0.6&#x02013;0.8 in each case (Table&#x000a0;<xref rid="bph14183-tbl-0001" ref-type="table-wrap">1</xref>). Thus, different expression levels of ChR2(H134R) resulted in currents with different amplitudes (<italic>I</italic>
+<sub>max</sub>), but of similar sensitivity to blue light, quantified in terms of parameters EL<sub>50</sub> and <italic>h</italic>. In contrast, there was essentially no current increase observed in VSMCs obtained from control mice. For instance, the current in the presence of 12.1&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup> blue light was 0.1 &#x000b1;&#x000a0;0.2&#x000a0;pA&#x000b7;pF<sup>&#x02212;1</sup> (<italic>N</italic>&#x000a0;=&#x000a0;5, aortic), 0.1&#x000a0;&#x000b1;&#x000a0;0.1&#x000a0;pA&#x000b7;pF<sup>&#x02212;1</sup> (<italic>N</italic>&#x000a0;=&#x000a0;5, mesenteric) and 0.1&#x000a0;&#x000b1;&#x000a0;0.1&#x000a0;pA&#x000b7;pF<sup>&#x02212;1</sup> (<italic>N</italic>&#x000a0;=&#x000a0;5, pulmonary) in VSMCs obtained from control mice.</p><table-wrap id="bph14183-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Parameters for the current versus blue light intensity relationships for VSMCs obtained from ChR2(H134R)&#x02010;SM mice</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th rowspan="2" style="border-bottom:solid 1px #000000" align="center" valign="bottom" colspan="1"/><th colspan="3" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">ChR2(H134R)&#x02010;SM mice</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1">Aorta</th><th align="center" valign="bottom" rowspan="1" colspan="1">Mesenteric artery</th><th align="center" valign="bottom" rowspan="1" colspan="1">Pulmonary artery</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">EL<sub>50</sub> (mW&#x000b7;mm<sup>&#x02212;2</sup>)</td><td align="char" valign="top" rowspan="1" colspan="1">0.31&#x000a0;&#x000b1;&#x000a0;0.03 (<italic>N</italic>&#x000a0;=&#x000a0;10, <italic>n</italic>&#x000a0;=&#x000a0;18)</td><td align="char" valign="top" rowspan="1" colspan="1">0.32&#x000a0;&#x000b1;&#x000a0;0.02 (<italic>N</italic>&#x000a0;=&#x000a0;6, <italic>n</italic>&#x000a0;=&#x000a0;16)</td><td align="char" valign="top" rowspan="1" colspan="1">0.37&#x000a0;&#x000b1;&#x000a0;0.04 (<italic>N</italic>&#x000a0;=&#x000a0;7, <italic>n</italic>&#x000a0;=&#x000a0;23)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>h</italic>
+</td><td align="char" valign="top" rowspan="1" colspan="1">0.8&#x000a0;&#x000b1;&#x000a0;0.1 (<italic>N</italic>&#x000a0;=&#x000a0;10, <italic>n</italic>&#x000a0;=&#x000a0;18)</td><td align="char" valign="top" rowspan="1" colspan="1">0.6&#x000a0;&#x000b1;&#x000a0;0.1 (<italic>N</italic>&#x000a0;=&#x000a0;6, <italic>n</italic>&#x000a0;=&#x000a0;16)</td><td align="char" valign="top" rowspan="1" colspan="1">0.8&#x000a0;&#x000b1;&#x000a0;0.1 (<italic>N</italic>&#x000a0;=&#x000a0;7, <italic>n</italic>&#x000a0;=&#x000a0;23)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>I</italic>
+<sub>max</sub> (pA&#x000b7;pF<sup>&#x02212;1</sup>)</td><td align="char" valign="top" rowspan="1" colspan="1">&#x02013;18&#x000a0;&#x000b1;&#x000a0;1 (<italic>N</italic>&#x000a0;=&#x000a0;10, <italic>n</italic>&#x000a0;=&#x000a0;18)</td><td align="char" valign="top" rowspan="1" colspan="1">&#x02013;9&#x000a0;&#x000b1;&#x000a0;2 (<italic>N</italic>&#x000a0;=&#x000a0;6, <italic>n</italic>&#x000a0;=&#x000a0;16)</td><td align="char" valign="top" rowspan="1" colspan="1">&#x02212;22&#x000a0;&#x000b1;&#x000a0;2 (<italic>N</italic>&#x000a0;=&#x000a0;7, <italic>n</italic>&#x000a0;=&#x000a0;23)</td></tr></tbody></table><table-wrap-foot><fn id="bph14183-note-0001"><p>Parameters (EL<sub>50</sub>, <italic>h</italic> and <italic>I</italic>
+<sub>max</sub>) obtained from the Hill fit (Equation&#x000a0;<xref rid="bph14183-disp-0001" ref-type="disp-formula">(1)</xref>) of the current versus light intensity relationship for aortic, pulmonary and mesenteric VSMCs obtained from ChR2(H134R)&#x02010;SM mice.</p></fn></table-wrap-foot></table-wrap></sec><sec id="bph14183-sec-0018"><title>Relationship between blue light intensity and tension in isolated artery rings</title><p>To examine the precise relationship between the ChR2(H134R) current amplitude and changes in arterial tone, isometric tension measurements were performed in isolated aortic, mesenteric and pulmonary artery rings obtained from ChR2(H134R)&#x02010;SM mice. Isolated artery rings were exposed to periods (7&#x000a0;min) of blue light illumination of various intensities. The tension of the arterial rings increased as the blue light intensity increased (Figure&#x000a0;<xref rid="bph14183-fig-0002" ref-type="fig">2</xref>A, B). The maximal level of contraction was reached in blue light intensities of &#x0003e;0.7&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup> in aortic and pulmonary artery rings, whereas the mesenteric artery rings required blue light &#x0003e;2 mW&#x000b7;mm<sup>&#x02212;2</sup> to achieve maximal contraction. The fit of the tension versus blue light intensity relationships with Equation&#x000a0;<xref rid="bph14183-disp-0005" ref-type="disp-formula">(5)</xref> yielded maximal tension (<italic>T</italic>
+<sub><italic>ss</italic></sub>) of ~4.0, ~0.8 and ~1.0&#x000a0;mN&#x000b7;mm<sup>&#x02212;1</sup> for aortic, mesenteric and pulmonary artery rings respectively. The EL<sub>50</sub> was ~0.1&#x02013;0.3&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup>, and the slope factor (<italic>s</italic>) was ~1.1&#x02013;1.5 in each case (Table&#x000a0;<xref rid="bph14183-tbl-0002" ref-type="table-wrap">2</xref>). Light stimulation produced a very small increase in tension in artery rings obtained from control mice, as the contraction measured in the highest blue light intensity stimulation (7.2 mW&#x000b7;mm<sup>&#x02212;2</sup>) was 0.1&#x000a0;&#x000b1;&#x000a0;0.1&#x000a0;mN&#x000b7;mm<sup>&#x02212;1</sup> (<italic>N</italic>&#x000a0;=&#x000a0;5) for control aortic, mesenteric and pulmonary artery rings.</p><fig fig-type="Figure" xml:lang="en" id="bph14183-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Effects of blue light on the tension of isolated artery rings. (A) Isometric tension recordings obtained from aortic, mesenteric and pulmonary artery rings isolated from control and ChR2(H134R)&#x02010;SM mice, as indicated. Artery rings were exposed to periods (7&#x000a0;min) of blue light of various intensities, as indicated by horizontal blue bars. Dashed lines represent baseline tension level. (B) Mean tension versus blue light intensity relationships for (i) control aortic (<italic>N</italic>&#x000a0;=&#x000a0;5, <italic>n</italic>&#x000a0;=&#x000a0;10), mesenteric (<italic>N</italic>&#x000a0;=&#x000a0;5, <italic>n</italic>&#x000a0;=&#x000a0;6) and pulmonary artery (<italic>N</italic>&#x000a0;=&#x000a0;5, <italic>n</italic>&#x000a0;=&#x000a0;6) rings or (ii) aortic (<italic>N</italic>&#x000a0;=&#x000a0;32, <italic>n</italic>&#x000a0;=&#x000a0;36), mesenteric (<italic>N</italic>&#x000a0;=&#x000a0;10, <italic>n</italic>&#x000a0;=&#x000a0;15) and pulmonary artery (<italic>N</italic>&#x000a0;=&#x000a0;5, <italic>n</italic>&#x000a0;=&#x000a0;9) artery rings obtained from ChR2(H134R)&#x02010;SM mice, as indicated. The curves through open symbols (control) were drawn by the eye. The curves through the filled symbols represent the best fit of the data with Equation&#x000a0;<xref rid="bph14183-disp-0005" ref-type="disp-formula">(5)</xref>. (C) Isometric tension recordings obtained from isolated aortic rings in response to periods of exposure to blue light (0.23&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup>) of different durations (2&#x000a0;s, 1&#x000a0;min and 7&#x000a0;min) or periods of exposure (1 or 7&#x000a0;min) to PSS supplemented with 50&#x000a0;mM KCl, as indicated by the horizontal bars. Traces are represented in different colours for clarity. (D) Mean tension developed by isolated aortic rings in response to 0.23&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup> blue light or 50&#x000a0;mM KCl for periods of different duration (<italic>N</italic>&#x000a0;=&#x000a0;5, <italic>n</italic>&#x000a0;=&#x000a0;10 in each case). <sup>*</sup>
+<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05, significantly different as indicated; one&#x02010;way ANOVA.</p></caption><graphic id="nlm-graphic-3" xlink:href="BPH-175-2028-g002"/></fig><table-wrap id="bph14183-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Parameters for the tension versus blue light intensity relationships for artery rings obtained from ChR2(H134R)&#x02010;SM mice</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th rowspan="2" style="border-bottom:solid 1px #000000" align="center" valign="bottom" colspan="1"/><th colspan="3" align="center" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">ChR2(H134R)&#x02010;SM mice</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1">Aorta</th><th align="center" valign="bottom" rowspan="1" colspan="1">Mesenteric artery</th><th align="center" valign="bottom" rowspan="1" colspan="1">Pulmonary artery</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">EL<sub>50</sub> (mW&#x000b7;mm<sup>&#x02212;2</sup>)</td><td align="char" valign="top" rowspan="1" colspan="1">0.08&#x000a0;&#x000b1;&#x000a0;0.01 (<italic>N</italic>&#x000a0;=&#x000a0;32, <italic>n</italic>&#x000a0;=&#x000a0;36)</td><td align="char" valign="top" rowspan="1" colspan="1">0.25&#x000a0;&#x000b1;&#x000a0;0.05 (<italic>N</italic>&#x000a0;=&#x000a0;10, <italic>n</italic>&#x000a0;=&#x000a0;15)</td><td align="char" valign="top" rowspan="1" colspan="1">0.06&#x000a0;&#x000b1;&#x000a0;0.01 (<italic>N</italic>&#x000a0;=&#x000a0;5, <italic>n</italic>&#x000a0;=&#x000a0;9)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>s</italic>
+</td><td align="char" valign="top" rowspan="1" colspan="1">1.5&#x000a0;&#x000b1;&#x000a0;0.1 (<italic>N</italic>&#x000a0;=&#x000a0;32, <italic>n</italic>&#x000a0;=&#x000a0;36)</td><td align="char" valign="top" rowspan="1" colspan="1">1.1&#x000a0;&#x000b1;&#x000a0;0.1 (<italic>N</italic>&#x000a0;=&#x000a0;10, <italic>n</italic>&#x000a0;=&#x000a0;15)</td><td align="char" valign="top" rowspan="1" colspan="1">1.4&#x000a0;&#x000b1;&#x000a0;0.1 (<italic>N</italic>&#x000a0;=&#x000a0;5, <italic>n</italic>&#x000a0;=&#x000a0;9)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>T</italic>
+<sub><italic>ss</italic></sub> (mN&#x000b7;mm<sup>&#x02212;1</sup>)</td><td align="char" valign="top" rowspan="1" colspan="1">4.0&#x000a0;&#x000b1;&#x000a0;0.1 (<italic>N</italic>&#x000a0;=&#x000a0;32, <italic>n</italic>&#x000a0;=&#x000a0;36)</td><td align="char" valign="top" rowspan="1" colspan="1">0.8&#x000a0;&#x000b1;&#x000a0;0.1 (<italic>N</italic>&#x000a0;=&#x000a0;10, <italic>n</italic>&#x000a0;=&#x000a0;15)</td><td align="char" valign="top" rowspan="1" colspan="1">1.0&#x000a0;&#x000b1;&#x000a0;0.1 (<italic>N</italic>&#x000a0;=&#x000a0;5, <italic>n</italic>&#x000a0;=&#x000a0;9)</td></tr></tbody></table><table-wrap-foot><fn id="bph14183-note-0002"><p>Parameters (EL<sub>50</sub>, <italic>s</italic> and <italic>T</italic>
+<sub>max</sub>) obtained from the Hill fit (Equation&#x000a0;<xref rid="bph14183-disp-0005" ref-type="disp-formula">(5)</xref>) of the tension versus blue light intensity relationship for aortic, mesenteric and pulmonary artery rings obtained from ChR2(H134R)&#x02010;SM mice.</p></fn></table-wrap-foot></table-wrap><p>We next compared the extent of blue light&#x02010;induced contraction with the contraction triggered by elevation of [KCl]<sub>e</sub> up to 100&#x000a0;mM. The maximal level of blue light&#x02010;induced contraction for aortic, mesenteric and pulmonary artery rings obtained from ChR2(H134R)&#x02010;SM mice was ~105, ~70 and ~105% of the maximal contraction obtained in response to high [KCl]<sub>e</sub> (Supporting Information Figure&#x000a0;<xref rid="bph14183-supitem-0001" ref-type="supplementary-material">S1</xref>). Thus, all artery types tested demonstrated maximal or near&#x02010;maximal tension at the highest levels of ChR2(H134R) activation.</p></sec><sec id="bph14183-sec-0019"><title>Relationship between duration of blue light exposure and tension of isolated artery rings</title><p>Experiments shown in Figure&#x000a0;<xref rid="bph14183-fig-0002" ref-type="fig">2</xref>A illustrate that prolonged exposure (7&#x000a0;min) of isolated artery rings to blue light produced stable contractions. We next tested if shorter pulses of blue light could initiate contraction of isolated artery rings or whether the blue light stimulation had to be maintained in order to achieve steady&#x02010;state contraction. Aortic rings isolated from ChR2(H134R)&#x02010;SM mice were exposed to light of 0.23&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup> for various time periods (Figure&#x000a0;<xref rid="bph14183-fig-0002" ref-type="fig">2</xref>C). This light intensity was expected to shift the <italic>V</italic>
+<sub><italic>m</italic></sub> to approximately &#x02212;25&#x000a0;mV, based on the current&#x02010;clamp recordings in isolated aortic VSMCs described below. The tension of ChR2(H134R)&#x02010;SM aortic rings increased rapidly in response to light stimulation, but removal of the stimulus resulted in an immediate onset of relaxation. Light of 0.23&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup> applied for 2&#x000a0;s, 1&#x000a0;min or 7&#x000a0;min resulted in an increase in tension of 0.7&#x000a0;&#x000b1;&#x000a0;0.1&#x000a0;mN&#x000b7;mm<sup>&#x02212;1</sup> (<italic>N</italic>&#x000a0;=&#x000a0;5), 2.0&#x000a0;&#x000b1;&#x000a0;0.2&#x000a0;mN&#x000b7;mm<sup>&#x02212;1</sup> (<italic>N</italic>&#x000a0;=&#x000a0;5) and 3.3&#x000a0;&#x000b1;&#x000a0;0.3&#x000a0;mN&#x000b7;mm<sup>&#x02212;1</sup> (<italic>N</italic>&#x000a0;=&#x000a0;5) respectively (Figure&#x000a0;<xref rid="bph14183-fig-0002" ref-type="fig">2</xref>D).</p><p>To determine if the ChR2(H134R)&#x02010;mediated contraction was directly linked to <italic>V</italic>
+<sub><italic>m</italic></sub> depolarization, we compared the extent of contraction caused by ChR2(H134R) opening with the contraction caused by elevation of [KCl]<sub>e</sub>. The solution was supplemented with 50&#x000a0;mM KCl, as this was expected to produce <italic>V</italic>
+<sub><italic>m</italic></sub> depolarization to approximately &#x02212;25&#x000a0;mV (Nelson and Quayle, <xref rid="bph14183-bib-0054" ref-type="ref">1995</xref>; Aidley, <xref rid="bph14183-bib-0003" ref-type="ref">1998</xref>). Aortic rings were exposed to elevated [KCl]<sub>e</sub> for 1 or 7&#x000a0;min. Note that, in these experiments, solution exchange in the myography chamber required ~1&#x000a0;s and thus, KCl application for 2&#x000a0;s was not attempted. Application of 50&#x000a0;mM KCl for 1 or 7&#x000a0;min led to an increase in artery tension to 2.2&#x000a0;&#x000b1;&#x000a0;0.2&#x000a0;mN&#x000b7;mm<sup>&#x02212;1</sup> (<italic>N</italic>&#x000a0;=&#x000a0;5) and 3.4&#x000a0;&#x000b1;&#x000a0;0.4&#x000a0;mN&#x000b7;mm<sup>&#x02212;1</sup> (<italic>N</italic>&#x000a0;=&#x000a0;5), respectively. Washout with PSS resulted in immediate onset of relaxation. In addition to the comparable levels of contraction achieved, the time course of blue light&#x02010;induced and KCl&#x02010;induced contractions was very similar, and each followed a double exponential time course, with a fast (<italic>&#x003c4;</italic>
+<sub><italic>f</italic></sub>) and slow (<italic>&#x003c4;</italic>
+<sub><italic>s</italic></sub>) component. These components were quantifiable during the long (7&#x000a0;min) stimulations. KCl stimulation was associated with <italic>&#x003c4;</italic>
+<sub><italic>f</italic></sub> of 7.7&#x000a0;&#x000b1;&#x000a0;1.4&#x000a0;s (<italic>N</italic>&#x000a0;=&#x000a0;5) and a <italic>&#x003c4;</italic>
+<sub><italic>s</italic></sub> of 122&#x000a0;&#x000b1;&#x000a0;16&#x000a0;s (<italic>N</italic>&#x000a0;=&#x000a0;5), whereas light stimulation was characterized by <italic>&#x003c4;</italic>
+<sub><italic>f</italic></sub> of 5.0&#x000a0;&#x000b1;&#x000a0;0.7&#x000a0;s (<italic>N</italic>&#x000a0;=&#x000a0;5) and <italic>&#x003c4;</italic>
+<sub><italic>s</italic></sub> of 117&#x000a0;&#x000b1;&#x000a0;19&#x000a0;s (<italic>N</italic>&#x000a0;=&#x000a0;5). These experiments showed that in agreement with the well&#x02010;established contractile effect of elevated [KCl]<sub>e</sub>, blue light stimulation also needed to be continuously maintained in order to sustain aortic smooth muscle contraction.</p></sec><sec id="bph14183-sec-0020"><title>Effect of ChR2(H134R) activation on the <italic>V</italic>
+<sub><italic>m</italic></sub> of isolated VSMCs</title><p>As outlined in the previous section, changes in arterial tone are expected to be linked to changes in <italic>V</italic>
+<sub><italic>m</italic></sub> (Nelson <italic>et al</italic>., <xref rid="bph14183-bib-0053" ref-type="ref">1990</xref>). To quantitatively define the effects of ChR2(H134R) on the <italic>V</italic>
+<sub><italic>m</italic></sub> of aortic VSMC, the perforated&#x02010;patch configuration in current&#x02010;clamp mode was used. The resting <italic>V</italic>
+<sub><italic>m</italic></sub> of ChR2(H134R)&#x02010;SM aortic VSMCs was &#x02212;40.2&#x000a0;&#x000b1;&#x000a0;1.6&#x000a0;mV (<italic>N</italic>&#x000a0;=&#x000a0;13), which was not significantly different from the resting <italic>V</italic>
+<sub><italic>m</italic></sub> of VSMCs obtained from control mice (&#x02212;42.2&#x000a0;&#x000b1;&#x000a0;2.2&#x000a0;mV, <italic>N</italic>&#x000a0;=&#x000a0;5) (Figure&#x000a0;<xref rid="bph14183-fig-0003" ref-type="fig">3</xref>A, B). In response to light stimulations of up to 12.1&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup>, the membrane depolarized to &#x02212;21.5&#x000a0;&#x000b1;&#x000a0;1.3&#x000a0;mV (<italic>N</italic>&#x000a0;=&#x000a0;11) in aortic VSMCs isolated from ChR2(H134R)&#x02010;SM mice (Figure&#x000a0;<xref rid="bph14183-fig-0003" ref-type="fig">3</xref>). Cessation of light stimulation resulted in a prompt return to resting <italic>V</italic>
+<sub><italic>m</italic></sub> (Figure&#x000a0;<xref rid="bph14183-fig-0003" ref-type="fig">3</xref>A). The fit of the <italic>V</italic>
+<sub><italic>m</italic></sub> versus light intensity relationship with Equation&#x000a0;<xref rid="bph14183-disp-0002" ref-type="disp-formula">(2)</xref> yielded an EL<sub>50</sub> of 0.2&#x000a0;&#x000b1;&#x000a0;0.1 mW&#x000b7;mm<sup>&#x02212;2</sup> (<italic>N</italic>&#x000a0;=&#x000a0;11), a slope factor (<italic>v</italic>) of 0.6&#x000a0;&#x000b1;&#x000a0;0.1 (<italic>N</italic>&#x000a0;=&#x000a0;11) and the maximal asymptotic <italic>V</italic>
+<sub><italic>m</italic></sub> (<italic>V</italic>
+<sub>max</sub>) of &#x02212;16.2&#x000a0;&#x000b1;&#x000a0;2.6&#x000a0;mV (<italic>N</italic>&#x000a0;=&#x000a0;11). In contrast, the <italic>V</italic>
+<sub><italic>m</italic></sub> of aortic VSMCs obtained from control mice was not significantly affected by blue light (Figure&#x000a0;<xref rid="bph14183-fig-0003" ref-type="fig">3</xref>A, B). Thus, the <italic>V</italic>
+<sub><italic>m</italic></sub> of isolated aortic VSMCs expressing ChR2(H134R) can be optically clamped by exposure to blue light.</p><fig fig-type="Figure" xml:lang="en" id="bph14183-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Effects of blue light on <italic>V</italic>
+<sub><italic>m</italic></sub> in isolated aortic VSMCs. (A) <italic>V</italic>
+<sub><italic>m</italic></sub> recordings of aortic VSMCs isolated from control and ChR2(H134R)&#x02010;SM mice in response to blue light stimulations (2&#x000a0;s) of various intensities, as indicated by the horizontal blue bars. The dashed lines indicate the zero voltage level. (B) Mean <italic>V</italic>
+<sub><italic>m</italic></sub> versus blue light intensity relationships for aortic VSMCs isolated from control (<italic>N</italic>&#x000a0;=&#x000a0;5, <italic>n</italic>&#x000a0;=&#x000a0;12) or ChR2(H134R)&#x02010;SM mice (<italic>N</italic>&#x000a0;=&#x000a0;11, <italic>n</italic>&#x000a0;=&#x000a0;17). The curve through open circles (control) was drawn by the eye. The curve through filled circles (ChR2(H134R)&#x02010;SM) represents the best fit of the data with Equation&#x000a0;<xref rid="bph14183-disp-0002" ref-type="disp-formula">(2)</xref>. (C) <italic>V</italic>
+<sub><italic>m</italic></sub> recording of an aortic VSMC isolated from ChR2(H134R)&#x02010;SM mouse in response to 7&#x000a0;min blue light stimulation (0.22&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup>). (D) Mean <italic>V</italic>
+<sub><italic>m</italic></sub> measured during the first and seventh minute of exposure to blue light (0.22&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup>) (<italic>N</italic>&#x000a0;=&#x000a0;6, <italic>n</italic>&#x000a0;=&#x000a0;15). <sup>*</sup>
+<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05, significantly different from control; Student's <italic>t</italic>&#x02010;test.</p></caption><graphic id="nlm-graphic-5" xlink:href="BPH-175-2028-g003"/></fig><p>As outlined above, ChR2(H134R)&#x02010;mediated contraction of isolated aortic rings required continuous, prolonged exposures to blue light. Thus, the suitability of ChR2(H134R) to maintain <italic>V</italic>
+<sub><italic>m</italic></sub> depolarization for prolonged periods of time (7&#x000a0;min) was also tested. The <italic>V</italic>
+<sub><italic>m</italic></sub> of isolated aortic VSMCs in response to 0.22&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup>, an intensity that produced half&#x02010;maximal depolarization, remained clamped to approximately &#x02212;27&#x000a0;mV during the 7&#x000a0;min illumination period (Figure&#x000a0;<xref rid="bph14183-fig-0003" ref-type="fig">3</xref>C). This effect was quantified by measuring the <italic>V</italic>
+<sub><italic>m</italic></sub> in the first and seventh minute of blue light exposure: no significant change in <italic>V</italic>
+<sub><italic>m</italic></sub> was detected (Figure&#x000a0;<xref rid="bph14183-fig-0003" ref-type="fig">3</xref>D).</p><p>
+<italic>V</italic>
+<sub><italic>m</italic></sub> depolarization is expected to lead to activation of Ca<sub>v</sub> channels, increased Ca<sup>2+</sup> influx and VSMC contraction (Knot <italic>et al</italic>., <xref rid="bph14183-bib-0042" ref-type="ref">1996</xref>; Gollasch and Nelson, <xref rid="bph14183-bib-0031" ref-type="ref">1997</xref>; Jackson, <xref rid="bph14183-bib-0039" ref-type="ref">2000</xref>). To define the precise relationship between ChR2(H134R)&#x02010;induced depolarization and extent of Ca<sub>v</sub> channel activation in our model, the voltage dependence of Ca<sub>v</sub> channel activation and inactivation was determined in aortic VSMCs isolated from ChR2(H134R)&#x02010;SM mice (Supporting Information&#x000a0;<xref rid="bph14183-supitem-0001" ref-type="supplementary-material">Figure S2</xref>). The steady&#x02010;state activation curve was characterized by a half&#x02010;activation potential (<italic>V</italic>
+<sub>0.5,act</sub>
+<italic>)</italic> of 0.1&#x000a0;&#x000b1;&#x000a0;2.0&#x000a0;mV (<italic>N</italic>&#x000a0;=&#x000a0;8) and a slope factor (<italic>s</italic>
+<sub><italic>a</italic></sub>) of 8.9&#x000a0;&#x000b1;&#x000a0;0.6&#x000a0;mV (<italic>N</italic>&#x000a0;=&#x000a0;8). The steady&#x02010;state inactivation curve was characterized by a half&#x02010;inactivation potential (<italic>V</italic>
+<sub>0.5,inact</sub>) of &#x02212;34.1&#x000a0;&#x000b1;&#x000a0;1.4&#x000a0;mV (<italic>N</italic>&#x000a0;=&#x000a0;7) and a slope factor (<italic>s</italic>
+<sub><italic>i</italic></sub>) of 11.5&#x000a0;&#x000b1;&#x000a0;1.1&#x000a0;mV (<italic>n</italic>&#x000a0;=&#x000a0;7). Window currents, the range of <italic>V</italic>
+<sub><italic>m</italic></sub> in which Ca<sub>v</sub> channels are active, spanned between approximately &#x02212;40 and approximately +10&#x000a0;mV (Supporting Information&#x000a0;<xref rid="bph14183-supitem-0001" ref-type="supplementary-material">Figure S2B</xref>). Thus, <italic>V</italic>
+<sub><italic>m</italic></sub> depolarization due to ChR2(H134R) activation shifted the <italic>V</italic>
+<sub><italic>m</italic></sub> from a resting value of approximately &#x02212;40&#x000a0;mV, to values that fall within the window current range of Ca<sub>v</sub> channels.</p></sec><sec id="bph14183-sec-0021"><title>Effects of light in the presence of phenylephrine</title><p>The isolated artery ring experiments described above were performed in the absence of contractile agonists, such as phenylephrine . As outlined in the <xref rid="bph14183-sec-0005" ref-type="sec">Introduction</xref>, in the presence of contractile agents, isolated wild&#x02010;type arterial smooth muscle has been reported to relax in response to blue light (Furchgott <italic>et al</italic>., <xref rid="bph14183-bib-0030" ref-type="ref">1955</xref>; Ehrreich and Furchgott, <xref rid="bph14183-bib-0024" ref-type="ref">1968</xref>; Sikka <italic>et al</italic>., <xref rid="bph14183-bib-0062" ref-type="ref">2014</xref>). The next set of experiments aimed to test whether ChR2(H134R)&#x02010;mediated depolarization and contraction could overcome the relaxing response of arteries to blue light. We began by quantifying the relaxation of aortic rings obtained from control mice in response to blue light. In the presence of phenylephrine (1&#x000a0;&#x003bc;M), aortic rings relaxed in a blue light intensity&#x02010;dependent manner (Figure&#x000a0;<xref rid="bph14183-fig-0004" ref-type="fig">4</xref>A). For example, blue light intensity of 0.72&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup> resulted in a ~0.5&#x000a0;mN&#x000b7;mm<sup>&#x02212;1</sup> reduction in artery ring tension (Figure&#x000a0;<xref rid="bph14183-fig-0004" ref-type="fig">4</xref>B). Fit of the tension versus light intensity relationship with Equation <xref rid="bph14183-disp-0005" ref-type="disp-formula">(5)</xref> yielded an EL<sub>50</sub> of 0.1&#x000a0;&#x000b1;&#x000a0;0.1&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup> (<italic>N</italic>&#x000a0;=&#x000a0;5), a slope factor (<italic>s</italic>
+<sub><italic>n</italic></sub>) of 1.5&#x000a0;&#x000b1;&#x000a0;0.1 (<italic>N</italic>&#x000a0;=&#x000a0;5) and a maximal reduction in vessel tension (<italic>T</italic>
+<sub><italic>ss</italic></sub>) of &#x02212;0.5&#x000a0;&#x000b1;&#x000a0;0.2 (<italic>N</italic>&#x000a0;=&#x000a0;5).</p><fig fig-type="Figure" xml:lang="en" id="bph14183-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Effect of blue light on tension of isolated aortic rings in the presence of phenylephrine. (A) Isometric tension recordings obtained from aortic rings isolated from control or ChR2(H134R)&#x02010;SM mice, as indicated. Artery rings were exposed to phenylephrine (PE; 1&#x000a0;&#x003bc;M) and blue light as indicated by the black and blue horizontal bars respectively. The dashed lines indicate the basal tension level. (B) Mean tension versus blue light intensity relationships for aortic rings obtained from control (<italic>N</italic>&#x000a0;=&#x000a0;5, <italic>n</italic>&#x000a0;=&#x000a0;9) or ChR2(H134R)&#x02010;SM mice (<italic>N</italic>&#x000a0;=&#x000a0;5, <italic>n</italic>&#x000a0;=&#x000a0;10), as indicated. The smooth curves through symbols represent the best fit of the data with Equation&#x000a0;<xref rid="bph14183-disp-0005" ref-type="disp-formula">(5)</xref>.</p></caption><graphic id="nlm-graphic-7" xlink:href="BPH-175-2028-g004"/></fig><p>To establish whether opening of ChR2(H134R) was sufficient to counteract the relaxation described above, aortic rings isolated from ChR2(H134R)&#x02010;SM mice were exposed to blue light of increasing intensities in the presence of phenylephrine (1&#x000a0;&#x003bc;M). Under these conditions, aortic rings contracted in response to blue light (Figure&#x000a0;<xref rid="bph14183-fig-0004" ref-type="fig">4</xref>A). For example, blue light of 0.72&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup> elicited a ~3.5&#x000a0;mN&#x000b7;mm<sup>&#x02212;1</sup> increase in tension (Figure&#x000a0;<xref rid="bph14183-fig-0004" ref-type="fig">4</xref>B). The fit of the tension versus blue light intensity relationship with Equation&#x000a0;<xref rid="bph14183-disp-0005" ref-type="disp-formula">(5)</xref> yielded an EL<sub>50</sub> of 0.1&#x000a0;&#x000b1;&#x000a0;0.1&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup> (<italic>N</italic>&#x000a0;=&#x000a0;5), a slope factor (<italic>s</italic>
+<sub><italic>n</italic></sub>) of 0.9&#x000a0;&#x000b1;&#x000a0;0.1 (<italic>N</italic>&#x000a0;=&#x000a0;5) and a <italic>T</italic>
+<sub><italic>ss</italic></sub> of 3.8&#x000a0;&#x000b1;&#x000a0;0.6&#x000a0;mN&#x000b7;mm<sup>&#x02212;1</sup> (<italic>N</italic>&#x000a0;=&#x000a0;5).</p></sec><sec id="bph14183-sec-0022"><title>Ionic mechanisms of ChR2(H134R)&#x02010;induced artery contraction</title><p>The next series of myography experiments were conducted to characterize the ionic mechanism(s) underlying the ChR2(H134R)&#x02010;mediated contraction of aortic rings. To determine whether blue light&#x02010;induced contraction required influx of Ca<sup>2+</sup> from the extracellular fluid, aortic rings obtained from ChR2(H134R)&#x02010;SM mice were exposed to blue light in Ca<sup>2+</sup>&#x02010;free PSS. Under these conditions, blue light stimulation produced a very small contraction. For example, the tension measured during 7.21&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup> blue light stimulation was 0.1&#x000a0;&#x000b1;&#x000a0;0.1&#x000a0;mN&#x000b7;mm<sup>&#x02212;1</sup> (<italic>N</italic>&#x000a0;=&#x000a0;5) compared with 4.0&#x000a0;&#x000b1;&#x000a0;0.1&#x000a0;mM&#x000b7;mm<sup>&#x02212;1</sup> (<italic>N</italic>&#x000a0;=&#x000a0;32) in the presence of extracellular Ca<sup>2+</sup> (Figure&#x000a0;<xref rid="bph14183-fig-0005" ref-type="fig">5</xref>A).</p><fig fig-type="Figure" xml:lang="en" id="bph14183-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Effect of pharmacological ion channel modulation and ionic substitution on blue light&#x02010;induced tension of aortic rings obtained from ChR2(H134R)&#x02010;SM mice. (A) Top panels represent isometric tension recordings obtained from aortic rings isolated from ChR2(H134R)&#x02010;SM mice in response to 0.23&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup> blue light in the presence of PSS (control) or a nominally Ca<sup>2+</sup>&#x02010;free PSS (0 Ca<sup>2+</sup>). The lower panel represents mean tension versus blue light intensity relationship for experiments conducted in Ca<sup>2+</sup>&#x02010;free PSS (<italic>N</italic>&#x000a0;=&#x000a0;5, <italic>n</italic>&#x000a0;=&#x000a0;10). The sigmoidal curve (dashed) is the Hill fit (Equation&#x000a0;<xref rid="bph14183-disp-0005" ref-type="disp-formula">(5)</xref>) of the aortic ring tension versus blue light intensity relationship presented in Figure&#x000a0;<xref rid="bph14183-fig-0002" ref-type="fig">2</xref>B. (B) Top panel represents isometric tension recordings obtained from an aortic ring isolated from ChR2(H134R)&#x02010;SM mice in response to 0.23&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup> blue light in the presence of PSS supplemented with nifedipine (1&#x000a0;&#x003bc;M). The lower panel represents mean tension versus blue light intensity relationship for experiments conducted in PSS supplemented with nifedipine (1&#x000a0;&#x003bc;M) (<italic>N</italic>&#x000a0;=&#x000a0;7, <italic>n</italic>&#x000a0;=&#x000a0;8). Continuous sigmoidal curve through squares symbols indicates the best fit of the data with Equation&#x000a0;<xref rid="bph14183-disp-0005" ref-type="disp-formula">(5)</xref>. Dashed sigmoidal curve is the Hill fit (Equation&#x000a0;<xref rid="bph14183-disp-0005" ref-type="disp-formula">(5)</xref>) of the aortic ring tension versus blue light intensity relationship presented in Figure&#x000a0;<xref rid="bph14183-fig-0002" ref-type="fig">2</xref>B. (C) Mean tension in response to blue light stimulations in PSS supplemented with 3&#x000a0;&#x003bc;M ryanodine (<italic>N</italic>&#x000a0;=&#x000a0;6, <italic>n</italic>&#x000a0;=&#x000a0;8) or 60&#x000a0;&#x003bc;M 2&#x02010;APB (<italic>N</italic> = 6, <italic>n</italic> = 8), as indicated. Open circles refer to experiments conducted in control PSS solution and are replotted from Figure&#x000a0;<xref rid="bph14183-fig-0002" ref-type="fig">2</xref>B. (D) Mean tension in response to blue light stimulations in PSS supplemented with either MONNA (3&#x000a0;&#x003bc;M) (<italic>N</italic>&#x000a0;=&#x000a0;5, <italic>n</italic>&#x000a0;=&#x000a0;10) or Ani9 (1&#x000a0;&#x003bc;M) (<italic>N</italic>&#x000a0;=&#x000a0;5, <italic>n</italic>&#x000a0;=&#x000a0;10). Open circles refer to experiments conducted in control PSS solution and are replotted from Figure&#x000a0;<xref rid="bph14183-fig-0002" ref-type="fig">2</xref>B. (E) Mean tension in response to blue light stimulations in PSS supplemented with either clotrimazole (10&#x000a0;&#x003bc;M) (<italic>N</italic>&#x000a0;=&#x000a0;5, <italic>n</italic>&#x000a0;=&#x000a0;9) or 9&#x02010;phenanthrol (50&#x000a0;&#x003bc;M) (<italic>N</italic>&#x000a0;=&#x000a0;5, <italic>n</italic>&#x000a0;=&#x000a0;5). Open circles refer to experiments conducted in control PSS solution and are replotted from Figure&#x000a0;<xref rid="bph14183-fig-0002" ref-type="fig">2</xref>B. <sup>*</sup>
+<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05, significantly different from control; Student's <italic>t</italic>&#x02010;test.</p></caption><graphic id="nlm-graphic-9" xlink:href="BPH-175-2028-g005"/></fig><p>The contraction of isolated aortic rings was dramatically reduced by application of the Ca<sub>v</sub> channel blocker nifedipine at a concentration (1&#x000a0;&#x003bc;M) that blocks L&#x02010;type Ca<sup>2+</sup> channels fully (Figure&#x000a0;<xref rid="bph14183-fig-0005" ref-type="fig">5</xref>B) (Brayfield, <xref rid="bph14183-bib-0016" ref-type="ref">2014</xref>). Nifedipine shifted the EL<sub>50</sub> of the tension versus light intensity relationship from ~0.1 to ~0.8&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup>, and the slope factor (<italic>s</italic>) slightly increased from <italic>~</italic>1.5 to ~2, while the maximal tension achieved (<italic>T</italic>
+<sub><italic>ss</italic></sub>) remained unaltered (~3.6&#x000a0;mN&#x000b7;mm<sup>&#x02212;1</sup>) (Table&#x000a0;<xref rid="bph14183-tbl-0003" ref-type="table-wrap">3</xref>). Note that nifedipine (1&#x000a0;&#x003bc;M) almost completely abolished the contraction of aortic rings in response to elevated [KCl]<sub>e</sub>; 70&#x000a0;mM [KCl]<sub>e</sub> induced contraction of 0.2&#x000a0;&#x000b1;&#x000a0;0.1&#x000a0;mN&#x000b7;mm<sup>&#x02212;1</sup> in the presence of nifedipine (not shown) compared with ~4.0&#x000a0;mN&#x000b7;mm<sup>&#x02212;1</sup> in the absence (Supporting Information Figure&#x000a0;<xref rid="bph14183-supitem-0001" ref-type="supplementary-material">S1</xref>).</p><table-wrap id="bph14183-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Parameters for the tension versus blue light relationships for aortic rings obtained from ChR2(H134R)&#x02010;SM mice in the presence of nifedipine</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr><th rowspan="2" style="border-bottom:solid 1px #000000" align="center" valign="bottom" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">ChR2(H134R)&#x02010;SM mice</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1">Aorta</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">EL<sub>50</sub> (mW&#x000b7;mm<sup>&#x02212;2</sup>)</td><td align="left" valign="top" rowspan="1" colspan="1">0.8&#x000a0;&#x000b1;&#x000a0;0.2 (<italic>N</italic>&#x000a0;=&#x000a0;7, <italic>n</italic>&#x000a0;=&#x000a0;8)<xref ref-type="fn" rid="bph14183-note-0004">*</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>s</italic>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2.0&#x000a0;&#x000b1;&#x000a0;0.3 (<italic>N</italic>&#x000a0;=&#x000a0;7, <italic>n</italic>&#x000a0;=&#x000a0;8)<xref ref-type="fn" rid="bph14183-note-0004">*</xref>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>T</italic>
+<sub><italic>ss</italic></sub> (mN&#x000b7;mm<sup>&#x02212;1</sup>)</td><td align="left" valign="top" rowspan="1" colspan="1">3.6&#x000a0;&#x000b1;&#x000a0;0.3 (<italic>N</italic>&#x000a0;=&#x000a0;7, <italic>n</italic>&#x000a0;=&#x000a0;8)</td></tr></tbody></table><table-wrap-foot><fn id="bph14183-note-0003"><p>Parameters (EL<sub>50</sub>, <italic>s</italic> and <italic>T</italic>
+<sub>max</sub>) obtained from the Hill fit (Equation&#x000a0;<xref rid="bph14183-disp-0005" ref-type="disp-formula">(5)</xref>) of the tension versus blue light intensity relationship for aortic rings obtained from ChR2(H134R)&#x02010;SM mice.</p></fn><fn id="bph14183-note-0004"><label>*</label><p>
+<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05,significantly different from data without nifedipine, shown in Table&#x000a0;<xref rid="bph14183-tbl-0002" ref-type="table-wrap">2</xref>; Student's <italic>t</italic>&#x02010;test.</p></fn></table-wrap-foot></table-wrap><p>Nifedipine is a light&#x02010;sensitive compound that photodegrades into a 2&#x02010;nitroso derivative when exposed to daylight (Brayfield, <xref rid="bph14183-bib-0016" ref-type="ref">2014</xref>). Therefore, the possibility that nifedipine was degraded during exposure to blue light was examined <italic>via</italic> a separate set of functional electrophysiological experiments. The extracellular whole&#x02010;cell patch&#x02010;clamp solution containing nifedipine (1&#x000a0;&#x003bc;M) was illuminated with high&#x02010;intensity blue light (2.4&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup>) for 10&#x000a0;min. The extent to which Ca<sub>v</sub> current in isolated aortic VSMCs was inhibited by this solution was indistinguishable from that caused by a nifedipine&#x02010;containing solution that was not exposed to light (Supporting Information&#x000a0;<xref rid="bph14183-supitem-0001" ref-type="supplementary-material">Figure S2C</xref>). Thus, exposure of nifedipine to blue light did not alter its inhibitory effect on Ca<sub>V</sub> channels in these experiments.</p><p>The isometric tension recordings described above demonstrated that in response to light stimulations below ~0.1&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup>, aortic ring contraction required Ca<sub>v</sub> channel activation. Presumably contractions triggered by blue light stimulations of greater power would involve, at least in part, Ca<sup>2+</sup> influx through ChR2(H134R) and would result in a level of contraction, which may not be reached under normal physiological conditions. To evaluate the maximal degree of tension that the artery may develop <italic>in vivo</italic>, we examined the response of isolated aortic artery rings to the physiological agonist noradrenaline. Supporting Information&#x000a0;<xref rid="bph14183-supitem-0001" ref-type="supplementary-material">Figure S3</xref> shows that the maximal tension triggered by this agonist was ~2.4&#x000a0;mN&#x000b7;mm<sup>&#x02212;1</sup>. This corresponds to the contraction mediated by ChR2(H134R) in response to blue light of 0.1&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup>. Thus, we considered light stimulations &#x0003c;0.1&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup> those that elicit a contraction that resemble, in terms of magnitude and underlying Ca<sup>2+</sup> handling mechanisms, physiological contractions.</p><p>To gain further understanding of the ionic mechanisms underlying ChR2(H134R)&#x02010;mediated contraction within the identified blue light stimulation range (i.e. &#x0003c;0.1&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup>), we examined the light response in the presence of a series of pharmacological modulators. To determine the contribution of <ext-link ext-link-type="uri" xlink:href="http://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=125">http://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=125</ext-link> (RyR)&#x02010;mediated Ca<sup>2+</sup>&#x02010;induced Ca<sup>2+</sup> release (CICR) to the ChR2(H134R)&#x02010;induced contraction of aortic rings, <ext-link ext-link-type="uri" xlink:href="http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=4303">http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=4303</ext-link> (3&#x000a0;&#x003bc;M) was added to the PSS solution 25&#x000a0;min prior to blue light stimulation to exhaust ryanodine&#x02010;sensitive Ca<sup>2+</sup> stores (Ito <italic>et al</italic>., <xref rid="bph14183-bib-0038" ref-type="ref">1986</xref>). Figure&#x000a0;<xref rid="bph14183-fig-0005" ref-type="fig">5</xref>C illustrates that this intervention did not significantly affect the arterial response to blue light. The contribution of <ext-link ext-link-type="uri" xlink:href="http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=4222">http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=4222</ext-link> to CICR was also tested by incubating vessels in <ext-link ext-link-type="uri" xlink:href="http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=2433">http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=2433</ext-link>) (60&#x000a0;&#x003bc;M). Figure&#x000a0;<xref rid="bph14183-fig-0005" ref-type="fig">5</xref>C shows that inhibition of IP<sub>3</sub> receptors with 2&#x02010;APB significantly reduced the arterial response to blue light. Thus, Ca<sub>v</sub>&#x02010;mediated Ca<sup>2+</sup> entry and IP<sub>3</sub>&#x02010;mediated CICR are likely to be the major sources of Ca<sup>2+</sup> leading to arterial contraction in response to blue light of &#x0003c;0.1&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup> in ChR2(H134R)&#x02010;SM aortic rings.</p><p>The CaCC coded by the <italic>Tmem16a</italic> gene represents a key depolarizing mechanism in vascular smooth muscle (Manoury <italic>et al</italic>., <xref rid="bph14183-bib-0045" ref-type="ref">2010</xref>; Bulley and Jaggar, <xref rid="bph14183-bib-0019" ref-type="ref">2014</xref>; H&#x000fc;bner <italic>et al</italic>., <xref rid="bph14183-bib-0037" ref-type="ref">2015</xref>; Matchkov <italic>et al</italic>., <xref rid="bph14183-bib-0046" ref-type="ref">2015</xref>). CaCCs in VSMCs are typically activated by IP<sub>3</sub>&#x02010;mediated Ca<sup>2+</sup> release (Manoury <italic>et al</italic>., <xref rid="bph14183-bib-0045" ref-type="ref">2010</xref>; Bulley and Jaggar, <xref rid="bph14183-bib-0019" ref-type="ref">2014</xref>; H&#x000fc;bner <italic>et al</italic>., <xref rid="bph14183-bib-0037" ref-type="ref">2015</xref>; Matchkov <italic>et al</italic>., <xref rid="bph14183-bib-0046" ref-type="ref">2015</xref>). To investigate whether TMEM16A channels participate in the blue light&#x02010;induced contraction in arteries obtained from ChR2(H134R)&#x02010;SM mice, the TMEM16A inhibitors MONNA (3&#x000a0;&#x003bc;M) (Oh <italic>et al</italic>., <xref rid="bph14183-bib-0055" ref-type="ref">2013</xref>) or Ani9 (1&#x000a0;&#x003bc;M) (Seo <italic>et al</italic>., <xref rid="bph14183-bib-0061" ref-type="ref">2016</xref>) were added to the PSS. Pharmacological blockade of TMEM16A channels with these agents significantly reduced the contractile response to blue light stimulation by ~0.5&#x02010;fold and ~0.3&#x02010;fold at 0.02 and 0.07&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup> respectively (Figure&#x000a0;<xref rid="bph14183-fig-0005" ref-type="fig">5</xref>D). Another Ca<sup>2+</sup>&#x02010;activated depolarizing channel types in VSMCs are the TRPM channels (Guibert <italic>et al</italic>., <xref rid="bph14183-bib-0034" ref-type="ref">2011</xref>). Their involvement was tested by inhibiting them using the TRPM blocker <ext-link ext-link-type="uri" xlink:href="http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=2330">http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=2330</ext-link> (10&#x000a0;&#x003bc;M) (Zholos, <xref rid="bph14183-bib-0073" ref-type="ref">2010</xref>). This caused significant reduction of blue light&#x02010;induced contraction by up to ~0.7&#x02010;fold (Figure&#x000a0;<xref rid="bph14183-fig-0005" ref-type="fig">5</xref>E). The less selective channel blocker <ext-link ext-link-type="uri" xlink:href="http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=4114">http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=4114</ext-link> (50&#x000a0;&#x003bc;M), which blocks TRPM and TMEM16A channels caused up to ~0.8&#x02010;fold reduction of contraction (Figure&#x000a0;<xref rid="bph14183-fig-0005" ref-type="fig">5</xref>E).</p></sec><sec id="bph14183-sec-0023"><title>Blue light evoked changes in intracellular pH</title><p>As ChR2(H134R) is a ion channel highly permeable to H<sup>+</sup>, prolonged activation may lead to a net transmembrane H<sup>+</sup> flux and changes in pH<sub>i</sub>. To test this, pH<sub>i</sub> was measured in isolated aortic VSMCs obtained from ChR2(H134R)&#x02010;SM and control mice before and after 7&#x000a0;min light stimulation of various intensities (Figure&#x000a0;<xref rid="bph14183-fig-0006" ref-type="fig">6</xref>). The pH<sub>i</sub> prior to light stimulation was 6.9&#x000a0;&#x000b1;&#x000a0;0.1 (<italic>N</italic>&#x000a0;=&#x000a0;5) in cells isolated from ChR2(H134R)&#x02010;SM mice. In VSMCs isolated from control mice, the starting pH<sub>i</sub> was 6.8&#x000a0;&#x000b1;&#x000a0;0.1 (<italic>N</italic>&#x000a0;=&#x000a0;5). Figure&#x000a0;<xref rid="bph14183-fig-0006" ref-type="fig">6</xref> shows that no significant change in pH<sub>i</sub> was observed at low&#x02010;intensity blue light (&#x0003c;0.1&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup>). At higher intensities, however, the light protocol evoked significant alkalinization of the cytoplasm, by up to ~0.25 pH units (Figure&#x000a0;<xref rid="bph14183-fig-0006" ref-type="fig">6</xref>B).</p><fig fig-type="Figure" xml:lang="en" id="bph14183-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Effect of blue light on pH<sub>i</sub> of aortic VSMCs. (A) pH<sub>i</sub> measurements in individual aortic VSMCs, isolated from control and ChR2(H134R)&#x02010;SM mice, before and after a 7&#x000a0;min exposure to blue light of different intensities, as indicated. The horizontal blue bars in each panel indicate the 7&#x000a0;min illumination period. (B) Mean blue light&#x02010;induced pH<sub>i</sub> change versus blue light intensity relationship for VSMCs isolated from ChR2(H134R)&#x02010;SM mice (<italic>N</italic>&#x000a0;=&#x000a0;8, <italic>n</italic>&#x000a0;=&#x000a0;201) and control mice (<italic>N</italic>&#x000a0;=&#x000a0;5, <italic>n</italic>&#x000a0;=&#x000a0;215). <sup>*</sup>
+<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05, significantly different from control; Student's <italic>t</italic>&#x02010;test.</p></caption><graphic id="nlm-graphic-11" xlink:href="BPH-175-2028-g006"/></fig></sec><sec id="bph14183-sec-0024"><title>Comparison of light&#x02010;induced and agonist&#x02010;induced contraction</title><p>The previous sets of experiments identified the range of blue light intensities within which ChR2(H134R) activation resulted in VSMCs depolarization, Ca<sub>v</sub> and TMEM16A channel activation and arterial contraction in the absence of pronounced changes in pH<sub>i</sub> or Ca<sup>2+</sup> entry through ChR2(H134R). We examined the contractile response of isolated aortic rings to prolonged (25&#x000a0;min) stimulation with a light intensity (0.05&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup>), which falls within this range. The response was then compared with those elicited by contractile agonists such as phenylephrine (0.4&#x000a0;&#x003bc;M) and noradrenaline (10&#x000a0;&#x003bc;M). These agonist concentrations were selected as they evoked an average contraction of 1.4&#x000a0;&#x000b1;&#x000a0;0.1 mN&#x000b7;mm<sup>&#x02212;1</sup> (noradrenaline, <italic>N</italic>&#x000a0;=&#x000a0;5) and 1.1&#x000a0;&#x000b1;&#x000a0;0.1&#x000a0;mN&#x000b7;mm<sup>&#x02212;1</sup> (phenylephrine, <italic>N</italic>&#x000a0;=&#x000a0;5), which were comparable with a tension of 1.2&#x000a0;&#x000b1;&#x000a0;0.1&#x000a0;mN&#x000b7;mm<sup>&#x02212;1</sup> (<italic>N</italic>&#x000a0;=&#x000a0;5) induced by 0.05&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup> blue light. Blue light stimulation triggered a contraction that rapidly reached a maximal, stable steady&#x02010;state value. In contrast, noradrenaline produced a transient contraction followed by fluctuating levels of tension (Figure&#x000a0;<xref rid="bph14183-fig-0007" ref-type="fig">7</xref>A). Phenylephrine &#x02010;induced contraction was characterized by a peak followed by a slow drop and then subsequent rise in tension. The nadir to peak ratio measured in each artery ring was used as a measure of the stability of the tension induced by the various stimuli. This ratio was 0.9&#x000a0;&#x000b1;&#x000a0;0.1 (<italic>N</italic>&#x000a0;=&#x000a0;5), 0.4&#x000a0;&#x000b1;&#x000a0;0.1 (<italic>N</italic>&#x000a0;=&#x000a0;5) and 0.7&#x000a0;&#x000b1;&#x000a0;0.1 (<italic>N</italic>&#x000a0;=&#x000a0;5) for blue light, noradrenaline and phenylephrine respectively (Figure&#x000a0;<xref rid="bph14183-fig-0007" ref-type="fig">7</xref>B). Thus, blue light stimulation produced a more stable response than those to the contractile agonists.</p><fig fig-type="Figure" xml:lang="en" id="bph14183-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Comparison of blue light&#x02010;induced and agonist&#x02010;induced contraction of aortic rings obtained from ChR2(H134R)&#x02010;SM mice. (A) Representative isometric tension recordings obtained from aortic rings isolated from ChR2(H134R)&#x02010;SM mice. Aortic rings were exposed to blue light, phenylephrine (PE) or noradrenaline (NA) for 25&#x000a0;min, as indicated by the horizontal bars. (B) Mean stability of contraction expressed as the ratio between the maximal and minimal level of contraction elicited by blue light (<italic>N</italic>&#x000a0;=&#x000a0;5, <italic>n</italic>&#x000a0;=&#x000a0;8), PE (<italic>N</italic>&#x000a0;=&#x000a0;5, <italic>n</italic>&#x000a0;=&#x000a0;11) or NA (<italic>N</italic>&#x000a0;=&#x000a0;5, <italic>n</italic>&#x000a0;=&#x000a0;11). <sup>*</sup>
+<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05, significantly different as indicated; one&#x02010;way ANOVA.</p></caption><graphic id="nlm-graphic-13" xlink:href="BPH-175-2028-g007"/></fig></sec></sec><sec id="bph14183-sec-0025"><title>Discussion</title><p>This study provides a comprehensive analysis of the blue light sensitivity of isolated VSMCs and artery rings obtained from ChR2(H134R)&#x02010;SM mice. Activation of the ChR2(H134R) channels caused <italic>V</italic>
+<sub><italic>m</italic></sub> depolarization, activation of Ca<sub>v</sub>, TMEM16A and TRPM channels. In intact artery rings, this resulted in an increase in artery tone. In the presence of blue light of intensities &#x0003c;0.1&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup>, the artery ring contraction was completely prevented by nifedipine. This indicated that Ca<sub>v</sub> channel activation was mandatory for contraction in response to blue light intensities. Within this light intensity range, TMEM16A and TRPM channels and IP<sub>3</sub> receptors contributed to the contractile response. Furthermore, the pH<sub>i</sub> remained stable. In contrast, light stimuli greater than 0.1&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup> led to contractions, even in the presence of Ca<sub>v</sub> channel blockade, suggesting that significant Ca<sup>2+</sup> influx through ChR2(H134R) channels might be occurring. In addition, the pH<sub>i</sub> of isolated aortic VSMCs was significantly alkalinized. Thus, this study determined the range of light intensities (&#x0003c;0.1&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup>) that enabled modulation of the <italic>V</italic>
+<sub><italic>m</italic></sub> and artery tone of ChR2(H134R)&#x02010;SM mice primarily <italic>via</italic> recruitment of endogenous channels while minimizing any disturbances to pH<sub>i</sub>. This experimental analysis demonstrates the ChR2(H134R)&#x02010;SM mice as a powerful experimental model to selectively control the excitability of VSMCs.</p><sec id="bph14183-sec-0026"><title>ChR2(H134R) expression and current amplitude in isolated VSMCs</title><p>The level of ChR2(H134R) expression in VSMCs decreased in the order pulmonary artery&#x000a0;&#x02248;&#x000a0;aorta&#x000a0;&#x0003e;&#x000a0;mesenteric artery. The amplitude of the current density also followed this order. Possible causes of different ChR2(H134R) protein expression in different VSMC types include (i) variable levels of transcription factors acting on the transgelin promoter, which in turn controls the expression of the Cre recombinase and/or (ii) differences in how proteins are trafficked and expressed in different VSMCs types. Regardless of the underlying causes of variable expression of ChR2(H134R) in different artery types, the degree of expression in the arteries tested was sufficient to allow maximal or near&#x02010;maximal contraction in all artery types tested.</p><p>The time course of the change in tension of aortic rings in response to blue light or elevated [KCl]<sub>e</sub> was remarkably similar. Furthermore, continuous application of either stimulus was necessary for the tension of isolated aortic rings to reach a maximal, steady&#x02010;state value. These observations suggest that activated ChR2(H134R) channels acted as a depolarizing mechanism (providing an &#x02018;optical voltage&#x02010;clamp&#x02019; method) in a similar way to high [KCl]<sub>e</sub> (constituting &#x02018;chemical voltage clamp&#x02019;). Vascular optogenetics provides significant advantages compared with depolarization achieved by elevation of [KCl]<sub>e</sub>. For instance, in experiments involving whole organs, elevated KCl could not be applied selectively to VSMCs without affecting neighbouring cells and tissues. In contrast, optogenetics can enable selective control of VSMC excitability. Furthermore, elevation of extracellular K<sup>+</sup> concentration may affect transport mechanisms such as the Na<sup>+</sup>/K<sup>+</sup> ATPase, which could lead to an alteration in the intracellular Na<sup>+</sup> concentration. In turn, this may affect other secondary transport mechanisms as well as the action of numerous enzymes and intracellular proteins (Page and Di Cera, <xref rid="bph14183-bib-0056" ref-type="ref">2006</xref>).</p></sec><sec id="bph14183-sec-0027"><title>ChR2(H134R)&#x02010;induced and agonist&#x02010;induced contraction of isolated artery rings</title><p>Earlier studies have indicated that systemic arteries obtained from wild&#x02010;type animals pre&#x02010;constricted with noradrenaline or phenylephrine, relaxed in response to blue light (Furchgott <italic>et al</italic>., <xref rid="bph14183-bib-0030" ref-type="ref">1955</xref>; Ehrreich and Furchgott, <xref rid="bph14183-bib-0024" ref-type="ref">1968</xref>; Sikka <italic>et al</italic>., <xref rid="bph14183-bib-0062" ref-type="ref">2014</xref>). A key mechanism involved in this response was the activation of <ext-link ext-link-type="uri" xlink:href="http://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=2758">http://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=2758</ext-link> receptors (Sikka <italic>et al</italic>., <xref rid="bph14183-bib-0062" ref-type="ref">2014</xref>). Dilation in response to blue light was also observed in murine cerebral arterioles although the molecular mechanism and signalling pathway involved in photodilation in this circulation remains unclear (Rungta <italic>et al</italic>., <xref rid="bph14183-bib-0059" ref-type="ref">2017</xref>). We have determined that ChR2(H134R)&#x02010;mediated contraction overcame the native relaxation in murine systemic arteries in response to blue light. This is a prerequisite for the use of vascular optogenetic <italic>in vivo</italic> as the arteries are exposed to varying levels of circulating or locally released catecholamines, depending on the extent of sympathetic stimulation. This information indicates a possible use of vascular optogenetics <italic>in vivo</italic> as a tool to control vessel tone.</p><p>Isolated aortic artery rings obtained from ChR2(H134R)&#x02010;SM mice responded to blue light with a stable contraction. In contrast, fluctuations of isolated artery tone were observed in response to receptor agonists such as phenylephrine or noradrenaline. This may have significant implications for pharmacology and drug discovery. The potency of new vasodilating compounds might be more difficult to assess in vessels pre&#x02010;constricted with agents that elicit a changing level of vessel tone. This is because spontaneous variation in tone may complicate the quantification of the effects of vasodilating drugs. The stability of the blue light&#x02010;induced contraction could therefore aid the assessment of new vasodilating drugs on isolated arteries.</p></sec><sec id="bph14183-sec-0028"><title>Investigating the ionic mechanisms underlying ChR2(H134R)&#x02010;induced artery contraction</title><p>Ca<sub>v</sub> channels are a principal and well&#x02010;established route of Ca<sup>2+</sup> influx in VSMCs (Jackson, <xref rid="bph14183-bib-0039" ref-type="ref">2000</xref>; Cribbs, <xref rid="bph14183-bib-0022" ref-type="ref">2001</xref>). In isolated aortic VSMCs, Ca<sub>v</sub> channel window currents spanned from approximately &#x02212;40 to +10&#x000a0;mV while the resting <italic>V</italic>
+<sub><italic>m</italic></sub> was approximately &#x02212;40&#x000a0;mV. This indicated that a small blue light&#x02010;dependent depolarization from the resting <italic>V</italic>
+<sub><italic>m</italic></sub> was sufficient to bring the <italic>V</italic>
+<sub><italic>m</italic></sub> into a range where Ca<sub>v</sub> channels were active. Therefore, the ChR2(H134R) channels served, primarily, as a switch for Ca<sub>v</sub> channel activation. CICR mediated by IP<sub>3</sub> receptors but not RyR contributed to the blue light&#x02010;induced artery contraction. This suggests that the ChR2(H134R) channels are not directly juxtaposed to RyRs in the endoplasmic reticulum.</p><p>It is likely that 2&#x02010;APB inhibits targets other than IP<sub>3</sub>R. Specifically, 2&#x02010;APB may also inhibit TRP channels, including <ext-link ext-link-type="uri" xlink:href="http://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=78">http://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=78</ext-link> channels (Xu <italic>et al</italic>., <xref rid="bph14183-bib-0070" ref-type="ref">2005</xref>). These channels however are activated by PIP<sub>2</sub> breakdown, which usually takes place in response to G<sub>q</sub>PCR stimulation (Gonzalez&#x02010;Cobos and Trebak, <xref rid="bph14183-bib-0032" ref-type="ref">2010</xref>). Thus, TRPC channels may not be fully active during the ChR2(H134R)&#x02010;induced contraction and 2&#x02010;APB may not be eliciting its actions <italic>via</italic> blockade of TRPC channels. Another off&#x02010;target effect of 2&#x02010;APB is the inhibition of gap junctions (Bai <italic>et al</italic>., <xref rid="bph14183-bib-0010" ref-type="ref">2006</xref>). One of the most abundantly expressed connexins in smooth muscle is <ext-link ext-link-type="uri" xlink:href="http://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=121#728">http://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=121#728</ext-link> (Figueroa and Duling, <xref rid="bph14183-bib-0028" ref-type="ref">2009</xref>), which has relatively low sensitivity to 2&#x02010;APB (IC<sub>50</sub>&#x000a0;=&#x000a0;52&#x000a0;&#x003bc;M)(Bai <italic>et al</italic>., <xref rid="bph14183-bib-0010" ref-type="ref">2006</xref>). Furthermore, gap junctions are involved in the electrical propagation among neighbouring cells, but blue light&#x02010;induced depolarization will affect all individual VSMCs. Under these conditions, net transmission across gap junctions is unlikely to substantially affect contraction.</p><p>Application of the Ca<sub>v</sub> channel blocker, nifedipine, shifted the tension versus blue light intensity response curve to the right by an order of magnitude. At light intensities &#x0003c;0.1&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup>, nifedipine completely prevented the blue light&#x02010;induced contraction of aortic rings isolated from ChR2(H134R)&#x02010;SM mice. However, at higher light intensities, a significant Ca<sup>2+</sup> current may be directly mediated by ChR2(H134R) channels and thus triggering contraction even in the presence of nifedipine. This non&#x02010;physiological Ca<sup>2+</sup> entry could potentially lead to Ca<sup>2+</sup> overload, which could cause functional and histological alterations in the vessel wall (Atkinson, <xref rid="bph14183-bib-0009" ref-type="ref">1992</xref>; Fleckenstein&#x02010;Gr&#x000fc;n <italic>et al</italic>., <xref rid="bph14183-bib-0029" ref-type="ref">1992</xref>).</p><p>The TMEM16A channel blockers Ani9 and MONNA reduced the blue light&#x02010;induced contraction of isolated aortic rings. This may suggest that Ca<sup>2+</sup> entry through Ca<sub>v</sub> or ChR2(H134R) channels, in turn, activated TMEM16A channels. TMEM16A channels act as depolarizing channels in VSMCs due to the raised intracellular Cl<sup>&#x02212;</sup> concentration ([Cl<sup>&#x02212;</sup>]<sub>i</sub>), which is maintained at high levels by active transport mechanisms. This raises the equilibrium potential for Cl<sup>&#x02212;</sup> above the resting <italic>V</italic>
+<sub><italic>m</italic></sub> of the cell (Manoury <italic>et al</italic>., <xref rid="bph14183-bib-0045" ref-type="ref">2010</xref>; Bulley and Jaggar, <xref rid="bph14183-bib-0019" ref-type="ref">2014</xref>; H&#x000fc;bner <italic>et al</italic>., <xref rid="bph14183-bib-0037" ref-type="ref">2015</xref>; Matchkov <italic>et al</italic>., <xref rid="bph14183-bib-0046" ref-type="ref">2015</xref>). Thus, TMEM16A opening may also contribute to the blue light&#x02010;induced depolarization of VSMCs and arterial contraction. Our pharmacological analysis using clotrimazole indicated that Ca<sup>2+</sup>&#x02010;activated TRPM channels also contributed to the blue light&#x02010;induced contraction.</p><p>Clotrimazole may also block intermediate conductance K<sup>+</sup> (IK<sub>Ca</sub>) channels (Wulff <italic>et al</italic>., <xref rid="bph14183-bib-0069" ref-type="ref">2001</xref>). These channels are especially expressed in endothelial cells (ECs), where they contribute to NO generation and endothelium&#x02010;dependent hyperpolarization (F&#x000e9;l&#x000e9;tou, <xref rid="bph14183-bib-0026" ref-type="ref">2009</xref>). Thus, their inhibition would presumably enhance contraction and antagonize the reduction in blue light&#x02010;induced contraction caused by this agent. Clotrimazole has also been shown to partially (20%) block cardiac Ca<sub>v</sub> channels (Thomas <italic>et al</italic>., <xref rid="bph14183-bib-0063" ref-type="ref">1999</xref>). This may contribute to a small fraction of the effect of clotrimazole on light&#x02010;induced contraction in aortic rings. The TRPM4 blocker 9&#x02010;phenanthrol reduced the extent of contraction to a similar degree to clotrimazole. The pharmacology of TRPM channels is currently limited in terms of specificity, and 9&#x02010;phenanthrol has recently been shown to also block TMEM16A channels (Burris <italic>et al</italic>., <xref rid="bph14183-bib-0020" ref-type="ref">2015</xref>). However, the block seen with 9&#x02010;phenanthrol is significantly greater than that observed with either MONNA or Ani9 suggesting a clear role for TRPM4 channels in blue light&#x02010;induced contraction.</p></sec><sec id="bph14183-sec-0029"><title>Blue light&#x02010;driven intracellular alkalinization</title><p>The ChR2(H134R) channels are highly permeable to H<sup>+</sup> (Nagel <italic>et al</italic>., <xref rid="bph14183-bib-0052" ref-type="ref">2003</xref>; Lin <italic>et al</italic>., <xref rid="bph14183-bib-0044" ref-type="ref">2009</xref>; Berndt <italic>et al</italic>., <xref rid="bph14183-bib-0011" ref-type="ref">2010</xref>, <xref rid="bph14183-bib-0012" ref-type="ref">2011</xref>; Gradmann <italic>et al</italic>., <xref rid="bph14183-bib-0033" ref-type="ref">2011</xref>). We demonstrated that prolonged activation of ChR2(H134R) channels in response to high&#x02010;intensity (&#x0003e;0.1&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup>) blue light stimulations produced intracellular alkalinization. These changes in pH<sub>i</sub> are consistent with the fact that the average equilibrium potential for H<sup>+</sup> (E<sub>H+</sub>) in the aortic VSMCs was approximately &#x02212;29&#x000a0;mV under our experimental conditions, based on the Nernst equation for intracellular and extracellular pH of ~6.9 and 7.4 respectively. Thus, when <italic>V</italic>
+<sub><italic>m</italic></sub> rises above &#x02212;29&#x000a0;mV, as occurs in response to blue light intensities &#x0003e;0.1&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup>, outward H<sup>+</sup> current through ChR2(H134R) channels is expected to raise pH<sub>i</sub>. We argue that a small depolarization of the <italic>V</italic>
+<sub><italic>m</italic></sub> below approximately &#x02212;29&#x000a0;mV, associated with blue light intensity lower than ~0.1&#x000a0;mW&#x000b7;mm<sup>&#x02212;2</sup>, did not lead to significant acidification of pH<sub>i</sub> as ChR2(H134R) channels were only partly activated (i.e. had a low open probability). Furthermore, abundantly expressed Na<sup>+</sup>/H<sup>+</sup> exchanger activity in VSMCs (Aalkjaer and Peng, <xref rid="bph14183-bib-0001" ref-type="ref">1997</xref>) is likely to offset any H<sup>+</sup> influx through ChR2(H134R) channels.</p><p>The effect of a change in pH<sub>i</sub> by &#x0003e;0.1 pH units can substantially alter the sensitivity of VSMCs to humoral factors (Wray and Smith, <xref rid="bph14183-bib-0067" ref-type="ref">2004</xref>; Wakabayashi <italic>et al</italic>., <xref rid="bph14183-bib-0064" ref-type="ref">2006</xref>; Boedtkjer and Aalkjaer, <xref rid="bph14183-bib-0013" ref-type="ref">2012</xref>; Boedtkjer <italic>et al</italic>., <xref rid="bph14183-bib-0014" ref-type="ref">2016</xref>) as well as affect VSMC migration (Boedtkjer <italic>et al</italic>., <xref rid="bph14183-bib-0014" ref-type="ref">2016</xref>) and gene transcription (Wakabayashi <italic>et al</italic>., <xref rid="bph14183-bib-0064" ref-type="ref">2006</xref>). Thus, prolonged activation of ChR2(H134R) channels by high&#x02010;intensity blue light <italic>in vivo</italic> may lead to a pH&#x02010;dependent alteration in arterial histology and function.</p></sec><sec id="bph14183-sec-0030"><title>Implications for vascular pharmacology and therapeutic drug discovery</title><p>Vascular optogenetics has many potential applications including serving as an experimental tool to control blood perfusion to specific organs or tissues (Wu <italic>et al</italic>., <xref rid="bph14183-bib-0068" ref-type="ref">2015</xref>). Thus, organ ischaemia could be experimentally reproduced by inducing vessel constriction <italic>in vivo</italic> in experimental animals, potentially <italic>via</italic> the use of remotely controlled, wireless microLEDs implanted s.c. (Kim <italic>et al</italic>., <xref rid="bph14183-bib-0041" ref-type="ref">2013</xref>). This may lead to important implications for biomedical research by aiding the identification of new drugs or treatments that could counter ischaemia. As outlined above, the stable contraction obtained in isolated arteries may also facilitate drug testing <italic>ex vivo</italic>. At a single&#x02010;cell level, the possibility of controlling <italic>V</italic>
+<sub><italic>m</italic></sub> optically could enable high&#x02010;throughput screening of drugs at various <italic>V</italic>
+<sub><italic>m</italic></sub>, including depolarized <italic>V</italic>
+<sub><italic>m</italic></sub> typically associated with diseases of altered vessel tone (Platoshyn <italic>et al</italic>., <xref rid="bph14183-bib-0057" ref-type="ref">2000</xref>; Wellman <italic>et al</italic>., <xref rid="bph14183-bib-0065" ref-type="ref">2001</xref>). It can be envisaged that viral&#x02010;mediated ChR2(H134R) expression could be obtained in cultured human cells to be used in drug testing. This may help reducing, and to an extent replacing, the use of animals during drug screening studies. Our study demonstrates that vascular optogenetics is especially viable within a well&#x02010;defined range of blue light of low intensity within which activation of ChR2(H134R) channels serves merely as a switch for activation of other, endogenous, membrane transport mechanisms.</p><p>Vascular optogenetics has the potential to further our understanding of the physiological role of electrical coupling between different cell types (such as VSMCs and ECs) within the arterial wall. Investigating the electrical coupling between ECs and VSMCs in intact vessels has presented significant technical challenges. For instance, injection of current in ECs using sharp microelectrodes may result in non&#x02010;uniform control of <italic>V</italic>
+<sub><italic>m</italic></sub>. Voltage clamping of cell membrane is also restricted by the limited current&#x02010;passing ability of the microelectrodes. In addition, electrical stimulation may also initiate irreversible Faradaic reactions, potentially leading to the formation of gases such as H<sub>2</sub>, O<sub>2</sub> or Cl<sub>2</sub>, which are likely to harm the cell (Merrill <italic>et al</italic>., <xref rid="bph14183-bib-0050" ref-type="ref">2005</xref>). Optogenetics may enable a non&#x02010;contact stimulation of specific cell types in the arterial wall for prolonged periods of time and without these limitations.</p><p>In 2015, a Cl<sup>&#x02212;</sup>&#x02010;selective and H<sup>+</sup>&#x02010;impermeable ChR2 mutant was identified and termed iChloC (Wietek <italic>et al</italic>., <xref rid="bph14183-bib-0066" ref-type="ref">2015</xref>). Due to the high intracellular Cl<sup>&#x02212;</sup> concentration in VSMCs, activation of a light&#x02010;activated Cl<sup>&#x02212;</sup> channel is expected to evoke <italic>V</italic>
+<sub><italic>m</italic></sub> depolarization, activation of Ca<sub>v</sub> channels and smooth muscle contraction. Thus, we predict that iChloC could serve as a depolarizing mechanism without the changes in pH<sub>i</sub> associated with the H<sup>+</sup> permeability of ChR2(H134R) or the potential changes in intracellular Ca<sup>2+</sup> due to the ChR2(H134R)&#x02010;mediated Ca<sup>2+</sup> current. The use of iChloC may enable extension of vascular optogenetics to a much broader range of light stimulations and, consequently, enable a broader extent of artery tone regulation. There is no doubt that optogenetics has the potential to trigger new investigations in vascular research. It can be envisaged that opsins that cause <italic>V</italic>
+<sub><italic>m</italic></sub> hyperpolarization might lead to vessel relaxation. These opsins might have the potential to be utilized in gene therapy in human subjects. This might have important implications for the treatment of widespread vascular diseases associated with altered vessel tone.</p></sec></sec><sec id="bph14183-sec-0032"><title>Author contributions</title><p>P.T. initiated and directed the project and trained and supervised the team members throughout the project; P.S. trained N.J.G.R. in pH imaging; N.J.G.R., C.M.T., P.S. and P.T. designed the experiments. N.J.G.R., C.M.T. and H.G. conducted the experiments. N.J.G.R., C.M.T. and P.T. analysed the experiments. N.J.G.R. prepared all the figures. All authors discussed and interpreted the results. N.J.G.R. and P.T. wrote the manuscript, which was subsequently reviewed and approved by all the authors. P.T. obtained funding.</p></sec><sec id="bph14183-sec-0033"><title>Conflict of interest</title><p>The authors declare no conflicts of interest.</p></sec><sec id="bph14183-sec-0034"><title>Declaration of transparency and scientific rigour</title><p>This <ext-link ext-link-type="uri" xlink:href="http://onlinelibrary.wiley.com/doi/10.1111/bph.13405/abstract">http://onlinelibrary.wiley.com/doi/10.1111/bph.13405/abstract</ext-link> acknowledges that this paper adheres to the principles for transparent reporting and scientific rigour of preclinical research recommended by funding agencies, publishers and other organisations engaged with supporting research.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="bph14183-supitem-0001"><caption><p>
+<bold>Figure S1</bold> Effects of [KCl]<sub>e</sub> on the tension of rings of various artery types isolated from ChR2(H134R)&#x02010;SM mice. Mean tension versus [KCl]<sub>e</sub> relationships for the different artery types (aortic, A, (<italic>N</italic>=20, <italic>n</italic>=32); mesenteric, B, (<italic>N</italic>=5, <italic>n</italic>=11) and pulmonary, C, (<italic>N</italic>=5, <italic>n</italic>=11)). The curves through the filled symbols represent the best fit of the data with Eq. 5.</p><p>
+<bold>Figure S2</bold> Ca<sub>V</sub> channel currents in isolated aortic VSMCs A. Representative whole&#x02010;cell Ca<sub>V</sub> channel currents obtained from aortic VSMCs isolated from ChR2(H134R)&#x02010;SM mice in response to the stimulation protocol shown in the top panel. For clarity, only the currents elicited every 20 mV are displayed. B. Mean steady&#x02010;state activation (<italic>N</italic>=8, <italic>n</italic>=15) and inactivation (<italic>N</italic>=7, <italic>n</italic>=12) curves for Ca<sub>V</sub> channels measured in aortic VSMCs. Smooth curves represent the fit of the data using Eq. 3 and 4 (activation and inactivation, respectively). Grey bar highlights the range of <italic>V</italic>
+<sub><italic>m</italic></sub> that intact VSMCs can experience as a result of ChR2(H134R)&#x02010;mediated depolarisations. C. Mean whole&#x02010;cell Ca<sub>V</sub> currents versus <italic>V</italic>
+<sub><italic>m</italic></sub> relationships in the absence (<italic>N</italic>=8, <italic>n</italic>=15) or presence of 1 &#x003bc;M nifedipine (Nif) which was either kept in the dark (<italic>N</italic>=5, <italic>n</italic>=9) or exposed to blue light (2.4 mW/mm2) for 10 min (light conditioned) (<italic>N</italic>=6, <italic>n</italic>=20), as indicated. Curves through symbols represent the best fit of the data with Eq. 3.</p><p>
+<bold>Figure S3</bold> Effects of noradrenaline on the tension of aortic rings isolated from ChR2(H134R)&#x02010;SM mice. Mean tension versus noradrenaline concentration ([NA]) relationship (<italic>N</italic>=5, <italic>n</italic>=8). The curve through the filled symbols represent the best fit of the data with Eq. 5.</p><p>
+<bold>Table S1</bold> Parameters for tension versus [KCl]<sub>e</sub> relationships for artery rings obtained from ChR2(H134R)&#x02010;SM mice.</p><p>
+<bold>Table S2</bold> Parameters for tension versus [NA] relationships for artery rings obtained from ChR2(H134R)&#x02010;SM mice.</p></caption><media xlink:href="BPH-175-2028-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="bph14183-sec-0031"><title>Acknowledgements</title><p>We are grateful to Dr J. Galvanovskis (OXION Imaging Core Facility, University of Oxford) for expert advice on confocal imaging and Mr M. Preston (Dept. Pharmacology, University of Oxford) for constructing a LED power supply. P.T. and P.S.acknowledge support from the BHF (grant RE/08/004 and RG/15/9/31534, respectively). N.J.G.R. is a Wellcome Trust (OXION) DPhil student, and H.G. was a BHF&#x02010;funded PhD student.</p></ack><ref-list id="bph14183-bibl-0001" content-type="cited-references"><title>References</title><ref id="bph14183-bib-0001"><mixed-citation publication-type="journal" id="bph14183-cit-0002">
+<string-name>
+<surname>Aalkjaer</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Peng</surname>
+<given-names>HL</given-names>
+</string-name> (<year>1997</year>). <article-title>pH and smooth muscle</article-title>. <source xml:lang="en">Acta Physiol Scand</source>
+<volume>161</volume>: <fpage>557</fpage>&#x02013;<lpage>566</lpage>.<pub-id pub-id-type="pmid">9429665</pub-id></mixed-citation></ref><ref id="bph14183-bib-0002"><mixed-citation publication-type="journal" id="bph14183-cit-0003">
+<string-name>
+<surname>Adomaviciene</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Garnett</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Tammaro</surname>
+<given-names>P</given-names>
+</string-name> (<year>2013</year>). <article-title>Putative pore&#x02010;loops of TMEM16/anoctamin channels affect channel density in cell membranes</article-title>. <source xml:lang="en">J Physiol</source>
+<volume>591</volume>: <fpage>3487</fpage>&#x02013;<lpage>3505</lpage>.<pub-id pub-id-type="pmid">23613533</pub-id></mixed-citation></ref><ref id="bph14183-bib-0003"><mixed-citation publication-type="book" id="bph14183-cit-0004">
+<string-name>
+<surname>Aidley</surname>
+<given-names>DJ</given-names>
+</string-name> (<year>1998</year>). <source xml:lang="en">The Physiology of Excitable Cells</source>. <publisher-loc>Cambridge, UK</publisher-loc>: <publisher-name>Cambridge University Press</publisher-name>.</mixed-citation></ref><ref id="bph14183-bib-0004"><mixed-citation publication-type="journal" id="bph14183-cit-0005">
+<string-name>
+<surname>Alexander</surname>
+<given-names>SPH</given-names>
+</string-name>, <string-name>
+<surname>Striessnig</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kelly</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Marrion</surname>
+<given-names>NV</given-names>
+</string-name>, <string-name>
+<surname>Peters</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Faccenda</surname>
+<given-names>E</given-names>
+</string-name>
+<italic>et al</italic> (<year>2017a</year>). <article-title>The Concise Guide to PHARMACOLOGY 2017/18: Voltage&#x02010;gated ion channels</article-title>. <source xml:lang="en">Br J Pharmacol</source>
+<volume>174</volume>: <fpage>S160</fpage>&#x02013;<lpage>S194</lpage>.<pub-id pub-id-type="pmid">29055033</pub-id></mixed-citation></ref><ref id="bph14183-bib-0005"><mixed-citation publication-type="journal" id="bph14183-cit-0006">
+<string-name>
+<surname>Alexander</surname>
+<given-names>SPH</given-names>
+</string-name>, <string-name>
+<surname>Kelly</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Marrion</surname>
+<given-names>NV</given-names>
+</string-name>, <string-name>
+<surname>Peters</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Faccenda</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Harding</surname>
+<given-names>SD</given-names>
+</string-name>
+<italic>et al</italic> (<year>2017b</year>). <article-title>The Concise Guide to PHARMACOLOGY 2017/18: Other ion channels</article-title>. <source xml:lang="en">Br J Pharmacol</source>
+<volume>174</volume>: <fpage>S195</fpage>&#x02013;<lpage>S207</lpage>.<pub-id pub-id-type="pmid">29055039</pub-id></mixed-citation></ref><ref id="bph14183-bib-0006"><mixed-citation publication-type="journal" id="bph14183-cit-0007">
+<string-name>
+<surname>Alexander</surname>
+<given-names>SPH</given-names>
+</string-name>, <string-name>
+<surname>Peters</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Kelly</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Marrion</surname>
+<given-names>NV</given-names>
+</string-name>, <string-name>
+<surname>Faccenda</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Harding</surname>
+<given-names>SD</given-names>
+</string-name>
+<italic>et al</italic> (<year>2017c</year>). <article-title>The Concise Guide to PHARMACOLOGY 2017/18: Ligand&#x02010;gated ion channels</article-title>. <source xml:lang="en">Br J Pharmacol</source>
+<volume>174</volume>: <fpage>S130</fpage>&#x02013;<lpage>S159</lpage>.<pub-id pub-id-type="pmid">29055038</pub-id></mixed-citation></ref><ref id="bph14183-bib-0007"><mixed-citation publication-type="journal" id="bph14183-cit-0008">
+<string-name>
+<surname>Arrenberg</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Stainier</surname>
+<given-names>DYR</given-names>
+</string-name>, <string-name>
+<surname>Baier</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Huisken</surname>
+<given-names>J</given-names>
+</string-name> (<year>2010</year>). <article-title>Optogenetic control of cardiac function</article-title>. <source xml:lang="en">Science</source>
+<volume>330</volume>: <fpage>971</fpage>&#x02013;<lpage>974</lpage>.<pub-id pub-id-type="pmid">21071670</pub-id></mixed-citation></ref><ref id="bph14183-bib-0008"><mixed-citation publication-type="journal" id="bph14183-cit-0009">
+<string-name>
+<surname>Asano</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Ishizua</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Yawo</surname>
+<given-names>H</given-names>
+</string-name> (<year>2012</year>). <article-title>Optically controlled contraction of photosensitive skeletal muscle cells</article-title>. <source xml:lang="en">Biotechnol Bioeng</source>
+<volume>109</volume>: <fpage>199</fpage>&#x02013;<lpage>204</lpage>.<pub-id pub-id-type="pmid">21809334</pub-id></mixed-citation></ref><ref id="bph14183-bib-0009"><mixed-citation publication-type="journal" id="bph14183-cit-0010">
+<string-name>
+<surname>Atkinson</surname>
+<given-names>J</given-names>
+</string-name> (<year>1992</year>). <article-title>Vascular calcium overload: physiological and pharmacological consequences</article-title>. <source xml:lang="en">Drugs</source>
+<volume>44</volume>: <fpage>111</fpage>&#x02013;<lpage>118</lpage>.<pub-id pub-id-type="pmid">1283572</pub-id></mixed-citation></ref><ref id="bph14183-bib-0010"><mixed-citation publication-type="journal" id="bph14183-cit-0011">
+<string-name>
+<surname>Bai</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>del Corsso</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Srinivas</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Spray</surname>
+<given-names>DC</given-names>
+</string-name> (<year>2006</year>). <article-title>Block of specific gap junction channel subtypes by 2&#x02010;aminoethoxydiphenyl borate (2&#x02010;APB)</article-title>. <source xml:lang="en">J Pharmacol Exp Ther</source>
+<volume>319</volume>: <fpage>1452</fpage>&#x02013;<lpage>1458</lpage>.<pub-id pub-id-type="pmid">16985167</pub-id></mixed-citation></ref><ref id="bph14183-bib-0011"><mixed-citation publication-type="journal" id="bph14183-cit-0012">
+<string-name>
+<surname>Berndt</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Prigge</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gradmann</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Hegemann</surname>
+<given-names>P</given-names>
+</string-name> (<year>2010</year>). <article-title>Two open states with progressive proton selectivities in the branched channelrhodopsin&#x02010;2 photocycle</article-title>. <source xml:lang="en">Biophys J</source>
+<volume>98</volume>: <fpage>753</fpage>&#x02013;<lpage>761</lpage>.<pub-id pub-id-type="pmid">20197028</pub-id></mixed-citation></ref><ref id="bph14183-bib-0012"><mixed-citation publication-type="journal" id="bph14183-cit-0013">
+<string-name>
+<surname>Berndt</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Schoenenberger</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Mattis</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Tye</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Deisseroth</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Hegemann</surname>
+<given-names>P</given-names>
+</string-name>
+<italic>et al</italic> (<year>2011</year>). <article-title>High&#x02010;efficiency channelrhodopsins for fast neuronal stimulation at low light levels</article-title>. <source xml:lang="en">Proc Natl Acad Sci U S A</source>
+<volume>108</volume>: <fpage>7595</fpage>&#x02013;<lpage>7600</lpage>.<pub-id pub-id-type="pmid">21504945</pub-id></mixed-citation></ref><ref id="bph14183-bib-0013"><mixed-citation publication-type="journal" id="bph14183-cit-0014">
+<string-name>
+<surname>Boedtkjer</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Aalkjaer</surname>
+<given-names>C</given-names>
+</string-name> (<year>2012</year>). <article-title>Intracellular pH in the resistance vasculature: regulation and functional implications</article-title>. <source xml:lang="en">J Vasc Res</source>
+<volume>49</volume>: <fpage>479</fpage>&#x02013;<lpage>496</lpage>.<pub-id pub-id-type="pmid">22907294</pub-id></mixed-citation></ref><ref id="bph14183-bib-0014"><mixed-citation publication-type="journal" id="bph14183-cit-0015">
+<string-name>
+<surname>Boedtkjer</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Bentzon</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Dam</surname>
+<given-names>VS</given-names>
+</string-name>, <string-name>
+<surname>Aalkjaer</surname>
+<given-names>C</given-names>
+</string-name> (<year>2016</year>). <article-title>Na<sup>+</sup>, HCO3<sup>&#x02212;</sup>&#x02010;cotransporter NBCn1 increases pHi gradients, filopodia and migration of smooth muscle cells and promotes arterial remodeling</article-title>. <source xml:lang="en">Eur Soc Cardiol</source>
+<volume>1</volume>: <fpage>227</fpage>&#x02013;<lpage>239</lpage>.</mixed-citation></ref><ref id="bph14183-bib-0015"><mixed-citation publication-type="journal" id="bph14183-cit-0016">
+<string-name>
+<surname>Boyden</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Bamberg</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Nagel</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Deisseroth</surname>
+<given-names>K</given-names>
+</string-name> (<year>2005</year>). <article-title>Millisecond&#x02010;timescale, genetically targeted optical control of neural activity</article-title>. <source xml:lang="en">Nat Neurosci</source>
+<volume>8</volume>: <fpage>1263</fpage>&#x02013;<lpage>1268</lpage>.<pub-id pub-id-type="pmid">16116447</pub-id></mixed-citation></ref><ref id="bph14183-bib-0016"><mixed-citation publication-type="book" id="bph14183-cit-0017">
+<string-name>
+<surname>Brayfield</surname>
+<given-names>A</given-names>
+</string-name> (<year>2014</year>). <source xml:lang="en">Martindale: The Complete Drug Reference</source>. <publisher-loc>London, UK</publisher-loc>: <publisher-name>Pharmaceutical Press</publisher-name>.</mixed-citation></ref><ref id="bph14183-bib-0017"><mixed-citation publication-type="journal" id="bph14183-cit-0018">
+<string-name>
+<surname>Bruegmann</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>van Bremen</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Vogt</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name>
+<surname>Send</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Fleischmann</surname>
+<given-names>BK</given-names>
+</string-name>, <string-name>
+<surname>Sasse</surname>
+<given-names>P</given-names>
+</string-name> (<year>2015</year>). <article-title>Optogenetic control of contractile function in skeletal muscle</article-title>. <source xml:lang="en">Nat Commun</source>
+<volume>6</volume>: <fpage>7153</fpage>.<pub-id pub-id-type="pmid">26035411</pub-id></mixed-citation></ref><ref id="bph14183-bib-0018"><mixed-citation publication-type="journal" id="bph14183-cit-0019">
+<string-name>
+<surname>Bruegmann</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Malan</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Hesse</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Beiert</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Fuegemann</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Fleischmann</surname>
+<given-names>BK</given-names>
+</string-name>
+<italic>et al</italic> (<year>2010</year>). <article-title>Optogenetic control of heart muscle <italic>in vitro</italic> and <italic>in vivo</italic>
+</article-title>. <source xml:lang="en">Nat Methods</source>
+<volume>7</volume>: <fpage>897</fpage>&#x02013;<lpage>900</lpage>.<pub-id pub-id-type="pmid">20881965</pub-id></mixed-citation></ref><ref id="bph14183-bib-0019"><mixed-citation publication-type="journal" id="bph14183-cit-0020">
+<string-name>
+<surname>Bulley</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Jaggar</surname>
+<given-names>JH</given-names>
+</string-name> (<year>2014</year>). <article-title>Cl<sup>&#x02212;</sup> channels in smooth muscle cells</article-title>. <source xml:lang="en">Pflugers Arch</source>
+<volume>466</volume>: <fpage>997</fpage>&#x02013;<lpage>1003</lpage>.</mixed-citation></ref><ref id="bph14183-bib-0020"><mixed-citation publication-type="journal" id="bph14183-cit-0021">
+<string-name>
+<surname>Burris</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Bulley</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Neeb</surname>
+<given-names>ZP</given-names>
+</string-name>, <string-name>
+<surname>Jaggar</surname>
+<given-names>JH</given-names>
+</string-name> (<year>2015</year>). <article-title>9&#x02010;Phenanthrol inhibits recombinant and arterial myocyte TMEM16A channels</article-title>. <source xml:lang="en">Br J Pharmacol</source>
+<volume>172</volume>: <fpage>2459</fpage>&#x02013;<lpage>2468</lpage>.<pub-id pub-id-type="pmid">25573456</pub-id></mixed-citation></ref><ref id="bph14183-bib-0021"><mixed-citation publication-type="journal" id="bph14183-cit-0022">
+<string-name>
+<surname>Caldwell</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Herin</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Nagel</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Bamberg</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Scheschonka</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Betz</surname>
+<given-names>H</given-names>
+</string-name> (<year>2008</year>). <article-title>Increases in intracellular calcium triggered by channelrhodopsin&#x02010;2 potentiate the response of metabotropic glutamate receptor mGluR7</article-title>. <source xml:lang="en">J Biol Chem</source>
+<volume>283</volume>: <fpage>24300</fpage>&#x02013;<lpage>24307</lpage>.<pub-id pub-id-type="pmid">18599484</pub-id></mixed-citation></ref><ref id="bph14183-bib-0022"><mixed-citation publication-type="journal" id="bph14183-cit-0023">
+<string-name>
+<surname>Cribbs</surname>
+<given-names>LL</given-names>
+</string-name> (<year>2001</year>). <article-title>Vascular smooth muscle calcium channels</article-title>. <source xml:lang="en">Circ Res</source>
+<volume>89</volume>.</mixed-citation></ref><ref id="bph14183-bib-0023"><mixed-citation publication-type="journal" id="bph14183-cit-0024">
+<string-name>
+<surname>Curtis</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Bond</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Spina</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Ahluwalia</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Alexander</surname>
+<given-names>SPA</given-names>
+</string-name>, <string-name>
+<surname>Giembycz</surname>
+<given-names>MA</given-names>
+</string-name>
+<italic>et al</italic> (<year>2015</year>). <article-title>Experimental design and analysis and their reporting: new guidance for publication in BJP</article-title>. <source xml:lang="en">Br J Pharmacol</source>
+<volume>172</volume>: <fpage>3461</fpage>&#x02013;<lpage>3471</lpage>.<pub-id pub-id-type="pmid">26114403</pub-id></mixed-citation></ref><ref id="bph14183-bib-0024"><mixed-citation publication-type="journal" id="bph14183-cit-0025">
+<string-name>
+<surname>Ehrreich</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Furchgott</surname>
+<given-names>R</given-names>
+</string-name> (<year>1968</year>). <article-title>Relaxation of mammalian smooth muscles by visible and ultraviolet radiation</article-title>. <source xml:lang="en">Nature</source>
+<volume>218</volume>: <fpage>682</fpage>&#x02013;<lpage>684</lpage>.<pub-id pub-id-type="pmid">5655961</pub-id></mixed-citation></ref><ref id="bph14183-bib-0025"><mixed-citation publication-type="journal" id="bph14183-cit-0026">
+<string-name>
+<surname>Entcheva</surname>
+<given-names>E</given-names>
+</string-name> (<year>2013</year>). <article-title>Cardiac optogenetics</article-title>. <source xml:lang="en">Am J Physiol Heart Circ Physiol</source>
+<volume>304</volume>: <fpage>H1179</fpage>&#x02013;<lpage>H1191</lpage>.<pub-id pub-id-type="pmid">23457014</pub-id></mixed-citation></ref><ref id="bph14183-bib-0026"><mixed-citation publication-type="journal" id="bph14183-cit-0027">
+<string-name>
+<surname>F&#x000e9;l&#x000e9;tou</surname>
+<given-names>M</given-names>
+</string-name> (<year>2009</year>). <article-title>Calcium&#x02010;activated potassium channels and endothelial dysfunction: therapeutic options?</article-title>
+<source xml:lang="en">Br J Pharmacol</source>
+<volume>156</volume>: <fpage>545</fpage>&#x02013;<lpage>562</lpage>.<pub-id pub-id-type="pmid">19187341</pub-id></mixed-citation></ref><ref id="bph14183-bib-0027"><mixed-citation publication-type="journal" id="bph14183-cit-0028">
+<string-name>
+<surname>Fenno</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Yizhar</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Deisseroth</surname>
+<given-names>K</given-names>
+</string-name> (<year>2011</year>). <article-title>The development and application of optogenetics</article-title>. <source xml:lang="en">Annu Rev Neurosci</source>
+<volume>34</volume>: <fpage>389</fpage>&#x02013;<lpage>412</lpage>.<pub-id pub-id-type="pmid">21692661</pub-id></mixed-citation></ref><ref id="bph14183-bib-0028"><mixed-citation publication-type="journal" id="bph14183-cit-0029">
+<string-name>
+<surname>Figueroa</surname>
+<given-names>XF</given-names>
+</string-name>, <string-name>
+<surname>Duling</surname>
+<given-names>BR</given-names>
+</string-name> (<year>2009</year>). <article-title>Gap junctions in the control of vascular function</article-title>. <source xml:lang="en">Antioxid Redox Signal</source>
+<volume>11</volume>: <fpage>251</fpage>&#x02013;<lpage>266</lpage>.<pub-id pub-id-type="pmid">18831678</pub-id></mixed-citation></ref><ref id="bph14183-bib-0029"><mixed-citation publication-type="journal" id="bph14183-cit-0030">
+<string-name>
+<surname>Fleckenstein&#x02010;Gr&#x000fc;n</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Frey</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Thimm</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Hofg&#x000e4;rtner</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Fleckenstein</surname>
+<given-names>A</given-names>
+</string-name> (<year>1992</year>). <article-title>Calcium overload: an important cellular mechanism in hypertension and arteriosclerosis</article-title>. <source xml:lang="en">Drugs</source>
+<volume>44</volume>: <fpage>23</fpage>&#x02013;<lpage>30</lpage>.<pub-id pub-id-type="pmid">1283581</pub-id></mixed-citation></ref><ref id="bph14183-bib-0030"><mixed-citation publication-type="journal" id="bph14183-cit-0031">
+<string-name>
+<surname>Furchgott</surname>
+<given-names>RF</given-names>
+</string-name>, <string-name>
+<surname>Sleator</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Mccaman</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name>
+<surname>Elchlepp</surname>
+<given-names>J</given-names>
+</string-name> (<year>1955</year>). <article-title>Relaxation of arterial strips by light and the influence of drugs on this photodynamic effect</article-title>. <source xml:lang="en">J Pharmacol Exp Ther</source>
+<volume>113</volume>: <fpage>22</fpage>.</mixed-citation></ref><ref id="bph14183-bib-0031"><mixed-citation publication-type="journal" id="bph14183-cit-0032">
+<string-name>
+<surname>Gollasch</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Nelson</surname>
+<given-names>MT</given-names>
+</string-name> (<year>1997</year>). <article-title>Voltage&#x02010;dependent Ca<sup>2+</sup> channels in arterial smooth muscle cells</article-title>. <source xml:lang="en">Kidney Blood Press Res</source>
+<volume>20</volume>: <fpage>355</fpage>&#x02013;<lpage>371</lpage>.<pub-id pub-id-type="pmid">9453447</pub-id></mixed-citation></ref><ref id="bph14183-bib-0032"><mixed-citation publication-type="journal" id="bph14183-cit-0033">
+<string-name>
+<surname>Gonzalez&#x02010;Cobos</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Trebak</surname>
+<given-names>M</given-names>
+</string-name> (<year>2010</year>). <article-title>TRPC channels in smooth muscle cells</article-title>. <source xml:lang="en">Front. Biosci</source>. (Landmark Ed <volume>15</volume>: <fpage>1023</fpage>&#x02013;<lpage>1039</lpage>.</mixed-citation></ref><ref id="bph14183-bib-0033"><mixed-citation publication-type="journal" id="bph14183-cit-0034">
+<string-name>
+<surname>Gradmann</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Berndt</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Schneider</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Hegemann</surname>
+<given-names>P</given-names>
+</string-name> (<year>2011</year>). <article-title>Rectification of the channelrhodopsin early conductance</article-title>. <source xml:lang="en">Biophys J</source>
+<volume>101</volume>: <fpage>1057</fpage>&#x02013;<lpage>1068</lpage>.<pub-id pub-id-type="pmid">21889442</pub-id></mixed-citation></ref><ref id="bph14183-bib-0034"><mixed-citation publication-type="book" id="bph14183-cit-0035">
+<string-name>
+<surname>Guibert</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Ducret</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Savineau</surname>
+<given-names>J&#x02010;P</given-names>
+</string-name> (<year>2011</year>). <source xml:lang="en">Expression and Physiological Roles of TRP Channels in Smooth Muscle Cells</source>. <publisher-name>Springer</publisher-name>: <publisher-loc>Dordrecht</publisher-loc>, pp. <fpage>687</fpage>&#x02013;<lpage>706</lpage>.</mixed-citation></ref><ref id="bph14183-bib-0035"><mixed-citation publication-type="journal" id="bph14183-cit-0036">
+<string-name>
+<surname>Harding</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name>
+<surname>Sharman</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Faccenda</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Southan</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Pawson</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Ireland</surname>
+<given-names>S</given-names>
+</string-name>
+<italic>et al</italic> (<year>2018</year>). <article-title>The IUPHAR/BPS Guide to PHARMACOLOGY in 2018: updates and expansion to encompass the new guide to IMMUNOPHARMACOLOGY</article-title>. <source xml:lang="en">Nucl Acids Res</source>
+<volume>46</volume>: <fpage>D1091</fpage>&#x02013;<lpage>D1106</lpage>.<pub-id pub-id-type="pmid">29149325</pub-id></mixed-citation></ref><ref id="bph14183-bib-0036"><mixed-citation publication-type="journal" id="bph14183-cit-0037">
+<string-name>
+<surname>Hill</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Tong</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Yuan</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Murikinati</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Gupta</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Grutzendler</surname>
+<given-names>J</given-names>
+</string-name> (<year>2015</year>). <article-title>Regional blood flow in the normal and ischemic brain is controlled by arteriolar smooth muscle cell contractility and not by capillary pericytes</article-title>. <source xml:lang="en">Neuron</source>
+<volume>87</volume>: <fpage>95</fpage>&#x02013;<lpage>110</lpage>.<pub-id pub-id-type="pmid">26119027</pub-id></mixed-citation></ref><ref id="bph14183-bib-0037"><mixed-citation publication-type="journal" id="bph14183-cit-0038">
+<string-name>
+<surname>H&#x000fc;bner</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Schroeder</surname>
+<given-names>BC</given-names>
+</string-name>, <string-name>
+<surname>Ehmke</surname>
+<given-names>H</given-names>
+</string-name> (<year>2015</year>). <article-title>Regulation of vascular tone and arterial blood pressure: role of chloride transport in vascular smooth muscle</article-title>. <source xml:lang="en">Pflugers Arch Eur J Physiol</source>
+<volume>467</volume>: <fpage>605</fpage>&#x02013;<lpage>614</lpage>.<pub-id pub-id-type="pmid">25588975</pub-id></mixed-citation></ref><ref id="bph14183-bib-0038"><mixed-citation publication-type="journal" id="bph14183-cit-0039">
+<string-name>
+<surname>Ito</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Takakura</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sato</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Sutko</surname>
+<given-names>JL</given-names>
+</string-name> (<year>1986</year>). <article-title>Ryanodine inhibits the release of calcium from intracellular stores in guinea pig aortic smooth muscle</article-title>. <source xml:lang="en">Circ Res</source>
+<volume>58</volume>: <fpage>730</fpage>&#x02013;<lpage>734</lpage>.<pub-id pub-id-type="pmid">3708768</pub-id></mixed-citation></ref><ref id="bph14183-bib-0039"><mixed-citation publication-type="journal" id="bph14183-cit-0040">
+<string-name>
+<surname>Jackson</surname>
+<given-names>WF</given-names>
+</string-name> (<year>2000</year>). <article-title>Ion channels and vascular tone</article-title>. <source xml:lang="en">Hypertension</source>
+<volume>35</volume>: <fpage>173</fpage>&#x02013;<lpage>178</lpage>.<pub-id pub-id-type="pmid">10642294</pub-id></mixed-citation></ref><ref id="bph14183-bib-0040"><mixed-citation publication-type="journal" id="bph14183-cit-0041">
+<string-name>
+<surname>Kilkenny</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Browne</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Cuthill</surname>
+<given-names>IC</given-names>
+</string-name>, <string-name>
+<surname>Emerson</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Altman</surname>
+<given-names>DG</given-names>
+</string-name>, 
+<collab collab-type="authors">NC3Rs Reporting Guidelines Working Group</collab>
+(<year>2010</year>). <article-title>Animal research: reporting <italic>in vivo</italic> experiments: the ARRIVE guidelines</article-title>. <source xml:lang="en">Br J Pharmacol</source>
+<volume>160</volume>: <fpage>1577</fpage>&#x02013;<lpage>1579</lpage>.<pub-id pub-id-type="pmid">20649561</pub-id></mixed-citation></ref><ref id="bph14183-bib-0041"><mixed-citation publication-type="journal" id="bph14183-cit-0042">
+<string-name>
+<surname>Kim</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>McCall</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Jung</surname>
+<given-names>YH</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Siuda</surname>
+<given-names>ER</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>
+<italic>et al</italic> (<year>2013</year>). <article-title>Injectable, cellular&#x02010;scale optoelectronics with applications for wireless optogenetics</article-title>. <source xml:lang="en">Science</source>
+<volume>340</volume>: <fpage>211</fpage>&#x02013;<lpage>216</lpage>.<pub-id pub-id-type="pmid">23580530</pub-id></mixed-citation></ref><ref id="bph14183-bib-0042"><mixed-citation publication-type="journal" id="bph14183-cit-0043">
+<string-name>
+<surname>Knot</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Zimmermann</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Nelson</surname>
+<given-names>MT</given-names>
+</string-name> (<year>1996</year>). <article-title>Extracellular K<sup>+</sup>&#x02010;induced hyperpolarizations and dilatations of rat coronary and cerebral arteries involve inward rectifier K<sup>+</sup> channels</article-title>. <source xml:lang="en">J. Physiol.</source>
+<volume>492</volume> (<italic>Pt 2</italic>: <fpage>419</fpage>&#x02013;<lpage>430</lpage>.<pub-id pub-id-type="pmid">9019539</pub-id></mixed-citation></ref><ref id="bph14183-bib-0043"><mixed-citation publication-type="journal" id="bph14183-cit-0044">
+<string-name>
+<surname>Lin</surname>
+<given-names>J</given-names>
+</string-name> (<year>2011</year>). <article-title>A user's guide to channelrhodopsin variants: features, limitations and future developments</article-title>. <source xml:lang="en">Exp Physiol</source>
+<volume>96</volume>: <fpage>19</fpage>&#x02013;<lpage>25</lpage>.<pub-id pub-id-type="pmid">20621963</pub-id></mixed-citation></ref><ref id="bph14183-bib-0044"><mixed-citation publication-type="journal" id="bph14183-cit-0045">
+<string-name>
+<surname>Lin</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>MZ</given-names>
+</string-name>, <string-name>
+<surname>Steinbach</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Tsien</surname>
+<given-names>RY</given-names>
+</string-name> (<year>2009</year>). <article-title>Characterization of engineered channelrhodopsin variants with improved properties and kinetics</article-title>. <source xml:lang="en">Biophys J</source>
+<volume>96</volume>: <fpage>1803</fpage>&#x02013;<lpage>1814</lpage>.<pub-id pub-id-type="pmid">19254539</pub-id></mixed-citation></ref><ref id="bph14183-bib-0045"><mixed-citation publication-type="journal" id="bph14183-cit-0046">
+<string-name>
+<surname>Manoury</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Tamuleviciute</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Tammaro</surname>
+<given-names>P</given-names>
+</string-name> (<year>2010</year>). <article-title>TMEM16A/anoctamin 1 protein mediates calcium&#x02010;activated chloride currents in pulmonary arterial smooth muscle cells</article-title>. <source xml:lang="en">J Physiol</source>
+<volume>588</volume>: <fpage>2305</fpage>&#x02013;<lpage>2314</lpage>.<pub-id pub-id-type="pmid">20421283</pub-id></mixed-citation></ref><ref id="bph14183-bib-0046"><mixed-citation publication-type="journal" id="bph14183-cit-0047">
+<string-name>
+<surname>Matchkov</surname>
+<given-names>VV</given-names>
+</string-name>, <string-name>
+<surname>Boedtkjer</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Aalkjaer</surname>
+<given-names>C</given-names>
+</string-name> (<year>2015</year>). <article-title>The role of Ca<sup>2+</sup> activated Cl<sup>&#x02212;</sup> channels in blood pressure control</article-title>. <source xml:lang="en">Curr Opin Pharmacol</source>
+<volume>21</volume>: <fpage>127</fpage>&#x02013;<lpage>137</lpage>.<pub-id pub-id-type="pmid">25727479</pub-id></mixed-citation></ref><ref id="bph14183-bib-0047"><mixed-citation publication-type="journal" id="bph14183-cit-0048">
+<string-name>
+<surname>Mattis</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Tye</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Ferenczi</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Ramakrishnan</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>O'Shea</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Prakash</surname>
+<given-names>R</given-names>
+</string-name>
+<italic>et al</italic> (<year>2011</year>). <article-title>Principles for applying optogenetic tools derived from direct comparative analysis of microbial opsins</article-title>. <source xml:lang="en">Nat Methods</source>
+<volume>9</volume>: <fpage>159</fpage>&#x02013;<lpage>172</lpage>.<pub-id pub-id-type="pmid">22179551</pub-id></mixed-citation></ref><ref id="bph14183-bib-0048"><mixed-citation publication-type="journal" id="bph14183-cit-0049">
+<string-name>
+<surname>McCloy</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Rogers</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Caldon</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name>
+<surname>Lorca</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Castro</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Burgess</surname>
+<given-names>A</given-names>
+</string-name> (<year>2014</year>). <article-title>Partial inhibition of Cdk1 in G<sub>2</sub> phase overrides the SAC and decouples mitotic events</article-title>. <source xml:lang="en">Cell Cycle</source>
+<volume>13</volume>: <fpage>1400</fpage>&#x02013;<lpage>1412</lpage>.<pub-id pub-id-type="pmid">24626186</pub-id></mixed-citation></ref><ref id="bph14183-bib-0049"><mixed-citation publication-type="journal" id="bph14183-cit-0050">
+<string-name>
+<surname>McGrath</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Lilley</surname>
+<given-names>E</given-names>
+</string-name> (<year>2015</year>). <article-title>Implementing guidelines on reporting research using animals (ARRIVE etc.): new requirements for publication in BJP</article-title>. <source xml:lang="en">Br J Pharmacol</source>
+<volume>172</volume>: <fpage>3189</fpage>&#x02013;<lpage>3193</lpage>.<pub-id pub-id-type="pmid">25964986</pub-id></mixed-citation></ref><ref id="bph14183-bib-0050"><mixed-citation publication-type="journal" id="bph14183-cit-0051">
+<string-name>
+<surname>Merrill</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Bikson</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Jefferys</surname>
+<given-names>JGR</given-names>
+</string-name> (<year>2005</year>). <article-title>Electrical stimulation of excitable tissue: design of efficacious and safe protocols</article-title>. <source xml:lang="en">J Neurosci Methods</source>
+<volume>141</volume>: <fpage>171</fpage>&#x02013;<lpage>198</lpage>.<pub-id pub-id-type="pmid">15661300</pub-id></mixed-citation></ref><ref id="bph14183-bib-0051"><mixed-citation publication-type="journal" id="bph14183-cit-0052">
+<string-name>
+<surname>Nagel</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Brauner</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Liewald</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Adeishvili</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Bamberg</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Gottschalk</surname>
+<given-names>A</given-names>
+</string-name> (<year>2005</year>). <article-title>Light activation of channelrhodopsin&#x02010;2 in excitable cells of <italic>Caenorhabditis elegans</italic> triggers rapid behavioral responses</article-title>. <source xml:lang="en">Curr Biol</source>
+<volume>15</volume>: <fpage>2279</fpage>&#x02013;<lpage>2284</lpage>.<pub-id pub-id-type="pmid">16360690</pub-id></mixed-citation></ref><ref id="bph14183-bib-0052"><mixed-citation publication-type="journal" id="bph14183-cit-0053">
+<string-name>
+<surname>Nagel</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Szellas</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Huhn</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Kateriya</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Adeishvili</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Berthold</surname>
+<given-names>P</given-names>
+</string-name>
+<italic>et al</italic> (<year>2003</year>). <article-title>Channelrhodopsin&#x02010;2, a directly light&#x02010;gated cation&#x02010;selective membrane channel</article-title>. <source xml:lang="en">Proc Natl Acad Sci U S A</source>
+<volume>100</volume>: <fpage>13940</fpage>&#x02013;<lpage>13945</lpage>.<pub-id pub-id-type="pmid">14615590</pub-id></mixed-citation></ref><ref id="bph14183-bib-0053"><mixed-citation publication-type="journal" id="bph14183-cit-0054">
+<string-name>
+<surname>Nelson</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>Patlak</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Worley</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Standen</surname>
+<given-names>NB</given-names>
+</string-name> (<year>1990</year>). <article-title>Calcium channels, potassium channels, and voltage dependence of arterial smooth muscle tone</article-title>. <source xml:lang="en">Am J Physiol</source>
+<volume>259</volume>: <fpage>C3</fpage>&#x02013;<lpage>C18</lpage>.<pub-id pub-id-type="pmid">2164782</pub-id></mixed-citation></ref><ref id="bph14183-bib-0054"><mixed-citation publication-type="journal" id="bph14183-cit-0055">
+<string-name>
+<surname>Nelson</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>Quayle</surname>
+<given-names>JM</given-names>
+</string-name> (<year>1995</year>). <article-title>Physiological roles and properties of potassium channels in arterial smooth muscle</article-title>. <source xml:lang="en">Am J Physiol</source>
+<volume>268</volume>: <fpage>C799</fpage>&#x02013;<lpage>C822</lpage>.<pub-id pub-id-type="pmid">7733230</pub-id></mixed-citation></ref><ref id="bph14183-bib-0055"><mixed-citation publication-type="journal" id="bph14183-cit-0056">
+<string-name>
+<surname>Oh</surname>
+<given-names>S&#x02010;J</given-names>
+</string-name>, <string-name>
+<surname>Hwang</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Jung</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>
+<given-names>JY</given-names>
+</string-name>
+<italic>et al</italic> (<year>2013</year>). <article-title>MONNA, a potent and selective blocker for transmembrane protein with unknown function 16/anoctamin&#x02010;1</article-title>. <source xml:lang="en">Mol Pharmacol</source>
+<volume>84</volume>: <fpage>726</fpage>&#x02013;<lpage>735</lpage>.<pub-id pub-id-type="pmid">23997117</pub-id></mixed-citation></ref><ref id="bph14183-bib-0056"><mixed-citation publication-type="journal" id="bph14183-cit-0057">
+<string-name>
+<surname>Page</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Di Cera</surname>
+<given-names>E</given-names>
+</string-name> (<year>2006</year>). <article-title>Role of Na<sup>+</sup> and K<sup>+</sup> in enzyme function</article-title>. <source xml:lang="en">Physiol Rev</source>
+<volume>86</volume>: <fpage>1049</fpage>&#x02013;<lpage>1092</lpage>.<pub-id pub-id-type="pmid">17015484</pub-id></mixed-citation></ref><ref id="bph14183-bib-0057"><mixed-citation publication-type="journal" id="bph14183-cit-0058">
+<string-name>
+<surname>Platoshyn</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Golovina</surname>
+<given-names>VA</given-names>
+</string-name>, <string-name>
+<surname>Bailey</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name>
+<surname>Limsuwan</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Krick</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Juhaszova</surname>
+<given-names>M</given-names>
+</string-name>
+<italic>et al</italic> (<year>2000</year>). <article-title>Sustained membrane depolarization and pulmonary artery smooth muscle cell proliferation</article-title>. <source xml:lang="en">Am J Physiol Cell Physiol</source>
+<volume>279</volume>: <fpage>C1540</fpage>&#x02013;<lpage>C1549</lpage>.<pub-id pub-id-type="pmid">11029301</pub-id></mixed-citation></ref><ref id="bph14183-bib-0058"><mixed-citation publication-type="journal" id="bph14183-cit-0059">
+<string-name>
+<surname>Reinbothe</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name>
+<surname>Safi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Axelsson</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name>
+<surname>Mollet</surname>
+<given-names>IG</given-names>
+</string-name>, <string-name>
+<surname>Rosengren</surname>
+<given-names>AH</given-names>
+</string-name> (<year>2014</year>). <article-title>Optogenetic control of insulin secretion in intact pancreatic islets with &#x003b2;&#x02010;cell&#x02010;specific expression of channelrhodopsin&#x02010;2</article-title>. <source xml:lang="en">Islets</source>
+<volume>6</volume>: <elocation-id>e28095</elocation-id>.<pub-id pub-id-type="pmid">25483880</pub-id></mixed-citation></ref><ref id="bph14183-bib-0059"><mixed-citation publication-type="journal" id="bph14183-cit-0060">
+<string-name>
+<surname>Rungta</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Osmanski</surname>
+<given-names>B&#x02010;F</given-names>
+</string-name>, <string-name>
+<surname>Boido</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Tanter</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Charpak</surname>
+<given-names>S</given-names>
+</string-name> (<year>2017</year>). <article-title>Light controls cerebral blood flow in naive animals</article-title>. <source xml:lang="en">Nat Commun</source>
+<volume>8</volume>: <elocation-id>14191</elocation-id>.<pub-id pub-id-type="pmid">28139643</pub-id></mixed-citation></ref><ref id="bph14183-bib-0060"><mixed-citation publication-type="journal" id="bph14183-cit-0061">
+<string-name>
+<surname>Sakar</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Neal</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Boudou</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Borochin</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Weiss</surname>
+<given-names>R</given-names>
+</string-name>
+<italic>et al</italic> (<year>2012</year>). <article-title>Formation and optogenetic control of engineered 3D skeletal muscle bioactuators</article-title>. <source xml:lang="en">Lab Chip</source>
+<volume>12</volume>: <fpage>4976</fpage>&#x02013;<lpage>4985</lpage>.<pub-id pub-id-type="pmid">22976544</pub-id></mixed-citation></ref><ref id="bph14183-bib-0061"><mixed-citation publication-type="journal" id="bph14183-cit-0062">
+<string-name>
+<surname>Seo</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>HK</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Jeon</surname>
+<given-names>DK</given-names>
+</string-name>, <string-name>
+<surname>Jo</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Jo</surname>
+<given-names>M</given-names>
+</string-name>
+<italic>et al</italic> (<year>2016</year>). <article-title>Ani9, a novel potent small&#x02010;molecule ANO1 inhibitor with negligible effect on ANO2</article-title>. <source xml:lang="en">PLoS One</source>
+<volume>11</volume>: <fpage>1</fpage>&#x02013;<lpage>16</lpage>.</mixed-citation></ref><ref id="bph14183-bib-0062"><mixed-citation publication-type="journal" id="bph14183-cit-0063">
+<string-name>
+<surname>Sikka</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Hussmann</surname>
+<given-names>GP</given-names>
+</string-name>, <string-name>
+<surname>Pandey</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Cao</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hori</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>JT</given-names>
+</string-name>
+<italic>et al</italic> (<year>2014</year>). <article-title>Melanopsin mediates light&#x02010;dependent relaxation in blood vessels</article-title>. <source xml:lang="en">Proc Natl Acad Sci</source>
+<volume>111</volume>: <fpage>17977</fpage>&#x02013;<lpage>17982</lpage>.<pub-id pub-id-type="pmid">25404319</pub-id></mixed-citation></ref><ref id="bph14183-bib-0063"><mixed-citation publication-type="journal" id="bph14183-cit-0064">
+<string-name>
+<surname>Thomas</surname>
+<given-names>GP</given-names>
+</string-name>, <string-name>
+<surname>Karmazyn</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Zygmunt</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Antzelevitch</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Narayanan</surname>
+<given-names>N</given-names>
+</string-name> (<year>1999</year>). <article-title>The antifungal antibiotic clotrimazole potently inhibits L&#x02010;type calcium current in guinea&#x02010;pig ventricular myocytes</article-title>. <source xml:lang="en">Br J Pharmacol</source>
+<volume>126</volume>: <fpage>1531</fpage>&#x02013;<lpage>1533</lpage>.<pub-id pub-id-type="pmid">10323582</pub-id></mixed-citation></ref><ref id="bph14183-bib-0064"><mixed-citation publication-type="journal" id="bph14183-cit-0065">
+<string-name>
+<surname>Wakabayashi</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Poteser</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Groschner</surname>
+<given-names>K</given-names>
+</string-name> (<year>2006</year>). <article-title>Intracellular pH as a determinant of vascular smooth muscle function</article-title>. <source xml:lang="en">J Vasc Res</source>
+<volume>43</volume>: <fpage>238</fpage>&#x02013;<lpage>250</lpage>.<pub-id pub-id-type="pmid">16449818</pub-id></mixed-citation></ref><ref id="bph14183-bib-0065"><mixed-citation publication-type="journal" id="bph14183-cit-0066">
+<string-name>
+<surname>Wellman</surname>
+<given-names>GC</given-names>
+</string-name>, <string-name>
+<surname>Cartin</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Eckman</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Stevenson</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name>
+<surname>Saundry</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Lederer</surname>
+<given-names>WJ</given-names>
+</string-name>
+<italic>et al</italic> (<year>2001</year>). <article-title>Membrane depolarization, elevated Ca<sup>2+</sup> entry, and gene expression in cerebral arteries of hypertensive rats</article-title>. <source xml:lang="en">Am J Physiol Heart Circ Physiol</source>
+<volume>281</volume>: <fpage>H2559</fpage>&#x02013;<lpage>H2567</lpage>.<pub-id pub-id-type="pmid">11709423</pub-id></mixed-citation></ref><ref id="bph14183-bib-0066"><mixed-citation publication-type="journal" id="bph14183-cit-0067">
+<string-name>
+<surname>Wietek</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Beltramo</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Scanziani</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hegemann</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Oertner</surname>
+<given-names>TG</given-names>
+</string-name>, <string-name>
+<surname>Simon Wiegert</surname>
+<given-names>J</given-names>
+</string-name> (<year>2015</year>). <article-title>An improved chloride&#x02010;conducting channelrhodopsin for light&#x02010;induced inhibition of neuronal activity <italic>in vivo</italic>
+</article-title>. <source xml:lang="en">Sci Rep</source>
+<volume>5</volume>: <elocation-id>14807</elocation-id>.<pub-id pub-id-type="pmid">26443033</pub-id></mixed-citation></ref><ref id="bph14183-bib-0067"><mixed-citation publication-type="journal" id="bph14183-cit-0068">
+<string-name>
+<surname>Wray</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>RDD</given-names>
+</string-name> (<year>2004</year>). <article-title>Mechanisms of action of pH&#x02010;induced effects on vascular smooth muscle</article-title>. <source xml:lang="en">Mol Cell Biochem</source>
+<volume>263</volume>: <fpage>163</fpage>&#x02013;<lpage>172</lpage>.</mixed-citation></ref><ref id="bph14183-bib-0068"><mixed-citation publication-type="journal" id="bph14183-cit-0069">
+<string-name>
+<surname>Wu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>S&#x02010;S</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Cui</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>C</given-names>
+</string-name> (<year>2015</year>). <article-title>Optogenetic approach for functional assays of the cardiovascular system by light activation of the vascular smooth muscle</article-title>. <source xml:lang="en">Vascul Pharmacol</source>
+<volume>71</volume>: <fpage>192</fpage>&#x02013;<lpage>200</lpage>.<pub-id pub-id-type="pmid">25869510</pub-id></mixed-citation></ref><ref id="bph14183-bib-0069"><mixed-citation publication-type="journal" id="bph14183-cit-0070">
+<string-name>
+<surname>Wulff</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Gutman</surname>, <given-names>G.A.</given-names>
+</string-name>, <string-name>
+<surname>Cahalan</surname>, <given-names>M.D.</given-names>
+</string-name>, and <string-name>
+<surname>Chandy</surname>, <given-names>K.G.</given-names>
+</string-name> (<year>2001</year>). <article-title>Delineation of the clotrimazole/TRAM&#x02010;34 binding site on the intermediate conductance calcium&#x02010;activated potassium channel, IKCa1<sup>*</sup>
+</article-title>. <source xml:lang="en">J Biol Chem</source>
+<volume>276</volume>: <fpage>32040</fpage>&#x02013;<lpage>32045</lpage>.<pub-id pub-id-type="pmid">11425865</pub-id></mixed-citation></ref><ref id="bph14183-bib-0070"><mixed-citation publication-type="journal" id="bph14183-cit-0071">
+<string-name>
+<surname>Xu</surname>
+<given-names>S&#x02010;Z</given-names>
+</string-name>, <string-name>
+<surname>Zeng</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Boulay</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Grimm</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Harteneck</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Beech</surname>
+<given-names>DJ</given-names>
+</string-name> (<year>2005</year>). <article-title>Block of TRPC5 channels by 2&#x02010;aminoethoxydiphenyl borate: a differential, extracellular and voltage&#x02010;dependent effect</article-title>. <source xml:lang="en">Br J Pharmacol</source>
+<volume>145</volume>: <fpage>405</fpage>&#x02013;<lpage>414</lpage>.<pub-id pub-id-type="pmid">15806115</pub-id></mixed-citation></ref><ref id="bph14183-bib-0071"><mixed-citation publication-type="journal" id="bph14183-cit-0072">
+<string-name>
+<surname>Yizhar</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Fenno</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name>
+<surname>Prigge</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Schneider</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Davidson</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name>
+<surname>O'Shea</surname>
+<given-names>DJ</given-names>
+</string-name>
+<italic>et al</italic> (<year>2011</year>). <article-title>Neocortical excitation/inhibition balance in information processing and social dysfunction</article-title>. <source xml:lang="en">Nature</source>
+<volume>477</volume>: <fpage>171</fpage>&#x02013;<lpage>178</lpage>.<pub-id pub-id-type="pmid">21796121</pub-id></mixed-citation></ref><ref id="bph14183-bib-0072"><mixed-citation publication-type="journal" id="bph14183-cit-0073">
+<string-name>
+<surname>Zhang</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>L&#x02010;P</given-names>
+</string-name>, <string-name>
+<surname>Brauner</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Liewald</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Kay</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Watzke</surname>
+<given-names>N</given-names>
+</string-name>
+<italic>et al</italic> (<year>2007</year>). <article-title>Multimodal fast optical interrogation of neural circuitry</article-title>. <source xml:lang="en">Nature</source>
+<volume>446</volume>: <fpage>633</fpage>&#x02013;<lpage>639</lpage>.<pub-id pub-id-type="pmid">17410168</pub-id></mixed-citation></ref><ref id="bph14183-bib-0073"><mixed-citation publication-type="journal" id="bph14183-cit-0074">
+<string-name>
+<surname>Zholos</surname>
+<given-names>A</given-names>
+</string-name> (<year>2010</year>). <article-title>Pharmacology of transient receptor potential melastatin channels in the vasculature</article-title>. <source xml:lang="en">Br J Pharmacol</source>
+<volume>159</volume>: <fpage>1559</fpage>&#x02013;<lpage>1571</lpage>.<pub-id pub-id-type="pmid">20233227</pub-id></mixed-citation></ref></ref-list></back></article>

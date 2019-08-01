@@ -1,0 +1,396 @@
+{
+  "id": [
+    "30044974"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30044974"
+  ],
+  "pmcid": [
+    "PMC6083038"
+  ],
+  "doi": [
+    "10.1016/j.celrep.2018.06.076"
+  ],
+  "title": [
+    "Combining mGRASP and Optogenetics Enables High-Resolution Functional Mapping of Descending Cortical Projections."
+  ],
+  "authorString": [
+    "Song JH, Lucaci D, Calangiu I, Brown MTC, Park JS, Kim J, Brickley SG, Chadderton P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Song JH"
+          ],
+          "firstName": [
+            "Jun Ho"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "JH"
+          ],
+          "affiliation": [
+            "Department of Bioengineering and Centre for Neurotechnology, Imperial College London, London SW7 2AZ, UK; Center for Functional Connectomics, Korea Institute of Science and Technology (KIST), 39-1 Hawolgokdong, Seoul 136-791, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lucaci D"
+          ],
+          "firstName": [
+            "Diana"
+          ],
+          "lastName": [
+            "Lucaci"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Life Sciences and Centre for Neurotechnology, Imperial College London, London SW7 2AZ, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Calangiu I"
+          ],
+          "firstName": [
+            "Ioana"
+          ],
+          "lastName": [
+            "Calangiu"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Department of Bioengineering and Centre for Neurotechnology, Imperial College London, London SW7 2AZ, UK; Institute of Neuroinformatics, UZH/ETH Zurich, Winterthurerstrasse 190, 8057 Zurich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Brown MTC"
+          ],
+          "firstName": [
+            "Matthew T C"
+          ],
+          "lastName": [
+            "Brown"
+          ],
+          "initials": [
+            "MTC"
+          ],
+          "affiliation": [
+            "Department of Bioengineering and Centre for Neurotechnology, Imperial College London, London SW7 2AZ, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Park JS"
+          ],
+          "firstName": [
+            "Jin Sung"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "JS"
+          ],
+          "affiliation": [
+            "Center for Functional Connectomics, Korea Institute of Science and Technology (KIST), 39-1 Hawolgokdong, Seoul 136-791, Korea; Division of Bio-Medical Science & Technology, KIST-School, Korea University of Science and Technology, 39-1 Hawolgokdong, Seoul 136-791, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim J"
+          ],
+          "firstName": [
+            "Jinhyun"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Center for Functional Connectomics, Korea Institute of Science and Technology (KIST), 39-1 Hawolgokdong, Seoul 136-791, Korea; Division of Bio-Medical Science & Technology, KIST-School, Korea University of Science and Technology, 39-1 Hawolgokdong, Seoul 136-791, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Brickley SG"
+          ],
+          "firstName": [
+            "Stephen G"
+          ],
+          "lastName": [
+            "Brickley"
+          ],
+          "initials": [
+            "SG"
+          ],
+          "affiliation": [
+            "Department of Life Sciences and Centre for Neurotechnology, Imperial College London, London SW7 2AZ, UK. Electronic address: s.brickley@imperial.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Chadderton P"
+          ],
+          "firstName": [
+            "Paul"
+          ],
+          "lastName": [
+            "Chadderton"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6276-1011",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Bioengineering and Centre for Neurotechnology, Imperial College London, London SW7 2AZ, UK; School of Physiology, Pharmacology and Neuroscience, Biomedical Sciences Building, University of Bristol, University Walk, Bristol BS8 1TD, UK. Electronic address: p.chadderton@bristol.ac.uk."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6276-1011",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "24"
+      ],
+      "journalIssueId": [
+        "2709889"
+      ],
+      "dateOfPublication": [
+        "2018 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cell reports"
+          ],
+          "ISOAbbreviation": [
+            "Cell Rep"
+          ],
+          "medlineAbbreviation": [
+            "Cell Rep"
+          ],
+          "NLMid": [
+            "101573691"
+          ],
+          "ISSN": [
+            "2211-1247"
+          ],
+          "ESSN": [
+            "2211-1247"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "1071-1080"
+  ],
+  "abstractText": [
+    "We have applied optogenetics and mGRASP, a light microscopy technique that labels synaptic contacts, to map the number and strength of defined corticocollicular (CC) connections. Using mGRASP, we show that CC projections form small, medium, and large synapses, and both the number and the distribution of synapse size vary among the IC regions. Using optogenetics, we show that low-frequency stimulation of CC axons expressing channelrhodopsin produces prolonged elevations of the CC miniature EPSC (mEPSC) rate. Functional analysis of CC mEPSCs reveals small-, medium-, and large-amplitude events that mirror the synaptic distributions observed with mGRASP. Our results reveal that descending ipsilateral projections dominate CC feedback via an increased number of large synaptic contacts, especially onto the soma of IC neurons. This study highlights the feasibility of combining microscopy (i.e., mGRASP) and optogenetics to reveal synaptic weighting of defined projections at the level of single neurons, enabling functional connectomic mapping in diverse neural circuits."
+  ],
+  "affiliation": [
+    "Department of Bioengineering and Centre for Neurotechnology, Imperial College London, London SW7 2AZ, UK; Center for Functional Connectomics, Korea Institute of Science and Technology (KIST), 39-1 Hawolgokdong, Seoul 136-791, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "G1000512"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BB/N008871/1"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Synapse",
+        "Synaptic Integration",
+        "Corticofugal",
+        "Functional Connectomics"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6083038"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.celrep.2018.06.076"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-07-26"
+  ],
+  "firstIndexDate": [
+    "2018-07-26"
+  ],
+  "dateOfRevision": [
+    "2018-10-24"
+  ],
+  "firstPublicationDate": [
+    "2018-07-01"
+  ]
+}

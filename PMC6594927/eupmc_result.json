@@ -1,0 +1,568 @@
+{
+  "id": [
+    "31243276"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31243276"
+  ],
+  "pmcid": [
+    "PMC6594927"
+  ],
+  "doi": [
+    "10.1038/s41467-019-10418-3"
+  ],
+  "title": [
+    "A shape-memory and spiral light-emitting device for precise multisite stimulation of nerve bundles."
+  ],
+  "authorString": [
+    "Zheng H, Zhang Z, Jiang S, Yan B, Shi X, Xie Y, Huang X, Yu Z, Liu H, Weng S, Nurmikko A, Zhang Y, Peng H, Xu W, Zhang J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zheng H"
+          ],
+          "firstName": [
+            "Hao"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Medical Neurobiology and MOE Frontier Center for Brain Science, Institutes of Brain Science, Department of Hand Surgery, National Clinical Research Center for Aging and Medicine, Huashan Hospital, Fudan University, 200433, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Z"
+          ],
+          "firstName": [
+            "Zhitao"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Molecular Engineering of Polymers, Department of Macromolecular Science, and Laboratory of Advanced Materials, Fudan University, 200438, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang S"
+          ],
+          "firstName": [
+            "Su"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Medical Neurobiology and MOE Frontier Center for Brain Science, Institutes of Brain Science, Department of Hand Surgery, National Clinical Research Center for Aging and Medicine, Huashan Hospital, Fudan University, 200433, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yan B"
+          ],
+          "firstName": [
+            "Biao"
+          ],
+          "lastName": [
+            "Yan"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3252-2965",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "State Key Laboratory of Medical Neurobiology and MOE Frontier Center for Brain Science, Institutes of Brain Science, Department of Hand Surgery, National Clinical Research Center for Aging and Medicine, Huashan Hospital, Fudan University, 200433, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Shi X"
+          ],
+          "firstName": [
+            "Xiang"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Molecular Engineering of Polymers, Department of Macromolecular Science, and Laboratory of Advanced Materials, Fudan University, 200438, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xie Y"
+          ],
+          "firstName": [
+            "Yuanting"
+          ],
+          "lastName": [
+            "Xie"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Medical Neurobiology and MOE Frontier Center for Brain Science, Institutes of Brain Science, Department of Hand Surgery, National Clinical Research Center for Aging and Medicine, Huashan Hospital, Fudan University, 200433, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang X"
+          ],
+          "firstName": [
+            "Xu"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Medical Neurobiology and MOE Frontier Center for Brain Science, Institutes of Brain Science, Department of Hand Surgery, National Clinical Research Center for Aging and Medicine, Huashan Hospital, Fudan University, 200433, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yu Z"
+          ],
+          "firstName": [
+            "Zeyang"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "School of Engineering, Brown University, Providence, RI, 02912, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu H"
+          ],
+          "firstName": [
+            "Huizhu"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Medical Neurobiology and MOE Frontier Center for Brain Science, Institutes of Brain Science, Department of Hand Surgery, National Clinical Research Center for Aging and Medicine, Huashan Hospital, Fudan University, 200433, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Weng S"
+          ],
+          "firstName": [
+            "Shijun"
+          ],
+          "lastName": [
+            "Weng"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Medical Neurobiology and MOE Frontier Center for Brain Science, Institutes of Brain Science, Department of Hand Surgery, National Clinical Research Center for Aging and Medicine, Huashan Hospital, Fudan University, 200433, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Nurmikko A"
+          ],
+          "firstName": [
+            "Arto"
+          ],
+          "lastName": [
+            "Nurmikko"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "School of Engineering, Brown University, Providence, RI, 02912, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yuqiu"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Medical Neurobiology and MOE Frontier Center for Brain Science, Institutes of Brain Science, Department of Hand Surgery, National Clinical Research Center for Aging and Medicine, Huashan Hospital, Fudan University, 200433, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Peng H"
+          ],
+          "firstName": [
+            "Huisheng"
+          ],
+          "lastName": [
+            "Peng"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Molecular Engineering of Polymers, Department of Macromolecular Science, and Laboratory of Advanced Materials, Fudan University, 200438, Shanghai, China. penghs@fudan.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu W"
+          ],
+          "firstName": [
+            "Wendong"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Medical Neurobiology and MOE Frontier Center for Brain Science, Institutes of Brain Science, Department of Hand Surgery, National Clinical Research Center for Aging and Medicine, Huashan Hospital, Fudan University, 200433, Shanghai, China. wendongxu@fudan.edu.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang J"
+          ],
+          "firstName": [
+            "Jiayi"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1575-0723",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "State Key Laboratory of Medical Neurobiology and MOE Frontier Center for Brain Science, Institutes of Brain Science, Department of Hand Surgery, National Clinical Research Center for Aging and Medicine, Huashan Hospital, Fudan University, 200433, Shanghai, China. jiayizhang@fudan.edu.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1575-0723",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3252-2965",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2823392"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2790"
+  ],
+  "abstractText": [
+    "We previously demonstrated that for long-term spastic limb paralysis, transferring the seventh cervical nerve (C7) from the nonparalyzed side to the paralyzed side results in increase of 17.7 in Fugl-Meyer score. One strategy for further improvement in voluntary arm movement is selective activation of five target muscles innervated by C7 during recovery process. In this study, we develop an implantable multisite optogenetic stimulation device (MOSD) based on shape-memory polymer. Two-site stimulation of sciatic nerve bundles by MOSD induces precise extension or flexion movements of the ankle joint, while eight-site stimulation of C7 nerve bundles induce selective limb movement. Long-term implant of MOSD to mice with severed and anastomosed C7 nerve is proven to be both safe and effective. Our work opens up the possibility for multisite nerve bundle stimulation to induce highly-selective activations of limb muscles, which could inspire further applications in neurosurgery and neuroscience research."
+  ],
+  "affiliation": [
+    "State Key Laboratory of Medical Neurobiology and MOE Frontier Center for Brain Science, Institutes of Brain Science, Department of Hand Surgery, National Clinical Research Center for Aging and Medicine, Huashan Hospital, Fudan University, 200433, Shanghai, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2016YFA0203302"
+          ],
+          "agency": [
+            "Ministry of Science and Technology of the People's Republic of China (Chinese Ministry of Science and Technology)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "81830063"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China (National Science Foundation of China)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "81790640"
+          ],
+          "agency": [
+            "National Science Foundation of China | National Natural Science Foundation of China-Yunnan Joint Fund (NSFC-Yunnan Joint Fund)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "31771195"
+          ],
+          "agency": [
+            "National Science Foundation of China | National Natural Science Foundation of China-Yunnan Joint Fund (NSFC-Yunnan Joint Fund)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6594927?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6594927"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-019-10418-3"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-06-28"
+  ],
+  "firstIndexDate": [
+    "2019-06-28"
+  ],
+  "dateOfRevision": [
+    "2019-06-30"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-26"
+  ],
+  "firstPublicationDate": [
+    "2019-06-26"
+  ]
+}

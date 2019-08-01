@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="binomial">
+ <result pre="Channelrhodopsin (ChR): a blue light activated cation-channel from " exact="Chlamydomonas reinhardtii" xpath="/html[1]/body[1]/div[2]/div[3]/div[4]/div[3]/ul[1]/li[2]/p[1]" match="Chlamydomonas reinhardtii" post=", used to excite neurons ( Nagel et al., 2003); " name="binomial"/>
+ <result pre="Halorhodopsin (NpHR): a yellow light activated chloride-pump from " exact="Natronomonas pharaonic" match="Natronomonas pharaonic" post=", used to inhibit neurons ( Chow et al., 2010). " name="binomial"/>
+</results>

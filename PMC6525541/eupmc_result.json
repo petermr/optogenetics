@@ -1,0 +1,321 @@
+{
+  "id": [
+    "31036636"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31036636"
+  ],
+  "pmcid": [
+    "PMC6525541"
+  ],
+  "doi": [
+    "10.1073/pnas.1903589116"
+  ],
+  "title": [
+    "Tinbergen's challenge for the neuroscience of behavior."
+  ],
+  "authorString": [
+    "Pfaff D, Tabansky I, Haubensak W."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pfaff D"
+          ],
+          "firstName": [
+            "Donald"
+          ],
+          "lastName": [
+            "Pfaff"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Laboratory of Neurobiology and Behavior, The Rockefeller University, New York, NY 10065; pfaff@rockefeller.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Tabansky I"
+          ],
+          "firstName": [
+            "Inna"
+          ],
+          "lastName": [
+            "Tabansky"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Laboratory of Neurobiology and Behavior, The Rockefeller University, New York, NY 10065."
+          ]
+        },
+        {
+          "fullName": [
+            "Haubensak W"
+          ],
+          "firstName": [
+            "Wulf"
+          ],
+          "lastName": [
+            "Haubensak"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2034-9184",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Research Institute of Molecular Pathology, Vienna Biocenter, 1030 Vienna, Austria."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2034-9184",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "20"
+      ],
+      "volume": [
+        "116"
+      ],
+      "journalIssueId": [
+        "2817324"
+      ],
+      "dateOfPublication": [
+        "2019 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Proceedings of the National Academy of Sciences of the United States of America"
+          ],
+          "ISOAbbreviation": [
+            "Proc. Natl. Acad. Sci. U.S.A."
+          ],
+          "medlineAbbreviation": [
+            "Proc Natl Acad Sci U S A"
+          ],
+          "NLMid": [
+            "7505876"
+          ],
+          "ISSN": [
+            "0027-8424"
+          ],
+          "ESSN": [
+            "1091-6490"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "9704-9710"
+  ],
+  "abstractText": [
+    "Nobel laureate Nikolaas Tinbergen provided clear criteria for declaring a neuroscience problem solved, criteria which despite the passage of more than 50 years and vastly expanded neuroscience tool kits remain applicable today. Tinbergen said for neuroscientists to claim that a behavior is understood, they must correspondingly understand its (i) development and its (ii) mechanisms and its (iii) function and its (iv) evolution. Now, all four of these domains represent hotbeds of current experimental work, each using arrays of new techniques which overlap only partly. Thus, as new methodologies come online, from single-nerve-cell RNA sequencing, for example, to smart FISH, large-scale calcium imaging from cortex and deep brain structures, computational ethology, and so on, one person, however smart, cannot master everything. Our response to the likely \"fracturing\" of neuroscience recognizes the value of ever larger consortia. This response suggests new kinds of problems for (i) funding and (ii) the fair distribution of credit, especially for younger scientists."
+  ],
+  "affiliation": [
+    "Laboratory of Neurobiology and Behavior, The Rockefeller University, New York, NY 10065; pfaff@rockefeller.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "311701"
+          ],
+          "agency": [
+            "European Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Hypothalamus",
+        "Sex",
+        "Behavior",
+        "Amygdala",
+        "Parental"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6525541?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6525541"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1073/pnas.1903589116"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-05-01"
+  ],
+  "firstIndexDate": [
+    "2019-05-01"
+  ],
+  "dateOfRevision": [
+    "2019-06-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-29"
+  ],
+  "firstPublicationDate": [
+    "2019-04-29"
+  ]
+}

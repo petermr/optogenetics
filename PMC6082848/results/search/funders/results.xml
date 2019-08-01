@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="funders">
+ <result pre="[3], 0000 0001 0670 2351 grid.59734.3c Department of Pharmacological Sciences," exact="Icahn School of Medicine at Mount Sinai," post="[4], 0000 0001 2341 2786 grid.116068.8 Department of Brain"/>
+ <result pre="0000 0001 0670 2351 grid.59734.3c Department of Pharmacological Sciences, Icahn" exact="School of Medicine" post="at Mount Sinai, [4], 0000 0001 2341 2786 grid.116068.8"/>
+ <result pre="0001 2341 2786 grid.116068.8 Department of Brain and Cognitive Sciences," exact="Massachusetts Institute of Technology," post="[5], 0000 0004 1936 8649 grid.14709.3b Department of Psychology,"/>
+ <result pre="Technology, [5], 0000 0004 1936 8649 grid.14709.3b Department of Psychology," exact="McGill University," post="[6], grid.452628.f Department of Neural Development and Disease, Korea"/>
+ <result pre="to cocaine with physiological and transcriptomic changes. Funding https://doi.org/10.13039/100000026 U.S." exact="Department of Health" post="&amp;amp; Human Services | NIH | National Institute on"/>
+ <result pre="U.S. Department of Health &amp;amp; Human Services | NIH |" exact="National Institute on Drug Abuse" post="(NIDA) R01DA007359 P01DA008227 Nestler Eric J. Introduction A major"/>
+ <result pre="All experiments were performed in accordance with guidelines from the" exact="Society for Neuroscience" post="and the institutional animal care and use committee at"/>
+ <result pre="experiments performed. This work was supported by grants from the" exact="National Institute on Drug Abuse" post="(P01DA008227 and R01DA007359 to EJN and K99DA024111 to E.S.C.),"/>
+ <result pre="(P01DA008227 and R01DA007359 to EJN and K99DA024111 to E.S.C.), the" exact="Brain and Behavior Research Foundation" post="(to E.S.C.), and Korea Brain Research Institute basic research"/>
+</results>

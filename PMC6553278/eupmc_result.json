@@ -1,0 +1,285 @@
+{
+  "id": [
+    "PMC6553278"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC6553278"
+  ],
+  "doi": [
+    "10.1210/js.2019-SUN-LB083"
+  ],
+  "title": [
+    "SUN-LB083 Functional Role of Arcuate Nucleus NPY/AgRP Neurons in the GnRH Circuit Regulating LH Secretion."
+  ],
+  "authorString": [
+    "Coutinho E, Prescott M, Marshall C, Hessler S, Herbison A, Campbell R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Coutinho E"
+          ],
+          "firstName": [
+            "Eulalia"
+          ],
+          "lastName": [
+            "Coutinho"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Univ of Otago, Dunedin, , New Zealand"
+          ]
+        },
+        {
+          "fullName": [
+            "Prescott M"
+          ],
+          "firstName": [
+            "Mel"
+          ],
+          "lastName": [
+            "Prescott"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Marshall C"
+          ],
+          "firstName": [
+            "Christopher"
+          ],
+          "lastName": [
+            "Marshall"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Hessler S"
+          ],
+          "firstName": [
+            "Sabine"
+          ],
+          "lastName": [
+            "Hessler"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Herbison A"
+          ],
+          "firstName": [
+            "Allan"
+          ],
+          "lastName": [
+            "Herbison"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Campbell R"
+          ],
+          "firstName": [
+            "Rebecca"
+          ],
+          "lastName": [
+            "Campbell"
+          ],
+          "initials": [
+            "R"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl 1"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2828512"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of the Endocrine Society"
+          ],
+          "ISOAbbreviation": [
+            "J Endocr Soc"
+          ],
+          "medlineAbbreviation": [
+            "J Endocr Soc"
+          ],
+          "NLMid": [
+            "101697997"
+          ],
+          "ISSN": [
+            "2472-1972"
+          ],
+          "ESSN": [
+            "2472-1972"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "AbstractHomeostatic processes like metabolism and reproduction are tightly regulated by neural circuits, and any disruption of these neural circuits causes energy imbalance and infertility, respectively. Furthermore, in conditions of energy imbalance, such as anorexia or obesity, there is also reproductive dysfunction. This causal relationship between metabolism and reproduction, strongly suggests an interdependence of these neuronal networks. In order to better understand the mechanisms underlying infertility caused by metabolic imbalance, it is important to identify the specific circuitry governing the coordination of energy balance and reproductive function. Neuropeptide Y (NPY) / Agouti related peptide (AgRP) expressing neurons in the arcuate nucleus (ARN) are likely to play an important role as they are crucial in regulating food intake and also affect gonadotropin-releasing hormone (GnRH) neuronal activity and luteinizing hormone (LH) secretion. However, the precise impact of the ARN NPY/AgRP circuit on GnRH neuron activity and fertility remains unclear. To assess this, we used the stimulatory DREADD in AgRP-Cre mice to specifically activate ARN NPY/AgRP neurons and measured pulsatile LH secretion, as a readout of GnRH neuronal activity, in conscious male and female mice. We found that activation of NPY/AgRP neurons by injection of the DREADD ligand, clozapine-N-oxide (CNO), decreased post-castration LH pulse secretion in both sexes, suggesting a slowing of GnRH pulse generation. To map the specific circuit associated with slowing of LH secretion following ARN NPY/AgRP neuron activation, region specific activation of NPY/AgRP fibres was achieved with optogenetics. Selective optogenetic stimulation of NPY/AgRP terminals surrounding GnRH neuron cell bodies in the rostral preoptic area (rPOA) was capable of decreasing GnRH neuron activity in ex vivo slices and significantly decreased LH pulsatility in conscious animals, indicating a functional ARN NPY/AgRP to GnRH neuron circuit capable of slowing pulse generation. Chemogenetic and optogenetic activation of ARN NPY/AgRP neurons was also able to significantly reduce LH pulse frequency in a prenatally androgenised (PNA) model of polycystic ovary syndrome that exhibits high LH pulse frequency, thereby demonstrating therapeutic potential. However, chronic activation of ARN NPY/AgRP neurons with CNO delivery in drinking water over 2 weeks did not ameliorate the PCOS-like reproductive pathology in PNA mice. Together, these data show that activation of ARN NPY/AgRP neurons can slow GnRH/LH pulse generation, potentially through a direct circuit to GnRH neurons in the rPOA. These findings identify a specific mechanism by which ARN NPY/AgRP neurons mediate nutritional infertility and highlight the therapeutic potential of modulating ARN NPY/AgRP activity in infertile conditions associated with high GnRH/ LH pulsatility. Unless otherwise noted, all abstracts presented at ENDO are embargoed until the date and time of presentation. For oral presentations, the abstracts are embargoed until the session begins. Abstracts presented at a news conference are embargoed until the date and time of the news conference. The Endocrine Society reserves the right to lift the embargo on specific abstracts that are selected for promotion prior to or during ENDO."
+  ],
+  "affiliation": [
+    "Univ of Otago, Dunedin, , New Zealand"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Abstract"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6553278"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6553278/?tool=EBI"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-16"
+  ],
+  "firstIndexDate": [
+    "2019-06-16"
+  ],
+  "dateOfRevision": [
+    "2019-06-16"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-30"
+  ],
+  "firstPublicationDate": [
+    "2019-04-30"
+  ]
+}

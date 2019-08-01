@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6294002/results/search/funders/results.xml">
+  <result pre="2341 2786 grid.116068.8 MIT Media Lab, Center for Extreme Bionics," exact="Massachusetts Institute of Technology," post="[2], 0000 0001 2341 2786 grid.116068.8 Harvard-MIT Division of"/>
+  <result pre="2786 grid.116068.8 Harvard-MIT Division of Health Sciences and Technology (HST)," exact="Massachusetts Institute of Technology," post="[3], 0000 0001 2341 2786 grid.116068.8 Department of Electrical"/>
+  <result pre="2341 2786 grid.116068.8 Department of Electrical Engineering and Computer Science," exact="Massachusetts Institute of Technology," post="epub: 2018-12-12 pmc-release: 2018-12-12 collection: 2018 9 5303 received:"/>
+  <result pre="and approval of the Committee on Animal Care at the" exact="Massachusetts Institute of Technology." post="Functional electrical stimulation system To perform electrical stimulation, a"/>
+ </snippets>
+</snippetsTree>

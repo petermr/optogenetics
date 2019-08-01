@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6412093/results/search/funders/results.xml">
+  <result pre="Emilia 1 2 * [], 1 Department of Biomedical Engineering," exact="Stony Brook University" post="Stony Brook, NY United States [], 2 Department of"/>
+  <result pre="Brook, NY United States [], 2 Department of Biomedical Engineering," exact="George Washington University" post="Washington, DC United States Edited by: Ming Lei, University"/>
+  <result pre="of Oxford, United Kingdom Reviewed by: Teun P. de Boer," exact="Utrecht University," post="Netherlands; Xiaoqiang Tang, Sichuan University, China *Correspondence: Emilia Entcheva,"/>
+  <result pre="by: Teun P. de Boer, Utrecht University, Netherlands; Xiaoqiang Tang," exact="Sichuan University," post="China *Correspondence: Emilia Entcheva, entcheva@gwu.edu This article was submitted"/>
+  <result pre="animals were performed in accordance with institutional guidelines at both" exact="Stony Brook University" post="(SBU) and George Washington (GW) University and conform to"/>
+  <result pre="9 containing the transgene for eGFP were obtained from the" exact="University of Pennsylvania" post="Vector Core (Philadelphia, PA, United States) or UPenn Core"/>
+  <result pre="conflict of interest. Funding. This work was supported by the" exact="National Institutes of Health" post="(Grant Nos. R01HL111649, R01HL144157, and R21EB023106 to EE) and"/>
+  <result pre="(Grant Nos. R01HL111649, R01HL144157, and R21EB023106 to EE) and the" exact="National Science Foundation" post="(Grant Nos. 1623068 and 1705645 to EE). We acknowledge"/>
+  <result pre="support provided by the Research Pathology Core Laboratories at both" exact="Stony Brook University" post="and George Washington University and the assistance of veterinary"/>
+  <result pre="Research Pathology Core Laboratories at both Stony Brook University and" exact="George Washington University" post="and the assistance of veterinary personnel in the Division"/>
+  <result pre="veterinary personnel in the Division of Laboratory Animal Resources at" exact="Stony Brook University" post="and the Animal Research Facility at George Washington University."/>
+  <result pre="at Stony Brook University and the Animal Research Facility at" exact="George Washington University." post="We also acknowledge members of the Entcheva lab for"/>
+ </snippets>
+</snippetsTree>

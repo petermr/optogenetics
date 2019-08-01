@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6019065/results/search/country/results.xml">
+  <result pre="and Development Biology University of California Santa Barbara Santa Barbara" exact="United States" post="[2], Department of Physics University of California, Santa Barbara"/>
+  <result pre="Department of Physics University of California, Santa Barbara Santa Barbara" exact="United States" post="[3], Neuroscience Research Institute University of California, Santa Barbara"/>
+  <result pre="Neuroscience Research Institute University of California, Santa Barbara Santa Barbara" exact="United States" post=": 2018-6-6 collection: 2018 7 e38410 received: 2018-6-15 accepted:"/>
+  <result pre="Department of Physics, University of California, Santa Barbara, Santa Barbara," exact="United States" post="Julie H Simpson is in the Neuroscience Research Institute,"/>
+  <result pre="and Developmental Biology, University of California, Santa Barbara, Santa Barbara," exact="United States" post="References References Bargmann CI Marder E 2013 From the"/>
+ </snippets>
+</snippetsTree>

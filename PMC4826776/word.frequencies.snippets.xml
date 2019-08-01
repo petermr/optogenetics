@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC4826776/results/word/frequencies/results.xml">
+  <result title="frequency" word="motor" count="31"/>
+  <result title="frequency" word="neurons" count="28"/>
+  <result title="frequency" word="stimulation" count="27"/>
+  <result title="frequency" word="Parkinson's" count="26"/>
+  <result title="frequency" word="cognitive" count="26"/>
+  <result title="frequency" word="optogenetic" count="25"/>
+  <result title="frequency" word="dopamine" count="24"/>
+  <result title="frequency" word="neural" count="24"/>
+  <result title="frequency" word="animal" count="23"/>
+  <result title="frequency" word="striatal" count="21"/>
+ </snippets>
+</snippetsTree>

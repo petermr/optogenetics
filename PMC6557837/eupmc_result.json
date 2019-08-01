@@ -1,0 +1,613 @@
+{
+  "id": [
+    "31182714"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31182714"
+  ],
+  "pmcid": [
+    "PMC6557837"
+  ],
+  "doi": [
+    "10.1038/s41467-019-10450-3"
+  ],
+  "title": [
+    "MRI-guided robotic arm drives optogenetic fMRI with concurrent Ca2+ recording."
+  ],
+  "authorString": [
+    "Chen Y, Pais-Roldan P, Chen X, Frosz MH, Yu X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chen Y"
+          ],
+          "firstName": [
+            "Yi"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Research Group of Translational Neuroimaging and Neural Control, High-Field Magnetic Resonance, Max Planck Institute for Biological Cybernetics, 72076, Tuebingen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Pais-Roldan P"
+          ],
+          "firstName": [
+            "Patricia"
+          ],
+          "lastName": [
+            "Pais-Roldan"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Research Group of Translational Neuroimaging and Neural Control, High-Field Magnetic Resonance, Max Planck Institute for Biological Cybernetics, 72076, Tuebingen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen X"
+          ],
+          "firstName": [
+            "Xuming"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Research Group of Translational Neuroimaging and Neural Control, High-Field Magnetic Resonance, Max Planck Institute for Biological Cybernetics, 72076, Tuebingen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Frosz MH"
+          ],
+          "firstName": [
+            "Michael H"
+          ],
+          "lastName": [
+            "Frosz"
+          ],
+          "initials": [
+            "MH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8857-0029",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Max Planck Institute for the Science of Light, 91058, Erlangen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Yu X"
+          ],
+          "firstName": [
+            "Xin"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9890-5489",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Research Group of Translational Neuroimaging and Neural Control, High-Field Magnetic Resonance, Max Planck Institute for Biological Cybernetics, 72076, Tuebingen, Germany. xin.yu@tuebingen.mpg.de."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8857-0029",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9890-5489",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2823392"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2536"
+  ],
+  "abstractText": [
+    "Optical fiber-mediated optogenetic activation and neuronal Ca2+ recording in combination with fMRI provide a multi-modal fMRI platform. Here, we developed an MRI-guided robotic arm (MgRA) as a flexible positioning system with high precision to real-time assist optical fiber brain intervention for multi-modal animal fMRI. Besides the ex vivo precision evaluation, we present the highly reliable brain activity patterns in the projected basal forebrain regions upon MgRA-driven optogenetic stimulation in the lateral hypothalamus. Also, we show the step-wise optical fiber targeting thalamic nuclei and map the region-specific functional connectivity with whole-brain fMRI accompanied by simultaneous calcium recordings to specify its circuit-specificity. The MgRA also guides the real-time microinjection to specific deep brain nuclei, which is demonstrated by an Mn-enhanced MRI method. The MgRA represents a clear advantage over the standard stereotaxic-based fiber implantation and opens a broad avenue to investigate the circuit-specific functional brain mapping with the multi-modal fMRI platform."
+  ],
+  "affiliation": [
+    "Research Group of Translational Neuroimaging and Neural Control, High-Field Magnetic Resonance, Max Planck Institute for Biological Cybernetics, 72076, Tuebingen, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "Yi Chen"
+          ],
+          "agency": [
+            "China Scholarship Council (CSC)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "YU215/3-1645423"
+          ],
+          "agency": [
+            "Deutsche Forschungsgemeinschaft (German Research Foundation)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rats, Sprague-Dawley"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Calcium"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Magnetic Resonance Imaging"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IS"
+                  ],
+                  "qualifierName": [
+                    "instrumentation"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Optical Fibers"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Functional Neuroimaging"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IS"
+                  ],
+                  "qualifierName": [
+                    "instrumentation"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Optogenetics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IS"
+                  ],
+                  "qualifierName": [
+                    "instrumentation"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Robotic Surgical Procedures"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IS"
+                  ],
+                  "qualifierName": [
+                    "instrumentation"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Channelrhodopsins"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Calcium"
+          ],
+          "registryNumber": [
+            "SY7Q814VUP"
+          ]
+        },
+        {
+          "name": [
+            "Channelrhodopsins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6557837?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6557837"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-019-10450-3"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-07-04"
+  ],
+  "dateOfCreation": [
+    "2019-06-12"
+  ],
+  "firstIndexDate": [
+    "2019-06-12"
+  ],
+  "dateOfRevision": [
+    "2019-07-04"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-10"
+  ],
+  "firstPublicationDate": [
+    "2019-06-10"
+  ]
+}

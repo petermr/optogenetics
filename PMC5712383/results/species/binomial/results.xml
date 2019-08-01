@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="binomial">
+ <result pre="ne ion permeability in response to illumination. Channelrhodopsin-2 (ChR2), the opsin derived from " exact="Chlamydomonas reinhardtii" xpath="/html[1]/body[1]/div[2]/p[5]" match="Chlamydomonas reinhardtii" post=", was the first photosensitive protein used to control neuronal activity. This opsin is a non-selec" name="binomial"/>
+ <result pre="set of opsins is used for suppression of neuronal activity. Halorhodopsin derived from the species " exact="Natronomonas pharaonis" xpath="/html[1]/body[1]/div[2]/p[5]" match="Natronomonas pharaonis" post=" (NpHR) is a photo-sensitive inwards chloride pump. It mediates chloride ions influx inducing 40-10" name="binomial"/>
+ <result pre="archaerhodopsins, are also used for neural silencing. Arch, ArchT, and Mac, which are derived from " exact="Halorubrum sodomense" xpath="/html[1]/body[1]/div[2]/p[5]" match="Halorubrum sodomense" post=", Halorubrum genus, and fungus Leptosphaeria maculans, respectively are three main archaerho" name="binomial"/>
+ <result pre=", ArchT, and Mac, which are derived from Halorubrum sodomense, Halorubrum genus, and fungus " exact="Leptosphaeria maculans" xpath="/html[1]/body[1]/div[2]/p[5]" match="Leptosphaeria maculans" post=", respectively are three main archaerhodopsins. Their activation results in efflux of protons that " name="binomial"/>
+ <result pre="ion of halorhodopsin, Jaws, has been developed. This opsin is a red-shifted cruxhalorhodopsin from " exact="Haloarcula salinarum" match="Haloarcula salinarum" post=" that generates robust neuronal inhibition. Less absorbed by hemoglobin makes the red light applica" name="binomial"/>
+</results>

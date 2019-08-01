@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6594927/results/gene/human/results.xml">
+  <result pre="&quot;&gt;4a). The MOSD was implanted on the distal side of the sciatic nerve in Thy1- ChR2- " exact="EYFP" post=" mice (Fig. 4b). Prior to the stimulation experiment, the lower limb stretched natu" xpath="/html[1]/body[1]/div[2]/div[4]/div[5]/p[1]" dictionary="hgnc" dictionaryCheck="false" name="human"/>
+  <result pre="MOSD stimulation of C7 nerve bundle in Thy1- ChR2- " exact="EYFP" post=" mice. a Schematic of experimental set-up. MOSDs were implanted on the proximal side of C7 nerve bu" xpath="/html[1]/body[1]/div[2]/div[4]/div[5]/p[1]" dictionary="hgnc" dictionaryCheck="false" name="human"/>
+  <result pre=" side (lower). Red, BMP. Blue, DAPI. c Expression of EYFP in C7 nerve of Thy1- ChR2- " exact="EYFP" post=" mice. Green, EYFP. Blue, DAPI. d Monte-Carlo simulation of mini-LED light intensity across and aro" xpath="/html[1]/body[1]/div[2]/div[4]/div[5]/p[1]" dictionary="hgnc" dictionaryCheck="false" name="human"/>
+  <result pre="ained from the Shanghai Laboratory Animal Center, CAS (Shanghai, China). Thy1- ChR2- " exact="EYFP" post=" mice ( https://www.jax.org/strain/012350) were purchas" dictionary="hgnc" dictionaryCheck="false" name="human"/>
+ </snippets>
+</snippetsTree>

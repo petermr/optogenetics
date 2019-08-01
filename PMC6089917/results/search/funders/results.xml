@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="funders">
+ <result pre="Abbah Joseph 1 Gallo Vittorio vgallo@childrensnational.org 1 2 [1], grid.239560.b" exact="Center for Neuroscience Research," post="Children’s Research Institute, Children’s National Medical Center, [2], 0000"/>
+ <result pre="[1], grid.239560.b Center for Neuroscience Research, Children’s Research Institute, Children’s" exact="National Medical Center," post="[2], 0000 0004 1936 9510 grid.253615.6 The George Washington"/>
+ <result pre="National Medical Center, [2], 0000 0004 1936 9510 grid.253615.6 The" exact="George Washington University" post="School of Medicine and Health Sciences, epub: 2018-8-8 pmc-release:"/>
+ <result pre="[2], 0000 0004 1936 9510 grid.253615.6 The George Washington University" exact="School of Medicine" post="and Health Sciences, epub: 2018-8-8 pmc-release: 2018-8-8 collection: 2018"/>
+ <result pre="behavioral deficits using the GABA reuptake inhibitor Tiagabine. Funding https://doi.org/10.13039/100007857" exact="Intellectual and Developmental Disabilities Research Center" post="(IDDRC) U54HD090257 Gallo Vittorio Introduction Premature birth impedes brain"/>
+ <result pre="for behavior experiments. Female and male Pcp2-cre mice (B6.129-Tg(Pcp2-cre)2Mpin/J; The" exact="Jackson Laboratory," post="Bar Harbor, ME, USA) were used for in vivo"/>
+ <result pre="the Institutional Animal Care and Use Committee (IACUC) of Children’s" exact="National Medical Center," post="who approved all protocols, and the Guide for the"/>
+ <result pre="# AV-9-20297P), originally developed by the Karl Deisseroth Laboratory at" exact="Stanford University." post="For in vivo extracellular recordings, we used 1 MΩ tungsten"/>
+</results>

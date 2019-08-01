@@ -1,0 +1,285 @@
+{
+  "id": [
+    "30804011"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30804011"
+  ],
+  "pmcid": [
+    "PMC6399599"
+  ],
+  "doi": [
+    "10.15252/embr.201846807"
+  ],
+  "title": [
+    "Genetic sleep deprivation: using sleep mutants to study sleep functions."
+  ],
+  "authorString": [
+    "Bringmann H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bringmann H"
+          ],
+          "firstName": [
+            "Henrik"
+          ],
+          "lastName": [
+            "Bringmann"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7689-8617",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Max Planck Institute for Biophysical Chemistry, Göttingen, Germany henrik.bringmann@mpibpc.mpg.de."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7689-8617",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2790577"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "EMBO reports"
+          ],
+          "ISOAbbreviation": [
+            "EMBO Rep."
+          ],
+          "medlineAbbreviation": [
+            "EMBO Rep"
+          ],
+          "NLMid": [
+            "100963049"
+          ],
+          "ISSN": [
+            "1469-221X"
+          ],
+          "ESSN": [
+            "1469-3178"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Sleep is a fundamental conserved physiological state in animals and humans. It may serve multiple functions, ranging from energy conservation to higher brain operation. Understanding sleep functions and the underlying mechanisms requires the study of sleeplessness and its consequences. The traditional approach to remove sleep is sleep deprivation (SD) by sensory stimulation. However, stimulation-induced SD can be stressful and can cause non-specific side effects. An emerging alternative method is \"genetic SD\", which removes sleep using genetics or optogenetics. Sleep requires sleep-active neurons and their regulators. Thus, genetic impairment of sleep circuits might lead to more specific and comprehensive sleep loss. Here, I discuss the advantages and limits of genetic SD in key genetic sleep model animals: rodents, zebrafish, fruit flies and roundworms, and how the study of genetic SD alters our view of sleep functions. Genetic SD typically causes less severe phenotypes compared with stimulation-induced SD, suggesting that sensory stimulation-induced SD may have overestimated the role of sleep, calling for a re-investigation of sleep functions."
+  ],
+  "affiliation": [
+    "Max Planck Institute for Biophysical Chemistry, Göttingen, Germany henrik.bringmann@mpibpc.mpg.de."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "637860"
+          ],
+          "agency": [
+            "European Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Genetics",
+        "Sleep",
+        "Model organism",
+        "Sleep deprivation",
+        "Optogenetics"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6399599?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6399599"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.15252/embr.201846807"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-27"
+  ],
+  "firstIndexDate": [
+    "2019-02-27"
+  ],
+  "dateOfRevision": [
+    "2019-03-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-25"
+  ],
+  "firstPublicationDate": [
+    "2019-02-25"
+  ]
+}

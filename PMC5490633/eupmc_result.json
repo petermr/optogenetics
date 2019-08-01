@@ -1,0 +1,204 @@
+{
+  "id": [
+    "28603165"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28603165"
+  ],
+  "pmcid": [
+    "PMC5490633"
+  ],
+  "doi": [
+    "10.1538/expanim.66suppl-JCS"
+  ],
+  "title": [
+    "JALAS Committee Symposium 1."
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Supplement"
+      ],
+      "volume": [
+        "66"
+      ],
+      "journalIssueId": [
+        "2677366"
+      ],
+      "dateOfPublication": [
+        "2017"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Experimental animals"
+          ],
+          "ISOAbbreviation": [
+            "Exp. Anim."
+          ],
+          "medlineAbbreviation": [
+            "Exp Anim"
+          ],
+          "NLMid": [
+            "9604830"
+          ],
+          "ISSN": [
+            "1341-1357"
+          ],
+          "ESSN": [
+            "1881-7122"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "S23-S25"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "abstract",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5490633?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5490633"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1538/expanim.66suppl-JCS"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-06-13"
+  ],
+  "firstIndexDate": [
+    "2017-06-12"
+  ],
+  "dateOfRevision": [
+    "2018-04-30"
+  ],
+  "firstPublicationDate": [
+    "2017-01-01"
+  ]
+}

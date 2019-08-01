@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="human">
+ <result pre="eks after the infection, muscle-derived hiPSC colonies expressed the endogenous pluripotency genes " exact="NANOG" post=", SSEA4 and TRA-3-60 as shown by flow cytometry ( Figure S1 ). Mainten" xpath="/html[1]/body[1]/div[2]/div[3]/p[1]" name="human"/>
+ <result pre="infection, muscle-derived hiPSC colonies expressed the endogenous pluripotency genes NANOG, " exact="SSEA4" post=" and TRA-3-60 as shown by flow cytometry ( Figure S1 ). Maintenance of normal" xpath="/html[1]/body[1]/div[2]/div[3]/p[1]" dictionary="hgnc" dictionaryCheck="false" name="human"/>
+ <result pre="w cytometry ( Figure S1 ). Maintenance of normal karyotype and pluripotency markers " exact="NANOG" post=", SOX2 and OCT3/4 was demonstrated after 10 additional passages ( Figure &lt;a href=&quot;#SM" xpath="/html[1]/body[1]/div[2]/div[3]/p[1]" name="human"/>
+ <result pre="Figure S1 ). Maintenance of normal karyotype and pluripotency markers NANOG, " exact="SOX2" post=" and OCT3/4 was demonstrated after 10 additional passages ( Figure S2-3 ). Fo" xpath="/html[1]/body[1]/div[2]/div[3]/p[1]" name="human"/>
+ <result pre=" localization of the construct ( Figure 1A ) and maintenance of pluripotency markers " exact="NANOG" post=", SOX2 and OCT3/4 ( Figure S4 ). The same cells were used to derive mo" xpath="/html[1]/body[1]/div[2]/div[3]/p[1]" name="human"/>
+ <result pre="of the construct ( Figure 1A ) and maintenance of pluripotency markers NANOG, " exact="SOX2" post=" and OCT3/4 ( Figure S4 ). The same cells were used to derive motoneurons &lt;a " name="human"/>
+</results>

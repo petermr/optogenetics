@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="binomial">
+ <result pre="Bacteriorhodopsin (bR) of " exact="Halobacterium salinarum" xpath="/html[1]/body[1]/div[3]/div[3]/p[1]" match="Halobacterium salinarum" post=" is a membrane protein that acts as a light-driven proton pump. bR and its homologues have recently" name="binomial"/>
+ <result pre="hodopsin (bR) is a light-driven proton pump found in the plasma membrane of a halophilic archaeon, " exact="Halobacterium salinarum" xpath="/html[1]/body[1]/div[3]/div[3]/p[1]" match="Halobacterium salinarum" post=" 1, 2 . bR is one of the most extensively studied membran" name="binomial"/>
+ <result pre="PM was purified from " exact="Halobacterium salinarum" xpath="/html[1]/body[1]/div[3]/div[3]/p[1]" match="Halobacterium salinarum" post=" strain R1 (JMC9409) by a standard procedure 1 . Crystals were obtained " name="binomial"/>
+ <result pre="uscript. This work was supported by a Grant-in-Aid for Scientific Research (No. 25440020 to K.T.). " exact="Halobacterium salinarum" match="Halobacterium salinarum" post=" was obtained from the RIKEN BRC through the National Bio-Resource Project of MEXT, Japan. " name="binomial"/>
+</results>

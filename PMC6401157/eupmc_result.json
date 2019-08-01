@@ -1,0 +1,383 @@
+{
+  "id": [
+    "30837563"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30837563"
+  ],
+  "pmcid": [
+    "PMC6401157"
+  ],
+  "doi": [
+    "10.1038/s41598-019-40173-w"
+  ],
+  "title": [
+    "Optogenetic stimulation promotes Schwann cell proliferation, differentiation, and myelination in vitro."
+  ],
+  "authorString": [
+    "Jung K, Park JH, Kim SY, Jeon NL, Cho SR, Hyung S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jung K"
+          ],
+          "firstName": [
+            "Kyuhwan"
+          ],
+          "lastName": [
+            "Jung"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Graduate Program of Nano Science and Technology, Graduate School of Yonsei University, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Park JH"
+          ],
+          "firstName": [
+            "Ji Hye"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "JH"
+          ],
+          "affiliation": [
+            "Gradaute Program of Translational Neuroscience, Institute for Clinical Neurobiology, University of Wuerzburg, Wuerzburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim SY"
+          ],
+          "firstName": [
+            "Sung-Yon"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "SY"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0791-7308",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biophysics and Chemical Biology, Seoul National University, Seoul, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Jeon NL"
+          ],
+          "firstName": [
+            "Noo Li"
+          ],
+          "lastName": [
+            "Jeon"
+          ],
+          "initials": [
+            "NL"
+          ],
+          "affiliation": [
+            "Multiscale Mechanical Design School of Mechanical and Aerospace Engineering Institute of Advanced Machinery and Design, Seoul National University, Seoul, Korea. njeon@snu.ac.kr."
+          ]
+        },
+        {
+          "fullName": [
+            "Cho SR"
+          ],
+          "firstName": [
+            "Sung-Rae"
+          ],
+          "lastName": [
+            "Cho"
+          ],
+          "initials": [
+            "SR"
+          ],
+          "affiliation": [
+            "Graduate Program of Nano Science and Technology, Graduate School of Yonsei University, Seoul, Korea. SRCHO918@yuhs.ac."
+          ]
+        },
+        {
+          "fullName": [
+            "Hyung S"
+          ],
+          "firstName": [
+            "Sujin"
+          ],
+          "lastName": [
+            "Hyung"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Multiscale Mechanical Design School of Mechanical and Aerospace Engineering Institute of Advanced Machinery and Design, Seoul National University, Seoul, Korea. smsns7230@gmail.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0791-7308",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2787935"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "3487"
+  ],
+  "abstractText": [
+    "Schwann cells (SCs) constitute a crucial element of the peripheral nervous system, by structurally supporting the formation of myelin and conveying vital trophic factors to the nervous system. However, the functions of SCs in developmental and regenerative stages remain unclear. Here, we investigated how optogenetic stimulation (OS) of SCs regulates their development. In SC monoculture, OS substantially enhanced SC proliferation and the number of BrdU+-S100ß+-SCs over time. In addition, OS also markedly promoted the expression of both Krox20 and myelin basic protein (MBP) in SC culture medium containing dBcAMP/NRG1, which induced differentiation. We found that the effects of OS are dependent on the intracellular Ca2+ level. OS induces elevated intracellular Ca2+ levels through the T-type voltage-gated calcium channel (VGCC) and mobilization of Ca2+ from both inositol 1,4,5-trisphosphate (IP3)-sensitive stores and caffeine/ryanodine-sensitive stores. Furthermore, we confirmed that OS significantly increased expression levels of both Krox20 and MBP in SC-motor neuron (MN) coculture, which was notably prevented by pharmacological intervention with Ca2+. Taken together, our results demonstrate that OS of SCs increases the intracellular Ca2+ level and can regulate proliferation, differentiation, and myelination, suggesting that OS of SCs may offer a new approach to the treatment of neurodegenerative disorders."
+  ],
+  "affiliation": [
+    "Graduate Program of Nano Science and Technology, Graduate School of Yonsei University, Seoul, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2016R1A4A1010796"
+          ],
+          "agency": [
+            "National Research Foundation of Korea (NRF)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "HI16C1012"
+          ],
+          "agency": [
+            "Korea Health Industry Development Institute (KHIDI)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2018R1A2A1A05019550"
+          ],
+          "agency": [
+            "National Research Foundation of Korea (NRF)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6401157?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6401157"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-40173-w"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-03-07"
+  ],
+  "firstIndexDate": [
+    "2019-03-07"
+  ],
+  "dateOfRevision": [
+    "2019-03-08"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-05"
+  ],
+  "firstPublicationDate": [
+    "2019-03-05"
+  ]
+}

@@ -1,0 +1,524 @@
+{
+  "id": [
+    "27069384"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27069384"
+  ],
+  "pmcid": [
+    "PMC4826776"
+  ],
+  "title": [
+    "Optogenetic approaches to evaluate striatal function in animal models of Parkinson disease."
+  ],
+  "authorString": [
+    "Parker KL, Kim Y, Alberico SL, Emmons EB, Narayanan NS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Parker KL"
+          ],
+          "firstName": [
+            "Krystal L"
+          ],
+          "lastName": [
+            "Parker"
+          ],
+          "initials": [
+            "KL"
+          ],
+          "affiliation": [
+            "Department of Neurology, University of Iowa, Iowa City, Iowa, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim Y"
+          ],
+          "firstName": [
+            "Youngcho"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Neurology, University of Iowa, Iowa City, Iowa, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Alberico SL"
+          ],
+          "firstName": [
+            "Stephanie L"
+          ],
+          "lastName": [
+            "Alberico"
+          ],
+          "initials": [
+            "SL"
+          ],
+          "affiliation": [
+            "Department of Neurology, University of Iowa, Iowa City, Iowa, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Emmons EB"
+          ],
+          "firstName": [
+            "Eric B"
+          ],
+          "lastName": [
+            "Emmons"
+          ],
+          "initials": [
+            "EB"
+          ],
+          "affiliation": [
+            "Department of Neurology, University of Iowa, Iowa City, Iowa, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Narayanan NS"
+          ],
+          "firstName": [
+            "Nandakumar S"
+          ],
+          "lastName": [
+            "Narayanan"
+          ],
+          "initials": [
+            "NS"
+          ],
+          "affiliation": [
+            "Department of Neurology, University of Iowa, Iowa City, Iowa, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2397404"
+      ],
+      "dateOfPublication": [
+        "2016 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Dialogues in clinical neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Dialogues Clin Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Dialogues Clin Neurosci"
+          ],
+          "NLMid": [
+            "101238198"
+          ],
+          "ISSN": [
+            "1294-8322"
+          ],
+          "ESSN": [
+            "1958-5969"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "99-107"
+  ],
+  "abstractText": [
+    "Optogenetics refers to the ability to control cells that have been genetically modified to express light-sensitive ion channels. The introduction of optogenetic approaches has facilitated the dissection of neural circuits. Optogenetics allows for the precise stimulation and inhibition of specific sets of neurons and their projections with fine temporal specificity. These techniques are ideally suited to investigating neural circuitry underlying motor and cognitive dysfunction in animal models of human disease. Here, we focus on how optogenetics has been used over the last decade to probe striatal circuits that are involved in Parkinson disease, a neurodegenerative condition involving motor and cognitive abnormalities resulting from degeneration of midbrain dopaminergic neurons. The precise mechanisms underlying the striatal contribution to both cognitive and motor dysfunction in Parkinson disease are unknown. Although optogenetic approaches are somewhat removed from clinical use, insight from these studies can help identify novel therapeutic targets and may inspire new treatments for Parkinson disease. Elucidating how neuronal and behavioral functions are influenced and potentially rescued by optogenetic manipulation in animal models could prove to be translatable to humans. These insights can be used to guide future brain-stimulation approaches for motor and cognitive abnormalities in Parkinson disease and other neuropsychiatric diseases."
+  ],
+  "affiliation": [
+    "Department of Neurology, University of Iowa, Iowa City, Iowa, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "K01 MH106824"
+          ],
+          "agency": [
+            "NIMH NIH HHS"
+          ],
+          "acronym": [
+            "MH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "T32 GM067795"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 NS089470"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Corpus Striatum"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nerve Net"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Parkinson Disease"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Disease Models, Animal"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Optogenetics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TD"
+                  ],
+                  "qualifierName": [
+                    "trends"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Dopamine",
+        "Animal model",
+        "Striatum",
+        "Parkinson disease",
+        "Optogenetics"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4826776?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4826776"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-01-02"
+  ],
+  "dateOfCreation": [
+    "2016-04-13"
+  ],
+  "firstIndexDate": [
+    "2016-04-13"
+  ],
+  "dateOfRevision": [
+    "2019-03-09"
+  ],
+  "firstPublicationDate": [
+    "2016-03-01"
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="funders">
+ <result pre="2 3 4 [1], Department of Neurology and Neurological Sciences" exact="Stanford University" post="Stanford California [2], Department of Bioengineering Stanford University Stanford"/>
+ <result pre="Neurological Sciences Stanford University Stanford California [2], Department of Bioengineering" exact="Stanford University" post="Stanford California [3], Department of Neurosurgery Stanford University Stanford"/>
+ <result pre="of Bioengineering Stanford University Stanford California [3], Department of Neurosurgery" exact="Stanford University" post="Stanford California [4], Department of Electrical Engineering Stanford University"/>
+ <result pre="Neurosurgery Stanford University Stanford California [4], Department of Electrical Engineering" exact="Stanford University" post="Stanford California *Correspondence to: Jin Hyung Lee, PhD, 1201"/>
+ <result pre="Research Published by Wiley Periodicals, Inc. optogenetics epilepsy seizures Funding" exact="National Institute of Biomedical Imaging and Bioengineering" post="R00EB008738 Okawa Foundation Research Grant Award National Institutes of"/>
+ <result pre="Biomedical Imaging and Bioengineering R00EB008738 Okawa Foundation Research Grant Award" exact="National Institutes of Health" post="Director's New Innovator Award DP2OD007265 National Science Foundation Career"/>
+ <result pre="Award National Institutes of Health Director's New Innovator Award DP2OD007265" exact="National Science Foundation" post="Career Award 1056008 Alfred P. Sloan Research Fellowship Stanford"/>
+ <result pre="Sloan Research Fellowship Stanford Bio‐X Interdisciplinary Initiatives Seed Grant Program" exact="National Institute of Neurological Disorders and Stroke" post="R01NS087159 R01NS091461 National Institute on Aging RF1AG047666 fig-count: table-count:"/>
+ <result pre="Program National Institute of Neurological Disorders and Stroke R01NS087159 R01NS091461" exact="National Institute on Aging" post="RF1AG047666 fig-count: table-count: page-count: word-count: SIGNIFICANCE Optogenetics is a"/>
+</results>

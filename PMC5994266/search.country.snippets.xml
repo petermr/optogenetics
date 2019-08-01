@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC5994266/results/search/country/results.xml">
+  <result pre="ligand Proceedings of the National Academy of Sciences of the" exact="United States" post="of America 2007 104 12 5163 5168 10.1073/pnas.0700293104 17360345"/>
+  <result pre="vivo Proceedings of the National Academy of Sciences of the" exact="United States" post="of America 2009 106 45 19197 19202 10.1073/pnas.0906593106 19858481"/>
+  <result pre="neurons Proceedings of the National Academy of Sciences of the" exact="United States" post="of America 2003 100 3 1352 1357 10.1073/pnas.242738899 12540832"/>
+  <result pre="channel Proceedings of the National Academy of Sciences of the" exact="United States" post="of America 2003 100 24 13940 13945 10.1073/pnas.1936192100 14615590"/>
+  <result pre="stroke Proceedings of the National Academy of Sciences of the" exact="United States" post="of America 2014 111 35 12913 12918 10.1073/pnas.1404109111 25136109"/>
+ </snippets>
+</snippetsTree>

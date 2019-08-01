@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="binomial">
+ <result pre="ne #20942). Plasmids were grown in One Shot TM Stbl3 TM chemically competent " exact="E. coli" xpath="/html[1]/body[1]/div[2]/div[2]/div[3]/p[13]" match="E. coli" post=" (ThermoFisher Scientific #C737303) cultured in LB broth (ThermoFisher Scientific #10855), and isol" name="binomial"/>
+ <result pre=" " exact="Motoneuron differentiation" xpath="/html[1]/body[1]/div[2]/div[2]/div[3]/p[13]" match="Motoneuron differentiation" post=" . Motoneurons were derived form ChR2-expressing transgenic hiPSC lines using a protocol adapted fo" name="binomial"/>
+ <result pre=" " exact="Neurosphere dissociation" xpath="/html[1]/body[1]/div[2]/div[2]/div[3]/p[13]" match="Neurosphere dissociation" post=". Motoneurons were dissociated for electrophysiological measurements and immunostaining. Briefly, " name="binomial"/>
+ <result pre=" " exact="Contractility analysis" xpath="/html[1]/body[1]/div[2]/div[2]/div[3]/p[13]" match="Contractility analysis" post=". Brightfield movies were processed to extract motion by subtracting every frame from a baseline f" name="binomial"/>
+ <result pre=" " exact="Flow cytometry" xpath="/html[1]/body[1]/div[2]/div[2]/div[3]/p[13]" match="Flow cytometry" post=". For flow cytometry analysis, hiPSCs were dissociated and incubated with a conjugated antibody fo" name="binomial"/>
+ <result pre=" " exact="Statistical analysis" match="Statistical analysis" post=". One-way ANOVA analysis was performed to compute F-values for each experiment using MATLAB. Post-" name="binomial"/>
+</results>

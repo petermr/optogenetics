@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6240619/results/search/funders/results.xml">
+  <result pre="Medical University Chongqing China [], 2 Department of Biomedical Engineering," exact="School of Medicine," post="Tsinghua University Beijing China [], 3 College of Life"/>
+  <result pre="China [], 2 Department of Biomedical Engineering, School of Medicine," exact="Tsinghua University" post="Beijing China [], 3 College of Life Sciences and"/>
+  <result pre="Oceanography, Shenzhen University Shenzhen China Edited by: Edward S. Ruthazer," exact="McGill University," post="Canada Reviewed by: Philippe Séguéla, McGill University, Canada; Michael"/>
+  <result pre="Edward S. Ruthazer, McGill University, Canada Reviewed by: Philippe Séguéla," exact="McGill University," post="Canada; Michael Levin, Tufts University, United States *Correspondence: Sheng-Jia"/>
+  <result pre="Canada Reviewed by: Philippe Séguéla, McGill University, Canada; Michael Levin," exact="Tufts University," post="United States *Correspondence: Sheng-Jia Zhang sheng-jia.zhang@tmmu.edu.cn; sheng-jia.zhang@outlook.com epub: 2018-11-11"/>
+ </snippets>
+</snippetsTree>

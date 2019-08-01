@@ -1,0 +1,530 @@
+{
+  "id": [
+    "30210307"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30210307"
+  ],
+  "pmcid": [
+    "PMC6120992"
+  ],
+  "doi": [
+    "10.3389/fncir.2018.00069"
+  ],
+  "title": [
+    "Causal Role of Neural Signals Transmitted From the Frontal Eye Field to the Superior Colliculus in Saccade Generation."
+  ],
+  "authorString": [
+    "Matsumoto M, Inoue KI, Takada M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Matsumoto M"
+          ],
+          "firstName": [
+            "Masayuki"
+          ],
+          "lastName": [
+            "Matsumoto"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Division of Biomedical Science, Faculty of Medicine, University of Tsukuba, Tsukuba, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Inoue KI"
+          ],
+          "firstName": [
+            "Ken-Ichi"
+          ],
+          "lastName": [
+            "Inoue"
+          ],
+          "initials": [
+            "KI"
+          ],
+          "affiliation": [
+            "Systems Neuroscience Section, Primate Research Institute, Kyoto University, Inuyama, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Takada M"
+          ],
+          "firstName": [
+            "Masahiko"
+          ],
+          "lastName": [
+            "Takada"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Systems Neuroscience Section, Primate Research Institute, Kyoto University, Inuyama, Japan."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2647765"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neural circuits"
+          ],
+          "ISOAbbreviation": [
+            "Front Neural Circuits"
+          ],
+          "medlineAbbreviation": [
+            "Front Neural Circuits"
+          ],
+          "NLMid": [
+            "101477940"
+          ],
+          "ISSN": [
+            "1662-5110"
+          ],
+          "ESSN": [
+            "1662-5110"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "69"
+  ],
+  "abstractText": [
+    "The frontal eye field (FEF) and superior colliculus (SC) are major and well-studied components of the oculomotor system. The FEF sends strong projections to the SC directly, and neurons in these brain regions transmit a variety of signals related to saccadic eye movements. Electrical microstimulation and pharmacological manipulation targeting the FEF or SC affect saccadic eye movements. These data suggest the causal contribution of each region to saccade generation. To understand how the brain generates behavior, however, it is critical not only to identify the structures and functions of individual regions, but also to elucidate how they interact with each other. In this review article, we first survey previous works that aimed at investigating whether and how the FEF and SC interact to regulate saccadic eye movements using electrophysiological and pharmacological techniques. These works have reported what signals FEF neurons transmit to the SC and what roles such signals play in regulating oculomotor behavior. We then highlight a recent attempt of our own that has applied an optogenetic approach to stimulate the neural pathway from the FEF to the SC in nonhuman primates. This study has shown that optogenetic stimulation of the FEF-SC pathway is sufficiently effective not only to modulate SC neuron activity, but also to evoke saccadic eye movements. Although the oculomotor system is a complex neural network composed of numbers of cortical and subcortical regions, the optogenetic approach will provide a powerful strategy for elucidating the role of each neural pathway constituting this network."
+  ],
+  "affiliation": [
+    "Division of Biomedical Science, Faculty of Medicine, University of Tsukuba, Tsukuba, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Frontal Lobe"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Visual Pathways"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Synaptic Transmission"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Visual Fields"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Saccades"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Superior Colliculi"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Optogenetics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Macaque monkey",
+        "Superior colliculus",
+        "Saccade",
+        "Optogenetics",
+        "Frontal Eye Field"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6120992?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6120992"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fncir.2018.00069"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-03-25"
+  ],
+  "dateOfCreation": [
+    "2018-09-14"
+  ],
+  "firstIndexDate": [
+    "2018-09-13"
+  ],
+  "dateOfRevision": [
+    "2019-03-25"
+  ],
+  "electronicPublicationDate": [
+    "2018-08-28"
+  ],
+  "firstPublicationDate": [
+    "2018-08-28"
+  ]
+}

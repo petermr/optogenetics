@@ -1,0 +1,384 @@
+{
+  "id": [
+    "31164587"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31164587"
+  ],
+  "pmcid": [
+    "PMC6481074"
+  ],
+  "doi": [
+    "10.3390/mps2010002"
+  ],
+  "title": [
+    "Fast Calculation of Computer Generated Holograms for 3D Photostimulation through Compressive-Sensing Gerchberg-Saxton Algorithm."
+  ],
+  "authorString": [
+    "Pozzi P, Maddalena L, Ceffa N, Soloviev O, Vdovin G, Carroll E, Verhaegen M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pozzi P"
+          ],
+          "firstName": [
+            "Paolo"
+          ],
+          "lastName": [
+            "Pozzi"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Delft Center for Systems and Control, Delft University of Technology, Mekelweg 2, 2628 CD Delft, The Netherlands. p.pozzi@tudelft.nl."
+          ]
+        },
+        {
+          "fullName": [
+            "Maddalena L"
+          ],
+          "firstName": [
+            "Laura"
+          ],
+          "lastName": [
+            "Maddalena"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Imaging Physics, Delft University of Technology, Lorentzweg 1, 2628 CJ Delft, The Netherlands. l.maddalena@tudelft.nl."
+          ]
+        },
+        {
+          "fullName": [
+            "Ceffa N"
+          ],
+          "firstName": [
+            "Nicolò"
+          ],
+          "lastName": [
+            "Ceffa"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Imaging Physics, Delft University of Technology, Lorentzweg 1, 2628 CJ Delft, The Netherlands. n.g.ceffa@tudelft.nl."
+          ]
+        },
+        {
+          "fullName": [
+            "Soloviev O"
+          ],
+          "firstName": [
+            "Oleg"
+          ],
+          "lastName": [
+            "Soloviev"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3761-9192",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Delft Center for Systems and Control, Delft University of Technology, Mekelweg 2, 2628 CD Delft, The Netherlands. o.a.soloviev@tudelft.nl."
+          ]
+        },
+        {
+          "fullName": [
+            "Vdovin G"
+          ],
+          "firstName": [
+            "Gleb"
+          ],
+          "lastName": [
+            "Vdovin"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Delft Center for Systems and Control, Delft University of Technology, Mekelweg 2, 2628 CD Delft, The Netherlands. g.v.vdovine@tudelft.nl."
+          ]
+        },
+        {
+          "fullName": [
+            "Carroll E"
+          ],
+          "firstName": [
+            "Elizabeth"
+          ],
+          "lastName": [
+            "Carroll"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Imaging Physics, Delft University of Technology, Lorentzweg 1, 2628 CJ Delft, The Netherlands. e.c.m.carroll@tudelft.nl."
+          ]
+        },
+        {
+          "fullName": [
+            "Verhaegen M"
+          ],
+          "firstName": [
+            "Michel"
+          ],
+          "lastName": [
+            "Verhaegen"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Delft Center for Systems and Control, Delft University of Technology, Mekelweg 2, 2628 CD Delft, The Netherlands. m.verhaegen@tudelft.nl."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3761-9192",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "2825008"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Methods and protocols"
+          ],
+          "ISOAbbreviation": [
+            "Methods Protoc"
+          ],
+          "medlineAbbreviation": [
+            "Methods Protoc"
+          ],
+          "NLMid": [
+            "101720073"
+          ],
+          "ISSN": [
+            "2409-9279"
+          ],
+          "ESSN": [
+            "2409-9279"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "The use of spatial light modulators to project computer generated holograms is a common strategy for optogenetic stimulation of multiple structures of interest within a three-dimensional volume. A common requirement when addressing multiple targets sparsely distributed in three dimensions is the generation of a points cloud, focusing excitation light in multiple diffraction-limited locations throughout the sample. Calculation of this type of holograms is most commonly performed with either the high-speed, low-performance random superposition algorithm, or the low-speed, high performance Gerchberg-Saxton algorithm. This paper presents a variation of the Gerchberg-Saxton algorithm that, by only performing iterations on a subset of the data, according to compressive sensing principles, is rendered significantly faster while maintaining high quality outputs. The algorithm is presented in high-efficiency and high-uniformity variants. All source code for the method implementation is available as Supplementary Materials and as open-source software. The method was tested computationally against existing algorithms, and the results were confirmed experimentally on a custom setup for in-vivo multiphoton optogenetics. The results clearly show that the proposed method can achieve computational speed performances close to the random superposition algorithm, while retaining the high performance of the Gerchberg-Saxton algorithm, with a minimal hologram quality loss."
+  ],
+  "affiliation": [
+    "Delft Center for Systems and Control, Delft University of Technology, Mekelweg 2, 2628 CD Delft, The Netherlands. p.pozzi@tudelft.nl."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "339681"
+          ],
+          "agency": [
+            "European Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Optogenetics",
+        "Spatial Light Modulators",
+        "Computer Generated Holograms"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6481074?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6481074"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/mps2010002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-06"
+  ],
+  "firstIndexDate": [
+    "2019-06-12"
+  ],
+  "dateOfRevision": [
+    "2019-06-10"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-20"
+  ],
+  "firstPublicationDate": [
+    "2018-12-20"
+  ]
+}

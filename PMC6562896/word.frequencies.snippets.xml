@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6562896/results/word/frequencies/results.xml">
+  <result title="frequency" word="rule" count="77"/>
+  <result title="frequency" word="animals" count="29"/>
+  <result title="frequency" word="behavioral" count="27"/>
+  <result title="frequency" word="trials" count="27"/>
+  <result title="frequency" word="cognitive" count="25"/>
+  <result title="frequency" word="mice" count="25"/>
+  <result title="frequency" word="task" count="24"/>
+  <result title="frequency" word="prefrontal" count="23"/>
+  <result title="frequency" word="response" count="23"/>
+  <result title="frequency" word="Neurosci." count="22"/>
+  <result title="frequency" word="mPFC" count="22"/>
+  <result title="frequency" word="errors" count="21"/>
+  <result title="frequency" word="performance" count="21"/>
+ </snippets>
+</snippetsTree>

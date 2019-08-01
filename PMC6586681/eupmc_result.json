@@ -1,0 +1,801 @@
+{
+  "id": [
+    "31222009"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31222009"
+  ],
+  "pmcid": [
+    "PMC6586681"
+  ],
+  "doi": [
+    "10.1038/s41467-019-10716-w"
+  ],
+  "title": [
+    "A striatal interneuron circuit for continuous target pursuit."
+  ],
+  "authorString": [
+    "Kim N, Li HE, Hughes RN, Watson GDR, Gallegos D, West AE, Kim IH, Yin HH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kim N"
+          ],
+          "firstName": [
+            "Namsoo"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Psychology and Neuroscience, Duke University, Durham, NC, 27708, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Li HE"
+          ],
+          "firstName": [
+            "Haofang E"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "HE"
+          ],
+          "affiliation": [
+            "Department of Psychology and Neuroscience, Duke University, Durham, NC, 27708, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hughes RN"
+          ],
+          "firstName": [
+            "Ryan N"
+          ],
+          "lastName": [
+            "Hughes"
+          ],
+          "initials": [
+            "RN"
+          ],
+          "affiliation": [
+            "Department of Psychology and Neuroscience, Duke University, Durham, NC, 27708, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Watson GDR"
+          ],
+          "firstName": [
+            "Glenn D R"
+          ],
+          "lastName": [
+            "Watson"
+          ],
+          "initials": [
+            "GDR"
+          ],
+          "affiliation": [
+            "Department of Psychology and Neuroscience, Duke University, Durham, NC, 27708, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gallegos D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Gallegos"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Neurobiology, Duke University, Durham, NC, 27708, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "West AE"
+          ],
+          "firstName": [
+            "Anne E"
+          ],
+          "lastName": [
+            "West"
+          ],
+          "initials": [
+            "AE"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0846-139X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neurobiology, Duke University, Durham, NC, 27708, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim IH"
+          ],
+          "firstName": [
+            "Il Hwan"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "IH"
+          ],
+          "affiliation": [
+            "Department of Anatomy and Neurobiology, University of Tennessee Health and Science Center, Memphis, TN, 27708, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Yin HH"
+          ],
+          "firstName": [
+            "Henry H"
+          ],
+          "lastName": [
+            "Yin"
+          ],
+          "initials": [
+            "HH"
+          ],
+          "affiliation": [
+            "Department of Psychology and Neuroscience, Duke University, Durham, NC, 27708, USA. hy43@duke.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0846-139X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2823392"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2715"
+  ],
+  "abstractText": [
+    "Most adaptive behaviors require precise tracking of targets in space. In pursuit behavior with a moving target, mice use distance to target to guide their own movement continuously. Here, we show that in the sensorimotor striatum, parvalbumin-positive fast-spiking interneurons (FSIs) can represent the distance between self and target during pursuit behavior, while striatal projection neurons (SPNs), which receive FSI projections, can represent self-velocity. FSIs are shown to regulate velocity-related SPN activity during pursuit, so that movement velocity is continuously modulated by distance to target. Moreover, bidirectional manipulation of FSI activity can selectively disrupt performance by increasing or decreasing the self-target distance. Our results reveal a key role of the FSI-SPN interneuron circuit in pursuit behavior and elucidate how this circuit implements distance to velocity transformation required for the critical underlying computation."
+  ],
+  "affiliation": [
+    "Department of Psychology and Neuroscience, Duke University, Durham, NC, 27708, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "033610"
+          ],
+          "agency": [
+            "U.S. Department of Health &amp; Human Services | NIH | National Institute on Drug Abuse (NIDA)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "040701"
+          ],
+          "agency": [
+            "U.S. Department of Health &amp; Human Services | NIH | National Institute on Drug Abuse (NIDA)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "094754"
+          ],
+          "agency": [
+            "U.S. Department of Health &amp; Human Services | NIH | National Institute of Neurological Disorders and Stroke (NINDS)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "112883"
+          ],
+          "agency": [
+            "U.S. Department of Health &amp; Human Services | NIH | National Institute of Mental Health (NIMH)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R56 MH117429"
+          ],
+          "agency": [
+            "NIMH NIH HHS"
+          ],
+          "acronym": [
+            "MH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 DA033610"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 DA040701"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 MH112883"
+          ],
+          "agency": [
+            "NIMH NIH HHS"
+          ],
+          "acronym": [
+            "MH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 NS094754"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "117429"
+          ],
+          "agency": [
+            "U.S. Department of Health &amp; Human Services | NIH | National Institute of Mental Health (NIMH)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Corpus Striatum"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CY"
+                  ],
+                  "qualifierName": [
+                    "cytology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nerve Net"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Interneurons"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice, Inbred C57BL"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Predatory Behavior"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Locomotion"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sexual Behavior, Animal"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Optical Imaging"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Behavior Observation Techniques"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6586681?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6586681"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-019-10716-w"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR46655"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-07-09"
+  ],
+  "dateOfCreation": [
+    "2019-06-22"
+  ],
+  "firstIndexDate": [
+    "2019-06-24"
+  ],
+  "dateOfRevision": [
+    "2019-07-09"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-20"
+  ],
+  "firstPublicationDate": [
+    "2019-06-20"
+  ]
+}

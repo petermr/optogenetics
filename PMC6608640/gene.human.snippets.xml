@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6608640/results/gene/human/results.xml">
+  <result pre="p, switching Tetdron to a completely deprotonated state of the chromophore. For all data sets, the " exact="HKL" post="3000 software suite (Minor et al., 2006 ▸) was utilized for the diffraction" xpath="/html[1]/body[1]/div[2]/div[4]/div[3]/p[1]" dictionary="hgnc" dictionaryCheck="false" name="human"/>
+  <result pre="p://scripts.iucr.org/cgi-bin/cr.cgi?rm=pdb&amp;amp;pdbId=3lsa&quot;&gt;3lsa as a search model ( Phaser, " exact="CCP4" post="; McCoy et al., 2007 ▸; Winn et al., 2011 ▸). Follo" xpath="/html[1]/body[1]/div[2]/div[4]/div[3]/p[1]" dictionary="hgnc" dictionaryCheck="false" name="human"/>
+  <result pre="ref=&quot;#bb28&quot;&gt; ▸; Winn et al., 2011 ▸). Following phasing, several rounds of " exact="XYZ" post=" coordinate, real-space, occupancy, and B-factor refinement were carried out using phenix" dictionary="hgnc" dictionaryCheck="false" name="human"/>
+ </snippets>
+</snippetsTree>

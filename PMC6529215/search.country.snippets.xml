@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6529215/results/search/country/results.xml">
+  <result pre="[1], School of Life Sciences Technical University of Munich Munich" exact="Germany" post="[2], Graduate School of Systemic Neuroscience (GSN) Ludwig-Maximilians-University Munich"/>
+  <result pre="Germany [2], Graduate School of Systemic Neuroscience (GSN) Ludwig-Maximilians-University Munich" exact="Germany" post=": 2019-5-5 collection: 2019 8 e47720 received: 2019-5-16 accepted:"/>
+  <result pre="and the Graduate School of Systemic Neuroscience (GSN), Ludwig-Maximilians-University, Munich," exact="Germany" post="Ilona C Grunwald Kadow is in the School of"/>
+  <result pre="and the Graduate School of Systemic Neuroscience (GSN), Ludwig-Maximilians-University, Munich," exact="Germany" post="References References Aso Y Hattori D Yu Y Johnston"/>
+ </snippets>
+</snippetsTree>

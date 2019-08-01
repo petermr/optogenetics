@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC4655245/results/search/funders/results.xml">
+  <result pre="R. * [], Centre for Neurotechnology and Department of Bioengineering," exact="Imperial College London" post="London, UK Edited by: Mikhail Lebedev, Duke University, USA"/>
+  <result pre="Bioengineering, Imperial College London London, UK Edited by: Mikhail Lebedev," exact="Duke University," post="USA Reviewed by: Elena Rusconi, University College London, UK;"/>
+  <result pre="by: Mikhail Lebedev, Duke University, USA Reviewed by: Elena Rusconi," exact="University College London," post="UK; Leonardo Sacconi, University of Florence, Italy; Marco Canepari,"/>
+  <result pre="engineering neural modulation neural prosthetics BMI (brain machine interface) Funding" exact="Seventh Framework Programme" post="10.13039/501100004963 PIEF-GA-2013-628086 Biotechnology and Biological Sciences Research Council 10.13039/501100000268"/>
+  <result pre="BMI (brain machine interface) Funding Seventh Framework Programme 10.13039/501100004963 PIEF-GA-2013-628086" exact="Biotechnology and Biological Sciences Research Council" post="10.13039/501100000268 BB/L018268/1 BB/K001817/1 fig-count: table-count: equation-count: ref-count: page-count: word-count:"/>
+  <result pre="are substantial, as discussed in a recent report by the" exact="Nuffield Council on Bioethics" post="2013. Does the usefulness of optogenetics as a tool"/>
+  <result pre="IEEE Eng. Med. Biol. Soc. 5, 2– 5. 10.1109/embc.2013.6610903 collab:" exact="Nuffield Council on Bioethics" post="( 2013). Novel Neurotechnologies: Intervening in the Brain. London:"/>
+  <result pre="Bioethics ( 2013). Novel Neurotechnologies: Intervening in the Brain. London:" exact="Nuffield Council on Bioethics." post="O'Connor D. H. Hires S. A. Guo Z. V."/>
+ </snippets>
+</snippetsTree>

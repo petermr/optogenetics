@@ -1,0 +1,316 @@
+{
+  "id": [
+    "31312139"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31312139"
+  ],
+  "pmcid": [
+    "PMC6613496"
+  ],
+  "doi": [
+    "10.3389/fphar.2019.00724"
+  ],
+  "title": [
+    "Gene Therapy Tools for Brain Diseases."
+  ],
+  "authorString": [
+    "Ingusci S, Verlengia G, Soukupova M, Zucchini S, Simonato M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ingusci S"
+          ],
+          "firstName": [
+            "Selene"
+          ],
+          "lastName": [
+            "Ingusci"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Medical Sciences and National Institute of Neuroscience, University of Ferrara, Ferrara, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Verlengia G"
+          ],
+          "firstName": [
+            "Gianluca"
+          ],
+          "lastName": [
+            "Verlengia"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Medical Sciences and National Institute of Neuroscience, University of Ferrara, Ferrara, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Soukupova M"
+          ],
+          "firstName": [
+            "Marie"
+          ],
+          "lastName": [
+            "Soukupova"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Medical Sciences and National Institute of Neuroscience, University of Ferrara, Ferrara, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Zucchini S"
+          ],
+          "firstName": [
+            "Silvia"
+          ],
+          "lastName": [
+            "Zucchini"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Medical Sciences and National Institute of Neuroscience, University of Ferrara, Ferrara, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Simonato M"
+          ],
+          "firstName": [
+            "Michele"
+          ],
+          "lastName": [
+            "Simonato"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Medical Sciences and National Institute of Neuroscience, University of Ferrara, Ferrara, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2779305"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Pharmacology"
+          ],
+          "ISOAbbreviation": [
+            "Front Pharmacol"
+          ],
+          "medlineAbbreviation": [
+            "Front Pharmacol"
+          ],
+          "NLMid": [
+            "101548923"
+          ],
+          "ISSN": [
+            "1663-9812"
+          ],
+          "ESSN": [
+            "1663-9812"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "724"
+  ],
+  "abstractText": [
+    "Neurological disorders affecting the central nervous system (CNS) are still incompletely understood. Many of these disorders lack a cure and are seeking more specific and effective treatments. In fact, in spite of advancements in knowledge of the CNS function, the treatment of neurological disorders with modern medical and surgical approaches remains difficult for many reasons, such as the complexity of the CNS, the limited regenerative capacity of the tissue, and the difficulty in conveying conventional drugs to the organ due to the blood-brain barrier. Gene therapy, allowing the delivery of genetic materials that encodes potential therapeutic molecules, represents an attractive option. Gene therapy can result in a stable or inducible expression of transgene(s), and can allow a nearly specific expression in target cells. In this review, we will discuss the most commonly used tools for the delivery of genetic material in the CNS, including viral and non-viral vectors; their main applications; their advantages and disadvantages. We will discuss mechanisms of genetic regulation through cell-specific and inducible promoters, which allow to express gene products only in specific cells and to control their transcriptional activation. In addition, we will describe the applications to CNS diseases of post-transcriptional regulation systems (RNA interference); of systems allowing spatial or temporal control of expression [optogenetics and Designer Receptors Exclusively Activated by Designer Drugs (DREADDs)]; and of gene editing technologies (CRISPR/Cas9, Zinc finger proteins). Particular attention will be reserved to viral vectors derived from herpes simplex type 1, a potential tool for the delivery and expression of multiple transgene cassettes simultaneously."
+  ],
+  "affiliation": [
+    "Department of Medical Sciences and National Institute of Neuroscience, University of Ferrara, Ferrara, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Gene therapy",
+        "Central nervous system",
+        "Gene regulation",
+        "Viral vector",
+        "Brain disease"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6613496?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6613496"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fphar.2019.00724"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-18"
+  ],
+  "firstIndexDate": [
+    "2019-07-18"
+  ],
+  "dateOfRevision": [
+    "2019-07-19"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-01"
+  ],
+  "firstPublicationDate": [
+    "2019-07-01"
+  ]
+}

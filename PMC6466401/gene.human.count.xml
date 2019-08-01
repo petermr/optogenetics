@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="frequencies">
+ <result title="frequency" count="7">LIS1</result>
+ <result title="frequency" count="2">DLX1</result>
+ <result title="frequency" count="2">NOTCH2NL</result>
+ <result title="frequency" count="2">ASPM</result>
+ <result title="frequency" count="2">CDK5RAP2</result>
+ <result title="frequency" count="1">SLC13A4</result>
+ <result title="frequency" count="1">GAD1</result>
+ <result title="frequency" count="1">CELF4</result>
+ <result title="frequency" count="1">PTEN</result>
+ <result title="frequency" count="1">OLIG2</result>
+ <result title="frequency" count="1">VGAT</result>
+ <result title="frequency" count="1">SOX10</result>
+ <result title="frequency" count="1">TTR</result>
+ <result title="frequency" count="1">SCG2</result>
+</results>

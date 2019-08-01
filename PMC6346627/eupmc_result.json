@@ -1,0 +1,288 @@
+{
+  "id": [
+    "30693323"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30693323"
+  ],
+  "pmcid": [
+    "PMC6346627"
+  ],
+  "doi": [
+    "10.1021/acscentsci.8b00827"
+  ],
+  "title": [
+    "Energy-Transfer Editing in Lanthanide-Activated Upconversion Nanocrystals: A Toolbox for Emerging Applications."
+  ],
+  "authorString": [
+    "Qin X, Xu J, Wu Y, Liu X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Qin X"
+          ],
+          "firstName": [
+            "Xian"
+          ],
+          "lastName": [
+            "Qin"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Chemistry, National University of Singapore, 3 Science Drive 3, Singapore 117543, Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu J"
+          ],
+          "firstName": [
+            "Jiahui"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Chemistry, National University of Singapore, 3 Science Drive 3, Singapore 117543, Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu Y"
+          ],
+          "firstName": [
+            "Yiming"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Chemistry, National University of Singapore, 3 Science Drive 3, Singapore 117543, Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu X"
+          ],
+          "firstName": [
+            "Xiaogang"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Chemistry, National University of Singapore, 3 Science Drive 3, Singapore 117543, Singapore."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2775111"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ACS central science"
+          ],
+          "ISOAbbreviation": [
+            "ACS Cent Sci"
+          ],
+          "medlineAbbreviation": [
+            "ACS Cent Sci"
+          ],
+          "NLMid": [
+            "101660035"
+          ],
+          "ISSN": [
+            "2374-7943"
+          ],
+          "ESSN": [
+            "2374-7951"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "29-42"
+  ],
+  "abstractText": [
+    "Advanced nanoscale synthetic techniques provide a versatile platform for programmable control over the size, morphology, and composition of nanocrystals doped with lanthanide ions. Characteristic upconversion luminescence features originating from the 4f-4f optical transitions of lanthanides can be achieved through predesigned energy transfer pathways, enabling wide applications ranging from ultrasensitive biological detection to advanced spectroscopic instrumentation with high spatiotemporal resolution. Here, we review recent scientific and technological discoveries that have prompted the realization of these peculiar functions of lanthanide-doped upconversion nanocrystals and discuss the mechanistic studies of energy transfer involved in upconversion processes. These advanced schemes include cross relaxation-mediated depletion, multipulse sequential pumping, and nanostructural configuration design. Our emphasis is placed on disruptive technologies such as super-resolution microscopy, optogenetics, nanolasing, and optical anticounterfeiting, which take full advantage of the upconversion nanophenomena in relation to lanthanide-doped nanocrystals."
+  ],
+  "affiliation": [
+    "Department of Chemistry, National University of Singapore, 3 Science Drive 3, Singapore 117543, Singapore."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6346627?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6346627"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1021/acscentsci.8b00827"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-01-30"
+  ],
+  "firstIndexDate": [
+    "2019-01-30"
+  ],
+  "dateOfRevision": [
+    "2019-02-01"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-07"
+  ],
+  "firstPublicationDate": [
+    "2019-01-07"
+  ]
+}

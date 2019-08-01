@@ -1,0 +1,348 @@
+{
+  "id": [
+    "31199449"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31199449"
+  ],
+  "pmcid": [
+    "PMC6575153"
+  ],
+  "doi": [
+    "10.1001/jamanetworkopen.2019.5752"
+  ],
+  "title": [
+    "Clinical and Molecular Characterization of PROM1-Related Retinal Degeneration."
+  ],
+  "authorString": [
+    "Cehajic-Kapetanovic J, Birtel J, McClements ME, Shanks ME, Clouston P, Downes SM, Charbel Issa P, MacLaren RE."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cehajic-Kapetanovic J"
+          ],
+          "firstName": [
+            "Jasmina"
+          ],
+          "lastName": [
+            "Cehajic-Kapetanovic"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Nuffield Laboratory of Ophthalmology, Department of Clinical Neurosciences, Oxford University, Oxford, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Birtel J"
+          ],
+          "firstName": [
+            "Johannes"
+          ],
+          "lastName": [
+            "Birtel"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Ophthalmology, University of Bonn, Bonn, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "McClements ME"
+          ],
+          "firstName": [
+            "Michelle E"
+          ],
+          "lastName": [
+            "McClements"
+          ],
+          "initials": [
+            "ME"
+          ],
+          "affiliation": [
+            "Nuffield Laboratory of Ophthalmology, Department of Clinical Neurosciences, Oxford University, Oxford, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Shanks ME"
+          ],
+          "firstName": [
+            "Morag E"
+          ],
+          "lastName": [
+            "Shanks"
+          ],
+          "initials": [
+            "ME"
+          ],
+          "affiliation": [
+            "Oxford Medical Genetics Laboratories, Oxford University Hospitals NHS Foundation Trust, Oxford, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Clouston P"
+          ],
+          "firstName": [
+            "Penny"
+          ],
+          "lastName": [
+            "Clouston"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Oxford Medical Genetics Laboratories, Oxford University Hospitals NHS Foundation Trust, Oxford, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Downes SM"
+          ],
+          "firstName": [
+            "Susan M"
+          ],
+          "lastName": [
+            "Downes"
+          ],
+          "initials": [
+            "SM"
+          ],
+          "affiliation": [
+            "Nuffield Laboratory of Ophthalmology, Department of Clinical Neurosciences, Oxford University, Oxford, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Charbel Issa P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "Charbel Issa"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Nuffield Laboratory of Ophthalmology, Department of Clinical Neurosciences, Oxford University, Oxford, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "MacLaren RE"
+          ],
+          "firstName": [
+            "Robert E"
+          ],
+          "lastName": [
+            "MacLaren"
+          ],
+          "initials": [
+            "RE"
+          ],
+          "affiliation": [
+            "Nuffield Laboratory of Ophthalmology, Department of Clinical Neurosciences, Oxford University, Oxford, United Kingdom."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "2826579"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "JAMA network open"
+          ],
+          "ISOAbbreviation": [
+            "JAMA Netw Open"
+          ],
+          "medlineAbbreviation": [
+            "JAMA Netw Open"
+          ],
+          "NLMid": [
+            "101729235"
+          ],
+          "ISSN": [
+            "2574-3805"
+          ],
+          "ESSN": [
+            "2574-3805"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e195752"
+  ],
+  "abstractText": [
+    "Importance:The PROM1 gene, commonly associated with cone-rod dystrophies, may have dominant or recessive phenotypes that influence disease onset and severity. Objective:To characterize the clinical phenotype and molecular genetic variations in patients with PROM1 variants. Design, Setting, and Participants:This case-series study was conducted at 2 specialist retinal genetics clinics and examined 19 consecutively enrolled patients with PROM1-related retinal degeneration. Data were collected and analyzed from May 2018 to December 2018. Main Outcomes and Measures:Results of ophthalmic examination, retinal imaging, and molecular genetic analysis by next-generation sequencing. Results:Of 19 patients, 13 (68%) were women, and age ranged from 11 to 70 years. All patients presented with central visual loss, with or without photophobia. Individuals with recessive variants commonly had severe loss of visual acuity by their 20s, whereas the dominant variant was associated with a milder phenotype, with most patients retaining good vision into late adulthood. The recessive cases were associated with a panretinal dystrophy of cone-rod phenotype with early macular involvement, whereas the dominant variants were associated with a cone-rod phenotype that was restricted to the macula with predominantly cone dysfunction. Next-generation sequencing identified 3 novel and 9 previously reported variants in PROM1. Recessive mutations included 6 truncating variants (3 nonsense and 3 frameshift), 4 splice site variants, and 1 missense variant. All 6 dominant variants were associated with a c.1117C>T missense variant. The variants were distributed throughout the PROM1 genomic sequence with no specific clustering on protein domains. Conclusions and Relevance:In this case-series study, PROM1 recessive variants were associated with early-onset, severe panretinal degeneration. The similar phenotypes observed in patients with homozygous missense variants and splice site variants compared with similarly aged patients with truncating variants suggests that all recessive variants have a null (or loss of function close to null) outcome on PROM1 function. In contrast, the dominant missense cases were associated with a milder, cone-driven phenotype, suggesting that the dominant disease is preferentially associated with cones. This has implications for the development of treatments for this severely blinding disease, and adeno-associated viral vector-based gene therapy and optogenetics could become successful treatment options."
+  ],
+  "affiliation": [
+    "Nuffield Laboratory of Ophthalmology, Department of Clinical Neurosciences, Oxford University, Oxford, United Kingdom."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6575153"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1001/jamanetworkopen.2019.5752"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "omim"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-06-15"
+  ],
+  "firstIndexDate": [
+    "2019-06-15"
+  ],
+  "dateOfRevision": [
+    "2019-07-03"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-05"
+  ],
+  "firstPublicationDate": [
+    "2019-06-05"
+  ]
+}

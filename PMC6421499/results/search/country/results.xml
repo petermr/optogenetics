@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="country">
+ <result pre="1 Department of Cardiology, Renmin Hospital of Wuhan University Wuhan" exact="China" post="[], 2 Cardiovascular Research Institute, Wuhan University Wuhan China"/>
+ <result pre="Wuhan China [], 2 Cardiovascular Research Institute, Wuhan University Wuhan" exact="China" post="[], 3 Hubei Key Laboratory of Cardiology Wuhan China"/>
+ <result pre="Wuhan China [], 3 Hubei Key Laboratory of Cardiology Wuhan" exact="China" post="Edited by: Maurizio Acampa, Azienda Ospedaliera Universitaria Senese, Italy"/>
+ <result pre="Wuhan China Edited by: Maurizio Acampa, Azienda Ospedaliera Universitaria Senese," exact="Italy" post="Reviewed by: Antonio Roberto Zamunér, Catholic University of Maule,"/>
+ <result pre="of Maule, Chile; Alessandro Tonacci, Institute of Clinical Physiology (IFC)," exact="Italy" post="*Correspondence: Lilei Yu, whuyulilei@163.com Hong Jiang, whujianghong@163.com This article"/>
+ <result pre="neurocardiology neuromodulation neurorebalance ventricular arrhythmias Funding National Science Foundation of" exact="China" post="10.13039/501100001809 81530011 81570463 fig-count: table-count: equation-count: ref-count: page-count: word-count:"/>
+ <result pre="This work was supported by the National Science Foundation of" exact="China" post="(grant numbers 81530011 and 81570463). References References Anninos P."/>
+</results>

@@ -1,0 +1,227 @@
+{
+  "id": [
+    "PMC5733856"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC5733856"
+  ],
+  "title": [
+    "Optogenetics: From Neuronal Function to Mapping and Disease Biology."
+  ],
+  "authorString": [
+    "Knoble JA, Roberto AJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Knoble JA"
+          ],
+          "firstName": [
+            "Joseph A."
+          ],
+          "lastName": [
+            "Knoble"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "affiliation": [
+            " Medical Student, MS-III, Rush School of Medicine , Rush Medical College"
+          ]
+        },
+        {
+          "fullName": [
+            "Roberto AJ"
+          ],
+          "firstName": [
+            "Aaron J."
+          ],
+          "lastName": [
+            "Roberto"
+          ],
+          "initials": [
+            "AJ"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "90"
+      ],
+      "journalIssueId": [
+        "2631415"
+      ],
+      "dateOfPublication": [
+        "2017 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The Yale Journal of Biology and Medicine"
+          ],
+          "ISOAbbreviation": [
+            "Yale J Biol Med"
+          ],
+          "medlineAbbreviation": [
+            "Yale J Biol Med"
+          ],
+          "NLMid": [
+            "0417414"
+          ],
+          "ISSN": [
+            "0044-0086"
+          ],
+          "ESSN": [
+            "1551-4056"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "695-695"
+  ],
+  "affiliation": [
+    " Medical Student, MS-III, Rush School of Medicine , Rush Medical College"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "book-review",
+        "Book Review"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5733856"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5733856/?tool=EBI"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-12-22"
+  ],
+  "firstIndexDate": [
+    "2017-12-22"
+  ],
+  "dateOfRevision": [
+    "2017-12-22"
+  ],
+  "electronicPublicationDate": [
+    "2017-12-19"
+  ],
+  "firstPublicationDate": [
+    "2017-12-19"
+  ]
+}

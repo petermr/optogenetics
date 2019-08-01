@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="country">
+ <result pre="LCEN3, Department of Neurology, Institute of Neuroscience, Ghent University Ghent" exact="Belgium" post="[], 2 Neuroscience Research Flanders Leuven Belgium [], 3"/>
+ <result pre="Ghent University Ghent Belgium [], 2 Neuroscience Research Flanders Leuven" exact="Belgium" post="[], 3 Life Science and Imaging Imec, Leuven Belgium"/>
+ <result pre="Leuven Belgium [], 3 Life Science and Imaging Imec, Leuven" exact="Belgium" post="[], 4 Environment, Health and Safety Imec, Leuven Belgium"/>
+ <result pre="Leuven Belgium [], 4 Environment, Health and Safety Imec, Leuven" exact="Belgium" post="Edited by: Diana Deca, Norwegian University of Science and"/>
+ <result pre="Edited by: Diana Deca, Norwegian University of Science and Technology," exact="Norway" post="Reviewed by: Stefano Vassanelli, Università degli Studi di Padova,"/>
+ <result pre="degli Studi di Padova, Italy; Anton Ilango, University of Magdeburg," exact="Germany" post="*Correspondence: Dimiter Prodanov dimiterpp@gmail.com; Dimiter.Prodanov@imec.be This article was submitted"/>
+</results>

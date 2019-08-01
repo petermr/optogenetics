@@ -1,0 +1,299 @@
+{
+  "id": [
+    "31080401"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31080401"
+  ],
+  "pmcid": [
+    "PMC6497806"
+  ],
+  "doi": [
+    "10.3389/fnins.2019.00401"
+  ],
+  "title": [
+    "Neural Circuitry Underlying Waking Up to Hypercapnia."
+  ],
+  "authorString": [
+    "Kaur S, Saper CB."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kaur S"
+          ],
+          "firstName": [
+            "Satvinder"
+          ],
+          "lastName": [
+            "Kaur"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Neurology, Program in Neuroscience, Beth Israel Deaconess Medical Center and Harvard Medical School, Boston, MA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Saper CB"
+          ],
+          "firstName": [
+            "Clifford B"
+          ],
+          "lastName": [
+            "Saper"
+          ],
+          "initials": [
+            "CB"
+          ],
+          "affiliation": [
+            "Department of Neurology, Program in Neuroscience, Beth Israel Deaconess Medical Center and Harvard Medical School, Boston, MA, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2779301"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Neurosci"
+          ],
+          "NLMid": [
+            "101478481"
+          ],
+          "ISSN": [
+            "1662-4548"
+          ],
+          "ESSN": [
+            "1662-453X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "401"
+  ],
+  "abstractText": [
+    "Obstructive sleep apnea is a sleep and breathing disorder, in which, patients suffer from cycles of atonia of airway dilator muscles during sleep, resulting in airway collapse, followed by brief arousals that help re-establish the airway patency. These repetitive arousals which can occur hundreds of times during the course of a night are the cause of the sleep-disruption, which in turn causes cognitive impairment as well as cardiovascular and metabolic morbidities. To prevent this potential outcome, it is important to target preventing the arousal from sleep while preserving or augmenting the increase in respiratory drive that reinitiates breathing, but will require understanding of the neural circuits that regulate the cortical and respiratory responses to apnea. The parabrachial nucleus (PB) is located in rostral pons. It receives chemosensory information from medullary nuclei that sense increase in CO2 (hypercapnia), decrease in O2 (hypoxia) and mechanosensory inputs from airway negative pressure during apneas. The PB area also exerts powerful control over cortical arousal and respiration, and therefore, is an excellent candidate for mediating the EEG arousal and restoration of the airway during sleep apneas. Using various genetic tools, we dissected the neuronal sub-types responsible for relaying the stimulus for cortical arousal to forebrain arousal circuits. The present review will focus on the circuitries that regulate waking-up from sleep in response to hypercapnia."
+  ],
+  "affiliation": [
+    "Department of Neurology, Program in Neuroscience, Beth Israel Deaconess Medical Center and Harvard Medical School, Boston, MA, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 NS085477"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P01 HL095491"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Calcitonin gene related peptide",
+        "Parabrachial nucleus",
+        "obstructive sleep apnea",
+        "hypercapnia",
+        "Arousal"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6497806?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6497806"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnins.2019.00401"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-05-14"
+  ],
+  "firstIndexDate": [
+    "2019-05-14"
+  ],
+  "dateOfRevision": [
+    "2019-05-16"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-26"
+  ],
+  "firstPublicationDate": [
+    "2019-04-26"
+  ]
+}

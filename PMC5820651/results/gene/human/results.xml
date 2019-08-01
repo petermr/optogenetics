@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="human">
+ <result pre="( Figure 3 E). We also constructed a plasmid, pPKm-248, containing " exact="HO1" post=", Fd, and FNR all placed after the IRES sequence. This plasmid results in minimized h" xpath="/html[1]/body[1]/div[2]/div[2]/div[4]/p[1]" dictionary="hgnc" dictionaryCheck="false" name="human"/>
+ <result pre=" href=&quot;#fig3&quot;&gt;3 E). We also constructed a plasmid, pPKm-248, containing HO1, Fd, and " exact="FNR" post=" all placed after the IRES sequence. This plasmid results in minimized heme oxygenase and Fd+FNR ac" dictionary="hgnc" dictionaryCheck="false" name="human"/>
+</results>

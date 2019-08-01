@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6634975/results/species/binomial/results.xml">
+  <result pre=", mice were trained to lick in the 0.5 s response window only in non-matched trials. Hit or " exact="False alarm" xpath="/html[1]/body[1]/div[2]/div[4]/div[5]/p[4]" match="False alarm" post=" was defined as detection of lick events in the response window in a non-match or match trial, resp" name="binomial"/>
+  <result pre="ents in the response window in a non-match or match trial, respectively. Similarly, Miss or " exact="Correct rejection" xpath="/html[1]/body[1]/div[2]/div[4]/div[5]/p[4]" match="Correct rejection" post=" were defined as the absence of a lick event in the response window in a match or non-match trial, " name="binomial"/>
+  <result pre="delay, mice were trained to lick in the 0.5-s response window only in paired trials. Hit or " exact="False alarm" xpath="/html[1]/body[1]/div[2]/div[4]/div[5]/p[4]" match="False alarm" post=" was defined as the detection of lick events in the response window in a paired or non-paired trial" name="binomial"/>
+  <result pre="ts in the response window in a paired or non-paired trial, respectively. Similarly, Miss or " exact="Correct rejection" xpath="/html[1]/body[1]/div[2]/div[4]/div[5]/p[4]" match="Correct rejection" post=" were defined as absence of a lick event in the response window in a paired or non-paired trial, re" name="binomial"/>
+  <result pre="delay, mice were trained to lick in the 0.5-s response window after the Go stimulus. Hit or " exact="False alarm" xpath="/html[1]/body[1]/div[2]/div[4]/div[5]/p[4]" match="False alarm" post=" of the Go/No-go task was defined as the detection of lick events in the response window in a Go or" name="binomial"/>
+  <result pre="lick events in the response window in a Go or No-go trial, respectively. Similarly, Miss or " exact="Correct rejection" match="Correct rejection" post=" were defined as absence of a lick event in the response window in a Go or No-go trial. A reward of" name="binomial"/>
+ </snippets>
+</snippetsTree>

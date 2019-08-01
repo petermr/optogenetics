@@ -1,0 +1,358 @@
+{
+  "id": [
+    "31057915"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31057915"
+  ],
+  "pmcid": [
+    "PMC6220173"
+  ],
+  "doi": [
+    "10.1038/s41378-018-0027-0"
+  ],
+  "title": [
+    "Flexible polyimide-based hybrid opto-electric neural interface with 16 channels of micro-LEDs and electrodes."
+  ],
+  "authorString": [
+    "Ji B, Guo Z, Wang M, Yang B, Wang X, Li W, Liu J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ji B"
+          ],
+          "firstName": [
+            "Bowen"
+          ],
+          "lastName": [
+            "Ji"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2655-4840",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "1National Key Laboratory of Science and Technology on Micro/Nano Fabrication, Department of Micro/Nano Electronics, Shanghai Jiao Tong University, Shanghai, 200240 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Guo Z"
+          ],
+          "firstName": [
+            "Zhejun"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "1National Key Laboratory of Science and Technology on Micro/Nano Fabrication, Department of Micro/Nano Electronics, Shanghai Jiao Tong University, Shanghai, 200240 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang M"
+          ],
+          "firstName": [
+            "Minghao"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "1National Key Laboratory of Science and Technology on Micro/Nano Fabrication, Department of Micro/Nano Electronics, Shanghai Jiao Tong University, Shanghai, 200240 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang B"
+          ],
+          "firstName": [
+            "Bin"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "1National Key Laboratory of Science and Technology on Micro/Nano Fabrication, Department of Micro/Nano Electronics, Shanghai Jiao Tong University, Shanghai, 200240 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang X"
+          ],
+          "firstName": [
+            "Xiaolin"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "1National Key Laboratory of Science and Technology on Micro/Nano Fabrication, Department of Micro/Nano Electronics, Shanghai Jiao Tong University, Shanghai, 200240 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li W"
+          ],
+          "firstName": [
+            "Wen"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "2Electrical and Computer Engineering Department, Michigan State University, East Lansing, MI 48824 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu J"
+          ],
+          "firstName": [
+            "Jingquan"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "1National Key Laboratory of Science and Technology on Micro/Nano Fabrication, Department of Micro/Nano Electronics, Shanghai Jiao Tong University, Shanghai, 200240 China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2655-4840",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2685910"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Microsystems & nanoengineering"
+          ],
+          "ISOAbbreviation": [
+            "Microsyst Nanoeng"
+          ],
+          "medlineAbbreviation": [
+            "Microsyst Nanoeng"
+          ],
+          "NLMid": [
+            "101695458"
+          ],
+          "ISSN": [
+            "2096-1030"
+          ],
+          "ESSN": [
+            "2055-7434"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "27"
+  ],
+  "abstractText": [
+    "In this paper, a polyimide-based flexible device that integrates 16 micro-LEDs and 16 IrO x -modified microelectrodes for synchronous photostimulation and neural signal recording is presented. The 4 × 4 micro-LEDs (dimensions of 220 × 270 × 50 μm3, 700 μm pitch) are fixed in the SU-8 fence structure on a polyimide substrate and connected to the leads via a wire-bonding method. The recording electrodes share a similar fabrication process on the polyimide with 16 microelectrode sites (200 μm in diameter and 700 μm in pitch) modified by iridium oxide (IrO x ). These two subparts can be aligned with alignment holes and glued back-to-back by epoxy, which ensures that the light from the LEDs passes through the corresponding holes that are evenly distributed around the recording sites. The long-term electrical and optical stabilities of the device are verified using a soaking test for 3 months, and the thermal property is specifically studied with different duty cycles, voltages, and frequencies. Additionally, the electrochemical results prove the reliability of the IrO x -modified microelectrodes after repeated pressing or friction. To evaluate the tradeoff between flexibility and strength, two microelectrode arrays with thicknesses of 5 and 10 μm are evaluated through simulation and experiment. The proposed device can be a useful mapping optogenetics tool for neuroscience studies in small (rats and mice) and large animal subjects and ultimately in nonhuman primates."
+  ],
+  "affiliation": [
+    "1National Key Laboratory of Science and Technology on Micro/Nano Fabrication, Department of Micro/Nano Electronics, Shanghai Jiao Tong University, Shanghai, 200240 China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6220173?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6220173"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41378-018-0027-0"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-05-07"
+  ],
+  "firstIndexDate": [
+    "2019-05-08"
+  ],
+  "dateOfRevision": [
+    "2019-05-08"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-08"
+  ],
+  "firstPublicationDate": [
+    "2018-10-08"
+  ]
+}

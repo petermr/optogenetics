@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6325585/results/word/frequencies/results.xml">
+  <result title="frequency" word="cells" count="74"/>
+  <result title="frequency" word="light" count="68"/>
+  <result title="frequency" word="protein" count="53"/>
+  <result title="frequency" word="used" count="50"/>
+  <result title="frequency" word="mammalian" count="47"/>
+  <result title="frequency" word="blue" count="43"/>
+  <result title="frequency" word="Nat." count="37"/>
+  <result title="frequency" word="domain" count="33"/>
+  <result title="frequency" word="synthetic" count="33"/>
+  <result title="frequency" word="(Figure" count="31"/>
+  <result title="frequency" word="signaling" count="31"/>
+  <result title="frequency" word="gene" count="30"/>
+  <result title="frequency" word="designer" count="29"/>
+  <result title="frequency" word="optogenetics" count="28"/>
+  <result title="frequency" word="cell" count="27"/>
+  <result title="frequency" word="expression" count="27"/>
+  <result title="frequency" word="light," count="27"/>
+  <result title="frequency" word="Kim" count="26"/>
+  <result title="frequency" word="engineered" count="25"/>
+  <result title="frequency" word="photoactivatable" count="25"/>
+  <result title="frequency" word="control" count="24"/>
+  <result title="frequency" word="exposure" count="24"/>
+  <result title="frequency" word="fused" count="24"/>
+  <result title="frequency" word="proteins" count="24"/>
+  <result title="frequency" word="activation" count="23"/>
+  <result title="frequency" word="cells." count="23"/>
+  <result title="frequency" word="Fussenegger" count="22"/>
+  <result title="frequency" word="optogenetic" count="22"/>
+  <result title="frequency" word="receptor" count="22"/>
+  <result title="frequency" word="Biol." count="21"/>
+  <result title="frequency" word="light." count="21"/>
+ </snippets>
+</snippetsTree>

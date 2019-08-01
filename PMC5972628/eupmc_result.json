@@ -1,0 +1,529 @@
+{
+  "id": [
+    "29872379"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29872379"
+  ],
+  "pmcid": [
+    "PMC5972628"
+  ],
+  "doi": [
+    "10.3389/fncir.2018.00041"
+  ],
+  "title": [
+    "HOPE: Hybrid-Drive Combining Optogenetics, Pharmacology and Electrophysiology."
+  ],
+  "authorString": [
+    "Delcasso S, Denagamage S, Britton Z, Graybiel AM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Delcasso S"
+          ],
+          "firstName": [
+            "Sebastien"
+          ],
+          "lastName": [
+            "Delcasso"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Brain and Cognitive Sciences, McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, MA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Denagamage S"
+          ],
+          "firstName": [
+            "Sachira"
+          ],
+          "lastName": [
+            "Denagamage"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Brain and Cognitive Sciences, McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, MA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Britton Z"
+          ],
+          "firstName": [
+            "Zelie"
+          ],
+          "lastName": [
+            "Britton"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Brain and Cognitive Sciences, McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, MA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Graybiel AM"
+          ],
+          "firstName": [
+            "Ann M"
+          ],
+          "lastName": [
+            "Graybiel"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "affiliation": [
+            "Department of Brain and Cognitive Sciences, McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, MA, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2647765"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neural circuits"
+          ],
+          "ISOAbbreviation": [
+            "Front Neural Circuits"
+          ],
+          "medlineAbbreviation": [
+            "Front Neural Circuits"
+          ],
+          "NLMid": [
+            "101477940"
+          ],
+          "ISSN": [
+            "1662-5110"
+          ],
+          "ESSN": [
+            "1662-5110"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "41"
+  ],
+  "abstractText": [
+    "Understanding the neural mechanisms underlying human cognition and determining the causal factors for the development of brain pathologies are among the greatest challenges for society. Electrophysiological recordings offer remarkable observations of brain activity as they provide highly precise representations of information coding in both temporal and spatial domains. With the development of genetic tools over the last decades, mice have been a key model organism in neuroscience. However, conducting chronic in vivo electrophysiology in awake, behaving mice remains technically challenging, and this difficulty prevents many research teams from acquiring critical recordings in their mouse models. Behavioral training, implant fabrication, brain surgery, data acquisition and data analysis are all required steps that must be mastered in order to perform cutting-edge experiments in systems neuroscience. Here, we present a new method that simplifies the construction of a drivable and multi-task electrophysiological recording implant without loss of flexibility and recording power. The hybrid-drive combining optogenetics, pharmacology and electrophysiology (HOPE) can support up to 16 tetrodes, attached to a single drive mechanism, organized in two bundles of eight tetrodes, allowing recordings in two different mouse brain regions simultaneously with two optical fibers for optogenetic manipulation or two injection cannulas for drug-delivery experiments. Because it can be printed with a latest-generation desktop 3D printer, the production cost is low compared to classical electrophysiology implants, and it can be built within a few hours. The HOPE implant is also reconfigurable to specific needs as it has been created in a computer-aided design (CAD) software and all the files used for its construction are open-source."
+  ],
+  "affiliation": [
+    "Department of Brain and Cognitive Sciences, McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, MA, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 MH060379"
+          ],
+          "agency": [
+            "NIMH NIH HHS"
+          ],
+          "acronym": [
+            "MH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SU"
+                  ],
+                  "qualifierName": [
+                    "surgery"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Electrodes, Implanted"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Behavior, Animal"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Wakefulness"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Electrophysiology"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Electrophysiological Phenomena"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Optogenetics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IS"
+                  ],
+                  "qualifierName": [
+                    "instrumentation"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Electrophysiology",
+        "Drug Delivery",
+        "Optogenetics",
+        "Microdrive",
+        "Electrode Array",
+        "Multi-site"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5972628?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5972628"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fncir.2018.00041"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-02-27"
+  ],
+  "dateOfCreation": [
+    "2018-06-07"
+  ],
+  "firstIndexDate": [
+    "2018-06-07"
+  ],
+  "dateOfRevision": [
+    "2019-02-27"
+  ],
+  "electronicPublicationDate": [
+    "2018-05-16"
+  ],
+  "firstPublicationDate": [
+    "2018-05-16"
+  ]
+}

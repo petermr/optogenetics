@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6449469/results/search/country/results.xml">
+  <result pre="de Génétique Moléculaire de Montpellier, University of Montpellier, CNRS Montpellier" exact="France" post="[], 2 PVM, BioCampus, CNRS, INSERM, University of Montpellier"/>
+  <result pre="[], 2 PVM, BioCampus, CNRS, INSERM, University of Montpellier Montpellier" exact="France" post="[], 3 Department of Biology and Biotechnology &quot;C. Darwin&quot;,"/>
+  <result pre="Biology and Biotechnology &quot;C. Darwin&quot;, Sapienza University of Rome Rome" exact="Italy" post="[], 4 Institute of Structural Biology, School of Biological"/>
+  <result pre="of Structural Biology, School of Biological Sciences, Nanyang Technological University" exact="Singapore" post="Singapore Edited by: Valery Grinevich, German Cancer Research Center"/>
+  <result pre="Structural Biology, School of Biological Sciences, Nanyang Technological University Singapore" exact="Singapore" post="Edited by: Valery Grinevich, German Cancer Research Center (DKFZ),"/>
+  <result pre="Singapore Edited by: Valery Grinevich, German Cancer Research Center (DKFZ)," exact="Germany" post="Reviewed by: Françoise Muscatelli, Institut National de la Santé"/>
+  <result pre="et de la Recherche Médicale (INSERM), France; Jonathan Nassi, Inscopix," exact="United States" post="*Correspondence: Eric J. Kremer, eric.kremer@igmm.cnrs.fr †These authors have contributed"/>
+ </snippets>
+</snippetsTree>

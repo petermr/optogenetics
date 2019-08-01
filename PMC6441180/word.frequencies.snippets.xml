@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6441180/results/word/frequencies/results.xml">
+  <result title="frequency" word="glutamicum" count="82"/>
+  <result title="frequency" word="pathway" count="53"/>
+  <result title="frequency" word="biliverdin" count="52"/>
+  <result title="frequency" word="heme" count="52"/>
+  <result title="frequency" word="production" count="45"/>
+  <result title="frequency" word="III" count="37"/>
+  <result title="frequency" word="using" count="32"/>
+  <result title="frequency" word="biosynthesis" count="31"/>
+  <result title="frequency" word="coproporphyrin" count="30"/>
+  <result title="frequency" word="strain" count="29"/>
+  <result title="frequency" word="coli" count="28"/>
+  <result title="frequency" word="produce" count="28"/>
+  <result title="frequency" word="hemQ" count="26"/>
+  <result title="frequency" word="work" count="26"/>
+  <result title="frequency" word="ATCC" count="24"/>
+  <result title="frequency" word="pull" count="24"/>
+  <result title="frequency" word="protoporphyrin" count="23"/>
+  <result title="frequency" word="used" count="22"/>
+  <result title="frequency" word="(Fig." count="21"/>
+  <result title="frequency" word="plasmids" count="21"/>
+ </snippets>
+</snippetsTree>

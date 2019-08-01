@@ -1,0 +1,436 @@
+{
+  "id": [
+    "28003330"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28003330"
+  ],
+  "pmcid": [
+    "PMC5223619"
+  ],
+  "doi": [
+    "10.1083/jcb.201612094"
+  ],
+  "title": [
+    "Interrogating cellular perception and decision making with optogenetic tools."
+  ],
+  "authorString": [
+    "Bugaj LJ, O'Donoghue GP, Lim WA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bugaj LJ"
+          ],
+          "firstName": [
+            "Lukasz J"
+          ],
+          "lastName": [
+            "Bugaj"
+          ],
+          "initials": [
+            "LJ"
+          ],
+          "affiliation": [
+            "Department of Cellular and Molecular Pharmacology, University of California, San Francisco, San Francisco, CA 94158."
+          ]
+        },
+        {
+          "fullName": [
+            "O'Donoghue GP"
+          ],
+          "firstName": [
+            "Geoff P"
+          ],
+          "lastName": [
+            "O'Donoghue"
+          ],
+          "initials": [
+            "GP"
+          ],
+          "affiliation": [
+            "Department of Cellular and Molecular Pharmacology, University of California, San Francisco, San Francisco, CA 94158."
+          ]
+        },
+        {
+          "fullName": [
+            "Lim WA"
+          ],
+          "firstName": [
+            "Wendell A"
+          ],
+          "lastName": [
+            "Lim"
+          ],
+          "initials": [
+            "WA"
+          ],
+          "affiliation": [
+            "Center for Systems and Synthetic Biology, University of California, San Francisco, San Francisco, CA 94158."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "216"
+      ],
+      "journalIssueId": [
+        "2510512"
+      ],
+      "dateOfPublication": [
+        "2017 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The Journal of cell biology"
+          ],
+          "ISOAbbreviation": [
+            "J. Cell Biol."
+          ],
+          "medlineAbbreviation": [
+            "J Cell Biol"
+          ],
+          "NLMid": [
+            "0375356"
+          ],
+          "ISSN": [
+            "0021-9525"
+          ],
+          "ESSN": [
+            "1540-8140"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "25-28"
+  ],
+  "abstractText": [
+    "Optogenetics promises to deepen our understanding of how cells perceive and respond to complex and dynamic signals and how this perception regulates normal and abnormal function. In this study, we present our vision for how these nascent tools may transform our view of fundamental cell biological processes."
+  ],
+  "affiliation": [
+    "Department of Cellular and Molecular Pharmacology, University of California, San Francisco, San Francisco, CA 94158."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "article-commentary",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "P50 GM081879"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "F32 GM116489"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Signal Transduction"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Forecasting"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Diffusion of Innovation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Regulatory Networks"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Biology"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TD"
+                  ],
+                  "qualifierName": [
+                    "trends"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Protein Interaction Maps"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Optogenetics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TD"
+                  ],
+                  "qualifierName": [
+                    "trends"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5223619?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5223619"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1083/jcb.201612094"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "8"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-06-01"
+  ],
+  "dateOfCreation": [
+    "2016-12-22"
+  ],
+  "firstIndexDate": [
+    "2016-12-23"
+  ],
+  "dateOfRevision": [
+    "2017-07-14"
+  ],
+  "electronicPublicationDate": [
+    "2016-12-21"
+  ],
+  "firstPublicationDate": [
+    "2016-12-21"
+  ]
+}

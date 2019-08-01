@@ -1,0 +1,530 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head> <style type="text/css">
+         	     		 
+         	    a                          {background : #ffffff; }
+         	    article                    {border-style : dotted; border-width : 2px; }
+         		 	
+         		 	div                        {background : #ffffcc;}
+         		 	div.abstract-title         {font-weight : bold ; font-size : 16pt;}
+         		 	div.ack                    {border-style : solid ; border-color : red; margin
+         : 2em; }
+         		 	div.article-meta           {border-style : solid; border-width : 1 pt; margin
+         1em;}
+         		 	div.boxed-text             {margin : 5em; border-style : solid;}
+         		 	div.contrib-group          {margin : 1em; }
+         		 	div.fig                    {border-style : solid; border-width : 2px; margin :
+         2em; }
+         		 	div.funding                {font-weight : bold ; font-size : 16pt;}
+         		 	div.given-names            {font-style : italic;}
+         		 	div.intro                  {border-style : inset; margin : 5px;}
+         		 	div.introduction           {border-style : inset; margin : 5px;}
+         		 	div.journal-meta           {border-style : solid; border-width : 1 pt; margin
+         1em;}
+         		 	div.journal-title-group    {background : #ffeeee;}
+         		 	div.article-title          {font-weight : bold ; font-size : 18pt;}
+         		 	div.kwd                    {font-style : italic}
+         		 	div.meta-name              {font-weight : bold ; font-size : 16pt;}
+         		 	div.name                   {font-weight : bold;}
+         		 	div.alt-title              {font-style : italic; font-size : 12px;}
+         		 	
+         		 	div.sec                    {border : 2px; margin 5px; padding 2px;}
+         		 	div.title                  {font-family : courier; font-weight : bold;
+         		 	                            font-size : 16pt; margin : 5px;}
+         		 	
+         		 	div.materials_methods      {border-style : double; margin : 5px; }
+         		 	div.methods                {border-style : double; margin : 5px; }
+         		 	
+         		 	div.results                {border-style : solid; margin : 5px;}
+         		 	div.background             {border-style : dotted; margin : 5px;}
+         		 	
+         		 	div.discussion             {border-style : groove; margin : 5px;}
+         		 	div.conclusion             {border-style : ridge; margin : 5px;}
+         		 	div.conclusions             {border-style : ridge; margin : 5px;}
+         		 	div.supplementary-material {border-style : inset; margin : 5px;}
+         		 	div.abbreviations          {border-style : double; border-color : red; margin
+         : 5px;}
+         		 	div.competinginterests     {border-style : double; border-color : blue; margin
+         : 5px;}
+         		 	div.acknowledgements       {border-style : double; border-color : green; margin
+         : 5px;}
+         		 	div.authors_contributions   {border-style : double; border-color : purple; margin
+         : 5px;}
+         		 	
+         		 	div.publisher              {border-style : outset; margin : 5px;}
+         		 	div.fn-type-conflict       {background : #f88; }
+         		 	div.fn-type-con            {background : #ddf; }
+         		 	div.fn-type-other          {background : #ddd; }
+         		 	
+         		 	div.unknown                {background : #ffd;
+         									 	  border-style : solid;
+         									 	  border-width : 1px;
+         									 	  padding : 2 px;}
+         		 	  
+         	    table                      {background : #ffffdd;}
+         		 	tr                         {background : #ddddff; padding : 1px;}
+         		 	
+         		 	span                       {background : #ffcccc;}
+         		 	
+         		 	span.citation-author       {font-family : helvetica; background : #ffeeee;}
+         		 	span.collab                {background : #ddffff; }
+         		 	span.comment               {font-family : courier; font-size : 6px; background
+         : #ffaaff;}
+         		 	span.contrib               {background : #ffffff;}
+         		 	span.corresp               {background : #ddffdd; }
+         		 	span.doi                   {background : #ffffff;}
+         		 	span.email                 {font-family : courier; }
+         		 	span.etal                  {font-style : italic;}
+         		 	span.fpage                 {font-family : courier;}
+         		 	span.given-names           {background : #ffffff;}
+         		 	span.iso-abbrev            {background : #ffffff;}
+         		 	span.issn-epub             {background : #ffffff;}
+         		 	span.issn-ppub             {background : #ffffff;}
+         		 	span.journal-title         {background : #ffffff;}
+         		 	span.lpage                 {font-family : courier;}
+         		 	span.mixed-article-title   {font-style : italic ;}
+         		 	span.nlm-ta                {background : #ffffff;}
+         		 	span.pmc                   {background : #ffffff;}
+         		 	span.pmcid                 {background : #ffffff;}
+         		 	span.pmid                  {background : #ffffff;}
+         		 	span.publisher             {background : #ffffff;}
+         		 	span.publisher-id          {background : #ffffff;}
+         		 	span.publisher-name        {background : #ffffff;}
+         		 	span.source                {background : #ffffff;}
+         		 	span.subject               {background : #ffffff;}
+         		 	span.surname               {background : #ffffff;}
+         		 	span.volume                {font-family : courier; font-weight : bold;}
+         		 	span.year                  {font-family : courier ; font-style : italic;}
+         			
+      </style> </head> <body> <div class="front" title="front"> <div class="journal-meta" tagx="journal-meta" title="journal-meta"> <span class="nlm-ta" title="nlm-ta">Methods Protoc</span> <span class="iso-abbrev" title="iso-abbrev">Methods Protoc</span> <span class="publisher-id" title="publisher-id">mps</span> <div class="journal-title-group" tagx="journal-title-group" title="journal-title-group"> <span class="journal-title" tagx="journal-title" title="journal-title">Methods and Protocols</span> </div> <span class="issn-epub" tagx="issn" title="issn-epub">2409-9279</span> <div class="publisher" tagx="publisher" title="publisher"> <span class="publisher-name" tagx="publisher-name" title="publisher-name">MDPI</span> </div> </div> <div class="article-meta" tagx="article-meta" title="article-meta"> <span class="pmcid" title="pmcid"> pmcid: <a href="http://www.ncbi.nlm.nih.gov/pubmed/6481074">6481074</a> </span> <span class="doi" title="doi"> doi: <a href="https://dx.doi.org/10.3390/mps2010002">10.3390/mps2010002</a> </span> <span class="publisher-id" title="publisher-id">mps-02-00002</span> <div class="article-categories" title="article-categories">
+: <span class="subject" title="subject">Article</span> </div> <div class="title-group"> <div class="article-title" title="article-title">
+Fast Calculation of Computer Generated Holograms for 3D Photostimulation through Compressive-Sensing Gerchberg–Saxton Algorithm </div> </div> <div class="contrib-group" title="contrib-group"> <span class="contrib" title="contrib"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Pozzi</span> <span class="given-names" tagx="given-names" title="given-names">Paolo</span> </span> <a href="#af1-mps-02-00002">1</a> <a href="#fn1-mps-02-00002">†</a> <a href="#c1-mps-02-00002">*</a> </span> <span class="contrib" title="contrib"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Maddalena</span> <span class="given-names" tagx="given-names" title="given-names">Laura</span> </span> <a href="#af2-mps-02-00002">2</a> <a href="#fn1-mps-02-00002">†</a> </span> <span class="contrib" title="contrib"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Ceffa</span> <span class="given-names" tagx="given-names" title="given-names">Nicolò</span> </span> <a href="#af2-mps-02-00002">2</a> </span> <span class="contrib" title="contrib"> <span class="contrib-id" tagx="contrib-id" title="contrib-id">https://orcid.org/0000-0003-3761-9192</span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Soloviev</span> <span class="given-names" tagx="given-names" title="given-names">Oleg</span> </span> <a href="#af1-mps-02-00002">1</a> <a href="#af3-mps-02-00002">3</a> </span> <span class="contrib" title="contrib"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Vdovin</span> <span class="given-names" tagx="given-names" title="given-names">Gleb</span> </span> <a href="#af1-mps-02-00002">1</a> <a href="#af3-mps-02-00002">3</a> </span> <span class="contrib" title="contrib"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Carroll</span> <span class="given-names" tagx="given-names" title="given-names">Elizabeth</span> </span> <a href="#af2-mps-02-00002">2</a> <a href="#fn2-mps-02-00002">‡</a> </span> <span class="contrib" title="contrib"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Verhaegen</span> <span class="given-names" tagx="given-names" title="given-names">Michel</span> </span> <a href="#af1-mps-02-00002">1</a> <a href="#fn2-mps-02-00002">‡</a> </span> </div> <span class="citation_author_institution" id="af1-mps-02-00002">[1], <span class="email" tagx="email" title="email">o.a.soloviev@tudelft.nl</span> <span class="email" tagx="email" title="email">g.v.vdovine@tudelft.nl</span> <span class="email" tagx="email" title="email">m.verhaegen@tudelft.nl</span> </span> <span class="citation_author_institution" id="af2-mps-02-00002">[2], <span class="email" tagx="email" title="email">l.maddalena@tudelft.nl</span> <span class="email" tagx="email" title="email">n.g.ceffa@tudelft.nl</span> <span class="email" tagx="email" title="email">e.c.m.carroll@tudelft.nl</span> </span> <span class="citation_author_institution" id="af3-mps-02-00002">[3], </span> <div class="author-notes" title="author-notes"> <div class="corresp" title="corresp"> <span class="label" tagx="label" title="label">*</span>Correspondence: <span class="email" tagx="email" title="email">p.pozzi@tudelft.nl</span>; Tel.: +31-152781758 </div> <div class="fn-type-" title=""> <span class="label" tagx="label" title="label">†</span> <p>These authors contributed equally to this work.</p> </div> <div class="fn-type-" title=""> <span class="label" tagx="label" title="label">‡</span> <p>These authors contributed equally to this work.</p> </div> </div> <span class="pub-date-epub" title="pub-date-epub">epub: <span>2018-12-12</span> </span> <span class="pub-date-collection" title="pub-date-collection">collection: <span>2019-3</span> </span> <span class="volume" tagx="volume" title="volume">2</span> <span class="issue" tagx="issue" title="issue">1</span> <span class="elocation-id" tagx="elocation-id" title="elocation-id">2</span> <span class="history" title="history"> <span class="received" title="received">received: 2018-10-29</span> <span class="accepted" title="accepted">accepted: 2018-12-18</span> </span> <div class="permissions"> <span class="copyright" title="copyright">(C) , <span class="copyright-year" tagx="copyright-year" title="copyright-year">2018</span> </span> <span class="license" title="license"> <span class="license-p" title="license-p">Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( <a href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</a>). </span> </span> </div> <div class="abstract" title="abstract"> <div class="abstract-title" title="abstract-title">
+Abstract</div> <p>The use of spatial light modulators to project computer generated holograms is a common strategy for optogenetic stimulation of multiple structures of interest within a three-dimensional volume. A common requirement when addressing multiple targets sparsely distributed in three dimensions is the generation of a points cloud, focusing excitation light in multiple diffraction-limited locations throughout the sample. Calculation of this type of holograms is most commonly performed with either the high-speed, low-performance random superposition algorithm, or the low-speed, high performance Gerchberg–Saxton algorithm. This paper presents a variation of the Gerchberg–Saxton algorithm that, by only performing iterations on a subset of the data, according to compressive sensing principles, is rendered significantly faster while maintaining high quality outputs. The algorithm is presented in high-efficiency and high-uniformity variants. All source code for the method implementation is available as Supplementary Materials and as open-source software. The method was tested computationally against existing algorithms, and the results were confirmed experimentally on a custom setup for in-vivo multiphoton optogenetics. The results clearly show that the proposed method can achieve computational speed performances close to the random superposition algorithm, while retaining the high performance of the Gerchberg–Saxton algorithm, with a minimal hologram quality loss. </p> </div> <div class="kwd-group"> <div class="kwd" title="kwd">
+optogenetics</div> <div class="kwd" title="kwd">
+spatial light modulators</div> <div class="kwd" title="kwd">
+computer generated holograms</div> </div> </div> </div> <div class="body" title="body"> <div class="intro" title="intro"> <div class="title" tagx="title" title="title">
+1. Introduction</div> <p>The development of optogenetics tools such as channelrhodopsin-2 (ChR2) [ <a href="#B1-mps-02-00002">1</a>] encompasses optical methods to efficiently stimulate neurons for investigating how neural circuit structure is related to function. In the optical manipulation of neural circuits, proper choice of the light delivery method is crucial. Ideally, the optical system should be capable of targeting a wide range of regions of interest (ROIs), from single synapses to 3D populations of neurons, and provide a time resolution on the order of millisecond along with micrometer spatial resolution [ <a href="#B2-mps-02-00002">2</a>]. Common techniques to fulfill these requirements can be classified into two main categories: point-scanning methods and parallel excitation methods [ <a href="#B3-mps-02-00002">3</a>]. The first approach consists of a tightly focused laser beam rastered across the ROIs typically using galvanometric mirrors or acousto-optic devices (AOD) to control the scan pattern. Scanning approaches are limited by the time needed to steer the laser beam: although the scan sequence can be randomized with digital scanners, only one point is ever stimulated at a time [ <a href="#B4-mps-02-00002">4</a>]. In fact, the ROIs in the neuron under investigation must be activated within a short temporal window to trigger sufficient depolarization to local action potential. </p> <p>Alternatively, parallel excitation methods project an image into the sample, simultaneously illuminating all ROIs. Digital micromirror devices (the optically active chip in most digital light projectors) are capable of such image projection, making use of an array micrometer-sized mirrors ("pixels") to reflect light in or out of the image to form a pattern. These devices modulate amplitude of the incident light, the total power depends on the pattern, and it can be inefficient to generate the relatively high light intensity especially for two-photon stimulation [ <a href="#B5-mps-02-00002">5</a>]. </p> <p>Phase-only liquid crystal on silicon spatial light modulators (LCoS-SLM) are commonly used in optogenetics for the generation of complex illumination patterns within the sample. A LCoS-SLM is a two-dimensional, pixelated device capable of modulating the phase of a monochromatic, polarized light beam, without affecting its intensity. When positioned in the pupil plane of a microscope, SLMs can be used to modulate the intensity distribution of light at the image plane. The phase modulation distribution programmed on the SLM to obtain a desired illumination pattern is called a computer-generated hologram (CGH). </p> <p>Computer-generated holograms provide a high level of flexibility in the spatial shaping of excitation light in two and three dimensions. The three-dimensional distribution of excitation does not impose a limit on the temporal resolution, which is only dependent on the residence time <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+R</div> <div class="mi_UNKNOWN">
+t</div> </div> </div> </div> </span>, the refresh rate of the SLM (30–60 Hz), and the kinetics of the optogenetics tool [ <a href="#B6-mps-02-00002">6</a>]. The calculation of CGH is a non-trivial problem and several algorithms are available. In particular, two main classes of algorithms are available: fast Fourier transform based algorithms and multi-spot algorithms. </p> <p>While fast Fourier transform algorithms can generate extremely complex illumination patterns in very short times, a strict requirement is that illumination light should be focused either on a two-dimensional plane [ <a href="#B7-mps-02-00002">7</a>], or at most on a limited number of of two-dimensional planes at different depths [ <a href="#B8-mps-02-00002">8</a>]. </p> <p>On the other hand, multi-spot algorithms tend to be slower, but can generate holograms of diffraction limited spots arbitrarily distributed in the three-dimensional field of view of the optical system. These spots can be used to stimulate sub-cellullar regions in the neuron of interest [ <a href="#B9-mps-02-00002">9</a>]. Alternatively, to use a multi-spot hologram to illuminate ROIs of the size of neurons, the entire illumination pattern can be scanned in a spiral or raster pattern [ <a href="#B10-mps-02-00002">10</a>], or combined with temporal focusing excitation [ <a href="#B11-mps-02-00002">11</a>]. Several algorithms exist to calculate a multi-spot hologram, generally representing a tradeoff between computation speed and quality of the hologram. A good summary of the most common algorithms for the generation of multi-spot holograms can be found in [ <a href="#B12-mps-02-00002">12</a>]. </p> <p>The most common way to compute a multi-spot CGH is the Gerchberg–Saxton (GS) algorithm [ <a href="#B13-mps-02-00002">13</a>], an iterative procedure of alternating projections allowing for the computation of high quality CGHs in time frames compatible with experimental needs. While the computational cost scales linearly with the amount of generated spots, in a general experimental scenario, calculation of a CGH can take between a few seconds and a couple of minutes. In optogenetics experiments requiring frequent calculation of new stimulation patterns "on-the-fly", the random superposition (RS) algorithm is sometimes preferred to GS algorithm [ <a href="#B14-mps-02-00002">14</a>], sacrificing hologram quality to achieve higher computation speeds. </p> <p>In this paper, a modified version of the GS algorithm, based on compressive sensing of the pupil function, is presented. The compressive sensing Gerchberg–Saxton algorithm (CS-GS) can generate holograms of equal quality to the standard GS algorithm, but reduces the computational cost by more than one order of magnitude, reaching time scales similar to the RS algorithm. </p> </div> <div class="2.methoddescription" title="sec"> <div class="title" tagx="title" title="title">
+2. Method Description</div> <div class="2.1.randomsuperpositionandgerchberg–saxtonalgorithm" title="sec"> <div class="title" tagx="title" title="title">
+2.1. Random Superposition and Gerchberg–Saxton Algorithm</div> <p>The CGH <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+ϕ</div> <div class="mo_UNKNOWN">
+(</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mo_UNKNOWN">
+′</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mo_UNKNOWN">
+′</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> </div> </span> generating a single spot at coordinates <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+x</div> <div class="mo_UNKNOWN">
+,</div> <div class="mi_UNKNOWN">
+y</div> <div class="mo_UNKNOWN">
+,</div> <div class="mi_UNKNOWN">
+z</div> <div class="mo_UNKNOWN">
+)</div> </div> </div> </div> </span> at the sample can be easily computed through Fourier optics, as a combination of tip, tilt and defocus aberrations </p><div class="disp-formula" title="disp-formula"> <span class="label" tagx="label" title="label">(1)</span> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+ϕ</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mo_UNKNOWN">
+′</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mo_UNKNOWN">
+′</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+π</div> <div class="mi_UNKNOWN">
+z</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+λ</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+f</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+′</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+′</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+2</div> <div class="mi_UNKNOWN">
+π</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+λ</div> <div class="mi_UNKNOWN">
+f</div> </div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="mi_UNKNOWN">
+x</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mo_UNKNOWN">
+′</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+y</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mo_UNKNOWN">
+′</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+,</div> </div> </div> </div> </div> where <i>f</i> is the equivalent focal length of the optical system and <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+λ</div> </div> </div> </span> is the wavelength. <p /> <p>In the GS algorithm, the CGH generating a set of <i>N</i> spots at coordinates <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+z</div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> </div> </span> is assumed to be the phase of the superposition of all the fields generating the individual spots </p><div class="disp-formula" title="disp-formula"> <span class="label" tagx="label" title="label">(2)</span> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+ϕ</div> <div class="mi_UNKNOWN">
+cgh</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mo_UNKNOWN">
+′</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mo_UNKNOWN">
+′</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mo_UNKNOWN">
+arg</div> <div class="munderover_UNKNOWN"> <div class="mo_UNKNOWN">
+∑</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mi_UNKNOWN">
+N</div> </div> <div class="mfrac_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mi_UNKNOWN">
+N</div> </div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+e</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+−</div> <div class="mi_UNKNOWN">
+i</div> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+ϕ</div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mo_UNKNOWN">
+′</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mo_UNKNOWN">
+′</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+θ</div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> <div class="mo_UNKNOWN">
+,</div> </div> </div> </div> </div> where <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+θ</div> <div class="mi_UNKNOWN">
+n</div> </div> </div> </div> </span> are some constant phase terms. The only degrees of freedom that can be addressed from the algorithm to optimize the quality of the CGH are the <i>N</i> values of <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+θ</div> <div class="mi_UNKNOWN">
+n</div> </div> </div> </div> </span>. <p /> <p>It is to be noticed that, by simply solving Equation ( <a href="#FD2-mps-02-00002">2</a>) for random values of <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+θ</div> <div class="mi_UNKNOWN">
+n</div> </div> </div> </div> </span>, a low quality CGH can be calculated, without any optimization on the constant phase terms <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+θ</div> <div class="mi_UNKNOWN">
+n</div> </div> </div> </div> </span>. This is known as the RS algorithm, which has computational cost scaling as <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mo_UNKNOWN">
+×</div> <div class="mi_UNKNOWN">
+N</div> </div> </div> </div> </span> where <i>M</i> is the number of SLM pixels. </p> <p>To compute optimal values of <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+θ</div> <div class="mi_UNKNOWN">
+n</div> </div> </div> </div> </span>, the GS algorithm proceeds by alternating projections. The initial values of the phases <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+θ</div> <div class="mi_UNKNOWN">
+n</div> <div class="mn_UNKNOWN">
+0</div> </div> </div> </div> </span> are chosen at random, and the initial CGH <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+ϕ</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+cgh</div> </div> <div class="mn_UNKNOWN">
+0</div> </div> </div> </div> </span> is computed according to Equation ( <a href="#FD2-mps-02-00002">2</a>). </p> <p>At each <i>k</i>th iteration, the values of <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+θ</div> <div class="mi_UNKNOWN">
+n</div> <div class="mi_UNKNOWN">
+k</div> </div> </div> </div> </span> are estimated as </p><div class="disp-formula" title="disp-formula"> <span class="label" tagx="label" title="label">(3)</span> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+θ</div> <div class="mi_UNKNOWN">
+n</div> <div class="mi_UNKNOWN">
+k</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mo_UNKNOWN">
+arg</div> <div class="msub_UNKNOWN"> <div class="mo_UNKNOWN">
+∫</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+L</div> <div class="mi_UNKNOWN">
+M</div> </div> </div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+e</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+−</div> <div class="mi_UNKNOWN">
+i</div> <div class="mo_UNKNOWN">
+(</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+ϕ</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+cgh</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+k</div> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+1</div> </div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+ϕ</div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> <div class="mi_UNKNOWN">
+d</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mo_UNKNOWN">
+′</div> </div> <div class="mi_UNKNOWN">
+d</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mo_UNKNOWN">
+′</div> </div> <div class="mo_UNKNOWN">
+,</div> </div> </div> </div> </div> and <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+ϕ</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+cgh</div> </div> <div class="mi_UNKNOWN">
+k</div> </div> </div> </div> </span> is computed again according to Equation ( <a href="#FD2-mps-02-00002">2</a>). <p /> <p>Performing a GS algorithm for <i>K</i> iterations, while generating <i>N</i> spots, on an SLM with <i>M</i> pixels has a computational cost scaling as <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+K</div> <div class="mo_UNKNOWN">
+×</div> <div class="mi_UNKNOWN">
+N</div> <div class="mo_UNKNOWN">
+×</div> <div class="mi_UNKNOWN">
+M</div> </div> </div> </div> </span>. Empirically, a few tens of iterations are required for convergence of the algorithm. </p> </div> <div class="2.2.compressivesensingapproach" title="sec"> <div class="title" tagx="title" title="title">
+2.2. Compressive Sensing Approach</div> <p>To understand the principle of the CS-GS algorithm described in this paper, it must be noticed that Equation ( <a href="#FD2-mps-02-00002">2</a>) can be rewritten as </p><div class="disp-formula" title="disp-formula"> <span class="label" tagx="label" title="label">(4)</span> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mo_UNKNOWN">
+→</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mi_UNKNOWN">
+A</div> <div class="msup_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mo_UNKNOWN">
+→</div> </div> <div class="mi_UNKNOWN">
+T</div> </div> <div class="mo_UNKNOWN">
+,</div> </div> </div> </div> </div> where <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mo_UNKNOWN">
+→</div> </div> </div> </div> </span> is a <i>N</i>-dimensional vector representing the field values for each spot, <i>A</i> is a <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+N</div> <div class="mo_UNKNOWN">
+×</div> <div class="mi_UNKNOWN">
+M</div> </div> </div> </div> </span>-dimensional matrix in which each <i>n</i>th line contains the value of <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mi_UNKNOWN">
+N</div> </div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+e</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+−</div> <div class="mi_UNKNOWN">
+i</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+ϕ</div> <div class="mi_UNKNOWN">
+n</div> </div> </div> </div> </div> </div> </div> </span> at each <i>m</i>th pixel of the SLM, and <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mover_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mo_UNKNOWN">
+→</div> </div> </div> </div> </span> is a vector of coefficients in the form <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mi_UNKNOWN">
+m</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+e</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+−</div> <div class="mi_UNKNOWN">
+i</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+ϕ</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+cgh</div> <div class="mo_UNKNOWN">
+,</div> <div class="mi_UNKNOWN">
+m</div> </div> </div> </div> </div> </div> </div> </div> </span> where <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+ϕ</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+cgh</div> <div class="mo_UNKNOWN">
+,</div> <div class="mi_UNKNOWN">
+m</div> </div> </div> </div> </div> </span> is the value of the phase of the CGH at the <i>m</i>th pixel of the SLM. <p /> <p>Since generally <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+M</div> <div class="mo_UNKNOWN">
+≫</div> <div class="mi_UNKNOWN">
+N</div> </div> </div> </div> </span>, this is an under-determined linear system. While an exact solution to the system is provided by Equation ( <a href="#FD2-mps-02-00002">2</a>), according to the principles of compressive sensing [ <a href="#B15-mps-02-00002">15</a>], and in particular equivalently to <i>k</i>-space compressed imaging applications [ <a href="#B16-mps-02-00002">16</a>], a satisfying solution can be obtained by only sampling a subset of <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> <div class="mi_UNKNOWN">
+M</div> </div> </div> </div> </span> randomly distributed pixels of the SLM, where <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mfrac_UNKNOWN"> <div class="mi_UNKNOWN">
+N</div> <div class="mi_UNKNOWN">
+M</div> </div> <div class="mo_UNKNOWN">
+&amp;lt;</div> <div class="mi_UNKNOWN">
+c</div> <div class="mo_UNKNOWN">
+&amp;lt;</div> <div class="mn_UNKNOWN">
+1</div> </div> </div> </div> </span>. </p> <p>According to this assumption, the first <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+K</div> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+1</div> </div> </div> </div> </span> iterations of the GS algorithm can be performed only considering a subset of randomly distributed pixels of the SLM, and only on the <i>K</i>th iteration the whole CGH should be computed according to Equation ( <a href="#FD2-mps-02-00002">2</a>). With this algorithm, the computational cost scales as <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+K</div> <div class="mo_UNKNOWN">
+×</div> <div class="mi_UNKNOWN">
+N</div> <div class="mo_UNKNOWN">
+×</div> <div class="mi_UNKNOWN">
+c</div> <div class="mi_UNKNOWN">
+M</div> <div class="mo_UNKNOWN">
++</div> <div class="mi_UNKNOWN">
+N</div> <div class="mo_UNKNOWN">
+×</div> <div class="mi_UNKNOWN">
+M</div> </div> </div> </div> </span>, which, for <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> <div class="mo_UNKNOWN">
+×</div> <div class="mi_UNKNOWN">
+K</div> <div class="mo_UNKNOWN">
+≪</div> <div class="mn_UNKNOWN">
+1</div> </div> </div> </div> </span>, can be approximated as just <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+N</div> <div class="mo_UNKNOWN">
+×</div> <div class="mi_UNKNOWN">
+M</div> </div> </div> </div> </span>, which is equivalent to the RS algorithm cost. Reasonable values of <i>K</i> are in the order of <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msup_UNKNOWN"> <div class="mn_UNKNOWN">
+10</div> <div class="mn_UNKNOWN">
+2</div> </div> </div> </div> </span>. </p> </div> <div class="2.3.weightedgerchberg–saxton" title="sec"> <div class="title" tagx="title" title="title">
+2.3. Weighted Gerchberg–Saxton</div> <p>The GS algorithm tends to optimize the efficiency of the CGH, but does not guarantee uniform intensity amongst the foci created. In applications in which it is crucial for the CGH to generate spots of equal intensity, a modified version of the GS algorithm, named weighted Gerchberg–Saxton (WGS) algorithm [ <a href="#B12-mps-02-00002">12</a>] can be implemented to improve uniformity, with a minor loss in efficiency. The WGS algorithm has the same computational cost of GS. In the WGS algorithm, <i>N</i> additional degrees of freedom are introduced, as intensity weights <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+ω</div> <div class="mi_UNKNOWN">
+n</div> </div> </div> </div> </span> in the combination of the spots wavefronts. The initial value of the weights is equal for all spots, and set to <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+ω</div> <div class="mi_UNKNOWN">
+n</div> <div class="mn_UNKNOWN">
+0</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mfrac_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mi_UNKNOWN">
+N</div> </div> </div> </div> </div> </span>. Equation ( <a href="#FD2-mps-02-00002">2</a>) is then rewritten as: </p><div class="disp-formula" title="disp-formula"> <span class="label" tagx="label" title="label">(5)</span> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+ϕ</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+cgh</div> </div> <div class="mi_UNKNOWN">
+k</div> </div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+(</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mo_UNKNOWN">
+′</div> </div> <div class="mo_UNKNOWN">
+,</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mo_UNKNOWN">
+′</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mo_UNKNOWN">
+arg</div> <div class="munderover_UNKNOWN"> <div class="mo_UNKNOWN">
+∑</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+n</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+1</div> </div> <div class="mi_UNKNOWN">
+N</div> </div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+ω</div> <div class="mi_UNKNOWN">
+n</div> <div class="mi_UNKNOWN">
+k</div> </div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+e</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+−</div> <div class="mi_UNKNOWN">
+i</div> <div class="mo_UNKNOWN">
+(</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+ϕ</div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+θ</div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> <div class="mo_UNKNOWN">
+.</div> </div> </div> </div> </div> <p /> <p>Computing the intensity of each spot as: </p><div class="disp-formula" title="disp-formula"> <span class="label" tagx="label" title="label">(6)</span> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+I</div> <div class="mi_UNKNOWN">
+n</div> <div class="mi_UNKNOWN">
+k</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="mfenced_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mo_UNKNOWN">
+∫</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+S</div> <div class="mi_UNKNOWN">
+L</div> <div class="mi_UNKNOWN">
+M</div> </div> </div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+e</div> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+−</div> <div class="mi_UNKNOWN">
+i</div> <div class="mo_UNKNOWN">
+(</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+ϕ</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+cgh</div> </div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+k</div> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+1</div> </div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+ϕ</div> <div class="mi_UNKNOWN">
+n</div> </div> <div class="mo_UNKNOWN">
+)</div> </div> </div> <div class="mi_UNKNOWN">
+d</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+x</div> <div class="mo_UNKNOWN">
+′</div> </div> <div class="mi_UNKNOWN">
+d</div> <div class="msup_UNKNOWN"> <div class="mi_UNKNOWN">
+y</div> <div class="mo_UNKNOWN">
+′</div> </div> </div> </div> </div> </div> </div> at each step, the weights are recalculated as: <div class="disp-formula" title="disp-formula"> <span class="label" tagx="label" title="label">(7)</span> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+ω</div> <div class="mi_UNKNOWN">
+n</div> <div class="mi_UNKNOWN">
+k</div> </div> <div class="mo_UNKNOWN">
+=</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+ω</div> <div class="mi_UNKNOWN">
+n</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+k</div> <div class="mo_UNKNOWN">
+−</div> <div class="mn_UNKNOWN">
+1</div> </div> </div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mo_UNKNOWN">
+〈</div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+I</div> <div class="mi_UNKNOWN">
+n</div> <div class="mi_UNKNOWN">
+k</div> </div> <div class="mo_UNKNOWN">
+〉</div> </div> <div class="msubsup_UNKNOWN"> <div class="mi_UNKNOWN">
+I</div> <div class="mi_UNKNOWN">
+n</div> <div class="mi_UNKNOWN">
+k</div> </div> </div> <div class="mo_UNKNOWN">
+.</div> </div> </div> </div> </div> <p /> <p>This approach cannot be implemented in a compressive sensing framework, as it quickly diverges for even slightly inaccurate calculations of <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+I</div> <div class="mi_UNKNOWN">
+n</div> </div> </div> </div> </span>. However, significant improvements can be obtained by running the CS-GS algorithm for K-1 iterations, and only performing a single iteration of the WGS at the end when computing the final CGH. This, however, doubles the computation time compared to CS-GS when <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> <div class="mo_UNKNOWN">
+×</div> <div class="mi_UNKNOWN">
+K</div> <div class="mo_UNKNOWN">
+≪</div> <div class="mn_UNKNOWN">
+1</div> </div> </div> </div> </span>. For the rest of the paper, this approach is referred to as compressive sensing weighted Gerchberg–Saxton algorithm (CS-WGS). </p> </div> </div> <div class="3.materialsandmethods" title="sec"> <div class="title" tagx="title" title="title">
+3. Materials and Methods</div> <div class="3.1.softwareimplementation" title="sec"> <div class="title" tagx="title" title="title">
+3.1. Software Implementation</div> <p>All algorithms described in <a href="#sec2-mps-02-00002">Section 2</a> were implemented in Python 2.7 (Python Software Foundation, <span class="uri" title="uri"> <a href="https://www.python.org/">https://www.python.org/</a> </span>). All code is available as Supplementary Materials to this article, and in a public repository [ <a href="#B17-mps-02-00002">17</a>]. While better performances could be achieved implementing the algorithm in a lower level programming language, or through implementation over dedicated hardware (e.g., multi-core threads and GPU implementations), the Python scripting code was chosen to maximize the readability of the code, and provide an easy way to reproduce the results presented. Computational results reported in <a href="#sec4dot1-mps-02-00002">Section 4.1</a> were achieved with a mid-range desktop computer (Intel Core i5-4690 3.5 Ghz, 8 GB of memory, 64-bit Windows 7 operating system). </p> </div> <div class="3.2.experimentalsetup" title="sec"> <div class="title" tagx="title" title="title">
+3.2. Experimental Setup</div> <p>For the experimental investigation of the algorithms performances, we employed the system shown in <a href="#mps-02-00002-f001">Figure 1</a>. two-photon excitation (TPE) beam ( <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+λ</div> </div> </div> </span> = 800 nm, diameter = 0.8 mm) from a Ti:Sapphire laser passes a beam expander composed by two lenses to uniformly illuminate the active area of a reflective SLM. The SLM is conjugated with the objective back aperture via lenses L1 and L2. An inverse pinhole blocks the zero-order beam while the CGH is projected onto the sample (Rhodamine 6 G uniformly coated slide, thickness 1.7 mm, Thorlabs; Newton, NJ, USA). Two-photon excitation fluorescence is collected by the same objective and, thanks to a short-pass dichroic mirror and a tube lens, is recorded by a complementary metal oxide semiconductor (CMOS) camera. To acquire images of three-dimensional holograms, a deformable mirror (DM-40, Thorlabs; Newton, NJ, USA) was added to the detection path, conjugated with the objective back aperture. </p> </div> </div> <div class="results" title="results"> <div class="title" tagx="title" title="title">
+4. Results</div> <div class="4.1.computationalresults" title="sec"> <div class="title" tagx="title" title="title">
+4.1. Computational Results</div> <p>The CS-GS algorithm was tested against the regular GS algorithm, as an upper limit of performance, and the random superposition algorithm, as an expected lower limit of performance. The performance metric used to evaluate the quality of the CGHs were, as in [ <a href="#B12-mps-02-00002">12</a>], the efficiency and uniformity of the obtained patterns. The efficiency <i>e</i> of the CGH is computed as the fraction of the total intensity directed at the generated spots. The uniformity <i>u</i> is calculated as </p><div class="disp-formula" title="disp-formula"> <span class="label" tagx="label" title="label">(8)</span> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+u</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+−</div> <div class="mfrac_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+I</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+m</div> <div class="mi_UNKNOWN">
+a</div> <div class="mi_UNKNOWN">
+x</div> </div> </div> <div class="mo_UNKNOWN">
+−</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+I</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+m</div> <div class="mi_UNKNOWN">
+i</div> <div class="mi_UNKNOWN">
+n</div> </div> </div> </div> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+I</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+m</div> <div class="mi_UNKNOWN">
+a</div> <div class="mi_UNKNOWN">
+x</div> </div> </div> <div class="mo_UNKNOWN">
++</div> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+I</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+m</div> <div class="mi_UNKNOWN">
+i</div> <div class="mi_UNKNOWN">
+n</div> </div> </div> </div> </div> <div class="mo_UNKNOWN">
+,</div> </div> </div> </div> </div> where <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+I</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+m</div> <div class="mi_UNKNOWN">
+a</div> <div class="mi_UNKNOWN">
+x</div> </div> </div> </div> </div> </span> and <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+I</div> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+m</div> <div class="mi_UNKNOWN">
+i</div> <div class="mi_UNKNOWN">
+n</div> </div> </div> </div> </div> </span> are the intensities of the brightest and dimmest spot generated by the CGH. <p /> <p>As a computational test, CGHs were calculated for a random three-dimensional distribution of 100 spots, simulating a reasonable requirement for a optogenetics experiment, and for a grid of <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+10</div> <div class="mo_UNKNOWN">
+×</div> <div class="mn_UNKNOWN">
+10</div> </div> </div> </div> </span> spots in the image plane, representing a worst-case scenario for the uniformity of the pattern, where WGS should perform much better than GS. All variants of the GS algorithm were run for 50 iterations. </p> <p>Due to the randomized initialization of the values of <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="msub_UNKNOWN"> <div class="mi_UNKNOWN">
+θ</div> <div class="mi_UNKNOWN">
+n</div> </div> </div> </div> </span>, the final values of <i>u</i> and <i>e</i> of the CGH can vary slightly for different initializations. All the reported measurements were therefore performed by computing each CGH 10 times, with different random initializations, and calculating the mean and standard deviation of <i>u</i> and <i>e</i>. </p> <p>The results, reported in <a href="#mps-02-00002-f002">Figure 2</a> and <a href="#mps-02-00002-f003">Figure 3</a>, show how the CS-GS algorithm has performances virtually identical to GS with compression factors up to <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+/</div> <div class="mn_UNKNOWN">
+32</div> </div> </div> </div> </span>, while providing an improvement in computational time of more than one order of magnitude. Moreover, CS-GS still greatly outperforms RS up to extreme compression factors. </p> <p>As far as the weighted version is concerned, CS-WGS, only performing a single weighted iteration, does not perform as well as the regular version of WGS, especially in the case of the generation of regular geometrical patterns of spots. However, it still greatly outperforms GS in uniformity, and its deficit in uniformity compared to WGS can be considered practically negligible in the case of randomly distributed patterns of spots. </p> <p>To rule out the possibility that the computation time difference between the standard and compressed sensing versions of the algorithms could be partially compensated by different convergence rates, efficiency and uniformity were estimated as a function of the iteration number. Since, for the considered experimental parameters, a compression factor of <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+/</div> <div class="mn_UNKNOWN">
+32</div> </div> </div> </div> </span> appears to represent the best compromise between speed and performances for both CS-GS and CS-WGS, such a compression parameter was used for the convergence speed comparison. As shown in <a href="#mps-02-00002-f002">Figure 2</a> and <a href="#mps-02-00002-f003">Figure 3</a>, no significant difference in convergence speed can be observed. It is apparent from the convergence graphs that CS-GS and CS-WGS only differ from each other in the last iteration, as described in <a href="#sec2dot3-mps-02-00002">Section 2.3</a>. This causes the sudden discontinuity in the CS-WGS convergence graph. </p> </div> <div class="4.2.experimentalresults" title="sec"> <div class="title" tagx="title" title="title">
+4.2. Experimental Results</div> <p>To experimentally compare our methods to RS and iterative projections algorithms, we used each of them to compute the same 2D multi-spot CGH. This pattern contains 25 points arranged in letters shape for the initials of the laboratory institution (Technische Universiteit Delft, TUD) and extending over the complete available field of view. While all iteratively generated CGH were obtained with 100 iterations, we also operated WGS with 200 iterations and considered it as reference term in the performances evaluation. All the compressive sensing methods were computed with a sub-sampling value of <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+0.05</div> </div> </div> </div> </span>. </p> <p>As qualitatively shown in <a href="#mps-02-00002-f004">Figure 4</a>, panels A–D CS-WGS and WGS outperform RS. The intensity profile from a line of points in each image ( <a href="#mps-02-00002-f004">Figure 4</a>, panel E) highlights the lack of excitation for some ROIs in the RS image (the peak corresponding to the third point is almost absent), while all other methods provide comparable results in terms of points intensity. </p> <p>To quantitatively classify the performances of all algorithms including GS and CS-GS, we estimated the relative brightness and the intensity uniformity across the FOV of the different patterns. For each method, a stack of five images was acquired, and then, on the averaged image, seven random points were selected and fitted with 2D Gaussian profiles. The peak values from the fit are averaged and normalized for each method to produce the relative brightness. The brightness analysis ( <a href="#mps-02-00002-f004">Figure 4</a>, panel F) confirmed RS as the least efficient method, while all others show results comparable with the reference WGS. </p> <p>From the standard deviation of the peaks values ( <a href="#mps-02-00002-f004">Figure 4</a>, panel G), we quantified the uniformity of the illumination. As anticipated in the computational results, WGS and CS-WGS algorithms are reaching uniformities that are very close to the golden standard (around 90%) at a fraction of the computational cost. Furthermore, we obtained a slightly higher uniformity for CS-WGS compared to WGS (run with the same number of iterations) corroborating that the deficit in uniformity found in the computational results is practically negligible for randomly distributed patterns. </p> <p>Additionally, a separate dataset with spots distributed in three dimensions is reported in <a href="#mps-02-00002-f005">Figure 5</a>, to prove the performances of the method in three dimensions. As can be observed, the WGS and CS-WGS images are practically indistinguishable, while RS, despite its minimal time saving compared to CS-WGS, has visibly worse performance, with significantly non uniform spots in the distribution. </p> </div> </div> <div class="discussion" title="discussion"> <div class="title" tagx="title" title="title">
+5. Discussion</div> <p>In this paper, we demonstrate, both computationally and experimentally, how the implementation of compressive sensing principles to the Gerchberg–Saxton algorithm for the generation of multi-spot holograms, in both its classic and weighted forms, can provide a dramatic decrease in computation time, without significantly affecting its performance. This method could therefore represent a standard in spatial light modulation based optogenetics stimulation, where fast and reliable generation of three-dimensional multi-spot patterns is key for a successful experiment. To facilitate implementation and testing for the neuroscience community, Python implementations of the RS, GS, WGS, CS-GS and CS-WGS algorithms are available as Supplementary Materials to this paper and in a public repository [ <a href="#B17-mps-02-00002">17</a>]. </p> </div> </div> <div class="back" title="back"> <div class="ack" title="ack"> <div class="title" tagx="title" title="title">
+Acknowledgments</div> <p>The work of P.P. and O.S. was funded by the European Research Council under the European Union’s Seventh Framework Programme (FP7/2007–2013)/ERC grant agreement No. 339681. The work of G. Vdovin and O. Soloviev was partially funded by Flexible Optical B.V. </p> </div> <div class="app-group" title="app-group"> <div class="app" title="app"> <div class="title" tagx="title" title="title">
+Supplementary Materials</div> <p>The following are available online at <span class="uri" title="uri"> <a href="http://www.mdpi.com/2409-9279/2/1/2/s1">http://www.mdpi.com/2409-9279/2/1/2/s1</a> </span>, Python code S1: fast_gs_practical.py. </p> <div class="local-data" title="local-data"> <div class="media" title="media"> <a href="mps-02-00002-s001.zip">LINK</a>  <p>Click here for additional data file.</p>  </div> </div> </div> </div> <div class="title" tagx="title" title="title">
+Author Contributions</div> <p>P.P. conceived and designed the method, wrote the computer code and performed the simulations; L.M. wrote the Introduction; L.M. and N.C. performed the practical experiments; O.S., M.V. and G.V. helped in the formalization of the theoretical framework; M.V. and G.V. supervised and provided funding for the theoretical work; and E.C. supervised and provided funding for the experimental work. </p> <div class="title" tagx="title" title="title">
+Funding</div> <p>This research was funded by the European Research Council, grant number 339681.</p> <div class="title" tagx="title" title="title">
+Conflicts of Interest</div> <p>The authors declare no conflict of interest. The founding sponsors had no role in the design of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript, and in the decision to publish the results. </p> <div class="references">
+References</div> <div tag="ref-list"> <ul> <div class="title" tagx="title" title="title">
+References</div> <li tag="ref"> <a name="B1-mps-02-00002" /> <span class="label" tagx="label" title="label">1.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Hegemann</span> <span class="given-names" tagx="given-names" title="given-names">P.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Möglich</span> <span class="given-names" tagx="given-names" title="given-names">A.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">Channelrhodopsin engineering and exploration of new optogenetic tools</span> <span class="source" tagx="source" title="source">Nat. Methods</span> <span class="year" tagx="year" title="year">2011</span> <span class="volume" tagx="volume" title="volume">8</span> <span class="fpage" tagx="fpage" title="fpage">39</span> <span class="lpage" tagx="lpage" title="lpage">42</span> <span class="pub-id"> <a href="https://dx.doi.org/10.1038/nmeth.f.327">10.1038/nmeth.f.327</a> </span> <span class="pub-id"> <a href="http://www.ncbi.nlm.nih.gov/pubmed/21191371">21191371</a> </span> </span> </li> <li tag="ref"> <a name="B2-mps-02-00002" /> <span class="label" tagx="label" title="label">2.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Emiliani</span> <span class="given-names" tagx="given-names" title="given-names">V.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Cohen</span> <span class="given-names" tagx="given-names" title="given-names">A.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Deisseroth</span> <span class="given-names" tagx="given-names" title="given-names">K.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Hausser</span> <span class="given-names" tagx="given-names" title="given-names">M.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">All-optical interrogation of neural circuits</span> <span class="source" tagx="source" title="source">J. Neurosci.</span> <span class="year" tagx="year" title="year">2015</span> <span class="volume" tagx="volume" title="volume">35</span> <span class="fpage" tagx="fpage" title="fpage">13917</span> <span class="lpage" tagx="lpage" title="lpage">13926</span> <span class="pub-id"> <a href="https://dx.doi.org/10.1523/JNEUROSCI.2916-15.2015">10.1523/JNEUROSCI.2916-15.2015</a> </span> <span class="pub-id"> <a href="http://www.ncbi.nlm.nih.gov/pubmed/26468193">26468193</a> </span> </span> </li> <li tag="ref"> <a name="B3-mps-02-00002" /> <span class="label" tagx="label" title="label">3.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Oron</span> <span class="given-names" tagx="given-names" title="given-names">D.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Papagiakoumou</span> <span class="given-names" tagx="given-names" title="given-names">E.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Anselmi</span> <span class="given-names" tagx="given-names" title="given-names">F.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Emiliani</span> <span class="given-names" tagx="given-names" title="given-names">V.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">Two-photon optogenetics</span> <span class="source" tagx="source" title="source">Prog. Brain Res.</span> <span class="year" tagx="year" title="year">2012</span> <span class="volume" tagx="volume" title="volume">196</span> <span class="fpage" tagx="fpage" title="fpage">119</span> <span class="lpage" tagx="lpage" title="lpage">143</span> <span class="pub-id"> <a href="http://www.ncbi.nlm.nih.gov/pubmed/22341324">22341324</a> </span> </span> </li> <li tag="ref"> <a name="B4-mps-02-00002" /> <span class="label" tagx="label" title="label">4.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Nikolenko</span> <span class="given-names" tagx="given-names" title="given-names">V.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Watson</span> <span class="given-names" tagx="given-names" title="given-names">O.B.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Araya</span> <span class="given-names" tagx="given-names" title="given-names">R.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Woodruff</span> <span class="given-names" tagx="given-names" title="given-names">A.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Peterka</span> <span class="given-names" tagx="given-names" title="given-names">D.S.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Yuste</span> <span class="given-names" tagx="given-names" title="given-names">R.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">SLM Microscopy: Scanless two-photon imaging and photostimulation with Spatial Light Modulators </span> <span class="source" tagx="source" title="source">Front. Neural Circ.</span> <span class="year" tagx="year" title="year">2008</span> <span class="volume" tagx="volume" title="volume">2</span> <span class="fpage" tagx="fpage" title="fpage">5</span> <span class="pub-id"> <a href="https://dx.doi.org/10.3389/neuro.04.005.2008">10.3389/neuro.04.005.2008</a> </span> <span class="pub-id"> <a href="http://www.ncbi.nlm.nih.gov/pubmed/19129923">19129923</a> </span> </span> </li> <li tag="ref"> <a name="B5-mps-02-00002" /> <span class="label" tagx="label" title="label">5.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Dal Maschio</span> <span class="given-names" tagx="given-names" title="given-names">M.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Difato</span> <span class="given-names" tagx="given-names" title="given-names">F.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Beltramo</span> <span class="given-names" tagx="given-names" title="given-names">R.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Blau</span> <span class="given-names" tagx="given-names" title="given-names">A.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Benfenati</span> <span class="given-names" tagx="given-names" title="given-names">F.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Fellin</span> <span class="given-names" tagx="given-names" title="given-names">T.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">Simultaneous two-photon imaging and photo-stimulation with structured light illumination</span> <span class="source" tagx="source" title="source">Opt. Express</span> <span class="year" tagx="year" title="year">2010</span> <span class="volume" tagx="volume" title="volume">18</span> <span class="fpage" tagx="fpage" title="fpage">18720</span> <span class="lpage" tagx="lpage" title="lpage">18731</span> <span class="pub-id"> <a href="https://dx.doi.org/10.1364/OE.18.018720">10.1364/OE.18.018720</a> </span> <span class="pub-id"> <a href="http://www.ncbi.nlm.nih.gov/pubmed/20940765">20940765</a> </span> </span> </li> <li tag="ref"> <a name="B6-mps-02-00002" /> <span class="label" tagx="label" title="label">6.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Vaziri</span> <span class="given-names" tagx="given-names" title="given-names">A.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Emiliani</span> <span class="given-names" tagx="given-names" title="given-names">V.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">Reshaping the optical dimension in optogenetics</span> <span class="source" tagx="source" title="source">Nat. Methods</span> <span class="year" tagx="year" title="year">2008</span> <span class="volume" tagx="volume" title="volume">5</span> <span class="fpage" tagx="fpage" title="fpage">128</span> <span class="lpage" tagx="lpage" title="lpage">137</span> <span class="pub-id"> <a href="https://dx.doi.org/10.1016/j.conb.2011.11.011">10.1016/j.conb.2011.11.011</a> </span> <span class="pub-id"> <a href="http://www.ncbi.nlm.nih.gov/pubmed/22209216">22209216</a> </span> </span> </li> <li tag="ref"> <a name="B7-mps-02-00002" /> <span class="label" tagx="label" title="label">7.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Lutz</span> <span class="given-names" tagx="given-names" title="given-names">C.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Otis</span> <span class="given-names" tagx="given-names" title="given-names">S.T.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">DeSars</span> <span class="given-names" tagx="given-names" title="given-names">V.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Charpak</span> <span class="given-names" tagx="given-names" title="given-names">S.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Di Gregori</span> <span class="given-names" tagx="given-names" title="given-names">D.A.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Emiliani</span> <span class="given-names" tagx="given-names" title="given-names">V.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">Holographic photolysis of caged neurotransmitters</span> <span class="source" tagx="source" title="source">Curr. Opt. Neurobiol.</span> <span class="year" tagx="year" title="year">2012</span> <span class="volume" tagx="volume" title="volume">22</span> <span class="fpage" tagx="fpage" title="fpage">821</span> <span class="pub-id"> <a href="https://dx.doi.org/10.1038/nmeth.1241">10.1038/nmeth.1241</a> </span> <span class="pub-id"> <a href="http://www.ncbi.nlm.nih.gov/pubmed/19160517">19160517</a> </span> </span> </li> <li tag="ref"> <a name="B8-mps-02-00002" /> <span class="label" tagx="label" title="label">8.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Zhang</span> <span class="given-names" tagx="given-names" title="given-names">J.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Pégard</span> <span class="given-names" tagx="given-names" title="given-names">N.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Zhong</span> <span class="given-names" tagx="given-names" title="given-names">J.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Adesnik</span> <span class="given-names" tagx="given-names" title="given-names">H.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Waller</span> <span class="given-names" tagx="given-names" title="given-names">L.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">3D computer-generated holography by non-convex optimization</span> <span class="source" tagx="source" title="source">Optica</span> <span class="year" tagx="year" title="year">2017</span> <span class="volume" tagx="volume" title="volume">4</span> <span class="fpage" tagx="fpage" title="fpage">1306</span> <span class="lpage" tagx="lpage" title="lpage">1313</span> <span class="pub-id"> <a href="https://dx.doi.org/10.1364/OPTICA.4.001306">10.1364/OPTICA.4.001306</a> </span> </span> </li> <li tag="ref"> <a name="B9-mps-02-00002" /> <span class="label" tagx="label" title="label">9.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Anselmi</span> <span class="given-names" tagx="given-names" title="given-names">A.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Ventalona</span> <span class="given-names" tagx="given-names" title="given-names">C.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Bègue</span> <span class="given-names" tagx="given-names" title="given-names">A.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Ogden</span> <span class="given-names" tagx="given-names" title="given-names">D.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Emiliani</span> <span class="given-names" tagx="given-names" title="given-names">V.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">Three-dimensional imaging and photostimulation by remote-focusing and holographic light patterning </span> <span class="source" tagx="source" title="source">Proc. Natl. Acad. Sci. USA</span> <span class="year" tagx="year" title="year">2011</span> <span class="volume" tagx="volume" title="volume">108</span> <span class="pub-id"> <a href="https://dx.doi.org/10.1073/pnas.1109111108">10.1073/pnas.1109111108</a> </span> <span class="pub-id"> <a href="http://www.ncbi.nlm.nih.gov/pubmed/22074779">22074779</a> </span> </span> </li> <li tag="ref"> <a name="B10-mps-02-00002" /> <span class="label" tagx="label" title="label">10.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Packer</span> <span class="given-names" tagx="given-names" title="given-names">A.M.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Russell</span> <span class="given-names" tagx="given-names" title="given-names">L.E.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Dalgleish</span> <span class="given-names" tagx="given-names" title="given-names">H.W.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Häusser</span> <span class="given-names" tagx="given-names" title="given-names">M.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">Simultaneous all-optical manipulation and recording of neural circuit activity with cellular resolution in vivo </span> <span class="source" tagx="source" title="source">Nat. Methods</span> <span class="year" tagx="year" title="year">2014</span> <span class="volume" tagx="volume" title="volume">12</span> <span class="fpage" tagx="fpage" title="fpage">140</span> <span class="lpage" tagx="lpage" title="lpage">146</span> <span class="pub-id"> <a href="https://dx.doi.org/10.1038/nmeth.3217">10.1038/nmeth.3217</a> </span> <span class="pub-id"> <a href="http://www.ncbi.nlm.nih.gov/pubmed/25532138">25532138</a> </span> </span> </li> <li tag="ref"> <a name="B11-mps-02-00002" /> <span class="label" tagx="label" title="label">11.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Pégard</span> <span class="given-names" tagx="given-names" title="given-names">N.C.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Mardinly</span> <span class="given-names" tagx="given-names" title="given-names">A.R.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Oldenburg</span> <span class="given-names" tagx="given-names" title="given-names">I.A.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Sridharan</span> <span class="given-names" tagx="given-names" title="given-names">S.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Waller</span> <span class="given-names" tagx="given-names" title="given-names">L.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Adesnik</span> <span class="given-names" tagx="given-names" title="given-names">H.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">Three-dimensional scanless holographic optogenetics with temporal focusing (3D-SHOT)</span> <span class="source" tagx="source" title="source">Nat. Commun.</span> <span class="year" tagx="year" title="year">2017</span> <span class="volume" tagx="volume" title="volume">8</span> <span class="fpage" tagx="fpage" title="fpage">1228</span> <span class="pub-id"> <a href="https://dx.doi.org/10.1038/s41467-017-01031-3">10.1038/s41467-017-01031-3</a> </span> <span class="pub-id"> <a href="http://www.ncbi.nlm.nih.gov/pubmed/29089483">29089483</a> </span> </span> </li> <li tag="ref"> <a name="B12-mps-02-00002" /> <span class="label" tagx="label" title="label">12.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Di Leonardo</span> <span class="given-names" tagx="given-names" title="given-names">R.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Ianni</span> <span class="given-names" tagx="given-names" title="given-names">F.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Ruocco</span> <span class="given-names" tagx="given-names" title="given-names">G.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">Computer generation of optimal holograms for optical trap arrays</span> <span class="source" tagx="source" title="source">Opt. Express</span> <span class="year" tagx="year" title="year">2007</span> <span class="volume" tagx="volume" title="volume">15</span> <span class="fpage" tagx="fpage" title="fpage">1913</span> <span class="lpage" tagx="lpage" title="lpage">1922</span> <span class="pub-id"> <a href="https://dx.doi.org/10.1364/OE.15.001913">10.1364/OE.15.001913</a> </span> <span class="pub-id"> <a href="http://www.ncbi.nlm.nih.gov/pubmed/19532430">19532430</a> </span> </span> </li> <li tag="ref"> <a name="B13-mps-02-00002" /> <span class="label" tagx="label" title="label">13.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Gerchberg</span> <span class="given-names" tagx="given-names" title="given-names">R.W.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Saxton</span> <span class="given-names" tagx="given-names" title="given-names">W.O.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">A practical algorithm for the determination of phase from image and diffraction plane pictures </span> <span class="source" tagx="source" title="source">Optik</span> <span class="year" tagx="year" title="year">1972</span> <span class="volume" tagx="volume" title="volume">35</span> <span class="fpage" tagx="fpage" title="fpage">237</span> <span class="lpage" tagx="lpage" title="lpage">246</span> </span> </li> <li tag="ref"> <a name="B14-mps-02-00002" /> <span class="label" tagx="label" title="label">14.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Reutsky-Gefen</span> <span class="given-names" tagx="given-names" title="given-names">I.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Golan</span> <span class="given-names" tagx="given-names" title="given-names">L.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Farah</span> <span class="given-names" tagx="given-names" title="given-names">N.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Schejter</span> <span class="given-names" tagx="given-names" title="given-names">A.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Tsur</span> <span class="given-names" tagx="given-names" title="given-names">L.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Brosh</span> <span class="given-names" tagx="given-names" title="given-names">I.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Shoham</span> <span class="given-names" tagx="given-names" title="given-names">S.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">Holographic optogenetic stimulation of patterned neuronal activity for vision restoration</span> <span class="source" tagx="source" title="source">Nat. Commun.</span> <span class="year" tagx="year" title="year">2013</span> <span class="volume" tagx="volume" title="volume">4</span> <span class="fpage" tagx="fpage" title="fpage">1509</span> <span class="pub-id"> <a href="https://dx.doi.org/10.1038/ncomms2500">10.1038/ncomms2500</a> </span> <span class="pub-id"> <a href="http://www.ncbi.nlm.nih.gov/pubmed/23443537">23443537</a> </span> </span> </li> <li tag="ref"> <a name="B15-mps-02-00002" /> <span class="label" tagx="label" title="label">15.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Candès</span> <span class="given-names" tagx="given-names" title="given-names">E.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Romberg</span> <span class="given-names" tagx="given-names" title="given-names">J.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Tao</span> <span class="given-names" tagx="given-names" title="given-names">T.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">Robust uncertainty principles: Exact signal reconstruction from highly incomplete frequency information </span> <span class="source" tagx="source" title="source">IEEE Trans. Inf. Theory</span> <span class="year" tagx="year" title="year">2006</span> <span class="volume" tagx="volume" title="volume">52</span> <span class="fpage" tagx="fpage" title="fpage">489</span> <span class="lpage" tagx="lpage" title="lpage">509</span> <span class="pub-id"> <a href="https://dx.doi.org/10.1109/TIT.2005.862083">10.1109/TIT.2005.862083</a> </span> </span> </li> <li tag="ref"> <a name="B16-mps-02-00002" /> <span class="label" tagx="label" title="label">16.</span> <span class="element-citation'"> <span class="person-group'"> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Lustig</span> <span class="given-names" tagx="given-names" title="given-names">M.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Donoho</span> <span class="given-names" tagx="given-names" title="given-names">D.L.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Santos</span> <span class="given-names" tagx="given-names" title="given-names">J.M.</span> </span> <span class="name" tagx="name" title="name"> <span class="surname" tagx="surname" title="surname">Pauly</span> <span class="given-names" tagx="given-names" title="given-names">J.M.</span> </span> </span> <span class="mixed-article-title" title="mixed-article-title">Compressed sensing MRI</span> <span class="source" tagx="source" title="source">IEEE Signal Process. Mag.</span> <span class="year" tagx="year" title="year">2008</span> <span class="volume" tagx="volume" title="volume">25</span> <span class="fpage" tagx="fpage" title="fpage">72</span> <span class="lpage" tagx="lpage" title="lpage">82</span> <span class="pub-id"> <a href="https://dx.doi.org/10.1109/MSP.2007.914728">10.1109/MSP.2007.914728</a> </span> </span> </li> <li tag="ref"> <a name="B17-mps-02-00002" /> <span class="label" tagx="label" title="label">17.</span> <span class="element-citation'"> <span class="mixed-article-title" title="mixed-article-title">Cs-gs.py</span> <span class="comment">Available online: <a href="https://github.com/csi-dcsc/compressive-sensing-Gerchberg-Saxton">https://github.com/csi-dcsc/compressive-sensing-Gerchberg-Saxton</a> </span> <span class="date-in-citation" tagx="date-in-citation" title="date-in-citation">(accessed on 29 October 2018)</span> </span> </li> </ul> </div> </div> <div class="floats-group" title="floats-group"> <div class="fig" title="fig"> <div class="figure" title="figure"> <a href="http://doi.org/"> <span class="label" tagx="label" title="label">Figure 1</span> </a> </div>   <p>Scheme (not to scale) of two-photon excitation computer-generated hologram (CGH) setup. Ti:Sapphire laser (MIRA 900-F, Coherent; Santa Clara, CA, USA), beam expander (BE) composed by two lenses ( <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+f</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+25</div> </div> </div> </div> </span> mm and <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+f</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+150</div> </div> </div> </div> </span> mm, respectively), reflective spatial light modulator (SLM, 1920 × 1152; pixel pitch, 9.2 <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+μ</div> </div> </div> </span>m Meadowlark Optics; Frederick, CO, USA), lens L1 ( <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+f</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+250</div> </div> </div> </div> </span> mm) and L2 ( <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+f</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+500</div> </div> </div> </div> </span> mm), inverse pinhole (IP), objective (EO, Olympus 20X, 1.0 NA, water immersion, Olympus; Tokyo, Japan), dichroic mirror (DM) with cutoff wavelength at 700 nm (FF01-7200/SDi01, Semrock; Rochester, NY, USA), tube lens L3 ( <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+f</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+200</div> </div> </div> </div> </span> mm), CMOS camera (IDS UI-3270CP, IDS; Obersulm, Germany). </p>   </div> <div class="fig" title="fig"> <div class="figure" title="figure"> <a href="http://doi.org/"> <span class="label" tagx="label" title="label">Figure 2</span> </a> </div>   <p>Algorithms performance in the case of the generation of a regular 2D array of 100 spots: ( <b>A</b>, <b>B</b>) report the efficiency metric as a function of the subsampling parameter <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+/</div> <div class="mi_UNKNOWN">
+c</div> </div> </div> </div> </span> and the convergence graph at <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+/</div> <div class="mn_UNKNOWN">
+32</div> </div> </div> </div> </span> for the CS-GS and the CS-WGS algorithm. ( <b>C</b>, <b>D</b>) report uniformity metric and convergence for the same dataset. For comparison, horizontal bars represent the interval of confidence of performance of GS, WGS, and RS algorithm. ( <b>E</b>) reports the improvement in computation time as a function of <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+/</div> <div class="mi_UNKNOWN">
+c</div> </div> </div> </div> </span>. ( <b>F</b>) reports the efficiency and uniformity represented in absolute scale to better represent overall performance. </p>   </div> <div class="fig" title="fig"> <div class="figure" title="figure"> <a href="http://doi.org/"> <span class="label" tagx="label" title="label">Figure 3</span> </a> </div>   <p>Algorithms performance in the case of the generation of a random 3D distribution of 100 spots: ( <b>A</b>, <b>B</b>) report the efficiency metric as a function of the subsampling parameter <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+/</div> <div class="mi_UNKNOWN">
+c</div> </div> </div> </div> </span> and the convergence graph at <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mi_UNKNOWN">
+c</div> <div class="mo_UNKNOWN">
+=</div> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+/</div> <div class="mn_UNKNOWN">
+32</div> </div> </div> </div> </span> for the CS-GS and the CS-WGS algorithm. ( <b>C</b>, <b>D</b>) report uniformity metric and convergence for the same dataset. For comparison, horizontal bars represent the interval of confidence of performance of GS, WGS, and RS algorithm. ( <b>E</b>) reports the improvement in computation time as a function of <span class="inline-formula" title="inline-formula"> <div class="math_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mrow_UNKNOWN"> <div class="mn_UNKNOWN">
+1</div> <div class="mo_UNKNOWN">
+/</div> <div class="mi_UNKNOWN">
+c</div> </div> </div> </div> </span>. ( <b>F</b>) reports the efficiency and uniformity represented in absolute scale to better represent overall performance. </p>   </div> <div class="fig" title="fig"> <div class="figure" title="figure"> <a href="http://doi.org/"> <span class="label" tagx="label" title="label">Figure 4</span> </a> </div>   <p>Experimental results: ( <b>A</b>– <b>D</b>) Two photon excitation fluorescence images of multi-spot CGHs generated, respectively, with WGS 200 iterations, RS, WGS and CS-WGS algorithms; ( <b>E</b>) intensity profile from a single line in panel ( <b>D</b>); ( <b>F</b>) relative brightness for all methods explored; and ( <b>G</b>) uniformity across the field of view in the peak intensities for all methods explored. </p>   </div> <div class="fig" title="fig"> <div class="figure" title="figure"> <a href="http://doi.org/"> <span class="label" tagx="label" title="label">Figure 5</span> </a> </div>   <p>Experimental results for a three-dimensional hologram. CS-WGS and WGS were computed over 100 iterations, while CS-WGS had a compression factor of 0.05. Computation times were, respectively, 5 s, 40 s and 456 s for RS, WGS and CS-WGS. All images are reported on the same intensity scale. It can be noticed that, while the WGS and CS-WGS images are practically identical, RS has some spots with significantly different intensities (highlighted by the red arrows). </p>   </div> </div>  </body></html>

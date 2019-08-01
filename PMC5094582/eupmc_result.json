@@ -1,0 +1,333 @@
+{
+  "id": [
+    "27840581"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27840581"
+  ],
+  "pmcid": [
+    "PMC5094582"
+  ],
+  "doi": [
+    "10.4137/CMC.S39711"
+  ],
+  "title": [
+    "Light-based Approaches to Cardiac Arrhythmia Research: From Basic Science to Translational Applications."
+  ],
+  "authorString": [
+    "Karathanos TV, Boyle PM, Trayanova NA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Karathanos TV"
+          ],
+          "firstName": [
+            "Thomas V"
+          ],
+          "lastName": [
+            "Karathanos"
+          ],
+          "initials": [
+            "TV"
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD, USA.; Institute for Computational Medicine, Johns Hopkins University, Baltimore, MD, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Boyle PM"
+          ],
+          "firstName": [
+            "Patrick M"
+          ],
+          "lastName": [
+            "Boyle"
+          ],
+          "initials": [
+            "PM"
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD, USA.; Institute for Computational Medicine, Johns Hopkins University, Baltimore, MD, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Trayanova NA"
+          ],
+          "firstName": [
+            "Natalia A"
+          ],
+          "lastName": [
+            "Trayanova"
+          ],
+          "initials": [
+            "NA"
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD, USA.; Institute for Computational Medicine, Johns Hopkins University, Baltimore, MD, USA.; Department of Medicine, Johns Hopkins University, Baltimore, MD, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl 1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2427040"
+      ],
+      "dateOfPublication": [
+        "2016 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Clinical Medicine Insights. Cardiology"
+          ],
+          "ISOAbbreviation": [
+            "Clin Med Insights Cardiol"
+          ],
+          "medlineAbbreviation": [
+            "Clin Med Insights Cardiol"
+          ],
+          "NLMid": [
+            "101525768"
+          ],
+          "ISSN": [
+            "1179-5468"
+          ],
+          "ESSN": [
+            "1179-5468"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "47-60"
+  ],
+  "abstractText": [
+    "Light has long been used to image the heart, but now it can be used to modulate its electrophysiological function. Imaging modalities and techniques have long constituted an indispensable part of arrhythmia research and treatment. Recently, advances in the fields of optogenetics and photodynamic therapy have provided scientists with more effective approaches for probing, studying and potentially devising new treatments for cardiac arrhythmias. This article is a review of research toward the application of these techniques. It contains (a) an overview of advancements in technology and research that have contributed to light-based cardiac applications and (b) a summary of current and potential future applications of light-based control of cardiac cells, including modulation of heart rhythm, manipulation of cardiac action potential morphology, quantitative analysis of arrhythmias, defibrillation and cardiac ablation."
+  ],
+  "affiliation": [
+    "Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD, USA.; Institute for Computational Medicine, Johns Hopkins University, Baltimore, MD, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 HL126802"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "DP1 HL123271"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Photodynamic therapy",
+        "Cardiac Arrhythmia",
+        "Pacing",
+        "Optogenetics",
+        "Optical Therapy"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5094582?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5094582"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4137/CMC.S39711"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4137/CMC.S39711"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2016-11-15"
+  ],
+  "firstIndexDate": [
+    "2016-11-15"
+  ],
+  "dateOfRevision": [
+    "2019-01-15"
+  ],
+  "electronicPublicationDate": [
+    "2016-11-02"
+  ],
+  "firstPublicationDate": [
+    "2016-11-02"
+  ]
+}

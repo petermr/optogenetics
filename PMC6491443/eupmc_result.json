@@ -1,0 +1,655 @@
+{
+  "id": [
+    "31040285"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31040285"
+  ],
+  "pmcid": [
+    "PMC6491443"
+  ],
+  "doi": [
+    "10.1038/s41467-019-10000-x"
+  ],
+  "title": [
+    "Red-shifting mutation of light-driven sodium-pump rhodopsin."
+  ],
+  "authorString": [
+    "Inoue K, Del Carmen Marín M, Tomida S, Nakamura R, Nakajima Y, Olivucci M, Kandori H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Inoue K"
+          ],
+          "firstName": [
+            "Keiichi"
+          ],
+          "lastName": [
+            "Inoue"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6898-4347",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Life Science and Applied Chemistry, Nagoya Institute of Technology, Showa-ku, Nagoya, 466-8555, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Del Carmen Marín M"
+          ],
+          "firstName": [
+            "María"
+          ],
+          "lastName": [
+            "Del Carmen Marín"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5075-8619",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Dipartimento di Biotecnologie, Chimica e Farmacia, Università di Siena, Via A. Moro 2, I-53100, Siena, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Tomida S"
+          ],
+          "firstName": [
+            "Sahoko"
+          ],
+          "lastName": [
+            "Tomida"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Life Science and Applied Chemistry, Nagoya Institute of Technology, Showa-ku, Nagoya, 466-8555, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Nakamura R"
+          ],
+          "firstName": [
+            "Ryoko"
+          ],
+          "lastName": [
+            "Nakamura"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Life Science and Applied Chemistry, Nagoya Institute of Technology, Showa-ku, Nagoya, 466-8555, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Nakajima Y"
+          ],
+          "firstName": [
+            "Yuta"
+          ],
+          "lastName": [
+            "Nakajima"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Life Science and Applied Chemistry, Nagoya Institute of Technology, Showa-ku, Nagoya, 466-8555, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Olivucci M"
+          ],
+          "firstName": [
+            "Massimo"
+          ],
+          "lastName": [
+            "Olivucci"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8247-209X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Dipartimento di Biotecnologie, Chimica e Farmacia, Università di Siena, Via A. Moro 2, I-53100, Siena, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Kandori H"
+          ],
+          "firstName": [
+            "Hideki"
+          ],
+          "lastName": [
+            "Kandori"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4922-1344",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Life Science and Applied Chemistry, Nagoya Institute of Technology, Showa-ku, Nagoya, 466-8555, Japan. kandori@nitech.ac.jp."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5075-8619",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4922-1344",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8247-209X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6898-4347",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2799472"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1993"
+  ],
+  "abstractText": [
+    "Microbial rhodopsins are photoreceptive membrane proteins that transport various ions using light energy. While they are widely used in optogenetics to optically control neuronal activity, rhodopsins that function with longer-wavelength light are highly demanded because of their low phototoxicity and high tissue penetration. Here, we achieve a 40-nm red-shift in the absorption wavelength of a sodium-pump rhodopsin (KR2) by altering dipole moment of residues around the retinal chromophore (KR2 P219T/S254A) without impairing its ion-transport activity. Structural differences in the chromophore of the red-shifted protein from that of the wildtype are observed by Fourier transform infrared spectroscopy. QM/MM models generated with an automated protocol show that the changes in the electrostatic interaction between protein and chromophore induced by the amino-acid replacements, lowered the energy gap between the ground and the first electronically excited state. Based on these insights, a natural sodium pump with red-shifted absorption is identified from Jannaschia seosinensis."
+  ],
+  "affiliation": [
+    "Department of Life Science and Applied Chemistry, Nagoya Institute of Technology, Showa-ku, Nagoya, 466-8555, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "15H02391"
+          ],
+          "agency": [
+            "MEXT | JST | Science and Technology Research Partnership for Sustainable Development (SATREPS)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R15 GM126627"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "GM126627 01"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "CHE-CLP-1710191"
+          ],
+          "agency": [
+            "National Science Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chlamydomonas"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rhodopsin"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Spectroscopy, Fourier Transform Infrared"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mutation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Quantum Theory"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Light"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sodium-Potassium-Exchanging ATPase"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Static Electricity"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Rhodopsin"
+          ],
+          "registryNumber": [
+            "9009-81-8"
+          ]
+        },
+        {
+          "name": [
+            "Sodium-Potassium-Exchanging ATPase"
+          ],
+          "registryNumber": [
+            "EC 3.6.3.9"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6491443?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6491443"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-019-10000-x"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen",
+        "pdb"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-05-13"
+  ],
+  "dateOfCreation": [
+    "2019-05-02"
+  ],
+  "firstIndexDate": [
+    "2019-05-02"
+  ],
+  "dateOfRevision": [
+    "2019-05-13"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-30"
+  ],
+  "firstPublicationDate": [
+    "2019-04-30"
+  ]
+}

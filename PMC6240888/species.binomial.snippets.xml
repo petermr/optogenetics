@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6240888/results/species/binomial/results.xml">
+  <result pre=" fluorescence yield (Φ FL ≈ 0.01) and constitutes a suitable membrane voltage sensor in " exact="E. coli" xpath="/html[1]/body[1]/div[2]/p[7]" match="E. coli" post=". 4 Since then, various voltage sensors were designed based on microbi" name="binomial"/>
+  <result pre="Proton-pumping activity in starved " exact="E. coli" xpath="/html[1]/body[1]/div[2]/p[7]" match="E. coli" post=" cells expressing PR:MMAR was observed at pH 7 with 617, 660, and 730 nm continuous LED illuminatio" name="binomial"/>
+  <result pre="rnatively, PR:MMAR may behave slightly differently in DDM micelles (this study) as compared to the " exact="E. coli " match="E. coli" post=" membrane environment (ref ( 12)), although no such differences were observed for " name="binomial"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="binomial">
+ <result pre=" Pado is a dual-function protein created by fusing an engineered voltage-gated proton channel from " exact="Clonorchis sinesis" xpath="/html[1]/body[1]/div[2]/div[5]/p[1]" match="Clonorchis sinesis" post=" with a pH-sensitive fluorescent protein (Super Ecliptic pHluorin 227A, or SE227A) ( &lt;a href=&quot;#B31&quot;" name="binomial"/>
+ <result pre="20 and 21 connexin-encoding genes, respectively ( Sohl and Willecke, 2003), and the " exact="Caenorhabditis elegans" xpath="/html[1]/body[1]/div[2]/div[5]/p[1]" match="Caenorhabditis elegans" post=" and Drosophila melanogaster genomes contain 25 and 8 innexin-coding genes, respectively ( &lt;" name="binomial"/>
+ <result pre=" respectively ( Sohl and Willecke, 2003), and the Caenorhabditis elegans and " exact="Drosophila melanogaster" match="Drosophila melanogaster" post=" genomes contain 25 and 8 innexin-coding genes, respectively ( Starich et al., 2001;" name="binomial"/>
+</results>

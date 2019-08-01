@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC5094582/results/word/frequencies/results.xml">
+  <result title="frequency" word="cardiac" count="109"/>
+  <result title="frequency" word="light" count="72"/>
+  <result title="frequency" word="heart" count="50"/>
+  <result title="frequency" word="illumination" count="48"/>
+  <result title="frequency" word="optical" count="45"/>
+  <result title="frequency" word="cells" count="43"/>
+  <result title="frequency" word="delivery" count="42"/>
+  <result title="frequency" word="used" count="38"/>
+  <result title="frequency" word="cell" count="32"/>
+  <result title="frequency" word="ChR" count="31"/>
+  <result title="frequency" word="electrical" count="31"/>
+  <result title="frequency" word="Fig." count="28"/>
+  <result title="frequency" word="control" count="28"/>
+  <result title="frequency" word="gene" count="26"/>
+  <result title="frequency" word="therapy" count="25"/>
+  <result title="frequency" word="light-sensitive" count="23"/>
+  <result title="frequency" word="optogenetics" count="23"/>
+  <result title="frequency" word="photodynamic" count="23"/>
+  <result title="frequency" word="tissue" count="23"/>
+  <result title="frequency" word="ablation" count="22"/>
+  <result title="frequency" word="hearts" count="22"/>
+  <result title="frequency" word="arrhythmia" count="21"/>
+ </snippets>
+</snippetsTree>

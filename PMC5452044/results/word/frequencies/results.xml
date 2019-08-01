@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="frequencies">
+ <result title="frequency" word="{border-style" count="20"/>
+ <result title="frequency" word="px;}" count="18"/>
+ <result title="frequency" word="#ffffff;}" count="17"/>
+ <result title="frequency" word="prefrontal" count="9"/>
+ <result title="frequency" word="Deisseroth" count="8"/>
+ <result title="frequency" word="activity" count="8"/>
+ <result title="frequency" word="px;" count="8"/>
+ <result title="frequency" word="{font-family" count="8"/>
+ <result title="frequency" word="font-size" count="7"/>
+ <result title="frequency" word="specific" count="7"/>
+ <result title="frequency" word="Stanford" count="6"/>
+ <result title="frequency" word="brainwide" count="6"/>
+ <result title="frequency" word="cortex" count="6"/>
+ <result title="frequency" word="double;" count="6"/>
+ <result title="frequency" word="border-color" count="5"/>
+ <result title="frequency" word="border-width" count="5"/>
+ <result title="frequency" word="medial" count="5"/>
+ <result title="frequency" word="research" count="5"/>
+ <result title="frequency" word="solid;" count="5"/>
+ <result title="frequency" word="{font-style" count="5"/>
+ <result title="frequency" word="{font-weight" count="5"/>
+ <result title="frequency" word="HTC" count="4"/>
+ <result title="frequency" word="adaptive" count="4"/>
+ <result title="frequency" word="approach" count="4"/>
+ <result title="frequency" word="behavior" count="4"/>
+ <result title="frequency" word="behavioral" count="4"/>
+ <result title="frequency" word="bold" count="4"/>
+ <result title="frequency" word="brain" count="4"/>
+ <result title="frequency" word="chemical" count="4"/>
+ <result title="frequency" word="courier;" count="4"/>
+ <result title="frequency" word="dopamine" count="4"/>
+ <result title="frequency" word="em;" count="4"/>
+ <result title="frequency" word="experiences" count="4"/>
+ <result title="frequency" word="hydrogel‐tissue" count="4"/>
+ <result title="frequency" word="molecular" count="4"/>
+ <result title="frequency" word="new" count="4"/>
+ <result title="frequency" word="observed" count="4"/>
+ <result title="frequency" word="optogenetics" count="4"/>
+ <result title="frequency" word="pt;}" count="4"/>
+ <result title="frequency" word="scientists" count="4"/>
+ <result title="frequency" word="tissue" count="4"/>
+ <result title="frequency" word="ventral" count="4"/>
+</results>

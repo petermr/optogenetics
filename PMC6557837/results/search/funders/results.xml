@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="funders">
+ <result pre="0001 2331 6153 grid.49470.3e Department of Neurology, Renmin Hospital of" exact="Wuhan University," post="Wuhan University, [4], 0000 0004 0374 4283 grid.419562.d Max"/>
+ <result pre="6153 grid.49470.3e Department of Neurology, Renmin Hospital of Wuhan University," exact="Wuhan University," post="[4], 0000 0004 0374 4283 grid.419562.d Max Planck Institute"/>
+ <result pre="0386 9924 grid.32224.35 Athinoula A. Martinos Center for Biomedical Imaging," exact="Massachusetts General Hospital" post="and Harvard Medical School, epub: 2019-6-6 pmc-release: 2019-6-6 collection:"/>
+ <result pre="A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital and" exact="Harvard Medical School," post="epub: 2019-6-6 pmc-release: 2019-6-6 collection: 2019 10 2536 received:"/>
+ <result pre="magnetic resonance imaging Optogenetics Fluorescent proteins Neuro-vascular interactions Funding https://doi.org/10.13039/501100001659" exact="Deutsche Forschungsgemeinschaft" post="(German Research Foundation) YU215/3-1645423 Yu Xin Funding https://doi.org/10.13039/501100004189 Max-Planck-Gesellschaft"/>
+ <result pre="Deutsche Forschungsgemeinschaft (German Research Foundation) YU215/3-1645423 Yu Xin Funding https://doi.org/10.13039/501100004189" exact="Max-Planck-Gesellschaft" post="(Max Planck Society) Funding https://doi.org/10.13039/501100004543 China Scholarship Council (CSC)"/>
+ <result pre="Yu Xin Funding https://doi.org/10.13039/501100004189 Max-Planck-Gesellschaft (Max Planck Society) Funding https://doi.org/10.13039/501100004543" exact="China Scholarship Council" post="(CSC) Yi Chen Yu Xin Introduction A multi-modal brain"/>
+ <result pre="Max-Planck-Society, the Sino-Germany joint grant by DFG (YU215/3-1645423), and the" exact="China Scholarship Council" post="(Ph.D. fellowship to Y. Chen) are gratefully acknowledged. We"/>
+</results>

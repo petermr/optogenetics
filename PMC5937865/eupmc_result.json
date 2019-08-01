@@ -1,0 +1,271 @@
+{
+  "id": [
+    "29755159"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29755159"
+  ],
+  "pmcid": [
+    "PMC5937865"
+  ],
+  "doi": [
+    "10.1007/s10539-018-9628-0"
+  ],
+  "title": [
+    "Kuhnian revolutions in neuroscience: the role of tool development."
+  ],
+  "authorString": [
+    "Parker D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Parker D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Parker"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5345-348X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Physiology, Development and Neuroscience, University of Cambridge, Cambridge, CB2 3DY UK."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5345-348X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "33"
+      ],
+      "journalIssueId": [
+        "2684000"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biology & philosophy"
+          ],
+          "ISOAbbreviation": [
+            "Biol Philos"
+          ],
+          "medlineAbbreviation": [
+            "Biol Philos"
+          ],
+          "NLMid": [
+            "8607458"
+          ],
+          "ISSN": [
+            "0169-3867"
+          ],
+          "ESSN": [
+            "1572-8404"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "17"
+  ],
+  "abstractText": [
+    "The terms \"paradigm\" and \"paradigm shift\" originated in \"The Structure of Scientific Revolutions\" by Thomas Kuhn. A paradigm can be defined as the generally accepted concepts and practices of a field, and a paradigm shift its replacement in a scientific revolution. A paradigm shift results from a crisis caused by anomalies in a paradigm that reduce its usefulness to a field. Claims of paradigm shifts and revolutions are made frequently in the neurosciences. In this article I will consider neuroscience paradigms, and the claim that new tools and techniques rather than crises have driven paradigm shifts. I will argue that tool development has played a minor role in neuroscience revolutions."
+  ],
+  "affiliation": [
+    "Department of Physiology, Development and Neuroscience, University of Cambridge, Cambridge, CB2 3DY UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Neuroscience",
+        "Paradigm",
+        "Optogenetics",
+        "Revolution",
+        "Paradigm Shift",
+        "Kuhn"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5937865?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5937865"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s10539-018-9628-0"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-05-15"
+  ],
+  "firstIndexDate": [
+    "2018-05-15"
+  ],
+  "dateOfRevision": [
+    "2018-05-17"
+  ],
+  "electronicPublicationDate": [
+    "2018-05-04"
+  ],
+  "firstPublicationDate": [
+    "2018-05-04"
+  ]
+}

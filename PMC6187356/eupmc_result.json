@@ -1,0 +1,515 @@
+{
+  "id": [
+    "30424406"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30424406"
+  ],
+  "pmcid": [
+    "PMC6187356"
+  ],
+  "doi": [
+    "10.3390/mi9090473"
+  ],
+  "title": [
+    "LED Optrode with Integrated Temperature Sensing for Optogenetics."
+  ],
+  "authorString": [
+    "Goncalves SB, Palha JM, Fernandes HC, Souto MR, Pimenta S, Dong T, Yang Z, Ribeiro JF, Correia JH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Goncalves SB"
+          ],
+          "firstName": [
+            "S Beatriz"
+          ],
+          "lastName": [
+            "Goncalves"
+          ],
+          "initials": [
+            "SB"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2931-7189",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Applied Micro-Nano Science and Technology-IAMNST, Chongqing Key Laboratory of Colleges and Universities on Micro-Nano Systems Technology and Smart Transducing, Chongqing Engineering Laboratory for Detection, Control and Integrated System, National Research Base of Intelligent Manufacturing Service, Chongqing Technology and Business University, Nan'an District, Chongqing 400067, China. sgoncalves@dei.uminho.pt."
+          ]
+        },
+        {
+          "fullName": [
+            "Palha JM"
+          ],
+          "firstName": [
+            "José M"
+          ],
+          "lastName": [
+            "Palha"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7302-4519",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "CMEMS-UMinho, Department of Industrial Electronics, University of Minho, Guimaraes 4800-058, Portugal. jose.palha@dei.uminho.pt."
+          ]
+        },
+        {
+          "fullName": [
+            "Fernandes HC"
+          ],
+          "firstName": [
+            "Helena C"
+          ],
+          "lastName": [
+            "Fernandes"
+          ],
+          "initials": [
+            "HC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9147-9376",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "CMEMS-UMinho, Department of Industrial Electronics, University of Minho, Guimaraes 4800-058, Portugal. a65352@alunos.uminho.pt."
+          ]
+        },
+        {
+          "fullName": [
+            "Souto MR"
+          ],
+          "firstName": [
+            "Márcio R"
+          ],
+          "lastName": [
+            "Souto"
+          ],
+          "initials": [
+            "MR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1794-5217",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "CMEMS-UMinho, Department of Industrial Electronics, University of Minho, Guimaraes 4800-058, Portugal. a68554@alunos.uminho.pt."
+          ]
+        },
+        {
+          "fullName": [
+            "Pimenta S"
+          ],
+          "firstName": [
+            "Sara"
+          ],
+          "lastName": [
+            "Pimenta"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6061-320X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "CMEMS-UMinho, Department of Industrial Electronics, University of Minho, Guimaraes 4800-058, Portugal. sara.pimenta@dei.uminho.pt."
+          ]
+        },
+        {
+          "fullName": [
+            "Dong T"
+          ],
+          "firstName": [
+            "Tao"
+          ],
+          "lastName": [
+            "Dong"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6229-1013",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Applied Micro-Nano Science and Technology-IAMNST, Chongqing Key Laboratory of Colleges and Universities on Micro-Nano Systems Technology and Smart Transducing, Chongqing Engineering Laboratory for Detection, Control and Integrated System, National Research Base of Intelligent Manufacturing Service, Chongqing Technology and Business University, Nan'an District, Chongqing 400067, China. Tao.Dong@usn.no."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang Z"
+          ],
+          "firstName": [
+            "Zhaochu"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5265-3685",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Applied Micro-Nano Science and Technology-IAMNST, Chongqing Key Laboratory of Colleges and Universities on Micro-Nano Systems Technology and Smart Transducing, Chongqing Engineering Laboratory for Detection, Control and Integrated System, National Research Base of Intelligent Manufacturing Service, Chongqing Technology and Business University, Nan'an District, Chongqing 400067, China. Zhaochu.Yang@usn.no."
+          ]
+        },
+        {
+          "fullName": [
+            "Ribeiro JF"
+          ],
+          "firstName": [
+            "João F"
+          ],
+          "lastName": [
+            "Ribeiro"
+          ],
+          "initials": [
+            "JF"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1454-2778",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "CMEMS-UMinho, Department of Industrial Electronics, University of Minho, Guimaraes 4800-058, Portugal. jribeiro@dei.uminho.pt."
+          ]
+        },
+        {
+          "fullName": [
+            "Correia JH"
+          ],
+          "firstName": [
+            "José H"
+          ],
+          "lastName": [
+            "Correia"
+          ],
+          "initials": [
+            "JH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5991-1069",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Applied Micro-Nano Science and Technology-IAMNST, Chongqing Key Laboratory of Colleges and Universities on Micro-Nano Systems Technology and Smart Transducing, Chongqing Engineering Laboratory for Detection, Control and Integrated System, National Research Base of Intelligent Manufacturing Service, Chongqing Technology and Business University, Nan'an District, Chongqing 400067, China. higino.correia@dei.uminho.pt."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6229-1013",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1454-2778",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7302-4519",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1794-5217",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6061-320X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2931-7189",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5265-3685",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9147-9376",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5991-1069",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2744789"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Micromachines"
+          ],
+          "ISOAbbreviation": [
+            "Micromachines (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Micromachines (Basel)"
+          ],
+          "NLMid": [
+            "101640903"
+          ],
+          "ISSN": [
+            "2072-666X"
+          ],
+          "ESSN": [
+            "2072-666X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "In optogenetic studies, the brain is exposed to high-power light sources and inadequate power density or exposure time can cause cell damage from overheating (typically temperature increasing of 2 ∘ C). In order to overcome overheating issues in optogenetics, this paper presents a neural tool capable of assessing tissue temperature over time, combined with the capability of electrical recording and optical stimulation. A silicon-based 8 mm long probe was manufactured to reach deep neural structures. The final proof-of-concept device comprises a double-sided function: on one side, an optrode with LED-based stimulation and platinum (Pt) recording points; and, on the opposite side, a Pt-based thin-film thermoresistance (RTD) for temperature assessing in the photostimulation site surroundings. Pt thin-films for tissue interface were chosen due to its biocompatibility and thermal linearity. A single-shaft probe is demonstrated for integration in a 3D probe array. A 3D probe array will reduce the distance between the thermal sensor and the heating source. Results show good recording and optical features, with average impedance magnitude of 371 k Ω , at 1 kHz, and optical power of 1.2 mW·mm - 2 (at 470 nm), respectively. The manufactured RTD showed resolution of 0.2 ∘ C at 37 ∘ C (normal body temperature). Overall, the results show a device capable of meeting the requirements of a neural interface for recording/stimulating of neural activity and monitoring temperature profile of the photostimulation site surroundings, which suggests a promising tool for neuroscience research filed."
+  ],
+  "affiliation": [
+    "Institute of Applied Micro-Nano Science and Technology-IAMNST, Chongqing Key Laboratory of Colleges and Universities on Micro-Nano Systems Technology and Smart Transducing, Chongqing Engineering Laboratory for Detection, Control and Integrated System, National Research Base of Intelligent Manufacturing Service, Chongqing Technology and Business University, Nan'an District, Chongqing 400067, China. sgoncalves@dei.uminho.pt."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Optogenetics",
+        "Temperature Monitoring",
+        "Thermoresistance",
+        "Silicon Neural Probes",
+        "Led Chip"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6187356?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6187356"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/mi9090473"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-11-15"
+  ],
+  "firstIndexDate": [
+    "2018-11-14"
+  ],
+  "dateOfRevision": [
+    "2018-11-16"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-17"
+  ],
+  "firstPublicationDate": [
+    "2018-09-17"
+  ]
+}

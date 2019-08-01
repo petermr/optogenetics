@@ -1,0 +1,383 @@
+{
+  "id": [
+    "30652127"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30652127"
+  ],
+  "pmcid": [
+    "PMC6325061"
+  ],
+  "doi": [
+    "10.1038/s42003-018-0264-7"
+  ],
+  "title": [
+    "Optogenetic control of integrin-matrix interaction."
+  ],
+  "authorString": [
+    "Baaske J, Mühlhäuser WWD, Yousefi OS, Zanner S, Radziwill G, Hörner M, Schamel WWA, Weber W."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Baaske J"
+          ],
+          "firstName": [
+            "Julia"
+          ],
+          "lastName": [
+            "Baaske"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "1Faculty of Biology, University of Freiburg, Schänzlestr. 1, 79104 Freiburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Mühlhäuser WWD"
+          ],
+          "firstName": [
+            "Wignand W D"
+          ],
+          "lastName": [
+            "Mühlhäuser"
+          ],
+          "initials": [
+            "WWD"
+          ],
+          "affiliation": [
+            "1Faculty of Biology, University of Freiburg, Schänzlestr. 1, 79104 Freiburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Yousefi OS"
+          ],
+          "firstName": [
+            "O Sascha"
+          ],
+          "lastName": [
+            "Yousefi"
+          ],
+          "initials": [
+            "OS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5304-729X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "1Faculty of Biology, University of Freiburg, Schänzlestr. 1, 79104 Freiburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Zanner S"
+          ],
+          "firstName": [
+            "Sebastian"
+          ],
+          "lastName": [
+            "Zanner"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "1Faculty of Biology, University of Freiburg, Schänzlestr. 1, 79104 Freiburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Radziwill G"
+          ],
+          "firstName": [
+            "Gerald"
+          ],
+          "lastName": [
+            "Radziwill"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "1Faculty of Biology, University of Freiburg, Schänzlestr. 1, 79104 Freiburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Hörner M"
+          ],
+          "firstName": [
+            "Maximilian"
+          ],
+          "lastName": [
+            "Hörner"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "1Faculty of Biology, University of Freiburg, Schänzlestr. 1, 79104 Freiburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Schamel WWA"
+          ],
+          "firstName": [
+            "Wolfgang W A"
+          ],
+          "lastName": [
+            "Schamel"
+          ],
+          "initials": [
+            "WWA"
+          ],
+          "affiliation": [
+            "1Faculty of Biology, University of Freiburg, Schänzlestr. 1, 79104 Freiburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Weber W"
+          ],
+          "firstName": [
+            "Wilfried"
+          ],
+          "lastName": [
+            "Weber"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "1Faculty of Biology, University of Freiburg, Schänzlestr. 1, 79104 Freiburg, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5304-729X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "2769223"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Communications biology"
+          ],
+          "ISOAbbreviation": [
+            "Commun Biol"
+          ],
+          "medlineAbbreviation": [
+            "Commun Biol"
+          ],
+          "NLMid": [
+            "101719179"
+          ],
+          "ISSN": [
+            "2399-3642"
+          ],
+          "ESSN": [
+            "2399-3642"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "15"
+  ],
+  "abstractText": [
+    "Optogenetic approaches have gathered momentum in precisely modulating and interrogating cellular signalling and gene expression. The use of optogenetics on the outer cell surface to interrogate how cells receive stimuli from their environment, however, has so far not reached its full potential. Here we demonstrate the development of an optogenetically regulated membrane receptor-ligand pair exemplified by the optically responsive interaction of an integrin receptor with the extracellular matrix. The system is based on an integrin engineered with a phytochrome-interacting factor domain (OptoIntegrin) and a red light-switchable phytochrome B-functionalized matrix (OptoMatrix). This optogenetic receptor-ligand pair enables light-inducible and -reversible cell-matrix interaction, as well as the controlled activation of downstream mechanosensory signalling pathways. Pioneering the application of optogenetic switches in the extracellular environment of cells, this OptoMatrix-OptoIntegrin system may serve as a blueprint for rendering matrix-receptor interactions amendable to precise control with light."
+  ],
+  "affiliation": [
+    "1Faculty of Biology, University of Freiburg, Schänzlestr. 1, 79104 Freiburg, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6325061?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6325061"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s42003-018-0264-7"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "hpa",
+        "pdb"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-01-18"
+  ],
+  "firstIndexDate": [
+    "2019-01-18"
+  ],
+  "dateOfRevision": [
+    "2019-01-20"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-08"
+  ],
+  "firstPublicationDate": [
+    "2019-01-08"
+  ]
+}

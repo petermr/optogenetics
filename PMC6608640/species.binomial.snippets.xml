@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6608640/results/species/binomial/results.xml">
+  <result pre=" crystal. The tetramers of Padron0.9 are comparable to the naturally occurring RSFP (asFP595) from " exact="Anemonia sulcata" xpath="/html[1]/body[1]/div[2]/div[4]/div[2]/p[1]" match="Anemonia sulcata" post=", which is biologically a tetramer (Nienhaus et al., 2006 ▸). In the case o" name="binomial"/>
+  <result pre="The " exact="Escherichia coli" xpath="/html[1]/body[1]/div[2]/div[4]/div[2]/p[1]" match="Escherichia coli" post=" codon-optimized gene for Tetdron, with an N-terminal His-tag and a tobacco etch virus (TEV) protea" name="binomial"/>
+  <result pre=", purchased from ATUM (Newark, California, USA). For the deuterated protein expression of Tetdron, " exact="E. coli" match="Escherichia coli" post=" BL21(DE3) cells containing the Tetdron plasmid were grown in minimal medium with 99.8% D 2&lt;/s" name="binomial"/>
+ </snippets>
+</snippetsTree>

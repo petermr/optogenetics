@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC5860861/results/word/frequencies/results.xml">
+  <result title="frequency" word="islet" count="63"/>
+  <result title="frequency" word="β-cell" count="60"/>
+  <result title="frequency" word="cells" count="59"/>
+  <result title="frequency" word="insulin" count="58"/>
+  <result title="frequency" word="β-cells" count="55"/>
+  <result title="frequency" word="subpopulations" count="35"/>
+  <result title="frequency" word="functional" count="33"/>
+  <result title="frequency" word="heterogeneity" count="32"/>
+  <result title="frequency" word="secretion" count="32"/>
+  <result title="frequency" word="expression" count="29"/>
+  <result title="frequency" word="glucose" count="29"/>
+  <result title="frequency" word="population" count="27"/>
+  <result title="frequency" word="cell" count="24"/>
+  <result title="frequency" word="studies" count="24"/>
+  <result title="frequency" word="pancreatic" count="23"/>
+  <result title="frequency" word="islets" count="22"/>
+ </snippets>
+</snippetsTree>

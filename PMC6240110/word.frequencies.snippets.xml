@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6240110/results/word/frequencies/results.xml">
+  <result title="frequency" word="Rac" count="120"/>
+  <result title="frequency" word="cell" count="117"/>
+  <result title="frequency" word="Cdc" count="96"/>
+  <result title="frequency" word="gradients" count="87"/>
+  <result title="frequency" word="Rho" count="58"/>
+  <result title="frequency" word="cells" count="58"/>
+  <result title="frequency" word="gradient" count="56"/>
+  <result title="frequency" word="activity" count="44"/>
+  <result title="frequency" word="β-chimaerin" count="43"/>
+  <result title="frequency" word="(Fig." count="40"/>
+  <result title="frequency" word="Cell" count="37"/>
+  <result title="frequency" word="spatial" count="37"/>
+  <result title="frequency" word="activation" count="35"/>
+  <result title="frequency" word="GTPase" count="33"/>
+  <result title="frequency" word="n = " count="32"/>
+  <result title="frequency" word="using" count="30"/>
+  <result title="frequency" word="Biol." count="27"/>
+  <result title="frequency" word="migration" count="27"/>
+  <result title="frequency" word="GTPases" count="26"/>
+  <result title="frequency" word="actin" count="23"/>
+  <result title="frequency" word="measured" count="22"/>
+  <result title="frequency" word="FRET" count="21"/>
+ </snippets>
+</snippetsTree>

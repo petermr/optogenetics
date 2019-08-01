@@ -1,0 +1,314 @@
+{
+  "id": [
+    "30618626"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30618626"
+  ],
+  "pmcid": [
+    "PMC6304748"
+  ],
+  "doi": [
+    "10.3389/fncel.2018.00469"
+  ],
+  "title": [
+    "Methods for Three-Dimensional All-Optical Manipulation of Neural Circuits."
+  ],
+  "authorString": [
+    "Ronzitti E, Emiliani V, Papagiakoumou E."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ronzitti E"
+          ],
+          "firstName": [
+            "Emiliano"
+          ],
+          "lastName": [
+            "Ronzitti"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Wavefront Engineering Microscopy Group, Photonics Department, Institut de la Vision, Sorbonne Université, Inserm S968, CNRS UMR7210, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Emiliani V"
+          ],
+          "firstName": [
+            "Valentina"
+          ],
+          "lastName": [
+            "Emiliani"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Wavefront Engineering Microscopy Group, Photonics Department, Institut de la Vision, Sorbonne Université, Inserm S968, CNRS UMR7210, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Papagiakoumou E"
+          ],
+          "firstName": [
+            "Eirini"
+          ],
+          "lastName": [
+            "Papagiakoumou"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Wavefront Engineering Microscopy Group, Photonics Department, Institut de la Vision, Sorbonne Université, Inserm S968, CNRS UMR7210, Paris, France."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2645045"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Cellular Neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Cell Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Cell Neurosci"
+          ],
+          "NLMid": [
+            "101477935"
+          ],
+          "ISSN": [
+            "1662-5102"
+          ],
+          "ESSN": [
+            "1662-5102"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "469"
+  ],
+  "abstractText": [
+    "Optical means for modulating and monitoring neuronal activity, have provided substantial insights to neurophysiology and toward our understanding of how the brain works. Optogenetic actuators, calcium or voltage imaging probes and other molecular tools, combined with advanced microscopies have allowed an \"all-optical\" readout and modulation of neural circuits. Completion of this remarkable work is evolving toward a three-dimensional (3D) manipulation of neural ensembles at a high spatiotemporal resolution. Recently, original optical methods have been proposed for both activating and monitoring neurons in a 3D space, mainly through optogenetic compounds. Here, we review these methods and anticipate possible combinations among them."
+  ],
+  "affiliation": [
+    "Wavefront Engineering Microscopy Group, Photonics Department, Institut de la Vision, Sorbonne Université, Inserm S968, CNRS UMR7210, Paris, France."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "UF1 NS107574"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "610110"
+          ],
+          "agency": [
+            "European Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Optogenetics",
+        "Neural Circuits",
+        "All-optical Neuronal Studies",
+        "Light-shaping",
+        "Three-dimensional Functional Imaging",
+        "Three-dimensional Photostimulation"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6304748?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6304748"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fncel.2018.00469"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-01-09"
+  ],
+  "firstIndexDate": [
+    "2019-01-09"
+  ],
+  "dateOfRevision": [
+    "2019-01-11"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-17"
+  ],
+  "firstPublicationDate": [
+    "2018-12-17"
+  ]
+}

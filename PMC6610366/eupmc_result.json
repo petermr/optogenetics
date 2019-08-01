@@ -1,0 +1,247 @@
+{
+  "id": [
+    "30838921"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30838921"
+  ],
+  "pmcid": [
+    "PMC6610366"
+  ],
+  "doi": [
+    "10.1177/1535759718822035"
+  ],
+  "title": [
+    "From DREADD to Treatment in Temporal Lobe Epilepsy."
+  ],
+  "authorString": [
+    "Wong JC, Escayg A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wong JC"
+          ],
+          "firstName": [
+            "Jennifer C"
+          ],
+          "lastName": [
+            "Wong"
+          ],
+          "initials": [
+            "JC"
+          ]
+        },
+        {
+          "fullName": [
+            "Escayg A"
+          ],
+          "firstName": [
+            "Andrew"
+          ],
+          "lastName": [
+            "Escayg"
+          ],
+          "initials": [
+            "A"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2790803"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Epilepsy currents"
+          ],
+          "ISOAbbreviation": [
+            "Epilepsy Curr"
+          ],
+          "medlineAbbreviation": [
+            "Epilepsy Curr"
+          ],
+          "NLMid": [
+            "101135954"
+          ],
+          "ISSN": [
+            "1535-7597"
+          ],
+          "ESSN": [
+            "1535-7511"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "47-48"
+  ],
+  "abstractText": [
+    "Pharmaco-Genetic Therapeutics Targeting Parvalbumin Neurons Attenuate Temporal Lobe Epilepsy Wang Y, Liang J, Chen L, Shen Y, Zhao J, Xu C, Wu X, Cheng H, Ying X, Guo Y, Wang S, Zhou Y, Wang Y, Chen Z. Neurobiol Dis. 2018;117:149-60. Epub 2018/06/13. doi: 10.1016/j.nbd.2018.06.006. PubMed PMID: 29894753. Temporal lobe epilepsy (TLE) is the most common type of epilepsy and is often medically refractory. Previous studies suggest that selective pharmaco-genetic inhibition of pyramidal neurons has therapeutic value for the treatment of epilepsy; however, there is a risk of disrupting normal physical functions. Here, we test whether pharmaco-genetic activation of parvalbumin neurons, which are transgenetically transduced with the modified muscarinic receptor hM3Dq, can attenuate TLE. We found that pharmaco-genetic activation of hippocampal parvalbumin neurons in epileptogenic zone not only significantly extends the latency to different seizure stages and attenuates seizure activities in acute seizure model but also greatly alleviates the severity of seizure onsets in 2 chronic epilepsy models. This manipulation did not affect the normal physical function evaluated in various cognitive tasks. Further, the activation of parvalbumin neurons produced an inhibition on parts of surrounding pyramidal neurons, and the direct inactivation of pyramidal neurons via the viral expression of a modified muscarinic receptor hM4Di produced a similar anti-ictogenic effect. Interestingly, pharmacogenetic inactivation of pyramidal neurons was more sensitive to impair cognitive function. Those data demonstrated that pharmaco-genetic seizure attenuation through targeting parvalbumin neurons rather than pyramidal neurons may be a novel and relatively safe approach for treating refractory TLE."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "article-commentary",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6610366?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6610366"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1177/1535759718822035"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-03-07"
+  ],
+  "firstIndexDate": [
+    "2019-03-07"
+  ],
+  "dateOfRevision": [
+    "2019-07-25"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-30"
+  ],
+  "firstPublicationDate": [
+    "2019-01-30"
+  ]
+}

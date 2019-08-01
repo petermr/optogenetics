@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="frequencies">
+ <result title="frequency" word="{border-style" count="20"/>
+ <result title="frequency" word="px;}" count="18"/>
+ <result title="frequency" word="#ffffff;}" count="17"/>
+ <result title="frequency" word="eGluCl" count="11"/>
+ <result title="frequency" word="epilepsy" count="11"/>
+ <result title="frequency" word="glutamate" count="9"/>
+ <result title="frequency" word="px;" count="8"/>
+ <result title="frequency" word="{font-family" count="8"/>
+ <result title="frequency" word="ECoG" count="7"/>
+ <result title="frequency" word="font-size" count="7"/>
+ <result title="frequency" word="treatment" count="7"/>
+ <result title="frequency" word="Epilepsy" count="6"/>
+ <result title="frequency" word="brain" count="6"/>
+ <result title="frequency" word="double;" count="6"/>
+ <result title="frequency" word="new" count="6"/>
+ <result title="frequency" word="number" count="6"/>
+ <result title="frequency" word="seizure" count="6"/>
+ <result title="frequency" word="border-color" count="5"/>
+ <result title="frequency" word="border-width" count="5"/>
+ <result title="frequency" word="channel" count="5"/>
+ <result title="frequency" word="effect" count="5"/>
+ <result title="frequency" word="excess" count="5"/>
+ <result title="frequency" word="normal" count="5"/>
+ <result title="frequency" word="seizures" count="5"/>
+ <result title="frequency" word="solid;" count="5"/>
+ <result title="frequency" word="{font-style" count="5"/>
+ <result title="frequency" word="{font-weight" count="5"/>
+ <result title="frequency" word="bold" count="4"/>
+ <result title="frequency" word="chloride" count="4"/>
+ <result title="frequency" word="courier;" count="4"/>
+ <result title="frequency" word="em;" count="4"/>
+ <result title="frequency" word="gene" count="4"/>
+ <result title="frequency" word="model" count="4"/>
+ <result title="frequency" word="pt;}" count="4"/>
+ <result title="frequency" word="steps" count="4"/>
+ <result title="frequency" word="study" count="4"/>
+ <result title="frequency" word="use" count="4"/>
+</results>

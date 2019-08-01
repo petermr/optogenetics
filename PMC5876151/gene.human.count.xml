@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="frequencies">
+ <result title="frequency" count="41">PDC1</result>
+ <result title="frequency" count="12">HIS3</result>
+ <result title="frequency" count="12">ILV2</result>
+ <result title="frequency" count="6">GAL4</result>
+ <result title="frequency" count="4">ACT1</result>
+ <result title="frequency" count="4">EXP</result>
+ <result title="frequency" count="3">BAT1</result>
+ <result title="frequency" count="3">URA3</result>
+ <result title="frequency" count="3">GAL80</result>
+ <result title="frequency" count="2">ILV5</result>
+ <result title="frequency" count="2">ILV3</result>
+ <result title="frequency" count="2">ARO10</result>
+ <result title="frequency" count="2">PDC</result>
+ <result title="frequency" count="2">ADH1</result>
+ <result title="frequency" count="1">PDC6</result>
+ <result title="frequency" count="1">PDC5</result>
+ <result title="frequency" count="1">INVRT3</result>
+ <result title="frequency" count="1">COXIV</result>
+ <result title="frequency" count="1">AMPR</result>
+ <result title="frequency" count="1">ILV</result>
+ <result title="frequency" count="1">INVRT2</result>
+ <result title="frequency" count="1">INVRT1</result>
+ <result title="frequency" count="1">GAL1</result>
+</results>

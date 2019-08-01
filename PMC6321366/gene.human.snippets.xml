@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6321366/results/gene/human/results.xml">
+  <result pre="erent organisms from yeast to human [ 6]. In mammalians, two different " exact="RHEB" post=" genes have yet been identified. The gene products of RHEB1 (from here on RHEB) and &lt;" xpath="/html[1]/body[1]/div[2]/div[1]/p[2]" name="human"/>
+  <result pre="&gt;6]. In mammalians, two different RHEB genes have yet been identified. The gene products of " exact="RHEB1" post=" (from here on RHEB) and RHEB2 (also RHEBL1) share 54% identity and 74% simila" xpath="/html[1]/body[1]/div[2]/div[1]/p[2]" dictionary="hgnc" dictionaryCheck="false" name="human"/>
+  <result pre="ferent RHEB genes have yet been identified. The gene products of RHEB1 (from here on " exact="RHEB" post=") and RHEB2 (also RHEBL1) share 54% identity and 74% similarity and it is hypothesize" xpath="/html[1]/body[1]/div[2]/div[1]/p[2]" name="human"/>
+  <result pre="&gt; genes have yet been identified. The gene products of RHEB1 (from here on RHEB) and " exact="RHEB2" post=" (also RHEBL1) share 54% identity and 74% similarity and it is hypothesized that both protei" xpath="/html[1]/body[1]/div[2]/div[1]/p[2]" dictionary="hgnc" dictionaryCheck="false" name="human"/>
+  <result pre="en identified. The gene products of RHEB1 (from here on RHEB) and RHEB2 (also " exact="RHEBL1" post=") share 54% identity and 74% similarity and it is hypothesized that both proteins perform similar f" xpath="/html[1]/body[1]/div[2]/div[1]/p[2]" name="human"/>
+  <result pre=" the cerebral cortex, occipital pole, frontal and temporal lobes [ 8]. " exact="RHEB" post=" was originally discovered in rat brain as an immediate-early gene, whose cellular level is rapidly" name="human"/>
+ </snippets>
+</snippetsTree>

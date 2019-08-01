@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="frequencies">
+ <result title="frequency" word="{border-style" count="20"/>
+ <result title="frequency" word="px;}" count="18"/>
+ <result title="frequency" word="#ffffff;}" count="17"/>
+ <result title="frequency" word="neurons" count="15"/>
+ <result title="frequency" word="opsin" count="8"/>
+ <result title="frequency" word="px;" count="8"/>
+ <result title="frequency" word="{font-family" count="8"/>
+ <result title="frequency" word="Vol." count="7"/>
+ <result title="frequency" word="font-size" count="7"/>
+ <result title="frequency" word="control" count="6"/>
+ <result title="frequency" word="double;" count="6"/>
+ <result title="frequency" word="neural" count="6"/>
+ <result title="frequency" word="optogenetics" count="6"/>
+ <result title="frequency" word="pp." count="6"/>
+ <result title="frequency" word="used" count="6"/>
+ <result title="frequency" word="border-color" count="5"/>
+ <result title="frequency" word="border-width" count="5"/>
+ <result title="frequency" word="brain" count="5"/>
+ <result title="frequency" word="cells" count="5"/>
+ <result title="frequency" word="expression" count="5"/>
+ <result title="frequency" word="light" count="5"/>
+ <result title="frequency" word="neuronal" count="5"/>
+ <result title="frequency" word="solid;" count="5"/>
+ <result title="frequency" word="{font-style" count="5"/>
+ <result title="frequency" word="{font-weight" count="5"/>
+ <result title="frequency" word="ChR" count="4"/>
+ <result title="frequency" word="application" count="4"/>
+ <result title="frequency" word="bold" count="4"/>
+ <result title="frequency" word="cell" count="4"/>
+ <result title="frequency" word="courier;" count="4"/>
+ <result title="frequency" word="em;" count="4"/>
+ <result title="frequency" word="influx" count="4"/>
+ <result title="frequency" word="neurons." count="4"/>
+ <result title="frequency" word="opsins" count="4"/>
+ <result title="frequency" word="pt;}" count="4"/>
+ <result title="frequency" word="specific" count="4"/>
+ <result title="frequency" word="stimulation" count="4"/>
+ <result title="frequency" word="temporal" count="4"/>
+ <result title="frequency" word="types" count="4"/>
+</results>

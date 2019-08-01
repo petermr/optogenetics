@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6437158/results/search/funders/results.xml">
+  <result pre="10 [1], 0000 0001 2180 6431 grid.4280.e Department of Chemistry," exact="National University of Singapore," post="[2], 0000 0001 2180 6431 grid.4280.e Department of Biochemistry,"/>
+  <result pre="Singapore, [2], 0000 0001 2180 6431 grid.4280.e Department of Biochemistry," exact="National University of Singapore," post="[3], 0000 0001 2180 6431 grid.4280.e Singapore Institute of"/>
+  <result pre="0000 0001 2180 6431 grid.4280.e Singapore Institute of Neurotechnology (SINAPSE)," exact="National University of Singapore," post="[4], 0000 0001 2180 6431 grid.4280.e Department of Biomedical"/>
+  <result pre="[4], 0000 0001 2180 6431 grid.4280.e Department of Biomedical Engineering," exact="National University of Singapore," post="[5], 0000 0001 2224 0361 grid.59025.3b Division of Physics"/>
+  <result pre="National University of Singapore, [5], 0000 0001 2224 0361 grid.59025.3b" exact="Division of Physics" post="and Applied Physics, School of Physical and Mathematical Sciences,"/>
+  <result pre="Physics and Applied Physics, School of Physical and Mathematical Sciences," exact="Nanyang Technological University," post="[6], 0000 0001 0943 978X grid.27476.30 Department of Neuroscience"/>
+  <result pre="grid.27476.30 Department of Neuroscience II, Research Institute of Environmental Medicine," exact="Nagoya University," post="[7], 0000 0004 1754 9200 grid.419082.6 CREST, JST, Honcho"/>
+  <result pre="Kawaguchi, [8], 0000 0001 2180 6431 grid.4280.e Department of Medicine," exact="National University of Singapore," post="[9], 0000 0001 2171 9311 grid.21107.35 Department of Neurology,"/>
+  <result pre="0000 0001 2171 9311 grid.21107.35 Department of Neurology, Johns Hopkins" exact="School of Medicine," post="[10], grid.452673.1 Center for Functional Materials, National University of"/>
+  <result pre="Hopkins School of Medicine, [10], grid.452673.1 Center for Functional Materials," exact="National University of Singapore" post="Suzhou Research Institute, epub: 2019-3-3 pmc-release: 2019-3-3 collection: 2019"/>
+  <result pre="Animal Care and Use Committees, Research Institute of Environmental Medicine," exact="Nagoya University," post="Japan. Acute brain slice preparation Male and female mice"/>
+  <result pre="at 10.1038/s41467-019-09345-0. Acknowledgements This work is supported by the Singapore" exact="Ministry of Education" post="(Grant R143000627112, R143000642112), Agency for Science, Technology and Research"/>
+  <result pre="supported by the Singapore Ministry of Education (Grant R143000627112, R143000642112)," exact="Agency for Science, Technology and Research" post="(A*STAR) (Grant R143000684305), National Research Foundation, Prime Minister’s Office,"/>
+  <result pre="R143000642112), Agency for Science, Technology and Research (A*STAR) (Grant R143000684305)," exact="National Research Foundation," post="Prime Minister’s Office, Singapore under its Competitive Research Program"/>
+  <result pre="National Basic Research Program of China (973 Program, Grant 2015CB932200)," exact="Japan Science and Technology Agency" post="CREST (Grant JPMJCR1656), the CAS/SAFEA International Partnership Program for"/>
+  <result pre="the CAS/SAFEA International Partnership Program for Creative Research Teams, and" exact="National Natural Science Foundation of China" post="(21771135, 21471109). T.C.S. acknowledges the support from JSPS-NTU Joint"/>
+  <result pre="acknowledges the support from JSPS-NTU Joint Research Project M4082176, the" exact="Ministry of Education" post="AcRF Tier 1 grant (RG173/16) and Tier 2 grants"/>
+  <result pre="(RG173/16) and Tier 2 grants (MOE2015-T2-2-015 and MOE2016-T2-1-034), the Singapore" exact="National Research Foundation" post="through the Competitive Research Programme (NRF-CRP14-2014-03), and the NRF"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,369 @@
+{
+  "id": [
+    "31015550"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31015550"
+  ],
+  "pmcid": [
+    "PMC6478906"
+  ],
+  "doi": [
+    "10.1038/s41598-019-42923-2"
+  ],
+  "title": [
+    "Optical intrinsic signal imaging with optogenetics reveals functional cortico-cortical connectivity at the columnar level in living macaques."
+  ],
+  "authorString": [
+    "Nakamichi Y, Okubo K, Sato T, Hashimoto M, Tanifuji M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Nakamichi Y"
+          ],
+          "firstName": [
+            "Yu"
+          ],
+          "lastName": [
+            "Nakamichi"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Lab for Integrative Neural Systems, RIKEN Center for Brain Science, Wako, Saitama, 351-0198, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Okubo K"
+          ],
+          "firstName": [
+            "Kai"
+          ],
+          "lastName": [
+            "Okubo"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Lab for Integrative Neural Systems, RIKEN Center for Brain Science, Wako, Saitama, 351-0198, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Sato T"
+          ],
+          "firstName": [
+            "Takayuki"
+          ],
+          "lastName": [
+            "Sato"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5646-4096",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Lab for Integrative Neural Systems, RIKEN Center for Brain Science, Wako, Saitama, 351-0198, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Hashimoto M"
+          ],
+          "firstName": [
+            "Mitsuhiro"
+          ],
+          "lastName": [
+            "Hashimoto"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8751-4068",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neuroanatomy and Embryology, Fukushima Medical University, Fukushima, Fukushima, 960-1295, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Tanifuji M"
+          ],
+          "firstName": [
+            "Manabu"
+          ],
+          "lastName": [
+            "Tanifuji"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Lab for Integrative Neural Systems, RIKEN Center for Brain Science, Wako, Saitama, 351-0198, Japan. tanifuji@riken.jp."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5646-4096",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8751-4068",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2799475"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "6466"
+  ],
+  "abstractText": [
+    "Despite extensive research on primate cognitive function, understanding how anatomical connectivity at a neural circuit level relates to information transformation across different cortical areas remains primitive. New technology is needed to visualize inter-areal anatomical connectivity in living monkeys and to tie this directly to neurophysiological function. Here, we developed a novel method to investigate this structure-function relationship, by combining optical intrinsic signal imaging (OISI) with optogenetic stimulation in living monkeys (opto-OISI). The method involves expressing channelrhodophsin-2 in one area (source) followed by optical imaging of optogenetic activations in the other area (target). We successfully demonstrated the potential of the method with interhemispheric columnar projection patterns between V1/V2 border regions. Unlike the combination of optogenetics and functional magnetic resonance imaging (opto-fMRI), opto-OISI has the advantage of enabling us to detect responses of small clusters of neurons, even if the clusters are sparsely distributed. We suggest that opto-OISI can be a powerful approach to understanding cognitive function at the neural circuit level, directly linking inter-areal circuitry to fine-scale structure and function."
+  ],
+  "affiliation": [
+    "Lab for Integrative Neural Systems, RIKEN Center for Brain Science, Wako, Saitama, 351-0198, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "26750383"
+          ],
+          "agency": [
+            "MEXT | Japan Society for the Promotion of Science (JSPS)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "18K07360"
+          ],
+          "agency": [
+            "MEXT | Japan Society for the Promotion of Science (JSPS)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6478906?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6478906"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-42923-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-04-25"
+  ],
+  "firstIndexDate": [
+    "2019-04-25"
+  ],
+  "dateOfRevision": [
+    "2019-05-05"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-23"
+  ],
+  "firstPublicationDate": [
+    "2019-04-23"
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "id": [
+    "PMC6635595"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC6635595"
+  ],
+  "doi": [
+    "10.3389/fphys.2019.00713"
+  ],
+  "title": [
+    "Pnmt-Derived Cardiomyocytes: Anatomical Localization, Function and Future Perspectives."
+  ],
+  "authorString": [
+    "Fan X, Sun T, Crawford W, Tan X, Ou X, Terrar DA, Ebert SN, Lei M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Fan X"
+          ],
+          "firstName": [
+            "Xuehui"
+          ],
+          "lastName": [
+            "Fan"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "1 Key Laboratory of Medical Electrophysiology, Ministry of Education and Medical Electrophysiological Key Laboratory of Sichuan Province, Collaborative Innovation Center for Prevention of Cardiovascular Diseases, Institute of Cardiovascular Research, Southwest Medical University, Luzhou, China"
+          ]
+        },
+        {
+          "fullName": [
+            "Sun T"
+          ],
+          "firstName": [
+            "Tianyi"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "T"
+          ]
+        },
+        {
+          "fullName": [
+            "Crawford W"
+          ],
+          "firstName": [
+            "William"
+          ],
+          "lastName": [
+            "Crawford"
+          ],
+          "initials": [
+            "W"
+          ]
+        },
+        {
+          "fullName": [
+            "Tan X"
+          ],
+          "firstName": [
+            "Xiaoqiu"
+          ],
+          "lastName": [
+            "Tan"
+          ],
+          "initials": [
+            "X"
+          ]
+        },
+        {
+          "fullName": [
+            "Ou X"
+          ],
+          "firstName": [
+            "Xianhong"
+          ],
+          "lastName": [
+            "Ou"
+          ],
+          "initials": [
+            "X"
+          ]
+        },
+        {
+          "fullName": [
+            "Terrar DA"
+          ],
+          "firstName": [
+            "Derek A."
+          ],
+          "lastName": [
+            "Terrar"
+          ],
+          "initials": [
+            "DA"
+          ]
+        },
+        {
+          "fullName": [
+            "Ebert SN"
+          ],
+          "firstName": [
+            "Steven N."
+          ],
+          "lastName": [
+            "Ebert"
+          ],
+          "initials": [
+            "SN"
+          ]
+        },
+        {
+          "fullName": [
+            "Lei M"
+          ],
+          "firstName": [
+            "Ming"
+          ],
+          "lastName": [
+            "Lei"
+          ],
+          "initials": [
+            "M"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2777617"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Physiology"
+          ],
+          "ISOAbbreviation": [
+            "Front Physiol"
+          ],
+          "medlineAbbreviation": [
+            "Front Physiol"
+          ],
+          "NLMid": [
+            "101549006"
+          ],
+          "ISSN": [
+            "1664-042X"
+          ],
+          "ESSN": [
+            "1664-042X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "In this mini-review, we provide an overview of phenylethanolamine-N-methyl transferase (Pnmt)-derived cardiomyocytes (PdCMs), a recently discovered cardiomyocyte subpopulation. We discuss their anatomical localization, physiological characteristics, possible function, and future perspectives. Their unique distribution in the heart, electrical activity, Ca2+ transient properties, and potential role in localized adrenergic signaling are discussed."
+  ],
+  "affiliation": [
+    "1 Key Laboratory of Medical Electrophysiology, Ministry of Education and Medical Electrophysiological Key Laboratory of Sichuan Province, Collaborative Innovation Center for Prevention of Cardiovascular Diseases, Institute of Cardiovascular Research, Southwest Medical University, Luzhou, China"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "31871181"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "81700308"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "G10002647"
+          ],
+          "agency": [
+            "MRC"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "G1002082"
+          ],
+          "agency": [
+            "MRC"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "PG/17/55/33087"
+          ],
+          "agency": [
+            "BHF"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "PG/12/21/29473"
+          ],
+          "agency": [
+            "BHF"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "PG/14/80/31106"
+          ],
+          "agency": [
+            "BHF"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "PG/16/67/32340"
+          ],
+          "agency": [
+            "BHF"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "PG/11/59/29004"
+          ],
+          "agency": [
+            "BHF"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Heart",
+        "Catecholamines",
+        "Optogenetics",
+        "Pnmt",
+        "Pnmt-derived Cardiomyocytes"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6635595"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6635595/?tool=EBI"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-28"
+  ],
+  "firstIndexDate": [
+    "2019-07-28"
+  ],
+  "dateOfRevision": [
+    "2019-07-28"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-10"
+  ],
+  "firstPublicationDate": [
+    "2019-07-10"
+  ]
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC5820651/results/species/binomial/results.xml">
+  <result pre="1 A). 22, 23 Several groups produced PCB and PΦB in " exact="E. coli" xpath="/html[1]/body[1]/div[2]/div[2]/div[2]/div[2]/p[1]" match="E. coli" post=" by expressing PcyA or HY2 along with heme oxygenase (HO1), without adding a ferredoxin (Fd) and fe" name="binomial"/>
+  <result pre=", petH = ferredoxin:oxidoreductase/FNR, NE = No Enzymes, SYNP2 = Synechococcus PCC7002 and THEEB = " exact="Thermosynechococcus elongatus" xpath="/html[1]/body[1]/div[2]/div[2]/div[2]/div[2]/p[1]" match="Thermosynechococcus elongatus" post=", ARATH = Arabidopsis thaliana, MTS = Mitochondrial Targeting Sequence, P2A = 2A self-cleavi" name="binomial"/>
+  <result pre="o Enzymes, SYNP2 = Synechococcus PCC7002 and THEEB = Thermosynechococcus elongatus, ARATH = " exact="Arabidopsis thaliana" xpath="/html[1]/body[1]/div[2]/div[2]/div[2]/div[2]/p[1]" match="Arabidopsis thaliana" post=", MTS = Mitochondrial Targeting Sequence, P2A = 2A self-cleaving peptide, IRES = Internal Ribosome " name="binomial"/>
+  <result pre="ction with metabolic enzymes from two species: Synechococcus sp. PCC 7002 (SYNP2/sPcyA) or " exact="Thermosynechococcus elongatus " xpath="/html[1]/body[1]/div[2]/div[2]/div[2]/div[2]/p[1]" match="Thermosynechococcus elongatus" post=" (THEEB/tPcyA). We tested PCB production under two conditions, either mitochondrial-HO1+PcyA ( M2) " name="binomial"/>
+  <result pre=", petH = ferredoxin:oxidoreductase/fnr, NE = No Enzymes, SYNP2 = Synechococcus PCC7002 and THEEB = " exact="Thermosynechococcus elongatus " xpath="/html[1]/body[1]/div[2]/div[2]/div[2]/div[2]/p[1]" match="Thermosynechococcus elongatus" post=", ARATH= Arabidopsis thaliana, IRES = Internal Ribosome Entry Site, NLS = Nuclear Localizati" name="binomial"/>
+  <result pre="o Enzymes, SYNP2 = Synechococcus PCC7002 and THEEB = Thermosynechococcus elongatus , ARATH= " exact="Arabidopsis thaliana" match="Arabidopsis thaliana" post=", IRES = Internal Ribosome Entry Site, NLS = Nuclear Localization Sequence, MTS = Mitochondrial Tar" name="binomial"/>
+ </snippets>
+</snippetsTree>

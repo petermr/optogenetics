@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC5820651/results/search/funders/results.xml">
+  <result pre="Biol ACS Synth Biol sb asbcd6 ACS Synthetic Biology 2161-5063" exact="American Chemical Society" post="pmcid: 5820651 doi: 10.1021/acssynbio.7b00413 : Research Article Biosynthesis of"/>
+  <result pre="Patrick Gentry N. ‡ Coleman Todd P. * † [†]," exact="University of California," post="San Diego United States [‡], University of California, San"/>
+  <result pre="† [†], University of California, San Diego United States [‡]," exact="University of California," post="San Diego United States [§], University of California, San"/>
+  <result pre="States [‡], University of California, San Diego United States [§]," exact="University of California," post="San Diego United States [∥], Quinnipiac University United States"/>
+  <result pre="San Diego United States [∥], Quinnipiac University United States [⊥]," exact="University of California," post="San Diego United States [#], University of Iowa United"/>
+  <result pre="States [⊥], University of California, San Diego United States [#]," exact="University of Iowa" post="United States *E-mail: pkyriaka@ucsd.edu. *E-mail: tpcoleman@ucsd.edu. epub: 2018-01-01 ppub:"/>
+  <result pre="2018-01-01 ppub: 2018-02-02 7 2 706 717 received: 2017-11-17 (C)" exact="American Chemical Society" post=", 2018 This is an open access article published"/>
+  <result pre="and Mind at UC San Diego and the Salk Institute," exact="National Science Foundation" post="through the NSF Center for Science of Information under"/>
+  <result pre="Science of Information under Grant CCF-0939370, NIH Grant NS060847, UCSD" exact="School of Medicine" post="Microscopy Core Grant P30 NS047101. P.K. was supported by"/>
+ </snippets>
+</snippetsTree>

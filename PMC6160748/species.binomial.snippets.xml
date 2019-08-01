@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6160748/results/species/binomial/results.xml">
+  <result pre="is pioneering work they heterologously expressed a microbial opsin, channelrhodopsin-2 (ChR2) from " exact="Chlamydomonas reinhardtii" xpath="/html[1]/body[1]/div[2]/div[2]/p[6]" match="Chlamydomonas reinhardtii" post=" (Figure 2A), in thalamic projecting retinal ganglion cells (RGCs; Figure &lt;a href=&quot;#F" name="binomial"/>
+  <result pre="ins are required. In 2008 the Deisseroth group discovered the red-shifted ChR2 ortholog VChR1 from " exact="Volvox carteri" xpath="/html[1]/body[1]/div[2]/div[2]/p[6]" match="Volvox carteri" post=" (Zhang et al., 2008). This cation channel’s excitation spectrum is red shifted appr" name="binomial"/>
+  <result pre="In 2014 another red-shifted microbial ion channel was discovered in " exact="Chlamydomonas noctigama" match="Chlamydomonas noctigama" post=", termed ChrimsonR (Figure 2A; Klapoetke et al., 2014). With a similar" name="binomial"/>
+ </snippets>
+</snippetsTree>

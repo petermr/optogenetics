@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6341094/results/search/funders/results.xml">
+  <result pre="Oxford, [8], 0000 0001 2164 3847 grid.67105.35 Department of Neurosciences," exact="Case Western Reserve University" post="School of Medicine, [9], 0000 0004 1937 0650 grid.7400.3"/>
+  <result pre="2164 3847 grid.67105.35 Department of Neurosciences, Case Western Reserve University" exact="School of Medicine," post="[9], 0000 0004 1937 0650 grid.7400.3 Brain Research Institute,"/>
+  <result pre="the animal flank to administer complementary anaesthetic (Dormitor, medetomidine hydrochloride;" exact="Pfizer" post="Pharmaceuticals, UK). After animal positioning, a bolus of medetomidine"/>
+  <result pre="discussions. The work was supported by grants from the Swiss" exact="National Science Foundation" post="(SNSF: PZ00P3_148114/1), the University of Zurich (FK-13-048), the Brain"/>
+  <result pre="Neuroscience Center Zurich awarded to B.J.S., as well as a" exact="European Commission" post="Marie Curie Career Integration Grant awarded to E.O.M. and"/>
+  <result pre="Integration Grant awarded to E.O.M. and grants from the Swiss" exact="National Science Foundation" post="(310030-141202 and 310030-160310) awarded to M.R. Author contributions J.G.,"/>
+ </snippets>
+</snippetsTree>

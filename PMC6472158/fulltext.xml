@@ -1,0 +1,1066 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1d1 20130915//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 39.96?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Tissue Eng</journal-id><journal-id journal-id-type="iso-abbrev">J Tissue Eng</journal-id><journal-id journal-id-type="publisher-id">TEJ</journal-id><journal-id journal-id-type="hwp">sptej</journal-id><journal-title-group><journal-title>Journal of Tissue Engineering</journal-title></journal-title-group><issn pub-type="epub">2041-7314</issn><publisher><publisher-name>SAGE Publications</publisher-name><publisher-loc>Sage UK: London, England</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6472158</article-id><article-id pub-id-type="doi">10.1177/2041731419841748</article-id><article-id pub-id-type="publisher-id">10.1177_2041731419841748</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Chronic optical pacing conditioning of h-iPSC engineered cardiac
+tissues</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Dwenger</surname><given-names>Marc</given-names></name><xref ref-type="aff" rid="aff1-2041731419841748">1</xref><xref ref-type="aff" rid="aff2-2041731419841748">2</xref></contrib><contrib contrib-type="author"><name><surname>Kowalski</surname><given-names>William J</given-names></name><xref ref-type="aff" rid="aff1-2041731419841748">1</xref><xref ref-type="aff" rid="aff3-2041731419841748">3</xref><xref ref-type="aff" rid="aff4-2041731419841748">4</xref></contrib><contrib contrib-type="author"><name><surname>Ye</surname><given-names>Fei</given-names></name><xref ref-type="aff" rid="aff1-2041731419841748">1</xref><xref ref-type="aff" rid="aff3-2041731419841748">3</xref></contrib><contrib contrib-type="author"><name><surname>Yuan</surname><given-names>Fangping</given-names></name><xref ref-type="aff" rid="aff1-2041731419841748">1</xref><xref ref-type="aff" rid="aff3-2041731419841748">3</xref></contrib><contrib contrib-type="author"><name><surname>Tinney</surname><given-names>Joseph P</given-names></name><xref ref-type="aff" rid="aff1-2041731419841748">1</xref><xref ref-type="aff" rid="aff3-2041731419841748">3</xref></contrib><contrib contrib-type="author"><name><surname>Setozaki</surname><given-names>Shuji</given-names></name><xref ref-type="aff" rid="aff1-2041731419841748">1</xref><xref ref-type="aff" rid="aff5-2041731419841748">5</xref></contrib><contrib contrib-type="author"><name><surname>Nakane</surname><given-names>Takeichiro</given-names></name><xref ref-type="aff" rid="aff1-2041731419841748">1</xref><xref ref-type="aff" rid="aff6-2041731419841748">6</xref></contrib><contrib contrib-type="author"><name><surname>Masumoto</surname><given-names>Hidetoshi</given-names></name><xref ref-type="aff" rid="aff6-2041731419841748">6</xref><xref ref-type="aff" rid="aff7-2041731419841748">7</xref></contrib><contrib contrib-type="author"><name><surname>Campbell</surname><given-names>Peter</given-names></name><xref ref-type="aff" rid="aff8-2041731419841748">8</xref></contrib><contrib contrib-type="author"><name><surname>Guido</surname><given-names>William</given-names></name><xref ref-type="aff" rid="aff8-2041731419841748">8</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5476-6050</contrib-id><name><surname>Keller</surname><given-names>Bradley B</given-names></name><xref ref-type="aff" rid="aff1-2041731419841748">1</xref><xref ref-type="aff" rid="aff2-2041731419841748">2</xref><xref ref-type="aff" rid="aff3-2041731419841748">3</xref><xref ref-type="corresp" rid="corresp1-2041731419841748"/></contrib></contrib-group><aff id="aff1-2041731419841748"><label>1</label>Kosair Charities Pediatric Heart
+Research Program, Cardiovascular Innovation Institute, University of Louisville,
+Louisville, KY, USA</aff><aff id="aff2-2041731419841748"><label>2</label>Department of Pharmacology &#x00026;
+Toxicology, School of Medicine, University of Louisville, Louisville, KY, USA</aff><aff id="aff3-2041731419841748"><label>3</label>Department of Pediatrics, School of
+Medicine, University of Louisville, Louisville, KY, USA</aff><aff id="aff4-2041731419841748"><label>4</label>Laboratory of Stem Cell and
+Neurovascular Biology, Cell and Developmental Biology Center, National Heart Lung
+and Blood Institute, National Institutes of Health, Bethesda, MD, USA</aff><aff id="aff5-2041731419841748"><label>5</label>Department of Cardiovascular Surgery,
+Okamura Memorial Hospital, Shimizu, Japan</aff><aff id="aff6-2041731419841748"><label>6</label>Department of Cell Growth and
+Differentiation, Center for iPS Cell Research and Application (CiRA), Kyoto
+University, Kyoto, Japan</aff><aff id="aff7-2041731419841748"><label>7</label>RIKEN Center for Biosystems Dynamics
+Research (BDR), Wako, Japan</aff><aff id="aff8-2041731419841748"><label>8</label>Department of Anatomical Sciences and
+Neurobiology, School of Medicine, University of Louisville, Louisville, KY,
+USA</aff><author-notes><corresp id="corresp1-2041731419841748">Bradley B Keller, Kosair Charities Pediatric
+Heart Research Program, Cardiovascular Innovation Institute, University of
+Louisville, 302 E. Muhammad Ali Blvd., Room 407, Louisville, KY 40202, USA.
+Email: <email>brad.keller@louisville.edu</email></corresp></author-notes><pub-date pub-type="epub"><day>17</day><month>4</month><year>2019</year></pub-date><pub-date pub-type="collection"><season>Jan-Dec</season><year>2019</year></pub-date><volume>10</volume><elocation-id>2041731419841748</elocation-id><history><date date-type="received"><day>23</day><month>1</month><year>2019</year></date><date date-type="accepted"><day>13</day><month>3</month><year>2019</year></date></history><permissions><copyright-statement>&#x000a9; The Author(s) 2019</copyright-statement><copyright-year>2019</copyright-year><copyright-holder content-type="sage">SAGE Publications</copyright-holder><license license-type="creative-commons" xlink:href="http://www.creativecommons.org/licenses/by-nc/4.0/"><license-p>This article is distributed under the terms of the Creative Commons
+Attribution-NonCommercial 4.0 License (<ext-link ext-link-type="uri" xlink:href="http://www.creativecommons.org/licenses/by-nc/4.0/">http://www.creativecommons.org/licenses/by-nc/4.0/</ext-link>) which
+permits non-commercial use, reproduction and distribution of the work
+without further permission provided the original work is attributed as
+specified on the SAGE and Open Access pages (<ext-link ext-link-type="uri" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p></license></permissions><abstract><p>The immaturity of human induced pluripotent stem cell derived engineered cardiac
+tissues limits their ability to regenerate damaged myocardium and to serve as
+robust <italic>in vitro</italic> models for human disease and drug toxicity
+studies. Several chronic biomimetic conditioning protocols, including mechanical
+stretch, perfusion, and/or electrical stimulation promote engineered cardiac
+tissue maturation but have significant technical limitations. Non-contacting
+chronic optical stimulation using heterologously expressed channelrhodopsin
+light-gated ion channels, termed optogenetics, may be an advantageous
+alternative to chronic invasive electrical stimulation for engineered cardiac
+tissue conditioning. We designed proof-of-principle experiments to successfully
+transfect human induced pluripotent stem cell derived engineered cardiac tissues
+with a desensitization resistant, chimeric channelrhodopsin protein, and then
+optically paced engineered cardiac tissues to accelerate maturation. We
+transfected human induced pluripotent stem cell engineered cardiac tissues using
+an adeno-associated virus packaged chimeric channelrhodopsin and then verified
+optically paced by whole cell patch clamp. Engineered cardiac tissues were then
+chronically optically paced above their intrinsic beat rates <italic>in
+vitro</italic> from day 7 to 14. Chronically optically paced resulted in
+improved engineered cardiac tissue electrophysiological properties and subtle
+changes in the expression of some cardiac relevant genes, though active force
+generation and histology were unchanged. These results validate the feasibility
+of a novel chronically optically paced paradigm to explore non-invasive and
+scalable optically paced&#x02013;induced engineered cardiac tissue maturation
+strategies.</p></abstract><kwd-group><kwd>Channelrhodopsin</kwd><kwd>engineered cardiac tissues</kwd><kwd>optical pacing</kwd><kwd>optogenetics</kwd><kwd>stem cells</kwd></kwd-group><funding-group><award-group id="award1-2041731419841748"><funding-source id="funding1-2041731419841748"><institution-wrap><institution>Kosair Charities Pediatric Heart Research
+Endowment</institution><institution-id/></institution-wrap></funding-source></award-group></funding-group><custom-meta-group><custom-meta><meta-name>cover-date</meta-name><meta-value>January-December 2019</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro" id="section1-2041731419841748"><title>Introduction</title><p>Because the human heart cannot regenerate following injury and undergoes progressive
+cardiac muscle loss and dysfunction, there is a broad interest to develop cellular
+strategies for cardiac repair and regeneration.<sup><xref rid="bibr1-2041731419841748" ref-type="bibr">1</xref>,<xref rid="bibr2-2041731419841748" ref-type="bibr">2</xref></sup> Injected or infused cell
+therapies result in modest improvements in myocardial function; however, greater
+than 90% of cells are lost within the first few days following transplantation.<sup><xref rid="bibr1-2041731419841748" ref-type="bibr">1</xref></sup> Tissue engineering strategies that combine cells with supportive biomaterials
+before transplantation result in increased cell survival and both myocardial
+structural and functional recovery.<sup><xref rid="bibr3-2041731419841748" ref-type="bibr">3</xref><xref rid="bibr4-2041731419841748" ref-type="bibr"/><xref rid="bibr5-2041731419841748" ref-type="bibr"/><xref rid="bibr6-2041731419841748" ref-type="bibr"/><xref rid="bibr7-2041731419841748" ref-type="bibr"/><xref rid="bibr8-2041731419841748" ref-type="bibr"/><xref rid="bibr9-2041731419841748" ref-type="bibr"/><xref rid="bibr10-2041731419841748" ref-type="bibr"/><xref rid="bibr11-2041731419841748" ref-type="bibr"/><xref rid="bibr12-2041731419841748" ref-type="bibr"/><xref rid="bibr13-2041731419841748" ref-type="bibr"/><xref rid="bibr14-2041731419841748" ref-type="bibr"/>&#x02013;<xref rid="bibr15-2041731419841748" ref-type="bibr">15</xref></sup> Tissue engineering strategies
+utilizing cardiac patches, injectable delivery matrices, microspheres for cell
+encapsulation, and engineered cardiac tissues (ECTs) all face the challenge of
+cardiomyocyte (CM) immaturity, particularly when myocardial cells are derived from
+human-induced pluripotent stem cells (h-iPSCs).<sup><xref rid="bibr8-2041731419841748" ref-type="bibr">8</xref><xref rid="bibr9-2041731419841748" ref-type="bibr"/>&#x02013;<xref rid="bibr10-2041731419841748" ref-type="bibr">10</xref>,<xref rid="bibr12-2041731419841748" ref-type="bibr">12</xref></sup> ECTs have been generated from
+a wide range of vertebrate cell sources<sup><xref rid="bibr3-2041731419841748" ref-type="bibr">3</xref>,<xref rid="bibr4-2041731419841748" ref-type="bibr">4</xref>,<xref rid="bibr6-2041731419841748" ref-type="bibr">6</xref>,<xref rid="bibr7-2041731419841748" ref-type="bibr">7</xref>,<xref rid="bibr9-2041731419841748" ref-type="bibr">9</xref>,<xref rid="bibr10-2041731419841748" ref-type="bibr">10</xref>,<xref rid="bibr12-2041731419841748" ref-type="bibr">12</xref><xref rid="bibr13-2041731419841748" ref-type="bibr"/><xref rid="bibr14-2041731419841748" ref-type="bibr"/><xref rid="bibr15-2041731419841748" ref-type="bibr"/><xref rid="bibr16-2041731419841748" ref-type="bibr"/><xref rid="bibr17-2041731419841748" ref-type="bibr"/><xref rid="bibr18-2041731419841748" ref-type="bibr"/>&#x02013;<xref rid="bibr19-2041731419841748" ref-type="bibr">19</xref></sup> and a wide range of tissue
+geometries.<sup><xref rid="bibr5-2041731419841748" ref-type="bibr">5</xref>,<xref rid="bibr6-2041731419841748" ref-type="bibr">6</xref>,<xref rid="bibr7-2041731419841748" ref-type="bibr">7</xref>,<xref rid="bibr8-2041731419841748" ref-type="bibr">8</xref>,<xref rid="bibr11-2041731419841748" ref-type="bibr">11</xref>,<xref rid="bibr13-2041731419841748" ref-type="bibr">13</xref>,<xref rid="bibr15-2041731419841748" ref-type="bibr">15</xref></sup> ECT implantation results in
+structural and functional recovery in both small<sup><xref rid="bibr7-2041731419841748" ref-type="bibr">7</xref>,<xref rid="bibr10-2041731419841748" ref-type="bibr">10</xref><xref rid="bibr11-2041731419841748" ref-type="bibr"/>&#x02013;<xref rid="bibr12-2041731419841748" ref-type="bibr">12</xref>,<xref rid="bibr15-2041731419841748" ref-type="bibr">15</xref>,<xref rid="bibr18-2041731419841748" ref-type="bibr">18</xref>,<xref rid="bibr20-2041731419841748" ref-type="bibr">20</xref></sup> and large animal<sup><xref rid="bibr9-2041731419841748" ref-type="bibr">9</xref>,<xref rid="bibr13-2041731419841748" ref-type="bibr">13</xref></sup> preclinical models. However,
+immune rejection remains a major barrier to ECT survival post-implantation,
+resulting in major efforts to generate immune tolerant allogeneic or autologous
+h-iPSC cell sources for tissue repair and regeneration.</p><p>ECTs possess a range of immature structural and functional characteristics, including
+immature sarcomeric structure, undeveloped ion exchange and storage
+architecture<sup><xref rid="bibr4-2041731419841748" ref-type="bibr">4</xref>,<xref rid="bibr8-2041731419841748" ref-type="bibr">8</xref>,<xref rid="bibr14-2041731419841748" ref-type="bibr">14</xref>,<xref rid="bibr18-2041731419841748" ref-type="bibr">18</xref>,<xref rid="bibr21-2041731419841748" ref-type="bibr">21</xref></sup> and reduced
+force generation and relaxation characteristics compared to mature, adult
+myocardium.<sup><xref rid="bibr17-2041731419841748" ref-type="bibr">17</xref>,<xref rid="bibr22-2041731419841748" ref-type="bibr">22</xref><xref rid="bibr23-2041731419841748" ref-type="bibr"/>&#x02013;<xref rid="bibr24-2041731419841748" ref-type="bibr">24</xref></sup> Bioreactors
+can mimic some <italic>in vivo</italic> conditions, such as cyclic stretch and
+mechanical stresses via continuous or pulsatile perfusion and fluid shear forces,
+and these bioreactors promote differentiation of immature cardiac cells.<sup><xref rid="bibr8-2041731419841748" ref-type="bibr">8</xref>,<xref rid="bibr25-2041731419841748" ref-type="bibr">25</xref></sup> ECT perfusion increases
+nutrient transport, and mechanical stretch modulates cytoskeletal architecture and
+integrin binding, receptor tyrosine kinase activation, and GTPase activity, all
+leading to accelerated growth and differentiation.<sup><xref rid="bibr25-2041731419841748" ref-type="bibr">25</xref>,<xref rid="bibr26-2041731419841748" ref-type="bibr">26</xref></sup></p><p>Electrical stimulation (ES) has been used to stimulate CM maturation for more than 2
+decades<sup><xref rid="bibr25-2041731419841748" ref-type="bibr">25</xref>,<xref rid="bibr27-2041731419841748" ref-type="bibr">27</xref><xref rid="bibr28-2041731419841748" ref-type="bibr"/><xref rid="bibr29-2041731419841748" ref-type="bibr"/><xref rid="bibr30-2041731419841748" ref-type="bibr"/><xref rid="bibr31-2041731419841748" ref-type="bibr"/><xref rid="bibr32-2041731419841748" ref-type="bibr"/><xref rid="bibr33-2041731419841748" ref-type="bibr"/><xref rid="bibr34-2041731419841748" ref-type="bibr"/><xref rid="bibr35-2041731419841748" ref-type="bibr"/><xref rid="bibr36-2041731419841748" ref-type="bibr"/><xref rid="bibr37-2041731419841748" ref-type="bibr"/><xref rid="bibr38-2041731419841748" ref-type="bibr"/><xref rid="bibr39-2041731419841748" ref-type="bibr"/><xref rid="bibr40-2041731419841748" ref-type="bibr"/><xref rid="bibr41-2041731419841748" ref-type="bibr"/>&#x02013;<xref rid="bibr42-2041731419841748" ref-type="bibr">42</xref></sup> and may promote CM
+differentiation by replicating endogenous electric fields present during embryonic
+development that influence cellular behavior, proliferation, and
+migration.<sup><xref rid="bibr28-2041731419841748" ref-type="bibr">28</xref>,<xref rid="bibr29-2041731419841748" ref-type="bibr">29</xref></sup> In general, these techniques produce ES to the entire ECT via
+field stimulation and studies using ECTs derived from rat CM demonstrated increased
+myocyte volume fraction, alignment, and connexin-43 expression<sup><xref rid="bibr31-2041731419841748" ref-type="bibr">31</xref></sup> as well as a positive force&#x02013;frequency relationship, representative of a more
+mature contractile phenotype.<sup><xref rid="bibr21-2041731419841748" ref-type="bibr">21</xref></sup> ES effects were also observed in h-iPS-derived ECTs, including greater force
+generation and myofiber alignment and enhanced electrophysiological
+properties.<sup><xref rid="bibr30-2041731419841748" ref-type="bibr">30</xref>,<xref rid="bibr33-2041731419841748" ref-type="bibr">33</xref></sup> At the cellular and molecular scale, ES was shown to induce a
+hypertrophic CM response, including increased myosin light chain expression and
+enhanced atrial natriuretic factor secretion, which may depend on calcium influx and
+the calcium-calmodulin pathway due to the inhibition of atrial natriuretic factor
+(ANF) secretion by nifedipine,<sup><xref rid="bibr32-2041731419841748" ref-type="bibr">32</xref></sup> and the activation of c-Jun N-terminal kinase (JNK), which could activate
+downstream gene pathways.<sup><xref rid="bibr43-2041731419841748" ref-type="bibr">43</xref></sup> Intracellularly, ES triggered mitochondrial proliferation and maturation,<sup><xref rid="bibr39-2041731419841748" ref-type="bibr">39</xref></sup> increasing the expression of nuclear respiratory factor 1 (NRF-1) and
+activator protein 1 (AP-1) transcription factors,<sup><xref rid="bibr40-2041731419841748" ref-type="bibr">40</xref>,<xref rid="bibr41-2041731419841748" ref-type="bibr">41</xref></sup> which are frequently
+upregulated in response to cellular stress, as well as upregulation of a
+muscle-specific metabolic gene, Adss1, through the involvement of the
+calcineurin/NFAT3 and GATA4 pathways.<sup><xref rid="bibr42-2041731419841748" ref-type="bibr">42</xref></sup> Hybrid approaches, such as the combination of ES with topographical cues,
+have enhanced cell morphology and contractile maturation<sup><xref rid="bibr27-2041731419841748" ref-type="bibr">27</xref></sup> and the combination of ES and mechanical stretch increased cell alignment and
+nonlinear anisotropic behavior.<sup><xref rid="bibr44-2041731419841748" ref-type="bibr">44</xref></sup> In non-CM studies, ES increased cardiac gene expression and triggered
+elongation and alignment perpendicular to the electric field in mesenchymal stem cells,<sup><xref rid="bibr45-2041731419841748" ref-type="bibr">45</xref></sup> and increased sarcomere organization in C2C12 myoblasts.<sup><xref rid="bibr34-2041731419841748" ref-type="bibr">34</xref></sup> However, although these structural and functional effects of ES are well
+described, our understanding of the precise mechanisms by which ES induces ECT
+differentiation and maturation is limited and they remain largely undefined.
+Furthermore, while ES can produce beneficial effects, this technique is invasive,
+can generate toxic Faradaic reactions at higher voltages, and has limited
+spatiotemporal resolution.<sup><xref rid="bibr33-2041731419841748" ref-type="bibr">33</xref>,<xref rid="bibr45-2041731419841748" ref-type="bibr">45</xref><xref rid="bibr46-2041731419841748" ref-type="bibr"/><xref rid="bibr47-2041731419841748" ref-type="bibr"/>&#x02013;<xref rid="bibr48-2041731419841748" ref-type="bibr">48</xref></sup> Furthermore, a major
+limitation of in vitro experimental systems that directly electrically stimulate
+engineered tissues is the complexity and expense of the apparatus and the
+requirement to directly instrument each tissue. In contrast, a non-contacting
+optogenetic stimulation system can be scaled to much larger culture ECT arrays
+because of the lack of direct electrical instrumentation of individual tissues and
+the relatively low cost and reusable nature of LED arrays.</p><p>Optogenetic stimulation is an alternative and, perhaps, less invasive and more
+scalable strategy to stimulate ECT maturation versus traditional ES.<sup><xref rid="bibr45-2041731419841748" ref-type="bibr">45</xref></sup> Optogenetics involves the heterologous expression and subsequent light
+stimulation of light-sensitive ion channels, channelrhodopsins (ChR), initially
+derived from <italic>Chlamydomonas reinhardtii</italic>, and subsequently derived
+from other algal species, to produce action potentials.<sup><xref rid="bibr49-2041731419841748" ref-type="bibr">49</xref></sup> Following heterologous expression of ChR, blue light stimulation causes an
+all-trans retinal chromophore in the channel to isomerize to 13-cis retinal,
+triggering an action potential.<sup><xref rid="bibr49-2041731419841748" ref-type="bibr">49</xref></sup> Since the initial study which utilized channelrhodopsin-2 (ChR2), a range of
+neuroscience and cardiac studies have used ChR2 to generate controlled action
+potentials in single cells and tissues.<sup><xref rid="bibr49-2041731419841748" ref-type="bibr">49</xref><xref rid="bibr50-2041731419841748" ref-type="bibr"/>&#x02013;<xref rid="bibr51-2041731419841748" ref-type="bibr">51</xref></sup> These light sensitive ion
+channels include point mutation chimeric ChR1 and ChR2 variants such as ChIEF, which
+have been developed to produce large photocurrents with reduced light desensitization.<sup><xref rid="bibr52-2041731419841748" ref-type="bibr">52</xref></sup> Advantages of optogenetic stimulation compared to ES include noninvasiveness,
+cell-specificity, sarcolemmal level negative-feedback, scalability, and the
+potential for lower toxicity <sup><xref rid="bibr33-2041731419841748" ref-type="bibr">33</xref>,<xref rid="bibr45-2041731419841748" ref-type="bibr">45</xref>,<xref rid="bibr48-2041731419841748" ref-type="bibr">48</xref></sup></p><p>Cardiac optogenetic applications are relatively novel but demonstrate the utility of
+this approach. ChR2 was successfully expressed and stimulated in mouse embryonic
+stem cell (ESC) derived CM.<sup><xref rid="bibr46-2041731419841748" ref-type="bibr">46</xref></sup> Expressing ChR2 in human embryonic kidney (HEK) cells and showed that HEK
+light stimulation could produce electrical wave propagation through the co-cultured
+HEK-ChR2&#x02009;+&#x02009;CM monolayers.<sup><xref rid="bibr51-2041731419841748" ref-type="bibr">51</xref></sup> ChR2 was successfully applied for acute stimulation in the context of C2C12
+myotubes and rat ECTs.<sup><xref rid="bibr53-2041731419841748" ref-type="bibr">53</xref>,<xref rid="bibr54-2041731419841748" ref-type="bibr">54</xref></sup> Cardiac optogenetics has been demonstrated in human cells as
+well, expressing functional ChR2 in h-ESC and h-iPSC derived CM.<sup><xref rid="bibr47-2041731419841748" ref-type="bibr">47</xref>,<xref rid="bibr49-2041731419841748" ref-type="bibr">49</xref></sup> However, to
+date no study has successfully expressed a functional ChR protein in ECTs composed
+of h-iPSC CM, or used this approach to chronically stimulate and mature CM.
+Therefore, in the current study, we expressed the ChIEF protein in h-iPSC-CM derived
+ECTs to investigate the effects of optogenetic stimulation for 7&#x02009;days on h-iPSC ECT
+structural and functional maturation.</p></sec><sec sec-type="materials|methods" id="section2-2041731419841748"><title>Materials and methods</title><sec id="section3-2041731419841748"><title>Construction of optogenetic human-iPSC derived ECTs</title><p>We generated ECTs from h-iPSCs (4-factor (Oct3/4, Sox2, Klf4, and c-Myc) line
+201B6) produced at the Center for iPS Cell Research and Application, Kyoto,
+Japan, as previously described.<sup><xref rid="bibr10-2041731419841748" ref-type="bibr">10</xref></sup> The h-iPSC line was maintained on thin-coat Matrigel (growth factor
+reduced, 1:60 dilution; BD Biosciences, San Jose, CA) in 1&#x02009;ng/mL human basic
+fibroblast growth factor (hbFGF; WAKO, Osaka, Japan) augmented mouse embryonic
+fibroblast conditioned medium (MEF-CM) generated in our laboratory. For
+cardiovascular (CV) cell lineage induction, we (1) treated undifferentiated
+h-iPSCs with Versene (0.48 mM ethylenediaminetetraacetic acid (EDTA) solution;
+Life Technologies, Carlsbad, CA) treatment, (2) re-plated cells at
+1000&#x02009;mm<sup>-2</sup> on Matrigel-coated plates in hbFGF-augmented MEF-CM for
+2&#x02013;3&#x02009;days, (3) overlaid with Matrigel (1:60 dilution) for an additional day, then
+replaced the MEF-CM with RPMI&#x02009;+&#x02009;B27 medium (RPMI1640; Life Technologies, 2 mM
+L-glutamine; Life Technologies, 1X B27 supplement without insulin; Life
+Technologies) supplemented with 100&#x02009;ng/mL Activin A (R&#x00026;D, Minneapolis, MN)
+and 100&#x02009;ng/mL Wnt3a (R&#x00026;D) for 24 h (differentiation day 0; d0), and (4)
+added 10&#x02009;ng/mL human bone morphogenetic protein 4 (BMP4; R&#x00026;D) and 10&#x02009;ng/mL
+hbFGF at d1 for 2 or 4&#x02009;days with no medium change.<sup><xref rid="bibr55-2041731419841748" ref-type="bibr">55</xref></sup> For CM and endothelial cell (EC) differentiation, we refreshed the
+RPMI&#x02009;+&#x02009;B27 culture medium at d5, supplemented with VEGF165 (Miltenyi, Bergisch
+Gladbach, Germany), and refreshed culture medium every other day. To generate a
+predominantly mural cell (MC) population, we replaced the culture medium at d3
+with RPMI&#x02009;+&#x02009;10% fetal bovine serum (FBS) medium (RPMI1640, 2 mM
+<sc>l</sc>-glutamine, 10% FBS), and refreshed media every other day. On d15,
+cells were stained with a combination of one or more cell surface antigen
+reagents including anti-VCAM1 conjugated with allophyco-cyanin (APC, BioLegend),
+anti-PDGFR&#x003b2; conjugated with phycoerythrin (PE, BD, Franklin Lakes),
+anti-VE-cadherin conjugated with fluorescein isothiocyanate (FITC, BD),
+anti-cardiac isoform of Troponin T (cTnT, ThermoFisher) tagged with Alexa-488
+(Invitrogen), and anti-TRA-1-60 conjugated with FITC (BD). Cells were also
+stained with a LIVE/DEAD Aqua dead cell staining kit (Invitrogen). Stained cells
+were analyzed for cell population percentages using a BD LSRII Flow Cytometer
+and DIVA software (BD).</p><p>For each ECT, we combined three million cells from the CM&#x02009;+&#x02009;EC and MC protocols.
+We cultured two ECT groups to day 14 (D14). One group was not transfected and
+did not undergo any light simulation. In the second D14 group, ECTs were
+transfected and we performed chronic optical pacing (C-OP) as described below
+from D7 to D14. We cultured an additional group of non-transfected tissues to
+D28. Therefore, we had three ECT groups: D14 control, D14&#x02009;C-OP, and D28. The
+final average CM/EC/MC% concentration was 60%/13%/12% for D14 control tissues,
+56%/11%/14% for D14&#x02009;C-OP tissues, and 69%/6%/12% for D28 tissues.</p><p>We suspended each cell mixture in culture medium (Modified Dulbecco&#x02019;s Essential
+Medium, Invitrogen) containing 20% FBS (Invitrogen) as previously described.<sup><xref rid="bibr10-2041731419841748" ref-type="bibr">10</xref></sup> We added the suspended cells to a solution of soluble acidic rat-tail
+collagen type-1 (pH&#x02009;=&#x02009;3 in HCl; Sigma), neutralized with alkali buffer (0.2M
+NaHCO<sub>3</sub>, 0.2M HEPES, 0.1 M NaOH), and Matrigel. The total volume
+of the cell/matrix solution was 200 &#x003bc;L, with a collagen concentration of
+0.67&#x02009;mg/mL and Matrigel fraction of 15%. We transfected cells with an
+adeno-associated virus (AAV)1/2-CAG-oChIEF-tdTomato vector (VectorBioLabs,
+Malvern, PA) added directly to the cell/matrix mixture at a multiplicity of
+infection (MOI) of 500 based on pilot dose-transfection efficiency experiments
+that resulted in at least 20% transfection efficiency without cell death and
+resulted in 100% OP capture. Other than the addition of the AAV1-ChIEF
+construct, all other ECT fabrication processes were similar to our previously
+published methods.<sup><xref rid="bibr10-2041731419841748" ref-type="bibr">10</xref>,<xref rid="bibr12-2041731419841748" ref-type="bibr">12</xref></sup> For control tissues and day 28 ECTs, we omitted this viral
+transfection step. We then generated linear ECTs using a Flexcell&#x000ae; FX-5000TT
+system and a collagen type-1 coated silicone membrane 6-well plate
+(TissueTrain&#x000ae;, Flexcell International, Hillsborough, FL). Using vacuum suction,
+we deformed the silicone membrane at the bottom of each well into a 20&#x02009;mm length
+x 2&#x02009;mm width trough. We added 200 &#x003bc;L of the cell/matrix mixture to each
+vacuum-generated trough to form a cylindrical ECT, with the ends extending onto
+nylon mesh anchors. After 120&#x02009;min, we released the vacuum suction and added
+pre-culture medium to the tissue (PM; alpha minimum essential medium (&#x003b1;MEM; Life
+Technologies) augmented with 10% FBS, 100 U/mL penicillin-streptomyocin (Life
+Technologies), and 5 &#x000d7; 10<sup>-5</sup> M 2-mercaptoethanol (Sigma)). During ECT
+culture, we changed medium every 48 h. We conducted ECT formation and culture in
+an incubator maintained at 37&#x000b0;C and 5% CO<sub>2</sub>.</p></sec><sec id="section4-2041731419841748"><title>Chronic light stimulation</title><p>We performed C-OP of ECTs from D7 to D14 of <italic>in vitro</italic> culture
+using a custom-built LED (470&#x02009;nm Rebel LED, model SP-01-04, Luxeon, Alberta,
+Canada) array driven by BuckPuck DC LED drivers (LEDsupply, Randolph, VT) and a
+programmable microcontroller (Arduino Uno, Italy) to generate broad field
+optical stimulation of all cells within the ECT, similar to the approach of
+broad electrical field stimulation. We mounted the LEDs on a high-alpha heat
+sink (Luxeon) for thermal management. We controlled the pulse width and
+frequency of the LEDs using an Arduino Uno microcontroller (Italy). We
+programmed the Arduino with free Arduino IDE software. We used a 5 ms pulse
+width. At the beginning of each C-OP culture day, we measured the optical
+maximum capture rate (MCR) using video microscopy (MU1000, AmScope, Irvine, CA).
+The C-OP rate for the next 24 h was then set at a rate 0.5&#x02009;Hz below the MCR. We
+recorded intrinsic beat rate, optical MCR, and C-OP rate daily from D7 to D14.
+For D14 control ECTs and D28 ECTs, we only recorded the daily intrinsic
+rate.</p></sec><sec id="section5-2041731419841748"><title>Force testing</title><p>We measured ECT mechanical function using a custom-isolated muscle testing system
+containing temperature-regulated perfusion bath and pacing electrodes (model
+801&#x02009;C, Aurora Scientific, Aurora, Ontario, Canada).<sup><xref rid="bibr18-2041731419841748" ref-type="bibr">18</xref></sup> On the final culture day (D14 or D28), we excised and placed each linear
+ECT from the TissueTrain&#x000ae; plate in the perfusion bath filled with
+2,3-butanedione monoxime (BDM) to temporarily halt ECT shortening. Using 10-0
+nylon suture, we attached one end of the ECT to a force transducer (model 403A,
+Aurora Scientific) and the other end to a thin metal shaft connected to a
+micromanipulator for length adjustment. We washed out the BDM and filled the
+perfusion chamber with warmed Tyrode&#x02019;s solution, pre-bubbled with 95/5%
+O<sub>2</sub>/CO<sub>2</sub> gas. After a 20-min equilibration period,
+including one Tyrode&#x02019;s change at the 10-min mark, we determined individual ECT
+maximum length (<italic>L<sub>max</sub></italic>) by manually stretching the ECT
+until we observed no further increase in active force. Each ECT was held at
+<italic>L<sub>max</sub></italic> for all measurements. After a 5-min
+equilibration period, we refreshed the Tyrode&#x02019;s solution and recorded force at
+the intrinsic beat rate for 30&#x02009;s using a 2 kHz sampling rate. We then performed
+electric field pacing of the ECT, starting at the intrinsic beat rate (rounded
+to the nearest 0.5&#x02009;Hz) and then increasing in 0.5&#x02009;Hz increments while recording
+for 10&#x02009;s at each pacing rate. We determined electrical MCR at the onset of 2:1
+block. For a subset of D14&#x02009;C-OP ECTs (<italic>n</italic>&#x02009;=&#x02009;6), we optically
+paced with a 470&#x02009;nm LED placed below the perfusion bath. We optically paced at
+the intrinsic rate and then increased the OP rate in 0.5&#x02009;Hz increments until the
+optical MCR. For each OP rate, we recorded force for 30&#x02009;s, including intrinsic
+beating for 10&#x02009;s. Increasing pacing rate was associated with reduced active
+force and increased passive force.</p><p>We measured ECT diameter at <italic>L<sub>max</sub></italic> from a digital image
+recorded during testing (MU1000, AmScope, Irvine, CA), performed three
+measurements per ECT, then used the mean diameter to calculate ECT
+cross-sectional area assuming a circular geometry. For each electric field
+pacing frequency, we calculated mean active stress
+(<italic>&#x003c3;<sub>A</sub></italic>), relaxation time to 50% diastolic stress
+(RT50), stress-frequency relationship, beat-to-beat hysteresis
+(<italic>&#x003c3;<sub>bb</sub></italic>), and systolic potential energy. We
+used Fourier analysis of the force trace to determine the MCR. We calculated
+stress (<italic>&#x003c3;</italic>) as force divided by cross-sectional area. After
+applying a low-pass Gaussian filter to smooth the data, we identified local
+minima (<italic>&#x003c3;<sub>min</sub></italic>) and maxima
+(<italic>&#x003c3;<sub>max</sub></italic>) stress values and calculated
+<italic>&#x003c3;<sub>A</sub></italic> as the difference between each
+<italic>&#x003c3;<sub>max</sub></italic> and its preceding
+<italic>&#x003c3;<sub>min</sub></italic>. We calculated the mean
+<italic>&#x003c3;<sub>A</sub></italic> at each captured frequency to determine
+stress&#x02013;frequency relationship. We additionally calculated RT50 at 3.0&#x02009;Hz pacing.
+To obtain <italic>&#x003c3;<sub>bb</sub></italic>, we calculated
+<italic>&#x003c3;<sub>A</sub></italic> for each contraction cycle and then for each
+pair of successive cycles, we calculated the magnitude of the difference in
+<italic>&#x003c3;<sub>A</sub></italic> divided by the overall mean
+<italic>&#x003c3;<sub>A</sub></italic>. We defined this value as
+<italic>&#x003c3;<sub>bb</sub></italic> and calculated the mean
+<italic>&#x003c3;<sub>bb</sub></italic> over all cycles. Systolic energy is
+related to the stress-time integral, similar to pressure-volume area.<sup><xref rid="bibr23-2041731419841748" ref-type="bibr">23</xref></sup> We calculated the systolic stress-time integral for each
+<italic>&#x003c3;<sub>min</sub></italic>-to-<italic>&#x003c3;<sub>min</sub></italic>
+cycle, normalized to both time and <italic>&#x003c3;<sub>max</sub></italic>. Since our
+ECT functional tests were performed at <italic>L<sub>max</sub></italic>,
+contractions were isometric and we therefore only measured potential energy. We
+calculated the mean normalized systolic stress-time integral and defined this
+value as the mean systolic potential energy (SPE). All analyses were performed
+with automated software developed in MATLAB&#x000ae; (Mathworks, Natick, MA).</p></sec><sec id="section6-2041731419841748"><title>Patch clamp</title><p>A limited number of proof of principle patch clamp recordings were performed as
+previously described.<sup><xref rid="bibr56-2041731419841748" ref-type="bibr">56</xref></sup> In brief, we placed an ECT in a perfusion chamber filled with BDM treated
+Tyrode&#x02019;s solution. Pulled borosilicate glass capillaries were filled with the
+following solution: 117 mM K-gluconate, 13.0 mM KCl, 1 mM MgCl<sub>2</sub>, 0.07
+mM CaCl<sub>2</sub>, 0.1 mM ethylene glycol-bis(&#x003b2;-aminoethyl
+ether)-<italic>N,N,N&#x02032;,N&#x02032;</italic>-tetraacetic acid (EGTA), 10 mM HEPES, 2 mM
+Na-ATP, and 0.4 mM Na-GTP. We randomly patched the filled borosilicate capillary
+onto ChIEF-expressing single cells within the ECT. ChIEF-expressing cells were
+identified with differential contrast imaging system fitted with a Chroma49005
+filter for tdTomato expression. A blue light emitting diode (Prizmatix UHP 460,
+Prizmatix, Southfield, MI) reflected into an objective was used to excite the
+patched cell. A Multiclamp 700B amplifier was used for whole cell recordings. We
+analyzed patch clamp data using pClamp 10&#x000ae; software (Molecular Devices,
+Sunnyvale, CA).</p></sec><sec id="section7-2041731419841748"><title>Histological assessment</title><p>We collected ECTs at D14 or D28 after force testing, fixed them with 4%
+paraformaldehyde (PFA) at room temperature for 30&#x02009;min, and stored in 1X PBS at
+4&#x000b0;C until processing.</p></sec><sec id="section8-2041731419841748"><title>Whole mount tissue immunofluorescence staining</title><p>We washed fixed ECTs in 1% Triton X-100/PBS for 1&#x02009;h and then blocked with 1%
+Triton X-100/PBS&#x02009;+&#x02009;10% FBS for 1&#x02009;h. To identify CM in ECTs, we applied a primary
+antibody to cardiac troponin T (cTnT, Ms-295, ThermoFisher Scientific) 1:400 in
+1% Triton X-100/PBS&#x02009;+&#x02009;10% FBS&#x02009;+&#x02009;0.2% sodium azide overnight at 4&#x000b0;C followed by a
+wash with 1% Triton X-100/PBS&#x02009;+&#x02009;10%FBS for 1&#x02009;h and 1% Triton X-100/PBS for three
+wash cycles of 10&#x02009;min each. We then incubated with Alexa Flour 488 donkey
+anti-mouse IgG secondary antibody (Molecular Probes, Oregon, USA) in 1% Triton
+X-100/PBS&#x02009;+&#x02009;10%FBS&#x02009;+&#x02009;0.2% sodium azide&#x02009;+&#x02009;5% donkey serum overnight at 4&#x000b0;C. We
+stained nuclei with 4&#x02032;,6-diamidino-2-phenylindole (DAPI) (R37606, molecular
+probes, Oregon, USA) for 30&#x02009;min at room temperature. After immunofluorescence
+(IF) staining, we equilibrated ECT samples with 100% glycerol overnight followed
+by 75% glycerol for 2 h. We cleared ECTs in 53% benzyl alcohol, 45% glycerol,
+and 2% 1,4-diazabicyclo[2.2.2]octane (DABCO)<sup><xref rid="bibr57-2041731419841748" ref-type="bibr">57</xref></sup> for 2 h and then changed to fresh clearing solution overnight at the
+dark. Processed samples were stored in clearing solution at 4&#x000b0;C for further
+imaging.</p></sec><sec id="section9-2041731419841748"><title>IF staining for paraffin sections</title><p>We processed ECTs for paraffin blocks and cut into 5 &#x000b5;m sections for IF staining.
+After blocking with 0.1 M glycine&#x02009;+&#x02009;0.5% Triton X-100/PBS, we applied a primary
+antibody to cTnT (Ms-295, ThermoFisher Scientific) 1:400 in 1% bovine serum
+albumin (BSA) to identify CM and Living Colors DsRed Polyclonal Antibody (Cat#
+632495, Clontech, Takara Bio USA, Inc.) 1:300 in 1% BSA to identify
+ChIEF-tdTomato expressing cells overnight at 4&#x000b0;C. We then incubated slides with
+Alexa Flour 488 donkey anti-mouse IgG and Alexa Flour 594 donkey anti-rabbit IgG
+secondary antibodies (Molecular Probes, Oregon, USA) in 5% donkey serum for 1.5
+h at room temperature. We mounted slides with ProLong&#x000ae; Gold Antifade Reagent
+with DAPI (Molecular Probes, Oregon, USA).</p></sec><sec id="section10-2041731419841748"><title>Image acquisition and analyses</title><p>We performed confocal imaging of whole-mount and paraffin sectioned ECTs using a
+Nikon ECLIPSE Ti Confocal System (Nikon, Tokyo, Japan) attached to a Nikon Ti-E
+inverted microscope platform and Nikon NIS Elements AR software (Nikon). Images
+were saved as 12-bit raw files for further processing. For whole-mount ECTs, we
+placed samples in a 10&#x02009;mm glass bottom dish filled with clearing solution and
+acquired a 3D z-stack using a 10X 0.3 NA objective at 1024 x 1024 pixel density
+and 3&#x02009;&#x003bc;m z-step. We acquired z-stack images to a depth just past the ECT
+midpoint, typically 150 slices (679&#x02009;&#x003bc;m). Since our linear ECTs were symmetric,
+we did not require the whole thickness for analysis. Images of paraffin sections
+were obtained with a 40X 1.30 NA objective at 1024 x 1024 pixel density. We
+acquired images of the ECT midsection and used a tiled image to capture the
+entire ECT width.</p><p>We measured CM alignment from cTnT-stained whole-mount 3D images based on our
+previous method.<sup><xref rid="bibr58-2041731419841748" ref-type="bibr">58</xref></sup> Alignment concentration <italic>&#x003ba;</italic> describes the concentration of
+local orientation vectors around the mean direction. Higher values of
+<italic>&#x003ba;</italic> indicate greater alignment. We quantified the CM and
+transfected cell populations from cTnT- and tdTomato-stained 40X images of
+paraffin sections. We segmented the DAPI, cTnT, and tdTomato channels separately
+using the Chan-Vese level set method.<sup><xref rid="bibr59-2041731419841748" ref-type="bibr">59</xref></sup> Prior to segmentation, we preprocessed the DAPI channel with a rolling
+ball background subtraction<sup><xref rid="bibr60-2041731419841748" ref-type="bibr">60</xref></sup> and the cTnT and tdTomato channels with contrast-limited adaptive
+histogram equalization.<sup><xref rid="bibr61-2041731419841748" ref-type="bibr">61</xref></sup> From the DAPI image, we separated individual nuclei using a watershed and
+vertex graph algorithm.<sup><xref rid="bibr62-2041731419841748" ref-type="bibr">62</xref></sup> For each individual nucleus, we compared the overlap between the nucleus
+boundary and the segmented cTnT and tdTomato images to determine CM and
+transfected identity. We recorded the percent cTnT-positive, tdTomato-positive
+and double-positive nuclei. We performed all image analyses with Matlab&#x000ae;
+(Mathworks, Natick, MA).</p></sec><sec id="section11-2041731419841748"><title>Real-time quantitative polymerase chain reaction</title><p>We performed qPCR as described in our previous work.<sup><xref rid="bibr12-2041731419841748" ref-type="bibr">12</xref></sup> We homogenized fresh ECT samples in Trizol reagent (Life Technologies,
+Cat. No: 15596026), using an Omnitip Tissue homogenizer (USA Scientific, Ocala,
+USA; Cat. No. 6615-7273) and isolated total RNAs with the RNeasy Mini Kit
+(Qiagen, Valencia, USA; Cat. No. 74104) according to the manufacturer&#x02019;s
+instructions. We measured RNA quality and quantity using the NanoDrop ND-2000
+(ThermoFisher Scientific). Both 260/280 and 260/230 ratios of RNA samples were
+approximately 2.00. We performed reverse transcription with the SuperScript VILO
+cDNA synthesis system (Invitrogen, Cat. No.11754-050). To conduct qPCR, we
+applied TaqMan Gene Expression Assays (ThermoFisher Scientific) with a
+StepOnePlus Real-time PCR system (Applied Biosystems) and used 18&#x02009;S rRNA as
+endogenous control. All qPCR experiments were performed with 2&#x02013;3 biological
+replicates and technical triplicates for each group.</p></sec><sec id="section12-2041731419841748"><title>Statistical analyses</title><p>We statistically compared D14 control (<italic>n</italic>&#x02009;=&#x02009;13) and C-OP tissues
+(<italic>n</italic>&#x02009;=&#x02009;15). We also statistically compared C-OP ECTs
+(<italic>n</italic>&#x02009;=&#x02009;15) to a prolonged culture D28 tissues
+(<italic>n</italic>&#x02009;=&#x02009;2). To establish a comparison between two groups, we
+used unpaired Student&#x02019;s <italic>t</italic>-test at a significance level of
+<italic>p</italic>&#x02009;&#x0003c;&#x02009;0.05.</p></sec></sec><sec sec-type="results" id="section13-2041731419841748"><title>Results</title><sec id="section14-2041731419841748"><title>ChIEF transfection of h-iPSC-derived CMs within ECTs successfully results in
+acute and C-OP</title><p>Following initial pilot experiments using several AAV constructs and transfection
+doses, we transfected differentiated h-iPSC derived cardiac cells with an
+AAV1/2-CAG-ChIEF-tdTomato virus at an MOI of 500 by adding virus directly to the
+cell/matrix mixture at the time of ECT formation. All transfected cells
+expressed the tdTomato reporter, and this MOI did not change the % of CM within
+h-iPSC ECTs and the mean CM fraction was similar in D14 control
+(<italic>n</italic>&#x02009;=&#x02009;9) and C-OP (<italic>n</italic>&#x02009;=&#x02009;10). D14C-OP ECTs
+began to spontaneously beat after 3&#x02009;days of culture, similar to control ECTs
+(<xref ref-type="fig" rid="fig1-2041731419841748">Figure 1</xref>).</p><fig id="fig1-2041731419841748" orientation="portrait" position="float"><label>Figure 1.</label><caption><p>ECT formation and chronic optical pacing (C-OP) protocol: (a) ECTs were
+generated from a multi-component mixture of cardiomyocytes, endothelial
+cells, and mural cells, differentiated from h-iPSCs. Cells were mixed
+with culture medium, collagen I, and Matrigel.
+AAV1/2-CAG-oChIEF-tdTomato virus was then added to the gel mixture at
+500 MOI. The gel mixture was poured into FlexCell&#x000ae; TissueTrain&#x000ae; wells
+deformed into a cylindrical mold by vacuum suction and anchored by nylon
+mesh tabs. The TissueTrain&#x000ae; plate was placed on top of an
+Arduino-controlled LED platform for chronic optical pacing. ECTs were
+cultured at 37&#x02009;C, 5% CO<sub>2</sub>. (b) At culture day 7, C-OP was
+initiated. C-OP ECTs were stimulated with a pulsed 470&#x02009;nm LED. A
+representative C-OP protocol is shown. At each culture day, we measured
+the maximum capture rate (MCR) and set the C-OP rate at 0.5&#x02009;Hz below
+MCR.</p></caption><graphic xlink:href="10.1177_2041731419841748-fig1"/></fig></sec><sec id="section15-2041731419841748"><title>Force&#x02013;length and force&#x02013;frequency testing of C-OP h-iPSC ECTs confirm
+functional maturation</title><p>OP during <italic>in vitro</italic> force testing confirmed OP capture (<xref ref-type="fig" rid="fig2-2041731419841748">Figure 2</xref>). Electric field
+pacing was used for all quantitative force-length and force-frequency data
+collection in order to compare our results to other published studies using ES.
+We noted rate-dependent changes in both passive and active stress typical of
+immature myocardium (<xref ref-type="fig" rid="fig2-2041731419841748">Figure
+2</xref>). We noted a negative force&#x02013;frequency relationship (reduced active
+force at higher pacing frequencies) typical for immature ECTs (<xref ref-type="fig" rid="fig2-2041731419841748">Figure 2</xref>).</p><fig id="fig2-2041731419841748" orientation="portrait" position="float"><label>Figure 2.</label><caption><p>Representative force tracings at increasing electrical pacing rates
+display decreasing active force and increasing beat-to-beat hysteresis:
+Active force decreased and passive force increased during each stepwise
+increase in pacing rate: (a) 3 to 3.5 to 3 Hz. (b) 4 to 4.5 to 4 Hz. (c)
+5 to 5.5 to 5 Hz. While difficult to see at the 3&#x02009;Hz (180 beats per
+minute), at higher pacing rates there is an incremental increase in the
+amplitude variation between sequential beats, termed beat-to-beat
+hysteresis. Greater beat-to-beat hysteresis at increasing pacing rates
+suggests greater phase lag in calcium cycling at higher beat rates,
+consistent with immature myocardium. s: seconds; mN: millinewtons.</p></caption><graphic xlink:href="10.1177_2041731419841748-fig2"/></fig><p>As described in the Materials and Methods section, we developed an automated
+Matlab analysis module to quantify ECT performance (<xref ref-type="fig" rid="fig3-2041731419841748">Figure 3</xref>).</p><fig id="fig3-2041731419841748" orientation="portrait" position="float"><label>Figure 3.</label><caption><p>Analysis of ECT performance: For this representative example, a C-OP ECT
+is analyzed at an acute electrical pacing rate of 4.5&#x02009;Hz. Mean
+<italic>&#x003c3;<sub>A</sub></italic> was 0.29 mN/mm<sup>2</sup>,
+<italic>&#x003c3;<sub>bb</sub></italic> was 0.17, RT50 was 63&#x02009;ms, and
+normalized systolic energy was 0.53. (a) Representative stress versus
+time data. Force data were divided by ECT cross-sectional area to
+calculate stress. A cycle is defined as contraction followed by
+relaxation. The minimum stress before the onset of contraction is
+<italic>&#x003c3;<sub>min</sub></italic> and the peak stress is
+<italic>&#x003c3;<sub>max</sub></italic>. Active stress,
+<italic>&#x003c3;<sub>A</sub></italic>, is the difference between
+<italic>&#x003c3;<sub>max</sub></italic> and
+<italic>&#x003c3;<sub>min</sub></italic>. Beat-to-beat hysteresis,
+<italic>&#x003c3;<sub>bb</sub></italic>, is the magnitude of the
+difference between the <italic>&#x003c3;<sub>A</sub></italic> of an
+even-numbered cycle and the <italic>&#x003c3;<sub>A</sub></italic> of the
+preceding odd-numbered cycle, divided by the overall mean
+<italic>&#x003c3;<sub>A</sub></italic>. (b) Fast Fourier transform (FFT)
+analysis of the stress versus time signal. An acute electrical pacing
+frequency was considered captured if it matched the peak frequency of
+the FFT power spectrum. (c) RT50 calculated for cycle 1 in (a). RT50 is
+the time for stress to relax by 50% of <italic>&#x003c3;<sub>A</sub></italic>
+from <italic>&#x003c3;<sub>max</sub></italic>. (d) Normalized systolic energy
+calculated for cycle 1 in (a). Stress and cycle time were both
+normalized to a maximum value of 1. The area of the shaded region under
+the stress-time curve is related to systolic energy during
+contraction.</p></caption><graphic xlink:href="10.1177_2041731419841748-fig3"/></fig><p>We confirmed acute OP triggered CM depolarization and action potential generation
+within D14C-OP ECTs using pulsed blue light stimulation and patch clamp
+recording (<xref ref-type="fig" rid="fig4-2041731419841748">Figure 4(a)</xref>)
+through visual inspection as well as brief video recordings. Acute OP captured
+all beats when paced above the intrinsic beat rate until reaching the MCR. Both
+the D14C-OP and D28 ECTs achieved higher electric field paced MCRs versus D14
+control ECTs (5.37&#x02009;&#x000b1;&#x02009;0.69 vs 6.50&#x02009;&#x000b1;&#x02009;0.71 vs 4.35&#x02009;&#x000b1;&#x02009;0.59&#x02009;Hz,
+<italic>p</italic>&#x02009;&#x0003c;&#x02009;0.001, <xref ref-type="fig" rid="fig4-2041731419841748">Figure 4(b)</xref> and (<xref ref-type="fig" rid="fig4-2041731419841748">c</xref>)), indicating improved ECT maturation after C-OP. However, the MCR
+for D14C-OP ECTs was less than that of D28 ECTs (<italic>p</italic>&#x02009;&#x0003c;&#x02009;0.05,
+<xref ref-type="fig" rid="fig4-2041731419841748">Figure 4(c)</xref>).
+Consistent with this trend in CM maturation, RT50 measured at 3.0&#x02009;Hz decreased
+in D14C-OP ECTs compared to controls (88.00&#x02009;&#x000b1;&#x02009;9.60 vs 104.23&#x02009;&#x000b1;&#x02009;6.66&#x02009;ms,
+<italic>p</italic>&#x02009;&#x0003c;&#x02009;0.001, <xref ref-type="fig" rid="fig4-2041731419841748">Figure 4(d)</xref>) and further decreased by D28
+(65.60&#x02009;&#x000b1;&#x02009;2.12, <italic>p</italic>&#x02009;&#x0003c;&#x02009;0.05 vs D14&#x02009;C-OP, <xref ref-type="fig" rid="fig4-2041731419841748">Figure 4(d)</xref>). We additionally observed
+that D14C-OP ECTs displayed a less negative stress&#x02013;frequency relationship than
+control ECTs while D28 ECTs displayed the least negative stress&#x02013;frequency
+relationship (<xref ref-type="fig" rid="fig4-2041731419841748">Figure
+4(e)</xref>), consistent with ECT functional maturation. Consistent with
+pacing induced maturation in calcium cycling and mechanical restitution, we
+noted reduced <italic>&#x003c3;<sub>bb</sub></italic> at higher frequencies in D14C-OP
+ECTs compared to D14 control ECTs (<xref ref-type="fig" rid="fig4-2041731419841748">Figure 4(f)</xref>). Of note,
+<italic>&#x003c3;<sub>bb</sub></italic> was negligible by D28 (<xref ref-type="fig" rid="fig4-2041731419841748">Figure 4(f)</xref>). ECT
+<italic>&#x003c3;<sub>A</sub></italic> was similar between D14 control and
+D14C-OP ECTs (0.72&#x02009;&#x000b1;&#x02009;0.39 vs 0.52&#x02009;&#x000b1;&#x02009;0.27 mN/mm<sup>2</sup>,
+<italic>p</italic>&#x02009;=&#x02009;0.14, <xref ref-type="fig" rid="fig4-2041731419841748">Figure 4(g)</xref>), and D14 control and D14C-OP ECTs had similar CM
+percentages (50&#x02009;&#x000b1;&#x02009;13 vs 48&#x02009;&#x000b1;&#x02009;13). <italic>&#x003c3;<sub>A</sub></italic> trended lower
+for D28 ECTs (0.17&#x02009;&#x000b1;&#x02009;0.11, <italic>p</italic>&#x02009;=&#x02009;0.08 vs D14 control, <xref ref-type="fig" rid="fig4-2041731419841748">Figure 4(g)</xref>) consistent
+with reduced CM survival following prolonged ECT <italic>in vitro</italic>
+culture. Systolic energy, a normalized contractile efficiency index calculated
+at 3&#x02009;Hz, significantly decreased in D14C-OP ECTs compared to D14 control ECTs
+(0.47&#x02009;&#x000b1;&#x02009;0.03 vs 0.54&#x02009;&#x000b1;&#x02009;0.02&#x02009;J/m<sup>3</sup>-s, <italic>p</italic>&#x02009;&#x0003c;&#x02009;0.001,
+<xref ref-type="fig" rid="fig4-2041731419841748">Figure 4(h)</xref>). As
+expected, systolic energy was lower in the more functionally mature D28 ECTs
+compared to D14C-OP ECTs (0.41&#x02009;&#x000b1;&#x02009;0.01&#x02009;J/m<sup>3</sup>-s,
+<italic>p</italic>&#x02009;&#x0003c;&#x02009;0.05 vs D14&#x02009;C-OP, <xref ref-type="fig" rid="fig4-2041731419841748">Figure 4(h)</xref>).</p><fig id="fig4-2041731419841748" orientation="portrait" position="float"><label>Figure 4.</label><caption><p>Impact of chronic optical pacing (C-OP) on functional maturation of
+h-iPSC ECTs: (a) Representative patch clamp recording from a D14h-iPSC
+CM after ECT ChIEF transfection. Blue ticks indicate 470&#x02009;nm light
+pulses. (b) Representative stress trace during acute optical pacing of a
+C-OP ECT. After 3&#x02009;s of spontaneous beating, we began acute pacing with a
+470&#x02009;nm 3.5&#x02009;Hz pulsed LED. (c) Mean intrinsic beat rate and maximal
+capture rate (MCR) for D14 control (<italic>n</italic>&#x02009;=&#x02009;13), D14&#x02009;C-OP
+(<italic>n</italic>&#x02009;=&#x02009;15) and D28 (<italic>n</italic>&#x02009;=&#x02009;2) ECTs.
+Intrinsic beat rate increased after C-OP and MCR increased after C-OP
+and prolonged culture to D28. (d) Mean RT50 AT 3&#x02009;Hz acute electrical
+pacing decreased after C-OP and after prolonged culture to D28. (e)
+Stress-frequency curves showed a less negative relationship after C-OP
+or prolonged culture to D28. (f) Pacing rate dependent beat-to-beat
+hysteresis decreased after C-OP and was absent in D28 ECTs. (g) Mean
+active stress was similar in D14 control and C-OP ECTs and trended lower
+in D28 ECTs (<italic>p</italic>&#x02009;=&#x02009;0.08 vs D14 control). (h) Mean
+normalized systolic energy at 3&#x02009;Hz acute electrical pacing decreased
+after C-OP and further decreased by D28. Error bars show standard
+deviations. See (c) for color legend. Results in (c&#x02013;h) obtained with 5&#x02009;V
+acute electrical field pacing.</p><p>*<italic>p</italic>&#x02009;&#x0003c;&#x02009;0.05, **<italic>p</italic>&#x02009;&#x0003c;&#x02009;0.001 vs D14
+control, &#x02020;<italic>p</italic>&#x02009;&#x0003c;&#x02009;0.05 vs D28.</p></caption><graphic xlink:href="10.1177_2041731419841748-fig4"/></fig></sec><sec id="section16-2041731419841748"><title>C-OP does not accelerate structural maturation</title><p>We quantified the impact of C-OP on structural maturation through IF of fixed
+D14C-OP and D14 control ECTs. Whole h-iPSC ECTs (<xref ref-type="fig" rid="fig5-2041731419841748">Figure 5(a)</xref>) were placed into 2D paraffin
+blocks for serial section processing (<xref ref-type="fig" rid="fig5-2041731419841748">Figure 5(b)</xref> and (<xref ref-type="fig" rid="fig5-2041731419841748">c</xref>)) or stained as whole mounts for 3D
+confocal imaging (<xref ref-type="fig" rid="fig5-2041731419841748">Figure
+5(d)</xref>, (<xref ref-type="fig" rid="fig5-2041731419841748">g</xref>) and
+(<xref ref-type="fig" rid="fig5-2041731419841748">i</xref>)). ChIEF proteins
+predominantly co-located with cTnT-positive cells consistent with preferential
+CM transfection (<xref ref-type="fig" rid="fig5-2041731419841748">Figure
+5(c)</xref>). D14 control and C-OP ECTs displayed similar CM fractions
+(50&#x02009;&#x000b1;&#x02009;13% vs 48&#x02009;&#x000b1;&#x02009;13%, <xref ref-type="fig" rid="fig5-2041731419841748">Figure
+5(e)</xref>). In D14C-OP ECTs, 20&#x02009;&#x000b1;&#x02009;6% of CM were transfected and 67&#x02009;&#x000b1;&#x02009;14%
+of all transfected cells were CM. In contrast to the functional maturation noted
+after 7&#x02009;days of C-OP, CM alignment was similar between D14 control and C-OP ECTs
+(&#x003ba;&#x02009;=&#x02009;3.76&#x02009;&#x000b1;&#x02009;1.11 vs 3.42&#x02009;&#x000b1;&#x02009;1.33, <xref ref-type="fig" rid="fig5-2041731419841748">Figure 5(f)</xref>). The 3D distribution and
+alignment of local CM orientations were also similar between D14 control (<xref ref-type="fig" rid="fig5-2041731419841748">Figure 5(g)</xref> and (<xref ref-type="fig" rid="fig5-2041731419841748">h</xref>)) and D14C-OP (<xref ref-type="fig" rid="fig5-2041731419841748">Figure 5(i)</xref> and (<xref ref-type="fig" rid="fig5-2041731419841748">j</xref>)) ECTs, consistent with
+the similar <italic>&#x003c3;<sub>A</sub></italic> noted above (<xref ref-type="fig" rid="fig4-2041731419841748">Figure 4(g)</xref>).</p><fig id="fig5-2041731419841748" orientation="portrait" position="float"><label>Figure 5.</label><caption><p>Impact of chronic optical pacing (C-OP) on structural maturation of
+h-iPSC ECTs: (a) Representative, linear and cylindrical h-iPSC ECT
+constrained at the long axis ends by mesh nylon anchors. (b&#x02013;c)
+Representative central paraffin sections of a (b) D14 control ECT
+showing 54% CM and (c) D14&#x02009;C-OP ECT showing 52% CM and 13%
+ChIEF-transfected cells. Nuclei were stained with DAPI (blue), CM with
+cTnT (green) and ChIEF-transfected cells with tdTomato (red). CM were
+predominantly located at the outer surface and the majority of
+transfected cells were CM. Inset in (c) shows higher magnification of
+double-positive cTnT and tdTomato cells. (d) Whole mount confocal image
+of a control D14 ECT. (e) Mean CM fraction and (f) mean alignment
+concentration (<italic>&#x003ba;</italic>) were similar in D14 control
+(<italic>n</italic>&#x02009;=&#x02009;9) and C-OP (<italic>n</italic>&#x02009;=&#x02009;10) h-iPSC
+ECTs. Error bars show standard deviations. (g&#x02013;j) Representative local CM
+orientations within D14 (g) control and (i) C-OP h-iPSC ECTs.
+Color-coded lines indicate local CM orientation magnitudes in the
+circumferential (green), radial (red), and axial (blue) directions. For
+clarity, only a subset of the orientations is shown. Insets are 3X
+magnification of regions enclosed by the yellow dashed lines. (h and j)
+Spherical histograms of local CM orientations. CM in both control and
+C-OP aligned parallel to the ECT long axis. The volume of each ray
+represents the relative count in each direction and the mean CM
+orientation is shown by the thick red line. <italic>&#x003ba;</italic> for the
+control sample (h) was 3.89 while the C-OP sample (j) was 3.46. Scale
+bars: 5&#x02009;mm (a), 250&#x02009;&#x003bc;m (b, c, d, g, i), and 100&#x02009;&#x003bc;m (c inset).
+Orientation axes also serve as scale bars in (d, g, i).</p></caption><graphic xlink:href="10.1177_2041731419841748-fig5"/></fig></sec><sec id="section17-2041731419841748"><title>C-OP upregulates a potassium channel that contributes to cardiac
+repolarization</title><p>We performed RNA analysis on biologic triplicates of D14 control, D14C-OP ECTs,
+and D28 ECTs (<xref ref-type="fig" rid="fig6-2041731419841748">Figures 6</xref>
+and <xref ref-type="fig" rid="fig7-2041731419841748">7</xref>). cTnT (<xref ref-type="fig" rid="fig6-2041731419841748">Figure 6(a)</xref>), SERCA2A
+(<xref ref-type="fig" rid="fig6-2041731419841748">Figure 6(a)</xref>), and
+KCNJ2 (<xref ref-type="fig" rid="fig6-2041731419841748">Figure 6(b)</xref>)
+mRNAs, common markers for maturity, were not upregulated in D14C-OP tissues. The
+ratio of MLC2v and MLC2a, an indicator of ventricular phenotype development, was
+also similar. KCND3, a transcript encoding the Kv4.3 ion channel responsible for
+the transient outward potassium current (I<sub>to</sub>)<sup><xref rid="bibr63-2041731419841748" ref-type="bibr">63</xref></sup> was significantly upregulated twofold in D14C-OP ECTs (<xref ref-type="fig" rid="fig6-2041731419841748">Figure 6(b)</xref>). A single
+biological replicate of RT-qPCR was completed on RNA isolated from D28 ECTs
+(<xref ref-type="fig" rid="fig7-2041731419841748">Figure 7</xref>). RNA
+analysis of D28 ECTs had been previously completed for D28 large format h-iPSC
+ECTs and showed similar results.<sup><xref rid="bibr12-2041731419841748" ref-type="bibr">12</xref></sup> Common structural and electrophysiological genes were upregulated in the
+D28 ECTs from this study: RYR2, SERCA2A, Cacna1D, SCN4A, KCND3 (<xref ref-type="fig" rid="fig7-2041731419841748">Figure 7</xref>). The types of
+genes increased reflecting the enhanced electrophysiological properties of the
+extended ECT culture. SERCA2A and RYR2 could underlie the improved function of
+D28 ECTs.</p><fig id="fig6-2041731419841748" orientation="portrait" position="float"><label>Figure 6.</label><caption><p>Quantitative PCR of genes encoding contractile proteins, Ca<sup>2+</sup>
+cycling mechanisms, and ion channels in D14 control and C-OP ECTs: (a)
+expression of genes related to CM contraction (cardiac troponin T (cTnT)
+ventricular myosin light chain 2 (MLC2v) atrial MLC2 (MLC2a) and
+MLC2v/MLC2a ratio) and genes related to Ca<sup>2+</sup> transients
+(ryanodine receptor 2 (RYR2) ATPase sarcoplasmic/endoplasmic reticulum
+Ca<sup>2+</sup> transporting 2 (SERCA2A), phospholamban (PLN),
+calsequestrin 2 (CASQ2) aspartate beta-hydroxylase (ASPH), and
+sodium/calcium exchanger 1 (SLC8A1) C-OP did not produce significant
+differences in expression of contractile- or Ca<sup>2+</sup>
+transient-related genes. (b) Expression of genes encoding sarcolemmal
+voltage-gated L-type Ca<sup>2+</sup> channels (Cacna1&#x02009;C, Cacna1D),
+T-type Ca<sup>2+</sup> (Cacna1G), Na<sup>+</sup> (SCN4A, SCN5A), and
+K<sup>+</sup> (KCNH2 (rapidly activating delayed rectifying), KCNJ2,
+KCNJ12 (inward rectifying), KCND3 (transient outward)) and connexin
+(GJA1). C-OP resulted in a significant increase in the expression of the
+transient outward K<sup>+</sup> channel KCND3. Expression of all other
+ion channels and connexin were unchanged after C-OP.
+*<italic>p</italic>&#x02009;&#x0003c;&#x02009;0.05. For each gene, 2&#x02013;4 biological experiments
+were conducted and qPCR was performed in triplicate for each biological
+sample. Error bars show standard deviations.</p></caption><graphic xlink:href="10.1177_2041731419841748-fig6"/></fig><fig id="fig7-2041731419841748" orientation="portrait" position="float"><label>Figure 7.</label><caption><p>Quantitative PCR for a single biological experiment comparing D14
+control, D14 C-OP, and D28 ECTs: (a) Expression of genes related to CM
+contraction (cardiac troponin T (cTnT) ventricular myosin light chain 2
+(MLC2v) atrial MLC2 (MLC2a) and MLC2v/MLC2a ratio) and genes related to
+Ca<sup>2+</sup> transients (ryanodine receptor 2 (RYR2) ATPase
+sarcoplasmic/endoplasmic reticulum Ca<sup>2+</sup> transporting 2
+(SERCA2A) phospholamban (PLN), and calsequestrin 2 (CASQ2) Expression
+was similar for all genes in D14 control and C-OP, following the full
+qPCR study in <xref ref-type="fig" rid="fig3-2041731419841748">Figure
+3</xref>. The MLC2v/MLC2a was increased in the D28 sample,
+suggesting a more ventricular phenotype, while increased RYR2 and
+SERCA2A and decreased PLN suggest more mature Ca<sup>2+</sup> handling.
+(b) Expression of genes encoding sarcolemmal voltage-gated L-type
+Ca<sup>2+</sup> channels (Cacna1&#x02009;C, Cacna1D), T-type Ca<sup>2+</sup>
+(Cacna1G), Na<sup>+</sup> (SCN4A, SCN5A), and K<sup>+</sup> (KCNJ2
+(inward rectifying), KCND3 (transient outward)) and connexin (GJA1). The
+expression of transient outward K<sup>+</sup> channel KCND3 increased in
+both the C-OP and D28 samples, suggesting a role for this channel in
+electrophysiological maturation during C-OP. L-type Ca<sup>2+</sup> and
+Na<sup>+</sup> were also increased in the D28 sample, but did not
+show a similar increase in C-OP ECTs. These data come from a single
+experiment and are not sufficient for statistical analysis.</p></caption><graphic xlink:href="10.1177_2041731419841748-fig7"/></fig></sec></sec><sec sec-type="discussion" id="section18-2041731419841748"><title>Discussion</title><p>Our findings show that CMs within h-iPSC ECTs effectively express ChIEF after AAV
+transfection, and 2D paraffin sections confirmed co-localization of cTnT and ChIEF
+in D14C-OP ECTs (<xref ref-type="fig" rid="fig5-2041731419841748">Figure 5C</xref>),
+consistent with a previously published study that showed efficient expression of ChR
+in h-iPSC-CMs.<sup><xref rid="bibr47-2041731419841748" ref-type="bibr">47</xref></sup> Co-localization may explain how optical stimulation directly perturbed the CM
+cell membrane to produce action potentials and trigger myocyte contraction.</p><p>Acute optical stimulation during patch clamp and force testing demonstrated action
+potential generation and contraction in response to light excitation (<xref ref-type="fig" rid="fig1-2041731419841748">Figure 1(a)</xref> and (<xref ref-type="fig" rid="fig1-2041731419841748">b</xref>)). Efficient CM stimulation
+requires action potential generation; therefore, we validated action potential
+generation in response to acute optical stimulation by patch clamp.<sup><xref rid="bibr24-2041731419841748" ref-type="bibr">24</xref></sup> In native tissue, action potential generation couples to calcium-induced
+calcium release from the SR (excitation-contraction coupling).<sup><xref rid="bibr24-2041731419841748" ref-type="bibr">24</xref></sup> We confirmed excitation-contraction coupling by optical stimulation using
+force testing (<xref ref-type="fig" rid="fig4-2041731419841748">Figure 4(b)</xref>).
+Optical stimulation during force testing could pace tissues to a maximum rate of
+5&#x02009;Hz, demonstrating comparable excitation&#x02013;contraction coupling to ES. It is worth
+noting that ES resulted in higher MCRs than acute optical stimulation, possibly due
+to greater percentage capture of CM during ES.</p><p>We performed C-OP of ECTs for 7 days to test the hypothesis that C-OP can induce ECT
+functional maturation. We chose ChIEF because this channel does not desensitize with
+chronic light stimulation, and we chose an AAV1 vector because of its safety and
+efficient transfection of h-iPSC-CMs.<sup><xref rid="bibr52-2041731419841748" ref-type="bibr">52</xref>,<xref rid="bibr64-2041731419841748" ref-type="bibr">64</xref>,<xref rid="bibr65-2041731419841748" ref-type="bibr">65</xref></sup> These three properties
+exhibited utility as demonstrated by the significant results of C-OP (<xref ref-type="fig" rid="fig1-2041731419841748">Figures 1</xref> and <xref ref-type="fig" rid="fig5-2041731419841748">5(b)</xref>). Similar CM percentages
+between D14 control and D14C-OP ECTs supported low AAV toxicity (<xref ref-type="fig" rid="fig5-2041731419841748">Figure 5(e)</xref>). We added the
+AAV1-ChIEF at the time of ECT formulation rather than after ECT gel compaction to
+assure a uniform distribution of the vector within the ECT. Successful C-OP also
+demonstrated the usefulness of our custom-built LED system.</p><p>C-OP increased both ECT MCR and intrinsic beat rate (<xref ref-type="fig" rid="fig4-2041731419841748">Figure 4(c)</xref>). However, D28 control ECTs still
+captured at a higher rate than D14C-OP ECTs consistent with our previous study
+showing induction of maturation by extended in vitro culture (<xref ref-type="fig" rid="fig4-2041731419841748">Figure 4(c)</xref>).<sup><xref rid="bibr12-2041731419841748" ref-type="bibr">12</xref></sup> MCR is an integrated measure of CM maturation and higher capture rates
+correlate with increased connexin-43 expression and potassium channel
+expression.<sup><xref rid="bibr12-2041731419841748" ref-type="bibr">12</xref>,<xref rid="bibr33-2041731419841748" ref-type="bibr">33</xref></sup> The 1&#x02009;Hz increase in MCR after C-OP is comparable to previous
+chronic ES studies.<sup><xref rid="bibr25-2041731419841748" ref-type="bibr">25</xref>,<xref rid="bibr33-2041731419841748" ref-type="bibr">33</xref>,<xref rid="bibr38-2041731419841748" ref-type="bibr">38</xref></sup> C-OP did not mature ECTs by decreasing spontaneous beating,<sup><xref rid="bibr8-2041731419841748" ref-type="bibr">8</xref></sup> and instead we found an increase in intrinsic beat rate (<xref ref-type="fig" rid="fig4-2041731419841748">Figure 4(c)</xref>). This result differs from an ES
+study of h-iPSC derived cardiac spheroids that showed a decrease in spontaneous
+beating rate possibly due to a reduction of HCN4 mRNA, a gene encoding a pacemaking channel.<sup><xref rid="bibr36-2041731419841748" ref-type="bibr">36</xref></sup> However, our findings are consistent with a study of mouse-derived cardiac
+embryoid bodies in which spontaneous beating increased in response to ES.<sup><xref rid="bibr3-2041731419841748" ref-type="bibr">3</xref></sup> Possibly, C-OP induced an upregulation of HCN4 channels, unlike normal
+electrophysiological maturation.</p><p>C-OP also decreased <italic>&#x003c3;<sub>bb</sub></italic>, RT50, and systolic energy
+consumption (<xref ref-type="fig" rid="fig1-2041731419841748">Figure 1(d)</xref>,
+(<xref ref-type="fig" rid="fig1-2041731419841748">f</xref>) and (<xref ref-type="fig" rid="fig1-2041731419841748">h</xref>)). Similar to MCR, these
+parameters decreased further in D28 ECTs compared to D14C-OP ECTs. Improvement in
+hysteresis and RT50 also correlate with increased connexin-43 expression and
+upregulation of potassium channel expression.<sup><xref rid="bibr12-2041731419841748" ref-type="bibr">12</xref></sup> Mathematical modeling demonstrates hysteresis occurs due to out-of-phase
+action potentials and calcium cycling.<sup><xref rid="bibr66-2041731419841748" ref-type="bibr">66</xref></sup> Thus, we propose that the decreased hysteresis indicates maturation of
+excitation&#x02013;contraction coupling. ES studies have shown an improvement in relaxation
+time similar to our result following C-OP.<sup><xref rid="bibr21-2041731419841748" ref-type="bibr">21</xref></sup> D14C-OP and D28 ECTs used less systolic energy during contraction at 3&#x02009;Hz
+pacing as indicated by decreased stress-time integral values. The stress-time
+integral relates to energy consumption during contraction.<sup><xref rid="bibr22-2041731419841748" ref-type="bibr">22</xref></sup> Increased expression of mitochondrial genes and mitochondria number could
+underlie this result, as observed in ES of neonatal rat CM.<sup><xref rid="bibr39-2041731419841748" ref-type="bibr">39</xref></sup></p><p>C-OP ECTs maintained <italic>&#x003c3;<sub>A</sub></italic>, as a function of increasing
+pacing frequency, better than control constructs, but not to the same degree as D28,
+particularly at the higher pacing rates of 4.5 and 5&#x02009;Hz (<xref ref-type="fig" rid="fig4-2041731419841748">Figure 4(e)</xref>). The underlying mechanism for
+improved maintenance of <italic>&#x003c3;<sub>A</sub></italic> production correlates with
+increased expression and development calcium handling structures.<sup><xref rid="bibr21-2041731419841748" ref-type="bibr">21</xref></sup> Calcium handling maturation could increase stress preservation due to quicker
+calcium release and reuptake.<sup><xref rid="bibr21-2041731419841748" ref-type="bibr">21</xref></sup> Even though C-OP improved stress preservation, it did not reach the threshold
+of generating a positive force&#x02013;frequency relationship as observed in a previous ES
+study and extended culture study.<sup><xref rid="bibr12-2041731419841748" ref-type="bibr">12</xref>,<xref rid="bibr21-2041731419841748" ref-type="bibr">21</xref></sup></p><p>We observed a decreasing trend in absolute <italic>&#x003c3;<sub>A</sub></italic> from D14
+control to D14C-OP ECTs to D28 ECTs, although this result was not significant (<xref ref-type="fig" rid="fig4-2041731419841748">Figure 4(g)</xref>). Possibly, C-OP,
+ChR expression, or AAV transfection decreased <italic>&#x003c3;<sub>A</sub></italic> through
+cell toxicity that was not evident by histology (<xref ref-type="fig" rid="fig5-2041731419841748">Figure 5(e)</xref>). C-OP may generate hydrodynamic
+shear, a morphology-altering force.<sup><xref rid="bibr25-2041731419841748" ref-type="bibr">25</xref></sup> The neutral response of <italic>&#x003c3;<sub>A</sub></italic> to C-OP contrasts with
+chronic ES, which has been noted to increase active force by 1.5 times.<sup><xref rid="bibr30-2041731419841748" ref-type="bibr">30</xref></sup> However, the difference in the results of C-OP could be due to our pacing at
+around 3&#x02009;Hz rather than pacing at a lower rate of 2&#x02009;Hz/1.5&#x02009;Hz.<sup><xref rid="bibr30-2041731419841748" ref-type="bibr">30</xref></sup> Lower pacing rates may be more conducive to <italic>&#x003c3;<sub>A</sub></italic>
+improvements.</p><p>Alignment analysis of 3D whole mount images showed C-OP did not alter cell
+orientation (<xref ref-type="fig" rid="fig4-2041731419841748">Figure 4(h)</xref> and
+(<xref ref-type="fig" rid="fig4-2041731419841748">j</xref>)). This result
+suggests C-OP may not affect pathways related to cell migration. ES, unlike C-OP,
+correlates with cellular alignment in some cases.<sup><xref rid="bibr31-2041731419841748" ref-type="bibr">31</xref>,<xref rid="bibr35-2041731419841748" ref-type="bibr">35</xref></sup> However, the direct causal
+effect of ES on cell alignment remains unclear. Other studies have demonstrated
+topographical cues influence alignment more than ES or that a combination of
+mechanical stretch and ES is required to improve alignment.<sup><xref rid="bibr27-2041731419841748" ref-type="bibr">27</xref>,<xref rid="bibr44-2041731419841748" ref-type="bibr">44</xref></sup> Additional
+research is needed to understand the mechanistic relationship between stimulating
+ECT contraction and CM alignment.</p><p>RT-qPCR analysis identified KCND3, the gene encoding the Kv4.3 channel responsible
+for the I<sub>to</sub> current, as a potential candidate for the
+electrophysiological maturation induced by C-OP.<sup><xref rid="bibr12-2041731419841748" ref-type="bibr">12</xref>,<xref rid="bibr63-2041731419841748" ref-type="bibr">63</xref></sup> This channel provides a
+partial mechanism for electrophysiological maturation as the KCND3 mRNA was the only
+gene significantly upregulated in D14C-OP ECTs (<xref ref-type="fig" rid="fig6-2041731419841748">Figure 6(b)</xref>). KCND3 also increased in the one
+biological replicate of D28 ECTs, as well as our previous study of D28 large format ECTs,<sup><xref rid="bibr12-2041731419841748" ref-type="bibr">12</xref></sup> relating the KCND3 increase to maturation (<xref ref-type="fig" rid="fig7-2041731419841748">Figure 7(b)</xref>). Furthermore, increased
+expression of Kv4.3 could improve hysteresis and MCR as the channel decreases
+repolarization time; overexpression of Kv4.3 in isolated guinea pig myocytes
+decreased membrane potential during the plateau phase and shortened action potential duration.<sup><xref rid="bibr67-2041731419841748" ref-type="bibr">67</xref></sup> Surprisingly, RNA analysis did not reveal significant upregulation of calcium
+handling structures to explain <italic>&#x003c3;<sub>A</sub></italic> preservation, unlike
+D28 ECTs (<xref ref-type="fig" rid="fig5-2041731419841748">Figures 5(a)</xref> and
+<xref ref-type="fig" rid="fig7-2041731419841748">7(a)</xref>). Our RNA result
+was consistent with a previous ES study that showed no upregulation of SERCA2A.<sup><xref rid="bibr30-2041731419841748" ref-type="bibr">30</xref></sup> Additional experiments including western blot analysis would validate
+differences at the protein level as observed previously with ES.<sup><xref rid="bibr21-2041731419841748" ref-type="bibr">21</xref></sup></p><p>As stated previously, ECTs possess an immature phenotype which confounds translation
+into CV regeneration therapies or drug testing platform technologies.<sup><xref rid="bibr8-2041731419841748" ref-type="bibr">8</xref>,<xref rid="bibr68-2041731419841748" ref-type="bibr">68</xref></sup> Bioreactors induce
+differentiation and maturation by replicating <italic>in vivo</italic> signals:
+mechanical stretch, perfusion, and ES.<sup><xref rid="bibr8-2041731419841748" ref-type="bibr">8</xref>,<xref rid="bibr25-2041731419841748" ref-type="bibr">25</xref></sup> However, no ECT differentiates
+into a fully mature construct.<sup><xref rid="bibr8-2041731419841748" ref-type="bibr">8</xref></sup> Also, ES can be invasive and produces toxic Faradaic reactions.<sup><xref rid="bibr33-2041731419841748" ref-type="bibr">33</xref>,<xref rid="bibr45-2041731419841748" ref-type="bibr">45</xref><xref rid="bibr46-2041731419841748" ref-type="bibr"/><xref rid="bibr47-2041731419841748" ref-type="bibr"/>&#x02013;<xref rid="bibr48-2041731419841748" ref-type="bibr">48</xref></sup> Therefore, the cardiac tissue
+engineering field needs alternative, less toxic, conditioning protocols that produce
+a level of maturity comparable to ES. We present here a novel, alternative chronic
+stimulation protocol for cardiac tissue engineering, using expression of light
+sensitive ion channels. After extensive review, this is the first successful attempt
+at C-OP of engineered ECTs consisting of h-iPSC cardiac cells. Our results show
+effective ChIEF transfection of h-iPSC-CM, demonstrate an LED-based optical pacing
+protocol for ECTs, and provide evidence of functional ECT maturation in response to
+C-OP.</p><p>Our current study does have some limitations that are relevant to highlight. First,
+our current study does not include a ChIEF transfected, non-paced subgroup, and thus
+it is possible that some of the effects of altered ECT function and gene expression
+may be a result of ChIEF transfection rather than C-OP. While this is not likely,
+future experiments can address this concern. Second, the focus of our current C-OP
+validation study was the impact of C-OP on h-iPSC ECT functional maturation rather
+than identifying changes in ion channel expression, function, and molecular
+mechanisms for this response. We used classic patch clamping techniques only to
+validate optical capture of transfected CM within ECTs and all subsequent functional
+data involved optical or electrical field stimulation. Future experiments can
+address the electrical properties of individual CM within ECTs or CM isolated from
+d14 ECTs using patch clamping techniques, recognizing the significant technical
+challenges of this approach, and guide further investigation into changes in ion
+channel expression and function. Third, we used visual evidence of beating as
+evidence for broad field OP triggered CM depolarization within ECTs rather than
+optical dyes. Finally, our current approach is relevant to the scalable maturation
+of in vitro ECTs but may be less applicable to in vivo ECT maturation that is more
+likely to occur as the result of paracrine signaling and biomechanical loading.
+Future experiments can further address excitation dynamics and the ability of narrow
+field OP to capture regions within the ECT and assess wave propagation through the
+ECT.</p></sec></body><back><fn-group><fn fn-type="con"><p><bold>Author contributions:</bold> M.D., W.J.K., F. Ye., F. Yuan, J.P.T., P.C., W.G., and B.B.K. conceived and
+designed the experiments; M.D., W.J.K., F. Ye., F. Yuan, J.P.T., S.S., T.N., and
+P.C. performed the experiments; M.D., W.J.K., F. Ye., F. Yuan, J.P.T., S.S.,
+P.C., W.G., and BBK analyzed the data; H.M. and W.G. contributed
+reagents/materials/analysis tools; M.D., W.J.K., F. Ye., T.N., H.M., W.G., and
+B.B.K. wrote and revised the manuscript; and B.B.K. provided funding for the
+project.</p></fn><fn fn-type="COI-statement"><p><bold>Declaration of conflicting interests:</bold> The author(s) declared no potential conflicts of interest with respect to the
+research, authorship, and/or publication of this article.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding:</bold> The author(s) disclosed receipt of the following financial support for the
+research, authorship and/or publication of this article: This work was supported
+by the Kosair Charities Pediatric Heart Research Endowment (B.B.K).</p></fn><fn fn-type="other"><p><bold>ORCID iD:</bold> Bradley B Keller <inline-graphic xlink:href="10.1177_2041731419841748-img1.jpg"/>
+<ext-link ext-link-type="uri" xlink:href="https://orcid.org/0000-0001-5476-6050">https://orcid.org/0000-0001-5476-6050</ext-link></p></fn></fn-group><ref-list><title>References</title><ref id="bibr1-2041731419841748"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sanganalmath</surname><given-names>SK</given-names></name><name><surname>Bolli</surname><given-names>R.</given-names></name></person-group>
+<article-title>Cell therapy for heart failure: a comprehensive overview of
+experimental and clinical studies, current challenges, and future
+directions</article-title>. <source>Circ Res</source>
+<year>2013</year>; <volume>113</volume>(<issue>6</issue>):
+<fpage>810</fpage>&#x02013;<lpage>834</lpage>.<pub-id pub-id-type="pmid">23989721</pub-id></mixed-citation></ref><ref id="bibr2-2041731419841748"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Suuronen</surname><given-names>EJ</given-names></name><name><surname>Kuraitis</surname><given-names>D</given-names></name><name><surname>Ruel</surname><given-names>M.</given-names></name></person-group>
+<article-title>Improving cell engraftment with tissue
+engineering</article-title>. <source>Semin Thorac Cardiovasc Surg</source>
+<year>2008</year>; <volume>20</volume>(<issue>2</issue>):
+<fpage>110</fpage>&#x02013;<lpage>114</lpage>.<pub-id pub-id-type="pmid">18707642</pub-id></mixed-citation></ref><ref id="bibr3-2041731419841748"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ahadian</surname><given-names>S</given-names></name><name><surname>Yamada</surname><given-names>S</given-names></name><name><surname>Ramon-Azcon</surname><given-names>J</given-names></name><etal>et al</etal></person-group>
+<article-title>Hybrid hydrogel-aligned carbon nanotube
+scaffolds to enhance cardiac differentiation of embryoid
+bodies</article-title>. <source>Acta Biomater</source>
+<year>2016</year>; <volume>31</volume>:
+<fpage>134</fpage>&#x02013;<lpage>143</lpage>.<pub-id pub-id-type="pmid">26621696</pub-id></mixed-citation></ref><ref id="bibr4-2041731419841748"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bian</surname><given-names>W</given-names></name><name><surname>Jackman Bursac</surname><given-names>N.</given-names></name></person-group>
+<article-title>Controlling the structural and functional anisotropy of
+engineered cardiac tissues</article-title>. <source>Biofabrication</source>
+<year>2014</year>; <volume>6</volume>(<issue>2</issue>):
+<fpage>024109</fpage>.<pub-id pub-id-type="pmid">24717534</pub-id></mixed-citation></ref><ref id="bibr5-2041731419841748"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Black</surname><given-names>LD</given-names><suffix>III</suffix></name><name><surname>Meyers</surname><given-names>JD</given-names></name><name><surname>Weinbaum</surname><given-names>JS</given-names></name><etal>et al</etal></person-group>
+<article-title>Cell-induced alignment augments twitch force in
+fibrin gel-based engineered myocardium via gap junction
+modification</article-title>. <source>Tissue Eng Part A</source>
+<year>2009</year>; <volume>15</volume>(<issue>10</issue>):
+<fpage>3099</fpage>&#x02013;<lpage>3108</lpage>.<pub-id pub-id-type="pmid">19338433</pub-id></mixed-citation></ref><ref id="bibr6-2041731419841748"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Feinberg</surname><given-names>AW</given-names></name><name><surname>Alford</surname><given-names>PW</given-names></name><name><surname>Jin</surname><given-names>H</given-names></name><etal>et al</etal></person-group>
+<article-title>Controlling the contractile strength of
+engineered cardiac muscle by hierarchal tissue architecture</article-title>.
+<source>Biomaterials</source>
+<year>2012</year>; <volume>33</volume>(<issue>23</issue>):
+<fpage>5732</fpage>&#x02013;<lpage>5741</lpage>.<pub-id pub-id-type="pmid">22594976</pub-id></mixed-citation></ref><ref id="bibr7-2041731419841748"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fujimoto</surname><given-names>KL</given-names></name><name><surname>Clause</surname><given-names>KC</given-names></name><name><surname>Liu</surname><given-names>LJ</given-names></name><etal>et al</etal></person-group>
+<article-title>Engineered fetal cardiac graft preserves its
+cardiomyocyte proliferation within postinfarcted myocardium and sustains
+cardiac function</article-title>. <source>Tissue Eng Part A</source>
+<year>2011</year>; <volume>17</volume>(<issue>5&#x02013;6</issue>):
+<fpage>585</fpage>&#x02013;<lpage>596</lpage>.<pub-id pub-id-type="pmid">20868205</pub-id></mixed-citation></ref><ref id="bibr8-2041731419841748"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hirt</surname><given-names>MN</given-names></name><name><surname>Hansen</surname><given-names>A</given-names></name><name><surname>Eschenhagen</surname><given-names>T.</given-names></name></person-group>
+<article-title>Cardiac tissue engineering: state of the art</article-title>.
+<source>Circ Res</source>
+<year>2014</year>; <volume>114</volume>(<issue>2</issue>):
+<fpage>354</fpage>&#x02013;<lpage>367</lpage>.<pub-id pub-id-type="pmid">24436431</pub-id></mixed-citation></ref><ref id="bibr9-2041731419841748"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kawamura</surname><given-names>M</given-names></name><name><surname>Miyagawa</surname><given-names>S</given-names></name><name><surname>Fukushima</surname><given-names>S</given-names></name><etal>et al</etal></person-group>
+<article-title>Enhanced survival of transplanted human induced
+pluripotent stem cell-derived cardiomyocytes by the combination of cell
+sheets with the pedicled omental flap technique in a porcine
+heart</article-title>. <source>Circulation</source>
+<year>2013</year>; <volume>128</volume>(<volume>11</volume>
+<issue>Suppl. 1</issue>):
+<fpage>S87</fpage>&#x02013;<lpage>S94</lpage>.<pub-id pub-id-type="pmid">24030425</pub-id></mixed-citation></ref><ref id="bibr10-2041731419841748"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Masumoto</surname><given-names>H</given-names></name><name><surname>Nakane</surname><given-names>T</given-names></name><name><surname>Tinney</surname><given-names>JP</given-names></name><etal>et al</etal></person-group>
+<article-title>The myocardial regenerative potential of
+three-dimensional engineered cardiac tissues composed of multiple human iPS
+cell-derived cardiovascular cell lineages</article-title>. <source>Sci
+Rep</source>
+<year>2016</year>; <volume>6</volume>: <fpage>29933</fpage>.<pub-id pub-id-type="pmid">27435115</pub-id></mixed-citation></ref><ref id="bibr11-2041731419841748"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Matsuo</surname><given-names>T</given-names></name><name><surname>Masumoto</surname><given-names>H</given-names></name><name><surname>Tajima</surname><given-names>S</given-names></name><etal>et al</etal></person-group>
+<article-title>Efficient long-term survival of cell grafts
+after myocardial infarction with thick viable cardiac tissue entirely from
+pluripotent stem cells</article-title>. <source>Sci Rep</source>
+<year>2015</year>; <volume>5</volume>: <fpage>16842</fpage>.<pub-id pub-id-type="pmid">26585309</pub-id></mixed-citation></ref><ref id="bibr12-2041731419841748"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nakane</surname><given-names>T</given-names></name><name><surname>Masumoto</surname><given-names>H</given-names></name><name><surname>Tinney</surname><given-names>JP</given-names></name><etal>et al</etal></person-group>
+<article-title>Impact of cell composition and geometry on human
+induced pluripotent stem cells-derived engineered cardiac
+tissue</article-title>. <source>Sci Rep</source>
+<year>2017</year>; <volume>7</volume>: <fpage>45641</fpage>.<pub-id pub-id-type="pmid">28368043</pub-id></mixed-citation></ref><ref id="bibr13-2041731419841748"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Potapova</surname><given-names>IA</given-names></name><name><surname>Doronin</surname><given-names>SV</given-names></name><name><surname>Kelly</surname><given-names>D</given-names></name><etal>et al</etal></person-group>
+<article-title>Enhanced recovery of mechanical function in the
+canine heart by seeding an extracellular matrix patch with mesenchymal stem
+cells committed to a cardiac lineage</article-title>. <source>Am J Physiol
+Heart Circ Physiol</source>
+<year>2018</year>; <volume>295</volume>(<issue>6</issue>):
+<fpage>H2257</fpage>&#x02013;<lpage>H2263</lpage>.</mixed-citation></ref><ref id="bibr14-2041731419841748"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schwan</surname><given-names>J</given-names></name><name><surname>Kwaczala</surname><given-names>AT</given-names></name><name><surname>Ryan</surname><given-names>TJ</given-names></name><etal>et al</etal></person-group>
+<article-title>Anisotropic engineered heart tissue made from
+laser-cut decellularized myocardium</article-title>. <source>Sci
+Rep</source>
+<year>2016</year>; <volume>6</volume>: <fpage>32068</fpage>.<pub-id pub-id-type="pmid">27572147</pub-id></mixed-citation></ref><ref id="bibr15-2041731419841748"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zimmermann</surname><given-names>WH</given-names></name><name><surname>Melnychenko</surname><given-names>I</given-names></name><name><surname>Wasmeier</surname><given-names>G</given-names></name><etal>et al</etal></person-group>
+<article-title>Engineered heart tissue grafts improve systolic
+and diastolic function in infarcted rat hearts</article-title>. <source>Nat
+Med</source>
+<year>2006</year>; <volume>12</volume>(<issue>4</issue>):
+<fpage>452</fpage>&#x02013;<lpage>458</lpage>.<pub-id pub-id-type="pmid">16582915</pub-id></mixed-citation></ref><ref id="bibr16-2041731419841748"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Khan</surname><given-names>M</given-names></name><name><surname>Xu</surname><given-names>Y</given-names></name><name><surname>Hua</surname><given-names>S</given-names></name><etal>et al</etal></person-group>
+<article-title>Evaluation of changes in morphology and function
+of human induced pluripotent stem cell derived cardiomyocytes (HiPSC-CMs)
+cultured on an aligned-nanofiber cardiac patch</article-title>. <source>PLoS
+ONE</source>
+<year>2015</year>; <volume>10</volume>(<issue>5</issue>):
+<fpage>e0126338</fpage>.<pub-id pub-id-type="pmid">25993466</pub-id></mixed-citation></ref><ref id="bibr17-2041731419841748"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mannhardt</surname><given-names>I</given-names></name><name><surname>Breckwoldt</surname><given-names>K</given-names></name><name><surname>Letuffe-Breniere</surname><given-names>D</given-names></name><etal>et al</etal></person-group>
+<article-title>Human engineered heart tissue: analysis of
+contractile force</article-title>. <source>Stem Cell Reports</source>
+<year>2016</year>; <volume>7</volume>(<issue>1</issue>):
+<fpage>29</fpage>&#x02013;<lpage>42</lpage>.<pub-id pub-id-type="pmid">27211213</pub-id></mixed-citation></ref><ref id="bibr18-2041731419841748"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tobita</surname><given-names>K</given-names></name><name><surname>Liu</surname><given-names>LJ</given-names></name><name><surname>Janczewski</surname><given-names>AM</given-names></name><etal>et al</etal></person-group>
+<article-title>Engineered early embryonic cardiac tissue
+retains proliferative and contractile properties of developing embryonic
+myocardium</article-title>. <source>Am J Physiol Heart Circ Physiol</source>
+<year>2006</year>; <volume>291</volume>(<issue>4</issue>):
+<fpage>H1829</fpage>&#x02013;<lpage>H1837</lpage>.<pub-id pub-id-type="pmid">16617136</pub-id></mixed-citation></ref><ref id="bibr19-2041731419841748"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tulloch</surname><given-names>NL</given-names></name><name><surname>Muskheli</surname><given-names>V</given-names></name><name><surname>Razumova</surname><given-names>MV</given-names></name><etal>et al</etal></person-group>
+<article-title>Growth of engineered human myocardium with
+mechanical loading and vascular coculture</article-title>. <source>Circ
+Res</source>
+<year>2011</year>; <volume>109</volume>(<issue>1</issue>):
+<fpage>47</fpage>&#x02013;<lpage>59</lpage>.<pub-id pub-id-type="pmid">21597009</pub-id></mixed-citation></ref><ref id="bibr20-2041731419841748"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Galvez-Monton</surname><given-names>C</given-names></name><name><surname>Bragos</surname><given-names>R</given-names></name><name><surname>Soler-Boti</surname><given-names>JC</given-names></name><etal>et al</etal></person-group>
+<article-title>Noninvasive assessment of an engineered
+bioactive graft in myocardial infarction: impact on cardiac function and
+scar healing</article-title>. <source>Stem Cells Transl Med</source>
+<year>2016</year>; <volume>6</volume>(<issue>2</issue>):
+<fpage>647</fpage>&#x02013;<lpage>655</lpage>.<pub-id pub-id-type="pmid">28191775</pub-id></mixed-citation></ref><ref id="bibr21-2041731419841748"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Godier-Furnemont</surname><given-names>AF</given-names></name><name><surname>Tiburcy</surname><given-names>M</given-names></name><name><surname>Wagner</surname><given-names>E</given-names></name><etal>et al</etal></person-group>
+<article-title>Physiologic force-frequency response in
+engineered heart muscle by electromechanical stimulation</article-title>.
+<source>Biomaterials</source>
+<year>2015</year>; <volume>60</volume>:
+<fpage>82</fpage>&#x02013;<lpage>91</lpage>.<pub-id pub-id-type="pmid">25985155</pub-id></mixed-citation></ref><ref id="bibr22-2041731419841748"><label>22</label><mixed-citation publication-type="book">
+<person-group person-group-type="editor"><name><surname>Jacob</surname><given-names>R</given-names></name><name><surname>Just</surname><given-names>H</given-names></name><name><surname>Holubarsch</surname><given-names>C</given-names></name></person-group> (eds). <source>Cardiac energetics: basic mechanisms and clinical
+implications</source>. <publisher-loc>Heidelberg</publisher-loc>;
+<publisher-name>Steinkopff-Verlag</publisher-name>, <year>1987</year>, p.
+<fpage>25</fpage>.</mixed-citation></ref><ref id="bibr23-2041731419841748"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Han</surname><given-names>JC</given-names></name><name><surname>Taberner</surname><given-names>AJ</given-names></name><name><surname>Tran</surname><given-names>K</given-names></name><etal>et al</etal></person-group>
+<article-title>Relating components of pressure-volume area in
+Suga&#x02019;s formulation of cardiac energetics to components of the stress-time
+integral</article-title>. <source>J Appl Physiol</source>
+<year>2012</year>; <volume>113</volume>(<issue>7</issue>):
+<fpage>988</fpage>&#x02013;<lpage>995</lpage>.<pub-id pub-id-type="pmid">22837173</pub-id></mixed-citation></ref><ref id="bibr24-2041731419841748"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pinnell</surname><given-names>J</given-names></name><name><surname>Turner</surname><given-names>S</given-names></name><name><surname>Howell</surname><given-names>S.</given-names></name></person-group>
+<article-title>Cardiac muscle physiology</article-title>. <source>BJA
+Education</source>
+<year>2007</year>; <volume>7</volume>:
+<fpage>85</fpage>&#x02013;<lpage>88</lpage>.</mixed-citation></ref><ref id="bibr25-2041731419841748"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Maidhof</surname><given-names>R</given-names></name><name><surname>Tandon</surname><given-names>N</given-names></name><name><surname>Lee</surname><given-names>EJ</given-names></name><etal>et al</etal></person-group>
+<article-title>Biomimetic perfusion and electrical stimulation
+applied in concert improved the assembly of engineered cardiac
+tissue</article-title>. <source>J Tissue Eng Regen Med</source>
+<year>2012</year>; <volume>6</volume>(<issue>10</issue>):
+<fpage>e12</fpage>&#x02013;<lpage>e23</lpage>.<pub-id pub-id-type="pmid">22170772</pub-id></mixed-citation></ref><ref id="bibr26-2041731419841748"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stoppel</surname><given-names>WL</given-names></name><name><surname>Kaplan</surname><given-names>DL</given-names></name><name><surname>Black</surname><given-names>LD</given-names><suffix>3rd</suffix></name></person-group>
+<article-title>Electrical and mechanical stimulation of cardiac
+cells and tissue constructs</article-title>. <source>Adv Drug Deliv
+Rev</source>
+<year>2016</year>; <volume>96</volume>:
+<fpage>135</fpage>&#x02013;<lpage>155</lpage>.<pub-id pub-id-type="pmid">26232525</pub-id></mixed-citation></ref><ref id="bibr27-2041731419841748"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Au</surname><given-names>HT</given-names></name><name><surname>Cheng</surname><given-names>I</given-names></name><name><surname>Chowdhury</surname><given-names>MF</given-names></name><etal>et al</etal></person-group>
+<article-title>Interactive effects of surface topography and
+pulsatile electrical field stimulation on orientation and elongation of
+fibroblasts and cardiomyocytes</article-title>.
+<source>Biomaterials</source>
+<year>2007</year>; <volume>28</volume>(<issue>29</issue>):
+<fpage>4277</fpage>&#x02013;<lpage>4293</lpage>.<pub-id pub-id-type="pmid">17604100</pub-id></mixed-citation></ref><ref id="bibr28-2041731419841748"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Balint</surname><given-names>R</given-names></name><name><surname>Cassidy</surname><given-names>NJ</given-names></name><name><surname>Cartmell</surname><given-names>SH.</given-names></name></person-group>
+<article-title>Electrical stimulation: a novel tool for tissue
+engineering</article-title>. <source>Tissue Eng Part B Rev</source>
+<year>2013</year>; <volume>19</volume>(<issue>1</issue>):
+<fpage>48</fpage>&#x02013;<lpage>57</lpage>.<pub-id pub-id-type="pmid">22873689</pub-id></mixed-citation></ref><ref id="bibr29-2041731419841748"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hernandez</surname><given-names>D</given-names></name><name><surname>Millard</surname><given-names>R</given-names></name><name><surname>Sivakumaran</surname><given-names>P</given-names></name><etal>et al</etal></person-group>
+<article-title>Electrical stimulation promotes cardiac
+differentiation of human induced pluripotent stem cells</article-title>.
+<source>Stem Cells Int</source>
+<year>2016</year>; <volume>2016</volume>:
+<fpage>1718041</fpage>.<pub-id pub-id-type="pmid">26788064</pub-id></mixed-citation></ref><ref id="bibr30-2041731419841748"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hirt</surname><given-names>MN</given-names></name><name><surname>Boeddinghaus</surname><given-names>J</given-names></name><name><surname>Mitchell</surname><given-names>A</given-names></name><etal>et al</etal></person-group>
+<article-title>Functional improvement and maturation of rat and
+human engineered heart tissue by chronic electrical
+stimulation</article-title>. <source>J Mol Cell Cardiol</source>
+<year>2014</year>; <volume>74</volume>: <fpage>151</fpage>&#x02013;<lpage>161</lpage>.
+doi: <pub-id pub-id-type="doi">10.1016/j.yjmcc.2014.05.009</pub-id><pub-id pub-id-type="pmid">24852842</pub-id></mixed-citation></ref><ref id="bibr31-2041731419841748"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lasher</surname><given-names>RA</given-names></name><name><surname>Pahnke</surname><given-names>AQ</given-names></name><name><surname>Johnson</surname><given-names>JM</given-names></name><etal>et al</etal></person-group>
+<article-title>Electrical stimulation directs engineered
+cardiac tissue to an age-matched native phenotype</article-title>. <source>J
+Tissue Eng</source>
+<year>2012</year>; <volume>3</volume>(<issue>1</issue>):
+<fpage>2041731412455354</fpage>.<pub-id pub-id-type="pmid">22919458</pub-id></mixed-citation></ref><ref id="bibr32-2041731419841748"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McDonough</surname><given-names>PM</given-names></name><name><surname>Glembotski</surname><given-names>CC.</given-names></name></person-group>
+<article-title>Induction of atrial natriuretic factor and myosin light chain-2
+gene expression in cultured ventricular myocytes by electrical stimulation
+of contraction</article-title>. <source>J Biol Chem</source>
+<year>1992</year>; <volume>267</volume>(<issue>17</issue>):
+<fpage>11665</fpage>&#x02013;<lpage>11668</lpage>.<pub-id pub-id-type="pmid">1376309</pub-id></mixed-citation></ref><ref id="bibr33-2041731419841748"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nunes</surname><given-names>SS</given-names></name><name><surname>Miklas</surname><given-names>JW</given-names></name><name><surname>Liu</surname><given-names>J</given-names></name><etal>et al</etal></person-group>
+<article-title>Biowire: a platform for maturation of human
+pluripotent stem cell-derived cardiomyocytes</article-title>. <source>Nat
+Methods</source>
+<year>2013</year>; <volume>10</volume>(<issue>8</issue>):
+<fpage>781</fpage>&#x02013;<lpage>787</lpage>.<pub-id pub-id-type="pmid">23793239</pub-id></mixed-citation></ref><ref id="bibr34-2041731419841748"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Park</surname><given-names>H</given-names></name><name><surname>Bhalla</surname><given-names>R</given-names></name><name><surname>Saigal</surname><given-names>R</given-names></name><etal>et al</etal></person-group>
+<article-title>Effects of electrical stimulation in C2C12
+muscle constructs</article-title>. <source>J Tissue Eng Regen Med</source>
+<year>2008</year>; <volume>2</volume>(<issue>5</issue>):
+<fpage>279</fpage>&#x02013;<lpage>287</lpage>.<pub-id pub-id-type="pmid">18512267</pub-id></mixed-citation></ref><ref id="bibr35-2041731419841748"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pietronave</surname><given-names>S</given-names></name><name><surname>Zamperone</surname><given-names>A</given-names></name><name><surname>Oltolina</surname><given-names>F</given-names></name><etal>et al</etal></person-group>
+<article-title>Monophasic and biphasic electrical stimulation
+induces a precardiac differentiation in progenitor cells isolated from human
+heart</article-title>. <source>Stem Cells Dev</source>
+<year>2014</year>; <volume>23</volume>(<issue>8</issue>):
+<fpage>888</fpage>&#x02013;<lpage>898</lpage>.<pub-id pub-id-type="pmid">24328510</pub-id></mixed-citation></ref><ref id="bibr36-2041731419841748"><label>36</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Richards</surname><given-names>DJ</given-names></name><name><surname>Tan</surname><given-names>Y</given-names></name><name><surname>Coyle</surname><given-names>R</given-names></name><etal>et al</etal></person-group>
+<article-title>Nanowires and electrical stimulation
+synergistically improve functions of hiPSC cardiac
+spheroids</article-title>. <source>Nano Lett</source>
+<year>2016</year>; <volume>16</volume>(<issue>7</issue>):
+<fpage>4670</fpage>&#x02013;<lpage>4678</lpage>.<pub-id pub-id-type="pmid">27328393</pub-id></mixed-citation></ref><ref id="bibr37-2041731419841748"><label>37</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Serena</surname><given-names>E</given-names></name><name><surname>Figallo</surname><given-names>E</given-names></name><name><surname>Tandon</surname><given-names>N</given-names></name><etal>et al</etal></person-group>
+<article-title>Electrical stimulation of human embryonic stem
+cells: cardiac differentiation and the generation of reactive oxygen
+species</article-title>. <source>Exp Cell Res</source>
+<year>2009</year>; <volume>315</volume>(<issue>20</issue>):
+<fpage>3611</fpage>&#x02013;<lpage>3619</lpage>.<pub-id pub-id-type="pmid">19720058</pub-id></mixed-citation></ref><ref id="bibr38-2041731419841748"><label>38</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tandon</surname><given-names>N</given-names></name><name><surname>Marsano</surname><given-names>A</given-names></name><name><surname>Maidhof</surname><given-names>R</given-names></name><etal>et al</etal></person-group>
+<article-title>Optimization of electrical stimulation
+parameters for cardiac tissue engineering</article-title>. <source>J Tissue
+Eng Regen Med</source>
+<year>2011</year>; <volume>5</volume>(<issue>6</issue>):
+<fpage>e115</fpage>&#x02013;<lpage>e125</lpage>.<pub-id pub-id-type="pmid">21604379</pub-id></mixed-citation></ref><ref id="bibr39-2041731419841748"><label>39</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xia</surname><given-names>Y</given-names></name><name><surname>Buja</surname><given-names>LM</given-names></name><name><surname>McMillin</surname><given-names>JB.</given-names></name></person-group>
+<article-title>Change in expression of heart carnitine palmitoyl transferase I
+isoforms with electrical stimulation of cultured rat neonatal cardiac
+myocytes</article-title>. <source>J Biol Chem</source>
+<year>1996</year>; <volume>271</volume>(<issue>20</issue>):
+<fpage>12082</fpage>&#x02013;<lpage>12087</lpage>.<pub-id pub-id-type="pmid">8662650</pub-id></mixed-citation></ref><ref id="bibr40-2041731419841748"><label>40</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xia</surname><given-names>Y</given-names></name><name><surname>Buja</surname><given-names>LM</given-names></name><name><surname>McMillin</surname><given-names>JB.</given-names></name></person-group>
+<article-title>Activation of the cytochrome c gene by electrical stimulation in
+neonatal rat cardiac myocytes: role of NRF-1 and c-Jun</article-title>.
+<source>J Biol Chem</source>
+<year>1998</year>; <volume>273</volume>(<issue>20</issue>):
+<fpage>12593</fpage>&#x02013;<lpage>12598</lpage>.<pub-id pub-id-type="pmid">9575220</pub-id></mixed-citation></ref><ref id="bibr41-2041731419841748"><label>41</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xia</surname><given-names>Y</given-names></name><name><surname>Buja</surname><given-names>LM</given-names></name><name><surname>Scarpulla</surname><given-names>RC</given-names></name><etal>et al</etal></person-group>
+<article-title>Electrical stimulation of neonatal
+cardiomyocytes results in the sequential activation of nuclear genes
+governing mitochondrial proliferation and differentiation</article-title>.
+<source>Proc Natl Acad Sci U S A</source>
+<year>1997</year>; <volume>94</volume>(<issue>21</issue>):
+<fpage>11399</fpage>&#x02013;<lpage>11404</lpage>.<pub-id pub-id-type="pmid">9326621</pub-id></mixed-citation></ref><ref id="bibr42-2041731419841748"><label>42</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xia</surname><given-names>Y</given-names></name><name><surname>McMillin</surname><given-names>JB</given-names></name><name><surname>Lewis</surname><given-names>A</given-names></name><etal>et al</etal></person-group>
+<article-title>Electrical stimulation of neonatal cardiac
+myocytes activates the NFAT3 and GATA4 pathways and up-regulates the adenyl
+succinate synthetase 1 gene</article-title>. <source>J Biol Chem</source>
+<year>2000</year>; <volume>275</volume>(<issue>3</issue>):
+<fpage>1855</fpage>&#x02013;<lpage>1863</lpage>.<pub-id pub-id-type="pmid">10636885</pub-id></mixed-citation></ref><ref id="bibr43-2041731419841748"><label>43</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McDonough</surname><given-names>PM</given-names></name><name><surname>Hanford</surname><given-names>DS</given-names></name><name><surname>Sprenkle</surname><given-names>AB</given-names></name><etal>et al</etal></person-group>
+<article-title>Collaborative roles for c-Jun N-terminal kinase,
+c-Jun, serum response factor, and Sp1 in calcium-regulated myocardial gene
+expression</article-title>. <source>J Biol Chem</source>
+<year>1997</year>; <volume>272</volume>(<issue>38</issue>):
+<fpage>24046</fpage>&#x02013;<lpage>24053</lpage>.<pub-id pub-id-type="pmid">9295358</pub-id></mixed-citation></ref><ref id="bibr44-2041731419841748"><label>44</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>B</given-names></name><name><surname>Wang</surname><given-names>G</given-names></name><name><surname>To</surname><given-names>F</given-names></name><etal>et al</etal></person-group>
+<article-title>Myocardial scaffold-based cardiac tissue
+engineering: application of coordinated mechanical and electrical
+stimulations</article-title>. <source>Langmuir</source>
+<year>2013</year>; <volume>29</volume>(<issue>35</issue>):
+<fpage>11109</fpage>&#x02013;<lpage>11117</lpage>.<pub-id pub-id-type="pmid">23923967</pub-id></mixed-citation></ref><ref id="bibr45-2041731419841748"><label>45</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Williams</surname><given-names>JC</given-names></name><name><surname>Entcheva</surname><given-names>E.</given-names></name></person-group>
+<article-title>Optogenetic versus electrical stimulation of human
+cardiomyocytes: modeling insights</article-title>. <source>Biophys
+J</source>
+<year>2015</year>; <volume>108</volume>(<issue>8</issue>):
+<fpage>1934</fpage>&#x02013;<lpage>1945</lpage>.<pub-id pub-id-type="pmid">25902433</pub-id></mixed-citation></ref><ref id="bibr46-2041731419841748"><label>46</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bruegmann</surname><given-names>T</given-names></name><name><surname>Malan</surname><given-names>D</given-names></name><name><surname>Hesse</surname><given-names>M</given-names></name><etal>et al</etal></person-group>
+<article-title>Optogenetic control of heart muscle in vitro and
+in vivo</article-title>. <source>Nat Methods</source>
+<year>2010</year>; <volume>7</volume>(<issue>11</issue>):
+<fpage>897</fpage>&#x02013;<lpage>900</lpage>.<pub-id pub-id-type="pmid">20881965</pub-id></mixed-citation></ref><ref id="bibr47-2041731419841748"><label>47</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Abilez</surname><given-names>OJ.</given-names></name></person-group>
+<article-title>Cardiac optogenetics</article-title>. <source>Conf Proc IEEE Eng
+Med Biol Soc</source>
+<year>2012</year>; <volume>2012</volume>:
+<fpage>1386</fpage>&#x02013;<lpage>1389</lpage>.<pub-id pub-id-type="pmid">23366158</pub-id></mixed-citation></ref><ref id="bibr48-2041731419841748"><label>48</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Deisseroth</surname><given-names>K.</given-names></name></person-group>
+<article-title>Optogenetics</article-title>. <source>Nat Methods</source>
+<year>2010</year>; <volume>8</volume>(<issue>1</issue>):
+<fpage>26</fpage>&#x02013;<lpage>29</lpage>.<pub-id pub-id-type="pmid">21191368</pub-id></mixed-citation></ref><ref id="bibr49-2041731419841748"><label>49</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Abilez</surname><given-names>OJ</given-names></name><name><surname>Wong</surname><given-names>J</given-names></name><name><surname>Prakash</surname><given-names>R</given-names></name><etal>et al</etal></person-group>
+<article-title>Multiscale computational models for optogenetic
+control of cardiac function</article-title>. <source>Biophys J</source>
+<year>2011</year>; <volume>101</volume>(<issue>6</issue>):
+<fpage>1326</fpage>&#x02013;<lpage>1334</lpage>.<pub-id pub-id-type="pmid">21943413</pub-id></mixed-citation></ref><ref id="bibr50-2041731419841748"><label>50</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nagel</surname><given-names>G</given-names></name><name><surname>Szellas</surname><given-names>T</given-names></name><name><surname>Huhn</surname><given-names>W</given-names></name><etal>et al</etal></person-group>
+<article-title>Channelrhodopsin-2, a directly light-gated
+cation-selective membrane channel</article-title>. <source>Proc Natl Acad
+Sci U S A</source>
+<year>2003</year>; <volume>100</volume>(<issue>24</issue>):
+<fpage>13940</fpage>&#x02013;<lpage>13945</lpage>.<pub-id pub-id-type="pmid">14615590</pub-id></mixed-citation></ref><ref id="bibr51-2041731419841748"><label>51</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jia</surname><given-names>Z</given-names></name><name><surname>Valiunas</surname><given-names>V</given-names></name><name><surname>Lu</surname><given-names>Z</given-names></name><etal>et al</etal></person-group>
+<article-title>Stimulating cardiac muscle by light: cardiac
+optogenetics by cell delivery</article-title>. <source>Circ Arrhythm
+Electrophysiol</source>
+<year>2011</year>; <volume>4</volume>(<issue>5</issue>):
+<fpage>753</fpage>&#x02013;<lpage>760</lpage>.<pub-id pub-id-type="pmid">21828312</pub-id></mixed-citation></ref><ref id="bibr52-2041731419841748"><label>52</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lin</surname><given-names>JY.</given-names></name></person-group>
+<article-title>A user&#x02019;s guide to channelrhodopsin variants: features,
+limitations and future developments</article-title>. <source>Exp
+Physiol</source>
+<year>2011</year>; <volume>96</volume>(<issue>1</issue>):
+<fpage>19</fpage>&#x02013;<lpage>25</lpage>.<pub-id pub-id-type="pmid">20621963</pub-id></mixed-citation></ref><ref id="bibr53-2041731419841748"><label>53</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sakar</surname><given-names>MS</given-names></name><name><surname>Neal</surname><given-names>D</given-names></name><name><surname>Boudou</surname><given-names>T</given-names></name><etal>et al</etal></person-group>
+<article-title>Formation and optogenetic control of engineered
+3D skeletal muscle bioactuators</article-title>. <source>Lab Chip</source>
+<year>2012</year>; <volume>12</volume>(<issue>23</issue>):
+<fpage>4976</fpage>&#x02013;<lpage>4985</lpage>.<pub-id pub-id-type="pmid">22976544</pub-id></mixed-citation></ref><ref id="bibr54-2041731419841748"><label>54</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chan</surname><given-names>V</given-names></name><name><surname>Neal</surname><given-names>DM</given-names></name><name><surname>Uzel</surname><given-names>SG</given-names></name><etal>et al</etal></person-group>
+<article-title>Fabrication and characterization of optogenetic,
+multi-strip cardiac muscles</article-title>. <source>Lab Chip</source>
+<year>2015</year>; <volume>15</volume>(<issue>10</issue>):
+<fpage>2258</fpage>&#x02013;<lpage>2268</lpage>.<pub-id pub-id-type="pmid">25857537</pub-id></mixed-citation></ref><ref id="bibr55-2041731419841748"><label>55</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>J</given-names></name><name><surname>Klos</surname><given-names>M</given-names></name><name><surname>Wilson</surname><given-names>GF</given-names></name><etal>et al</etal></person-group>
+<article-title>Extracellular matrix promotes highly efficient
+cardiac differentiation of human pluripotent stem cells: the matrix sandwich
+method</article-title>. <source>Circ Res</source>
+<year>2012</year>; <volume>111</volume>(<issue>9</issue>):
+<fpage>1125</fpage>&#x02013;<lpage>1136</lpage>.<pub-id pub-id-type="pmid">22912385</pub-id></mixed-citation></ref><ref id="bibr56-2041731419841748"><label>56</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bickford</surname><given-names>ME</given-names></name><name><surname>Zhou</surname><given-names>N</given-names></name><name><surname>Krahe</surname><given-names>TE</given-names></name><etal>et al</etal></person-group>
+<article-title>Retinal and tectal &#x0201c;driver-like&#x0201d; inputs converge
+in the shell of the mouse dorsal lateral geniculate nucleus</article-title>.
+<source>J Neurosci</source>
+<year>2015</year>; <volume>35</volume>(<issue>29</issue>):
+<fpage>10523</fpage>&#x02013;<lpage>10534</lpage>.<pub-id pub-id-type="pmid">26203147</pub-id></mixed-citation></ref><ref id="bibr57-2041731419841748"><label>57</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Clendenon</surname><given-names>SG</given-names></name><name><surname>Young</surname><given-names>PA</given-names></name><name><surname>Ferkowicz</surname><given-names>M</given-names></name><etal>et al</etal></person-group>
+<article-title>Deep tissue fluorescent imaging in scattering
+specimens using confocal microscopy</article-title>. <source>Microsc
+Microanal</source>
+<year>2011</year>; <volume>17</volume>(<issue>4</issue>):
+<fpage>614</fpage>&#x02013;<lpage>617</lpage>.<pub-id pub-id-type="pmid">21729357</pub-id></mixed-citation></ref><ref id="bibr58-2041731419841748"><label>58</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kowalski</surname><given-names>WJ</given-names></name><name><surname>Yuan</surname><given-names>F</given-names></name><name><surname>Nakane</surname><given-names>T</given-names></name><etal>et al</etal></person-group>
+<article-title>Quantification of cardiomyocyte alignment from
+three-dimensional (3D) confocal microscopy of engineered
+tissue</article-title>. <source>Microsc Microanal</source>
+<year>2017</year>; <volume>23</volume>: <fpage>826</fpage>&#x02013;<lpage>842</lpage>.
+doi: <pub-id pub-id-type="doi">10.1017/S1431927617000666</pub-id><pub-id pub-id-type="pmid">28625174</pub-id></mixed-citation></ref><ref id="bibr59-2041731419841748"><label>59</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chan</surname><given-names>TF</given-names></name><name><surname>Vese</surname><given-names>LA.</given-names></name></person-group>
+<article-title>Active contours without edges</article-title>. <source>IEEE Trans
+Image Process</source>
+<year>2001</year>; <volume>10</volume>(<issue>2</issue>):
+<fpage>266</fpage>&#x02013;<lpage>277</lpage>.<pub-id pub-id-type="pmid">18249617</pub-id></mixed-citation></ref><ref id="bibr60-2041731419841748"><label>60</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sternberg</surname><given-names>SR.</given-names></name></person-group>
+<article-title>Biomedical image-processing</article-title>.
+<source>Computer</source>
+<year>1983</year>; <volume>16</volume>(<issue>1</issue>):
+<fpage>22</fpage>&#x02013;<lpage>34</lpage>.</mixed-citation></ref><ref id="bibr61-2041731419841748"><label>61</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Zuiderveld</surname><given-names>K.</given-names></name></person-group>
+<article-title>Contrast limited histogram equalization</article-title>. In:
+<person-group person-group-type="editor"><name><surname>Heckbert</surname><given-names>PS</given-names></name></person-group>
+<italic>(ed.)</italic>
+<source>Graphic gems IV</source>. <publisher-loc>San Diego</publisher-loc>:
+<publisher-name>Academic Press</publisher-name>, <year>1994</year>, pp.
+<fpage>474</fpage>&#x02013;<lpage>485</lpage>.</mixed-citation></ref><ref id="bibr62-2041731419841748"><label>62</label><mixed-citation publication-type="confproc">
+<person-group person-group-type="author"><name><surname>Mouelhi</surname><given-names>A</given-names></name><name><surname>Sayadi</surname><given-names>M</given-names></name><name><surname>Fnaiech</surname><given-names>F</given-names></name></person-group>
+<article-title>Automatic segmentation of clustered breast
+cancer cells using watershed and concave vertex graph</article-title>. In:
+<source>Proceedings of the 2011 international conference on communications,
+computing and control applications (CCCA)</source>, <conf-loc>Hammamet,
+Tunisia</conf-loc>, <conf-date>3&#x02013;5 March 2011</conf-date>
+<publisher-loc>New York</publisher-loc>:
+<publisher-name>IEEE</publisher-name>.</mixed-citation></ref><ref id="bibr63-2041731419841748"><label>63</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sartiani</surname><given-names>L</given-names></name><name><surname>Bettiol</surname><given-names>E</given-names></name><name><surname>Stillitano</surname><given-names>F</given-names></name><etal>et al</etal></person-group>
+<article-title>Developmental changes in cardiomyocytes
+differentiated from human embryonic stem cells: a molecular and
+electrophysiological approach</article-title>. <source>Stem Cells</source>
+<year>2007</year>; <volume>25</volume>(<issue>5</issue>):
+<fpage>1136</fpage>&#x02013;<lpage>1144</lpage>.<pub-id pub-id-type="pmid">17255522</pub-id></mixed-citation></ref><ref id="bibr64-2041731419841748"><label>64</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zsebo</surname><given-names>K</given-names></name><name><surname>Yaroshinsky</surname><given-names>A</given-names></name><name><surname>Rudy</surname><given-names>JJ</given-names></name><etal>et al</etal></person-group>
+<article-title>Long-term effects of AAV1/SERCA2A gene transfer
+in patients with severe heart failure: analysis of recurrent cardiovascular
+events and mortality</article-title>. <source>Circ Res</source>
+<year>2014</year>; <volume>114</volume>(<issue>1</issue>):
+<fpage>101</fpage>&#x02013;<lpage>108</lpage>.<pub-id pub-id-type="pmid">24065463</pub-id></mixed-citation></ref><ref id="bibr65-2041731419841748"><label>65</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Guan</surname><given-names>X</given-names></name><name><surname>Wang</surname><given-names>Z</given-names></name><name><surname>Czerniecki</surname><given-names>S.</given-names></name></person-group>
+<article-title>Use of adeno-associated virus to enrich cardiomyocytes derived
+from human stem cells</article-title>. <source>Hum Gene Ther Clin
+Dev</source>
+<year>2015</year>; <volume>26</volume>(<issue>3</issue>):
+<fpage>194</fpage>&#x02013;<lpage>201</lpage>.<pub-id pub-id-type="pmid">26252064</pub-id></mixed-citation></ref><ref id="bibr66-2041731419841748"><label>66</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sato</surname><given-names>D</given-names></name><name><surname>Shiferaw</surname><given-names>Y</given-names></name><name><surname>Garfinkel</surname><given-names>A</given-names></name><etal>et al</etal></person-group>
+<article-title>Spatially discordant alternans in cardiac
+tissue: role of calcium cycling</article-title>. <source>Circ Res</source>
+<year>2006</year>; <volume>99</volume>(<issue>5</issue>):
+<fpage>520</fpage>&#x02013;<lpage>527</lpage>.<pub-id pub-id-type="pmid">16902177</pub-id></mixed-citation></ref><ref id="bibr67-2041731419841748"><label>67</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hoppe</surname><given-names>UC</given-names></name><name><surname>Marban</surname><given-names>E</given-names></name><name><surname>Johns</surname><given-names>DC.</given-names></name></person-group>
+<article-title>Molecular dissection of cardiac repolarization by in vivo Kv4.3
+gene transfer</article-title>. <source>J Clin Invest</source>
+<year>2000</year>; <volume>105</volume>(<issue>8</issue>):
+<fpage>1077</fpage>&#x02013;<lpage>1084</lpage>.<pub-id pub-id-type="pmid">10772652</pub-id></mixed-citation></ref><ref id="bibr68-2041731419841748"><label>68</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Klimas</surname><given-names>A</given-names></name><name><surname>Ambrosi</surname><given-names>CM</given-names></name><name><surname>Yu</surname><given-names>J</given-names></name><etal>et al</etal></person-group>
+<article-title>OptoDyCE as an automated system for
+high-throughput all-optical dynamic cardiac
+electrophysiology</article-title>. <source>Nat Commun</source>
+<year>2016</year>; <volume>7</volume>: <fpage>11542</fpage>.<pub-id pub-id-type="pmid">27161419</pub-id></mixed-citation></ref></ref-list></back></article>

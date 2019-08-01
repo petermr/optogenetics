@@ -1,0 +1,352 @@
+{
+  "id": [
+    "30582128"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30582128"
+  ],
+  "pmcid": [
+    "PMC6234968"
+  ],
+  "doi": [
+    "10.1136/gpsych-2018-000015"
+  ],
+  "title": [
+    "Viral vectors as a novel tool for clinical and neuropsychiatric research applications."
+  ],
+  "authorString": [
+    "Wang Y, Hu Z, Ju P, Yin S, Wang F, Pan O, Chen J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yao"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Research and development department, OBiO Technology (Shanghai) Corp., Ltd., Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Hu Z"
+          ],
+          "firstName": [
+            "Zhiwei"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Marketing department, OBiO Technology (Shanghai) Corp., Ltd., Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ju P"
+          ],
+          "firstName": [
+            "Peijun"
+          ],
+          "lastName": [
+            "Ju"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Shanghai Mental Health Center, Shanghai Jiao Tong University School of Medicine, Shanghai Key Laboratory of Psychotic Disorders, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yin S"
+          ],
+          "firstName": [
+            "Shan"
+          ],
+          "lastName": [
+            "Yin"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Research and development department, OBiO Technology (Shanghai) Corp., Ltd., Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang F"
+          ],
+          "firstName": [
+            "Fujie"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Research and development department, OBiO Technology (Shanghai) Corp., Ltd., Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Pan O"
+          ],
+          "firstName": [
+            "Oudong"
+          ],
+          "lastName": [
+            "Pan"
+          ],
+          "initials": [
+            "O"
+          ],
+          "affiliation": [
+            "Marketing department, OBiO Technology (Shanghai) Corp., Ltd., Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen J"
+          ],
+          "firstName": [
+            "Jinghong"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Shanghai Mental Health Center, Shanghai Jiao Tong University School of Medicine, Shanghai Key Laboratory of Psychotic Disorders, Shanghai, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "31"
+      ],
+      "journalIssueId": [
+        "2761980"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "General psychiatry"
+          ],
+          "ISOAbbreviation": [
+            "Gen Psychiatr"
+          ],
+          "medlineAbbreviation": [
+            "Gen Psychiatr"
+          ],
+          "NLMid": [
+            "101735271"
+          ],
+          "ISSN": [
+            "2517-729X"
+          ],
+          "ESSN": [
+            "2517-729X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e000015"
+  ],
+  "abstractText": [
+    "Background:A viral vector is a genetically modified vector produced by genetic engineering. As pathogenic genes in the virus are completely or largely eliminated, it is safe to be widely used in multidisciplinary research fields for expressing genes, such as neuroscience, metabolism, oncology and so on. Neuroscience and psychiatry are the most closely related disciplines in either basic research or clinical research, but the application of viral vectors in neuropsychiatry has not received much attention or not been widely accepted. Objective:This article will focus on the application of viral vectors in basic and clinical neuropsychiatric research. Methods:By using viral vectors, scientists can perform neurological labelling, gene expression regulation and physiological manipulation for investigating phenomenon from molecular mechanisms to behaviours. At the same time, to treat mental or neurological disorders, viral vectors can be designed for gene therapy, which alter gene expression levels or repair mutated genes in the brains of patients. Perspective:Viral vectors play an important role in basic research and clinical applications. To further understand brain function and prevent mental and neurological diseases, we hypothesize that viral vectors could be used along with various advanced technologies, such as sequencing and high-throughput expression analysis in the neuroscience research field."
+  ],
+  "affiliation": [
+    "Research and development department, OBiO Technology (Shanghai) Corp., Ltd., Shanghai, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "methods-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Gene therapy",
+        "Viral vector",
+        "Optogenetics",
+        "Gene Manipulation",
+        "Tracing Neural Circuits"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6234968?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6234968"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1136/gpsych-2018-000015"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-25"
+  ],
+  "firstIndexDate": [
+    "2018-12-31"
+  ],
+  "dateOfRevision": [
+    "2018-12-26"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-25"
+  ],
+  "firstPublicationDate": [
+    "2018-10-25"
+  ]
+}

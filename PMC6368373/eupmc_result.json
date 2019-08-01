@@ -1,0 +1,287 @@
+{
+  "id": [
+    "30239748"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30239748"
+  ],
+  "pmcid": [
+    "PMC6368373"
+  ],
+  "doi": [
+    "10.1093/ijnp/pyy081"
+  ],
+  "title": [
+    "Circuit Mechanisms of Reward, Anhedonia, and Depression."
+  ],
+  "authorString": [
+    "Höflich A, Michenthaler P, Kasper S, Lanzenberger R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Höflich A"
+          ],
+          "firstName": [
+            "Anna"
+          ],
+          "lastName": [
+            "Höflich"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Psychotherapy, Medical University of Vienna, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Michenthaler P"
+          ],
+          "firstName": [
+            "Paul"
+          ],
+          "lastName": [
+            "Michenthaler"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Psychotherapy, Medical University of Vienna, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Kasper S"
+          ],
+          "firstName": [
+            "Siegfried"
+          ],
+          "lastName": [
+            "Kasper"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Psychotherapy, Medical University of Vienna, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Lanzenberger R"
+          ],
+          "firstName": [
+            "Rupert"
+          ],
+          "lastName": [
+            "Lanzenberger"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Psychotherapy, Medical University of Vienna, Austria."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "22"
+      ],
+      "journalIssueId": [
+        "2782285"
+      ],
+      "dateOfPublication": [
+        "2019 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The international journal of neuropsychopharmacology"
+          ],
+          "ISOAbbreviation": [
+            "Int. J. Neuropsychopharmacol."
+          ],
+          "medlineAbbreviation": [
+            "Int J Neuropsychopharmacol"
+          ],
+          "NLMid": [
+            "9815893"
+          ],
+          "ISSN": [
+            "1461-1457"
+          ],
+          "ESSN": [
+            "1469-5111"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "105-118"
+  ],
+  "abstractText": [
+    "Pleasure and motivation are important factors for goal-directed behavior and well-being in both animals and humans. Intact hedonic capacity requires an undisturbed interplay between a number of different brain regions and transmitter systems. Concordantly, dysfunction of networks encoding for reward have been shown in depression and other psychiatric disorders. The development of technological possibilities to investigate connectivity on a functional level in humans and to directly influence networks in animals using optogenetics among other techniques has provided new important insights in this field of research.In this review, we aim to provide an overview on the neurobiological substrates of anhedonia on a network level. For this purpose, definition of anhedonia and the involved reward components are described first, then current data on reward networks in healthy individuals and in depressed patients are summarized, and the roles of different neurotransmitter systems involved in reward processing are specified. Based on this information, the impact of different therapeutic approaches on reward processing is described with a particular focus on deep brain stimulation (DBS) as a possibility for a direct modulation of human brain structures in vivo.Overall, results of current studies emphasize the importance of anhedonia in psychiatric disorders and the relevance of targeting this phenotype for a successful psychiatric treatment. However, more data incorporating these results for the refinement of methodological approaches are needed to be able to develop individually tailored therapeutic concepts based on both clinical and neurobiological profiles of patients."
+  ],
+  "affiliation": [
+    "Department of Psychiatry and Psychotherapy, Medical University of Vienna, Austria."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6368373?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6368373"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/ijnp/pyy081"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-09-22"
+  ],
+  "firstIndexDate": [
+    "2018-09-21"
+  ],
+  "dateOfRevision": [
+    "2019-02-19"
+  ],
+  "firstPublicationDate": [
+    "2019-02-01"
+  ]
+}

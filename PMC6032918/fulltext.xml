@@ -1,0 +1,739 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="brief-report"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Angew Chem Int Ed Engl</journal-id><journal-id journal-id-type="iso-abbrev">Angew. Chem. Int. Ed. Engl</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1521-3773</journal-id><journal-id journal-id-type="publisher-id">ANIE</journal-id><journal-title-group><journal-title>Angewandte Chemie (International Ed. in English)</journal-title></journal-title-group><issn pub-type="ppub">1433-7851</issn><issn pub-type="epub">1521-3773</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6032918</article-id><article-id pub-id-type="doi">10.1002/anie.201713080</article-id><article-id pub-id-type="publisher-id">ANIE201713080</article-id><article-categories><subj-group subj-group-type="overline"><subject>Communication</subject></subj-group><subj-group subj-group-type="heading"><subject>Communications</subject><subj-group subj-group-type="heading"><subject>Optogenetics</subject></subj-group></subj-group></article-categories><title-group><article-title>Optogenetic Control of Voltage&#x02010;Gated Calcium Channels</article-title></title-group><contrib-group><contrib id="anie201713080-cr-0001" contrib-type="author"><name><surname>Ma</surname><given-names>Guolin</given-names><prefix>Dr.</prefix></name><xref ref-type="aff" rid="anie201713080-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="anie201713080-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="anie201713080-cr-0002" contrib-type="author"><name><surname>Liu</surname><given-names>Jindou</given-names></name><xref ref-type="aff" rid="anie201713080-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="author-notes" rid="anie201713080-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="anie201713080-cr-0003" contrib-type="author"><name><surname>Ke</surname><given-names>Yuepeng</given-names></name><xref ref-type="aff" rid="anie201713080-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="anie201713080-note-1001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="anie201713080-cr-0004" contrib-type="author"><name><surname>Liu</surname><given-names>Xin</given-names></name><xref ref-type="aff" rid="anie201713080-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="anie201713080-cr-0005" contrib-type="author"><name><surname>Li</surname><given-names>Minyong</given-names><prefix>Prof.</prefix></name><xref ref-type="aff" rid="anie201713080-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="anie201713080-cr-0006" contrib-type="author"><name><surname>Wang</surname><given-names>Fen</given-names><prefix>Prof.</prefix></name><xref ref-type="aff" rid="anie201713080-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="anie201713080-cr-0007" contrib-type="author"><name><surname>Han</surname><given-names>Gang</given-names><prefix>Prof.</prefix></name><xref ref-type="aff" rid="anie201713080-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="anie201713080-cr-0008" contrib-type="author"><name><surname>Huang</surname><given-names>Yun</given-names><prefix>Prof.</prefix></name><xref ref-type="aff" rid="anie201713080-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="anie201713080-cr-0009" contrib-type="author" corresp="yes"><name><surname>Wang</surname><given-names>Youjun</given-names><prefix>Prof.</prefix></name><address><email>wyoujun@bnu.edu.cn</email></address><xref ref-type="aff" rid="anie201713080-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="anie201713080-cr-0010" contrib-type="author" corresp="yes"><name><surname>Zhou</surname><given-names>Yubin</given-names><prefix>Prof.</prefix></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-7962-0517</contrib-id><address><email>yzhou@ibt.tamhsc.edu</email></address><xref ref-type="aff" rid="anie201713080-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="anie201713080-aff-0005">
+<sup>5</sup>
+</xref></contrib></contrib-group><aff id="anie201713080-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Institute of Biosciences and Technology</named-content>
+<named-content content-type="organisation-division">College of Medicine</named-content>
+<institution>Texas A&#x00026;M University</institution>
+<named-content content-type="street">2121 W Holcombe Blvd</named-content>
+<named-content content-type="city">Houston</named-content>
+<named-content content-type="country-part">TX</named-content>
+<named-content content-type="post-code">77030</named-content>
+<country country="US">USA</country>
+</aff><aff id="anie201713080-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Beijing Key Laboratory of Gene Resource and Molecular, Development</named-content>
+<named-content content-type="organisation-division">College of Life Sciences</named-content>
+<institution>Beijing Normal University</institution>
+<named-content content-type="city">Beijing</named-content>
+<named-content content-type="post-code">100875</named-content>
+<country country="CN">China</country>
+</aff><aff id="anie201713080-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Medicinal Chemistry, Key Laboratory of Chemical Biology</named-content>
+<named-content content-type="organisation-division">School of Pharmacy</named-content>
+<institution>Shandong University</institution>
+<named-content content-type="city">Jinan</named-content>
+<named-content content-type="country-part">Shandong</named-content>
+<named-content content-type="post-code">250012</named-content>
+<country country="CN">China</country>
+</aff><aff id="anie201713080-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Department of Biochemistry and Molecular Pharmacology</named-content>
+<institution>University of Massachusetts Medical School</institution>
+<named-content content-type="city">Worcester</named-content>
+<named-content content-type="country-part">MA</named-content>
+<named-content content-type="post-code">01605</named-content>
+<country country="US">USA</country>
+</aff><aff id="anie201713080-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Department of Medical Physiology</named-content>
+<named-content content-type="organisation-division">College of Medicine</named-content>
+<institution>Texas A&#x00026;M University</institution>
+<named-content content-type="city">Temple</named-content>
+<named-content content-type="country-part">TX</named-content>
+<named-content content-type="post-code">76504</named-content>
+<country country="US">USA</country>
+</aff><author-notes><fn id="anie201713080-note-1001"><label>&#x02020;</label><p>These authors contributed equally.</p></fn></author-notes><pub-date pub-type="epub"><day>16</day><month>4</month><year>2018</year></pub-date><pub-date pub-type="ppub"><day>11</day><month>6</month><year>2018</year></pub-date><volume>57</volume><issue>24</issue><issue-id pub-id-type="doi">10.1002/anie.v57.24</issue-id><fpage>7019</fpage><lpage>7022</lpage><history><date date-type="received"><day>19</day><month>12</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 Wiley&#x02010;VCH Verlag GmbH & Co. KGaA, Weinheim <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. Published by Wiley-VCH Verlag GmbH &#x00026; Co. KGaA.</copyright-statement><license license-type="creativeCommonsBy-nc"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:ANIE-57-7019.pdf"/><abstract><title>Abstract</title><p>Voltage&#x02010;gated Ca<sup>2+</sup> (Ca<sub>V</sub>) channels mediate Ca<sup>2+</sup> entry into excitable cells to regulate a myriad of cellular events following membrane depolarization. We report the engineering of RGK GTPases, a class of genetically encoded Ca<sub>V</sub> channel modulators, to enable photo&#x02010;tunable modulation of Ca<sub>V</sub> channel activity in excitable mammalian cells. This optogenetic tool (designated optoRGK) tailored for Ca<sub>V</sub> channels could find broad applications in interrogating a wide range of Ca<sub>V</sub>&#x02010;mediated physiological processes.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="anie201713080-kwd-0001">calcium signaling</kwd><kwd id="anie201713080-kwd-0002">ion channels</kwd><kwd id="anie201713080-kwd-0003">optogenetics</kwd><kwd id="anie201713080-kwd-0004">protein engineering</kwd><kwd id="anie201713080-kwd-0005">synthetic biology</kwd></kwd-group><funding-group><award-group><funding-source>National Institutes of Health</funding-source><award-id>R21GM126532</award-id><award-id>R01GM112003</award-id></award-group><award-group><funding-source>Cancer Prevention and Research Institute of Texas</funding-source><award-id>RP170660</award-id><award-id>RR140053</award-id></award-group><award-group><funding-source>Welch Foundation</funding-source><award-id>BE- 1913</award-id></award-group><award-group><funding-source>American Cancer Society</funding-source><award-id>RSG-16-215-01-TBE</award-id></award-group></funding-group><counts><fig-count count="5"/><table-count count="0"/><ref-count count="39"/><page-count count="4"/><word-count count="0"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>anie201713080</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>June 11, 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.4.3 mode:remove_FC converted:05.07.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="self-citation" id="anie201713080-self">G. Ma, J. Liu, Y. Ke, X. Liu, M. Li, F. Wang, G. Han, Y. Huang, Y. Wang, Y. Zhou, <italic>Angew. Chem. Int. Ed.</italic>
+<bold>2018</bold>, <italic>57</italic>, 7019.</mixed-citation>
+</p></notes></front><body><p>Voltage&#x02010;gated Ca<sup>2+</sup> (Ca<sub>V</sub>) channels constitute the major route of Ca<sup>2+</sup> entry into cells of the nervous and cardiovascular systems, as well as other electrically excitable cells.<xref rid="anie201713080-bib-0001" ref-type="ref">1</xref> Ca<sub>V</sub> channels respond to membrane depolarization to permit Ca<sup>2+</sup> influx, thereby playing instrumental roles in Ca<sup>2+</sup>&#x02010;dependent physiological processes, including neurotransmitter/hormone release, gene expression, and muscle contraction.<xref rid="anie201713080-bib-0001b" ref-type="ref">1b</xref>, <xref rid="anie201713080-bib-0001c" ref-type="ref">1c</xref> Deregulated Ca<sub>V</sub> channels can give rise to pathophysiological conditions ranging from cardiovascular disorders to psychiatric conditions.<xref rid="anie201713080-bib-0002" ref-type="ref">2</xref> Consequently, Ca<sub>V</sub> channels are important targets for therapeutic intervention and physiological regulation.<xref rid="anie201713080-bib-0003" ref-type="ref">3</xref> Currently widely used Ca<sub>V</sub> channel blockers (e.g., dihydropyridines) have prominent drawbacks, including off&#x02010;target toxicity, lack of spatial control, and non&#x02010;reversibility.<xref rid="anie201713080-bib-0003b" ref-type="ref">3b</xref>, <xref rid="anie201713080-bib-0004" ref-type="ref">4</xref> New interventional approaches to control Ca<sub>V</sub> channels are thus needed.</p><p>Optogenetics, which involves the incorporation of synthetic photosensitive modules into cells of living tissues to control cellular activities with high spatiotemporal precision, provides an ideal solution to overcome the drawbacks associated with conventional Ca<sub>V</sub> channel blockers.<xref rid="anie201713080-bib-0005" ref-type="ref">5</xref> The Ras&#x02010;like GTPases Rad/Rem/Gem/Kir (RGK), which function as negative regulators of Ca<sub>V</sub> channels, are considered to be the prime candidates for generating optogenetic tools to modulate Ca<sub>V</sub> channels.<xref rid="anie201713080-bib-0006" ref-type="ref">6</xref> Given that membrane anchoring is necessary for RGKs to exert their suppressive effects on Ca<sub>V</sub> channels,<xref rid="anie201713080-bib-0006b" ref-type="ref">6b</xref>, <xref rid="anie201713080-bib-0007" ref-type="ref">7</xref> we reasoned that Ca<sub>V</sub> channels could be remotely modulated by harnessing light to control the translocation of RGK to the plasma membrane (PM). We therefore engineered a set of optogenetic constructs by using a light&#x02010;sensitive heterodimerization system to control the subcellular localization of engineered Rem (Scheme&#x02005;<xref rid="anie201713080-fig-5001" ref-type="fig">1</xref> and Figure&#x02005;S1 in the Supporting Information). We chose the optical dimerizer pair iLID (LOV2&#x02010;ssrA) and sspB because of their small size, fast photoresponsive kinetics, low background interaction, and minimized perturbation to endogenous signaling pathways.<xref rid="anie201713080-bib-0008" ref-type="ref">8</xref>
+</p><fig fig-type="Scheme" xml:lang="en" id="anie201713080-fig-5001" orientation="portrait" position="float"><label>Scheme 1</label><caption><p>Design of optoRGK to photo&#x02010;tune CaV channel activity. Spatiotemporal control of the Rem1 core domain is achieved by utilizing the LOV2&#x02010;ssrA/sspB optical dimerizer pair. The light&#x02010;inducible cytosol&#x02010;to&#x02010;PM translocation of Rem enables inducible suppression of Ca<sub>V</sub> channel activity. Green crescent=1<sup>st</sup> photodimerizer component (sspB), blue structure=membrane tethered LOV2, pink sphere=2<sup>nd</sup> photodimerizer component (ssrA), LOV2+ssrA=improved light&#x02010;induced dimer (iLID) protein.</p></caption><graphic id="nlm-graphic-3" xlink:href="ANIE-57-7019-g004"/></fig><p>To enable light&#x02010;inducible cytosol&#x02010;to&#x02010;PM translocation of engineered Rem, we set out to install sspB into different positions of Rem<sub>1&#x02010;266</sub> tagged with the red fluorescent protein mCherry (mCherry&#x02010;Rem<sub>1&#x02010;266</sub>) via flexible linkers with varying lengths (Figures&#x02005;S1&#x02013;3). In parallel, we tethered iLID tagged with the yellow fluorescent protein Venus (Venus&#x02010;iLID) to the PM with a C&#x02010;terminal PM&#x02010;targeting sequence (CAAX) derived from KRas4B<xref rid="anie201713080-bib-0008" ref-type="ref">8</xref> or the PM&#x02010;tethering motif (Lyn11) from the tyrosine&#x02010;protein kinase Lyn.<xref rid="anie201713080-bib-0009" ref-type="ref">9</xref> We then co&#x02010;transfected these two constructs into HeLa cells and examined the reversible recruitment of cytosolic Rem<sub>1&#x02010;266</sub> to the PM (Figure&#x02005;<xref rid="anie201713080-fig-0001" ref-type="fig">1</xref>&#x02009;a, Figures&#x02005;S1&#x02013;4). In the dark, mCherry&#x02010;Rem<sub>1&#x02010;266</sub>&#x02013;sspB was evenly distributed in the cytosol (Figure&#x02005;<xref rid="anie201713080-fig-0001" ref-type="fig">1</xref>&#x02009;a). Upon blue light illumination, photoexcitation produced a covalent adduct between residue C450 of LOV2 and the cofactor FMN, thereby exposing the caged ssrA component of iLID to restore its interaction with sspB. Consequently, mCherry&#x02010;Rem<sub>1&#x02010;266</sub>&#x02013;sspB was recruited toward the PM within seconds (t<sub>1/2</sub>, <sub>on</sub>=3.2&#x000b1;1.0 sec). Upon withdrawal of light, mCherry&#x02010;Rem<sub>1&#x02010;266</sub>&#x02013;sspB dissociated from the PM&#x02010;resident ssrA and diffused back to the cytosol (t<sub>1/2</sub>, <sub>off</sub>=23.0&#x000b1;2.4 sec; Figure&#x02005;<xref rid="anie201713080-fig-0001" ref-type="fig">1</xref>, Figure&#x02005;S3, and Movie S1). After screening over 20 constructs with different combinations of key elements (various Rem fragments, linkers, PM&#x02010;targeting motifs, and insertion sites), we identified mCherry&#x02010;Rem1<sub>1&#x02010;266</sub>&#x02013;sspB/iLID&#x02010;CAAX as an ideal candidate because it exhibited an optimal performance with high sensitivity and relatively fast kinetics (Figures&#x02005;S1&#x02013;S3). To enable a near 1:1 co&#x02010;expression of the two components using a single construct within the same cells, we used a multicistronic expression system by utilizing the self&#x02010;cleaving 2A&#x02005;peptide (P2A)to generate fluorescent protein (FP)&#x02010;tagged (mCherry or CFP) Rem1<sub>1&#x02010;266</sub>&#x02013;sspB&#x02010;P2A&#x02010;iLID&#x02010;CAAX.<xref rid="anie201713080-bib-0010" ref-type="ref">10</xref> We named the system optoRGK and used the FP&#x02010;tagged constructs for further characterization and applications in excitable cells.
+</p><fig fig-type="Figure" xml:lang="en" id="anie201713080-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Visualization of the reversible recruitment of the Rem core domain (Rem<sub>1&#x02010;266</sub>, without the C&#x02010;terminus) to the PM in response to blue&#x02010;light illumination. a)&#x02005;Representative confocal images showing light&#x02010;inducible cytosol&#x02010;to&#x02010;PM translocation of mCherry&#x02010;Rem1<sub>1&#x02010;266</sub>&#x02013;sspB in HeLa cells co&#x02010;expressing Venus&#x02010;iLID&#x02010;CAAX. The images represent the same cell in the dark (black bar) or exposed to blue light at 470&#x02005;nm (40&#x02005;&#x003bc;W&#x02009;mm<sup>&#x02212;2</sup>; blue bar). Scale bar: 5&#x02005;&#x003bc;m. b)&#x02005;Quantification of cytosolic mCherry signals of optoRGK over five repeated light&#x02013;dark cycles. <italic>n</italic>=34 cells from three independent experiments. Error bars denote the SEM.</p></caption><graphic id="nlm-graphic-5" xlink:href="ANIE-57-7019-g001"/></fig><p>To determine whether optoRGK could photo&#x02010;modulate Ca<sub>V</sub> channels, we expressed optoRGK in HEK293 cells stably expressing the human Ca<sub>V</sub>1.2 channel components (HEK&#x02010;Ca<sub>V</sub>1.2)<xref rid="anie201713080-bib-0011" ref-type="ref">11</xref> and evaluated membrane&#x02010;depolarization&#x02010;induced Ca<sup>2+</sup> entry with a red genetically encoded Ca<sup>2+</sup> sensor jRGCaMP1b<xref rid="anie201713080-bib-0012" ref-type="ref">12</xref> (Figure&#x02005;<xref rid="anie201713080-fig-0002" ref-type="fig">2</xref>&#x02009;a,b) or the green Ca<sup>2+</sup> dye Fluo&#x02010;4 (Figure&#x02005;S3). 50&#x02005;m<sc>m</sc> potassium chloride (KCl) was employed to induce membrane depolarization. In the dark, addition of KCl elicited a pulse of Ca<sub>V</sub>&#x02010;mediated Ca<sup>2+</sup> influx in both control and optoRGK&#x02010;expressing cells (Figure&#x02005;<xref rid="anie201713080-fig-0002" ref-type="fig">2</xref>, 1<sup>st</sup> cycle). Upon blue&#x02010;light illumination, cells overexpressing optoRGK showed a significant reduction in KCl&#x02010;induced Ca<sup>2+</sup> entry compared to control cells (Figure&#x02005;<xref rid="anie201713080-fig-0002" ref-type="fig">2</xref>&#x02009;a, 2<sup>nd</sup> cycle). Furthermore, Ca<sup>2+</sup> influx could be restored in the absence of blue light (Figure&#x02005;<xref rid="anie201713080-fig-0002" ref-type="fig">2</xref>&#x02009;a, 3<sup>rd</sup> cycle), thereby attesting to the reversibility of optoRGK in the regulation of Ca<sub>V</sub> channels. In parallel, we performed electrophysiological studies to independently confirm optoRGK&#x02010;mediated, light&#x02010;switchable modulation of Ca<sub>V</sub> channels in HEK293&#x02010;Ca<sub>V</sub>1.2 cells. In the dark, cells expressing optoRGK showed robust whole&#x02010;cell currents with a typical Ca<sub>V</sub> I&#x02010;V relationship and amplitudes similar to those of control cells (maximal peak current density&#x02248;21.2&#x02005;pA/pF, <italic>n</italic>=12; Figure&#x02005;<xref rid="anie201713080-fig-0002" ref-type="fig">2</xref>&#x02009;c,d). However, upon receiving blue&#x02010;light stimulation, the amplitudes of depolarization&#x02010;induced whole&#x02010;cell currents were significantly diminished (maximal peak current density&#x02248;6.3&#x02005;pA/pF, <italic>n</italic>=15; Figure&#x02005;<xref rid="anie201713080-fig-0002" ref-type="fig">2</xref>&#x02009;c,d). These results clearly established optoRGK as a genetically encoded light&#x02010;switchable channel modulator that allows optical inhibition of Ca<sub>V</sub> channels in excitable cells.
+</p><fig fig-type="Figure" xml:lang="en" id="anie201713080-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>OptoRGK&#x02010;mediated photoswitchable inhibition of Ca<sup>2+</sup> entry through Ca<sub>V</sub>1.2 channels. a)&#x02005;Ca<sup>2+</sup> influx in HEK&#x02010;Ca<sub>V</sub>1.2 cells transiently expressing optoRGK and the red Ca<sup>2+</sup> sensor jRCaMP1b with and without blue&#x02010;light stimulation. Cells transfected with the empty vector are used as control. Membrane&#x02010;depolarization&#x02010;induced Ca<sup>2+</sup> entry was elicited by adding 50&#x02005;m<sc>m</sc> KCl (black line below the curves; three repeated cycles) to transfected cells. Blue line represents light stimulation under 470&#x02005;nm with a power density of 40&#x02005;&#x003bc;W&#x02009;mm<sup>&#x02212;2</sup>. b)&#x02005;Bar graphs showing the statistical results of mean Ca<sup>2+</sup> entry for each cycle. c)&#x02005;The current&#x02013;voltage relationships of Ca<sub>V</sub> channels in HEK&#x02010;Cav1.2 cells transfected with optoRGK. Cells were either shielded from light or exposed to blue light prior to electrophysiological recording. d)&#x02005;Bar graphs showing the statistical results of peak whole&#x02010;cell currents induced by pulses of +10&#x02005;mV depolarization (pA/pF) in HEK&#x02010;Ca<sub>V</sub>1.2 cells before and after photo&#x02010;stimulation. All data were presented as mean&#x000b1;SEM. **<italic>P</italic>&#x0003c;0.01 (paired Student's <italic>t</italic>&#x02010;test).</p></caption><graphic id="nlm-graphic-7" xlink:href="ANIE-57-7019-g002"/></fig><p>We next moved on to test optoRGK in C2C12 cells, a mouse myoblast cell line<xref rid="anie201713080-bib-0013" ref-type="ref">13</xref> with functional Ca<sub>V</sub> channels.<xref rid="anie201713080-bib-0006b" ref-type="ref">6b</xref> Again, we observed light&#x02010;dependent inhibition of Ca<sup>2+</sup> influx in this excitable cell line (Figure&#x02005;S5). To further test optoRGK in more physiologically relevant systems, we introduced it into HL&#x02010;1 cardiomyocytes, a well&#x02010;characterized atrial myocyte culture line derived from the adult mouse that retains many of the differentiated properties of cardiac cells,<xref rid="anie201713080-bib-0014" ref-type="ref">14</xref> including rhythmic oscillations of cytosolic Ca<sup>2+</sup> (Movie S2). By using Fluo&#x02010;4 as the Ca<sup>2+</sup> indicator, we first evaluated rhythmic Ca<sup>2+</sup> oscillations in HL&#x02010;1 cells with and without overexpression of full length Rem or its truncated version Rem<sub>1&#x02010;266</sub> (Figure&#x02005;S6, Movies&#x02005;S3 and S4). Both control cells and HL&#x02010;1 cells transfected with mCherry&#x02010;Rem<sub>1&#x02010;266</sub>&#x02013;sspB (Figure&#x02005;S6b) exhibited rhythmic Ca<sup>2+</sup> oscillations, while cardiomyocytes expressing the full&#x02010;length Rem failed to evoke Ca<sup>2+</sup> transients (Figure&#x02005;S6a). These findings are consistent with the results obtained from C2C12 myoblast cells (Figure&#x02005;S5) and other types of excitable cells.<xref rid="anie201713080-bib-0015" ref-type="ref">15</xref>
+</p><p>Having validated the use of HL&#x02010;1 cardiomyocytes to test our tool, we next examined the rhythmic oscillations of cytosolic Ca<sup>2+</sup> (Fluo&#x02010;4 signals as readout) in HL&#x02010;1 cells expressing optoRGK. Upon blue&#x02010;light illumination, mCherry&#x02010;Rem1<sub>1&#x02010;266</sub>&#x02013;sspB translocated from the cytosol to close to the PM within several seconds (Figure&#x02005;S7), accompanied by the attenuation of oscillatory Ca<sup>2+</sup> signals (Figure&#x02005;<xref rid="anie201713080-fig-0003" ref-type="fig">3</xref>&#x02009;a, bottom, and Movie S5). By contrast, the control cells displayed regular Ca<sup>2+</sup> oscillations under blue light. To further validate whether such action was reversible in HL&#x02010;1 cells, we used the red Ca<sup>2+</sup> indicator Cal&#x02010;590 (excitation at 562&#x02005;nm without pre&#x02010;activating optoRGK) rather than Fluo&#x02010;4 to monitor Ca<sup>2+</sup> oscillations (Figure&#x02005;<xref rid="anie201713080-fig-0003" ref-type="fig">3</xref>&#x02009;b). HL&#x02010;1 cells expressing optoRGK showed regular Ca<sup>2+</sup> spikes in the dark. However, upon blue&#x02010;light illumination, the rhythmic oscillations were substantially attenuated. Notably, regular Ca<sup>2+</sup> oscillations were restored in the same HL&#x02010;1 cardiomyocyte after removal of the light source (Figure&#x02005;<xref rid="anie201713080-fig-0003" ref-type="fig">3</xref>&#x02009;b).
+</p><fig fig-type="Figure" xml:lang="en" id="anie201713080-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>OptoRGK&#x02010;mediated light&#x02010;inducible inhibition of the rhythmic oscillations of cytosolic Ca<sup>2+</sup> in cardiac cells. a)&#x02005;Ca<sup>2+</sup> oscillations reported by Fluo&#x02010;4 in HL&#x02010;1 cells with (bottom) and without (top) expression of optoRGK. Kymographs of Fluo&#x02010;4 signals in a representative HL&#x02010;1 cell are shown above the traces. Excitation was set at 488&#x02005;nm to record Fluo&#x02010;4 signals while simultaneously photoactivating optoRGK. b)&#x02005;Ca<sup>2+</sup> oscillations in HL&#x02010;1 cells monitored by Cal&#x02010;590. Blue bar=blue light illumination at 470&#x02005;nm (40&#x02005;&#x003bc;W&#x02009;mm<sup>&#x02212;2</sup>).</p></caption><graphic id="nlm-graphic-9" xlink:href="ANIE-57-7019-g003"/></fig><p>Taken together, compared with traditional small&#x02010;molecule Ca<sub>V</sub> channel blockers that often lack reversibility, selectivity, and tissue&#x02010;specificity, engineered RGK proteins could serve as promising candidates to enable spatiotemporal control of Ca<sub>V</sub> channels with a simple pulse of light. This study complements the recent development of engineered stromal interaction molecule 1 (STIM1) to photo&#x02010;regulate endogenous Ca<sup>2+</sup> channels in mammalian cells (e.g., optoSTIM1<xref rid="anie201713080-bib-0016" ref-type="ref">16</xref> and Opto&#x02010;CRAC<xref rid="anie201713080-bib-0017" ref-type="ref">17</xref>). We anticipate that the optoRGK tool developed in the current study will find broad applications in interrogating a wide range of Ca<sup>2+</sup>&#x02010;dependent physiological processes in mammals.</p><p>Proof&#x02010;of&#x02010;concept experiments have already demonstrated the potential of using RGK to treat heart disease.<xref rid="anie201713080-bib-0018" ref-type="ref">18</xref> To test potential in&#x02005;vivo applications, we plan to express optoRGK in the atrioventricular node of rodent models with atrial fibrillation disease,<xref rid="anie201713080-bib-0019" ref-type="ref">19</xref> and examine whether photostimulation could suppress aberrant atrioventricular nodal conduction to intervene atrial fibrillation.</p><p>Given that RGK proteins primarily exert suppressive effects on high&#x02010;voltage&#x02010;activated Ca<sup>2+</sup> (Ca<sub>V</sub>1/Ca<sub>V</sub>2) channels<xref rid="anie201713080-bib-0020" ref-type="ref">20</xref> and that LOV2&#x02010;based photoswitches have relatively slow kinetics, the efficacy of optoRGK will likely depend on the distribution and endogenous levels of Ca<sub>V</sub> channel subtypes in different cell types and tissues. In its current configuration, optoRGK is well suited to modulate cardiomyocytes because of the abundant expression of <sc>l</sc>&#x02010;type Ca<sub>V</sub>1.1/Ca<sub>V</sub>1.2 channels and the relatively long duration of cardiac action potentials. Its compatibility with neurons and other types of electrically excitable cells (e.g., pancreatic beta cells) remains to be tested.</p><sec disp-level="2" id="anie201713080-sec-0003" sec-type="COI-statement"><title>Conflict of interest</title><p>The authors declare no conflict of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><p>As a service to our authors and readers, this journal provides supporting information supplied by the authors. Such materials are peer reviewed and may be re&#x02010;organized for online delivery, but are not copy&#x02010;edited or typeset. Technical support issues arising from supporting information (other than missing files) should be addressed to the authors.</p></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="ANIE-57-7019-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="ANIE-57-7019-s002.avi"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="ANIE-57-7019-s003.avi"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="ANIE-57-7019-s004.avi"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="ANIE-57-7019-s005.avi"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="ANIE-57-7019-s006.avi"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="anie201713080-sec-0002"><title>Acknowledgements</title><p>This work was supported by grants from NIH (R21GM126532 and R01GM112003), CPRIT (RP170660 and RR140053), the National Natural Science foundation of China (NSFC&#x02010;31471279 and NSFC&#x02010;81728019), the Recruitment Program for Young Professionals of China, the Fundamental Research Funds for the Central Universities (2017STUD20), the Welch Foundation (BE&#x02010;1913) and the American Cancer Society (RSG&#x02010;16&#x02013;215&#x02010;01&#x02010;TBE).</p></ack><ref-list><ref id="anie201713080-bib-0001"><label>1</label><mixed-citation publication-type="miscellaneous" id="anie201713080-cit-0001">&#x000a0;</mixed-citation></ref><ref id="anie201713080-bib-0001a"><label>1a</label><mixed-citation publication-type="journal" id="anie201713080-cit-0002">
+<string-name>
+<given-names>S. N.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>P. O.</given-names>
+<surname>Berggren</surname>
+</string-name>, <source xml:lang="en">Am. J. Physiol.: Endocrinol. Metab.</source>
+<year>2005</year>, <volume>288</volume>, E<fpage>16</fpage>&#x02013;<lpage>28</lpage>;</mixed-citation></ref><ref id="anie201713080-bib-0001b"><label>1b</label><mixed-citation publication-type="journal" id="anie201713080-cit-0003">
+<string-name>
+<given-names>D.</given-names>
+<surname>Atlas</surname>
+</string-name>, <source xml:lang="en">Annu. Rev. Biochem.</source>
+<year>2013</year>, <volume>82</volume>, <fpage>607</fpage>&#x02013;<lpage>635</lpage>;<pub-id pub-id-type="pmid">23331239</pub-id></mixed-citation></ref><ref id="anie201713080-bib-0001c"><label>1c</label><mixed-citation publication-type="journal" id="anie201713080-cit-0004">
+<string-name>
+<given-names>W. A.</given-names>
+<surname>Catterall</surname>
+</string-name>, <source xml:lang="en">Annu. Rev. Cell Dev. Biol.</source>
+<year>2000</year>, <volume>16</volume>, <fpage>521</fpage>&#x02013;<lpage>555</lpage>.<pub-id pub-id-type="pmid">11031246</pub-id></mixed-citation></ref><ref id="anie201713080-bib-0002"><label>2</label><mixed-citation publication-type="miscellaneous" id="anie201713080-cit-0005">&#x000a0;</mixed-citation></ref><ref id="anie201713080-bib-0002a"><label>2a</label><mixed-citation publication-type="journal" id="anie201713080-cit-0006">
+<string-name>
+<given-names>I.</given-names>
+<surname>Splawski</surname>
+</string-name>, <string-name>
+<given-names>K. W.</given-names>
+<surname>Timothy</surname>
+</string-name>, <string-name>
+<given-names>L. M.</given-names>
+<surname>Sharpe</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Decher</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Kumar</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Bloise</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Napolitano</surname>
+</string-name>, <string-name>
+<given-names>P. J.</given-names>
+<surname>Schwartz</surname>
+</string-name>, <string-name>
+<given-names>R. M.</given-names>
+<surname>Joseph</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Condouris</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Tager-Flusberg</surname>
+</string-name>, <string-name>
+<given-names>S. G.</given-names>
+<surname>Priori</surname>
+</string-name>, <string-name>
+<given-names>M. C.</given-names>
+<surname>Sanguinetti</surname>
+</string-name>, <string-name>
+<given-names>M. T.</given-names>
+<surname>Keating</surname>
+</string-name>, <source xml:lang="en">Cell</source>
+<year>2004</year>, <volume>119</volume>, <fpage>19</fpage>&#x02013;<lpage>31</lpage>;<pub-id pub-id-type="pmid">15454078</pub-id></mixed-citation></ref><ref id="anie201713080-bib-0002b"><label>2b</label><mixed-citation publication-type="journal" id="anie201713080-cit-0007">
+<string-name>
+<given-names>B. A.</given-names>
+<surname>Simms</surname>
+</string-name>, <string-name>
+<given-names>G. W.</given-names>
+<surname>Zamponi</surname>
+</string-name>, <source xml:lang="en">Neuron</source>
+<year>2014</year>, <volume>82</volume>, <fpage>24</fpage>&#x02013;<lpage>45</lpage>.<pub-id pub-id-type="pmid">24698266</pub-id></mixed-citation></ref><ref id="anie201713080-bib-0003"><label>3</label><mixed-citation publication-type="miscellaneous" id="anie201713080-cit-0008">&#x000a0;</mixed-citation></ref><ref id="anie201713080-bib-0003a"><label>3a</label><mixed-citation publication-type="journal" id="anie201713080-cit-0009">
+<string-name>
+<given-names>G. W.</given-names>
+<surname>Zamponi</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Striessnig</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Koschak</surname>
+</string-name>, <string-name>
+<given-names>A. C.</given-names>
+<surname>Dolphin</surname>
+</string-name>, <source xml:lang="en">Pharmacol. Rev.</source>
+<year>2015</year>, <volume>67</volume>, <fpage>821</fpage>&#x02013;<lpage>870</lpage>;<pub-id pub-id-type="pmid">26362469</pub-id></mixed-citation></ref><ref id="anie201713080-bib-0003b"><label>3b</label><mixed-citation publication-type="journal" id="anie201713080-cit-0010">
+<string-name>
+<given-names>G. W.</given-names>
+<surname>Zamponi</surname>
+</string-name>, <source xml:lang="en">Nat. Rev. Drug Discovery</source>
+<year>2016</year>, <volume>15</volume>, <fpage>19</fpage>&#x02013;<lpage>34</lpage>.<pub-id pub-id-type="pmid">26542451</pub-id></mixed-citation></ref><ref id="anie201713080-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="anie201713080-cit-0011">
+<string-name>
+<given-names>C. E.</given-names>
+<surname>Sunkel</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Fau&#x02005;de&#x02005;Casa-Juana</surname>
+</string-name>, <string-name>
+<given-names>F. J.</given-names>
+<surname>Cillero</surname>
+</string-name>, <string-name>
+<given-names>J. G.</given-names>
+<surname>Priego</surname>
+</string-name>, <string-name>
+<given-names>M. P.</given-names>
+<surname>Ortega</surname>
+</string-name>, <source xml:lang="en">J. Med. Chem.</source>
+<year>1988</year>, <volume>31</volume>, <fpage>1886</fpage>&#x02013;<lpage>1890</lpage>.<pub-id pub-id-type="pmid">3172124</pub-id></mixed-citation></ref><ref id="anie201713080-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="anie201713080-cit-0012">
+<string-name>
+<given-names>M.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Shao</surname>
+</string-name>, <string-name>
+<given-names>B. C.</given-names>
+<surname>Heng</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Ye</surname>
+</string-name>, <source xml:lang="en">Quant. Biol.</source>
+<year>2017</year>, <fpage>1</fpage>&#x02013;<lpage>13</lpage>.<pub-id pub-id-type="pmid">29881643</pub-id></mixed-citation></ref><ref id="anie201713080-bib-0006"><label>6</label><mixed-citation publication-type="miscellaneous" id="anie201713080-cit-0013">&#x000a0;</mixed-citation></ref><ref id="anie201713080-bib-0006a"><label>6a</label><mixed-citation publication-type="journal" id="anie201713080-cit-0014">
+<string-name>
+<given-names>P.</given-names>
+<surname>B&#x000e9;guin</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Nagashima</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Gonoi</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Shibasaki</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Takahashi</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Kashima</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Ozaki</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Geering</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Iwanaga</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Seino</surname>
+</string-name>, <source xml:lang="en">Nature</source>
+<year>2001</year>, <volume>411</volume>, <fpage>701</fpage>&#x02013;<lpage>706</lpage>;<pub-id pub-id-type="pmid">11395774</pub-id></mixed-citation></ref><ref id="anie201713080-bib-0006b"><label>6b</label><mixed-citation publication-type="journal" id="anie201713080-cit-0015">
+<string-name>
+<given-names>B. S.</given-names>
+<surname>Finlin</surname>
+</string-name>, <string-name>
+<given-names>S. M.</given-names>
+<surname>Crump</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Satin</surname>
+</string-name>, <string-name>
+<given-names>D. A.</given-names>
+<surname>Andres</surname>
+</string-name>, <source xml:lang="en">Proc. Natl. Acad. Sci. USA</source>
+<year>2003</year>, <volume>100</volume>, <fpage>14469</fpage>&#x02013;<lpage>14474</lpage>.<pub-id pub-id-type="pmid">14623965</pub-id></mixed-citation></ref><ref id="anie201713080-bib-0007"><label>7</label><mixed-citation publication-type="miscellaneous" id="anie201713080-cit-0016">&#x000a0;</mixed-citation></ref><ref id="anie201713080-bib-0007a"><label>7a</label><mixed-citation publication-type="journal" id="anie201713080-cit-0017">
+<string-name>
+<given-names>R. N.</given-names>
+<surname>Correll</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Pang</surname>
+</string-name>, <string-name>
+<given-names>B. S.</given-names>
+<surname>Finlin</surname>
+</string-name>, <string-name>
+<given-names>A. M.</given-names>
+<surname>Dailey</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Satin</surname>
+</string-name>, <string-name>
+<given-names>D. A.</given-names>
+<surname>Andres</surname>
+</string-name>, <source xml:lang="en">J. Biol. Chem.</source>
+<year>2007</year>, <volume>282</volume>, <fpage>28431</fpage>&#x02013;<lpage>28440</lpage>;<pub-id pub-id-type="pmid">17686775</pub-id></mixed-citation></ref><ref id="anie201713080-bib-0007b"><label>7b</label><mixed-citation publication-type="journal" id="anie201713080-cit-0018">
+<string-name>
+<given-names>T.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Suhail</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Dalton</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Kernan</surname>
+</string-name>, <string-name>
+<given-names>H. M.</given-names>
+<surname>Colecraft</surname>
+</string-name>, <source xml:lang="en">Nat. Chem. Biol.</source>
+<year>2007</year>, <volume>3</volume>, <fpage>795</fpage>&#x02013;<lpage>804</lpage>.<pub-id pub-id-type="pmid">17952065</pub-id></mixed-citation></ref><ref id="anie201713080-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="anie201713080-cit-0019">
+<string-name>
+<given-names>G.</given-names>
+<surname>Guntas</surname>
+</string-name>, <string-name>
+<given-names>R. A.</given-names>
+<surname>Hallett</surname>
+</string-name>, <string-name>
+<given-names>S. P.</given-names>
+<surname>Zimmerman</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Williams</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Yumerefendi</surname>
+</string-name>, <string-name>
+<given-names>J. E.</given-names>
+<surname>Bear</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Kuhlman</surname>
+</string-name>, <source xml:lang="en">Proc. Natl. Acad. Sci. USA</source>
+<year>2015</year>, <volume>112</volume>, <fpage>112</fpage>&#x02013;<lpage>117</lpage>.<pub-id pub-id-type="pmid">25535392</pub-id></mixed-citation></ref><ref id="anie201713080-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="anie201713080-cit-0020">
+<string-name>
+<given-names>G. R.</given-names>
+<surname>Hammond</surname>
+</string-name>, <string-name>
+<given-names>M. J.</given-names>
+<surname>Fischer</surname>
+</string-name>, <string-name>
+<given-names>K. E.</given-names>
+<surname>Anderson</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Holdich</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Koteci</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Balla</surname>
+</string-name>, <string-name>
+<given-names>R. F.</given-names>
+<surname>Irvine</surname>
+</string-name>, <source xml:lang="en">Science</source>
+<year>2012</year>, <volume>337</volume>, <fpage>727</fpage>&#x02013;<lpage>730</lpage>.<pub-id pub-id-type="pmid">22722250</pub-id></mixed-citation></ref><ref id="anie201713080-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="anie201713080-cit-0021">
+<string-name>
+<given-names>J. H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>S. R.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>L. H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>H. J.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>J. H.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>K. Y.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>M. K.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>B. A.</given-names>
+<surname>Shin</surname>
+</string-name>, <string-name>
+<given-names>S. Y.</given-names>
+<surname>Choi</surname>
+</string-name>, <source xml:lang="en">PloS One</source>
+<year>2011</year>, <volume>6</volume>, e<fpage>18556</fpage>.</mixed-citation></ref><ref id="anie201713080-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="anie201713080-cit-0022">
+<string-name>
+<given-names>B.</given-names>
+<surname>Balasubramanian</surname>
+</string-name>, <string-name>
+<given-names>J. P.</given-names>
+<surname>Imredy</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Penniman</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Lagrutta</surname>
+</string-name>, <string-name>
+<given-names>J. J.</given-names>
+<surname>Salata</surname>
+</string-name>, <source xml:lang="en">J. Pharmacol. Toxicol. Methods</source>
+<year>2009</year>, <volume>59</volume>, <fpage>62</fpage>&#x02013;<lpage>72</lpage>.<pub-id pub-id-type="pmid">19367686</pub-id></mixed-citation></ref><ref id="anie201713080-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="anie201713080-cit-0023">
+<string-name>
+<given-names>H.</given-names>
+<surname>Dana</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Mohar</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Sun</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Narayan</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Gordus</surname>
+</string-name>, <string-name>
+<given-names>J. P.</given-names>
+<surname>Hasseman</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Tsegaye</surname>
+</string-name>, <string-name>
+<given-names>G. T.</given-names>
+<surname>Holt</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Walpita</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Patel</surname>
+</string-name>, <string-name>
+<given-names>J. J.</given-names>
+<surname>Macklin</surname>
+</string-name>, <string-name>
+<given-names>C. I.</given-names>
+<surname>Bargmann</surname>
+</string-name>, <string-name>
+<given-names>M. B.</given-names>
+<surname>Ahrens</surname>
+</string-name>, <string-name>
+<given-names>E. R.</given-names>
+<surname>Schreiter</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Jayaraman</surname>
+</string-name>, <string-name>
+<given-names>L. L.</given-names>
+<surname>Looger</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Svoboda</surname>
+</string-name>, <string-name>
+<given-names>D. S.</given-names>
+<surname>Kim</surname>
+</string-name>, <source xml:lang="en">eLife</source>
+<year>2016</year>, <volume>5</volume>, e<fpage>12727</fpage>.</mixed-citation></ref><ref id="anie201713080-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="anie201713080-cit-0024">
+<string-name>
+<given-names>S.</given-names>
+<surname>Burattini</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Ferri</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Battistelli</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Curci</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Luchetti</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Falcieri</surname>
+</string-name>, <source xml:lang="en">Eur. J. Histochem.</source>
+<year>2004</year>, <volume>48</volume>, <fpage>223</fpage>&#x02013;<lpage>233</lpage>.<pub-id pub-id-type="pmid">15596414</pub-id></mixed-citation></ref><ref id="anie201713080-bib-0014"><label>14</label><mixed-citation publication-type="miscellaneous" id="anie201713080-cit-0025">&#x000a0;</mixed-citation></ref><ref id="anie201713080-bib-0014a"><label>14a</label><mixed-citation publication-type="journal" id="anie201713080-cit-0026">
+<string-name>
+<given-names>W. C.</given-names>
+<surname>Claycomb</surname>
+</string-name>, <string-name>
+<given-names>N. A.</given-names>
+<surname>Lanson</surname>,&#x02005;<suffix>Jr.</suffix>
+</string-name>, <string-name>
+<given-names>B. S.</given-names>
+<surname>Stallworth</surname>
+</string-name>, <string-name>
+<given-names>D. B.</given-names>
+<surname>Egeland</surname>
+</string-name>, <string-name>
+<given-names>J. B.</given-names>
+<surname>Delcarpio</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Bahinski</surname>
+</string-name>, <string-name>
+<given-names>N. J.</given-names>
+<surname>Izzo</surname>,&#x02005;<suffix>Jr.</suffix>
+</string-name>, <source xml:lang="en">Proc. Natl. Acad. Sci. USA</source>
+<year>1998</year>, <volume>95</volume>, <fpage>2979</fpage>&#x02013;<lpage>2984</lpage>;<pub-id pub-id-type="pmid">9501201</pub-id></mixed-citation></ref><ref id="anie201713080-bib-0014b"><label>14b</label><mixed-citation publication-type="journal" id="anie201713080-cit-0027">
+<string-name>
+<given-names>L.</given-names>
+<surname>Sartiani</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Bochet</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Cerbai</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Mugelli</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Fischmeister</surname>
+</string-name>, <source xml:lang="en">J. Physiol.</source>
+<year>2002</year>, <volume>545</volume>, <fpage>81</fpage>&#x02013;<lpage>92</lpage>.<pub-id pub-id-type="pmid">12433951</pub-id></mixed-citation></ref><ref id="anie201713080-bib-0015"><label>15</label><mixed-citation publication-type="miscellaneous" id="anie201713080-cit-0028">&#x000a0;</mixed-citation></ref><ref id="anie201713080-bib-0015a"><label>15a</label><mixed-citation publication-type="journal" id="anie201713080-cit-0029">
+<string-name>
+<given-names>D. D.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name>
+<given-names>H. M.</given-names>
+<surname>Colecraft</surname>
+</string-name>, <source xml:lang="en">J. Physiol.</source>
+<year>2015</year>, <volume>593</volume>, <fpage>5075</fpage>&#x02013;<lpage>5090</lpage>;<pub-id pub-id-type="pmid">26426338</pub-id></mixed-citation></ref><ref id="anie201713080-bib-0015b"><label>15b</label><mixed-citation publication-type="journal" id="anie201713080-cit-0030">
+<string-name>
+<given-names>J.</given-names>
+<surname>Magyar</surname>
+</string-name>, <string-name>
+<given-names>C. E.</given-names>
+<surname>Kiper</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Sievert</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Cai</surname>
+</string-name>, <string-name>
+<given-names>G. X.</given-names>
+<surname>Shi</surname>
+</string-name>, <string-name>
+<given-names>S. M.</given-names>
+<surname>Crump</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Niederer</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Smith</surname>
+</string-name>, <string-name>
+<given-names>D. A.</given-names>
+<surname>Andres</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Satin</surname>
+</string-name>, <source xml:lang="en">Channels</source>
+<year>2012</year>, <volume>6</volume>, <fpage>166</fpage>&#x02013;<lpage>173</lpage>.<pub-id pub-id-type="pmid">22854599</pub-id></mixed-citation></ref><ref id="anie201713080-bib-0016"><label>16</label><mixed-citation publication-type="miscellaneous" id="anie201713080-cit-0031">&#x000a0;</mixed-citation></ref><ref id="anie201713080-bib-0016a"><label>16a</label><mixed-citation publication-type="journal" id="anie201713080-cit-0032">
+<string-name>
+<given-names>G.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wen</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhou</surname>
+</string-name>, <source xml:lang="en">Cell calcium</source>
+<year>2017</year>, <volume>64</volume>, <fpage>36</fpage>&#x02013;<lpage>46</lpage>;<pub-id pub-id-type="pmid">28104276</pub-id></mixed-citation></ref><ref id="anie201713080-bib-0016b"><label>16b</label><mixed-citation publication-type="journal" id="anie201713080-cit-0033">
+<string-name>
+<given-names>T.</given-names>
+<surname>Kyung</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>J. E.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Cho</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>Y. M.</given-names>
+<surname>Jeong</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Shin</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Baek</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>N. Y.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Woo</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Chae</surname>
+</string-name>, <string-name>
+<given-names>C. H.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>H. S.</given-names>
+<surname>Shin</surname>
+</string-name>, <string-name>
+<given-names>Y. M.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Kim</surname>
+</string-name>, <string-name>
+<given-names>W. D.</given-names>
+<surname>Heo</surname>
+</string-name>, <source xml:lang="en">Nat. Biotechnol.</source>
+<year>2015</year>, <volume>33</volume>, <fpage>1092</fpage>&#x02013;<lpage>1096</lpage>.<pub-id pub-id-type="pmid">26368050</pub-id></mixed-citation></ref><ref id="anie201713080-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="anie201713080-cit-0034">
+<string-name>
+<given-names>L.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Ma</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Tan</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zang</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Jing</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>P. G.</given-names>
+<surname>Hogan</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Zhou</surname>
+</string-name>, <source xml:lang="en">eLife</source>
+<year>2015</year>, <volume>4</volume>, e<fpage>10024</fpage>.</mixed-citation></ref><ref id="anie201713080-bib-0018"><label>18</label><mixed-citation publication-type="miscellaneous" id="anie201713080-cit-0035">&#x000a0;</mixed-citation></ref><ref id="anie201713080-bib-0018a"><label>18a</label><mixed-citation publication-type="journal" id="anie201713080-cit-0036">
+<string-name>
+<given-names>C. A.</given-names>
+<surname>Makarewich</surname>
+</string-name>, <string-name>
+<given-names>R. N.</given-names>
+<surname>Correll</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Gao</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>R. M.</given-names>
+<surname>Berretta</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Rizzo</surname>
+</string-name>, <string-name>
+<given-names>J. D.</given-names>
+<surname>Molkentin</surname>
+</string-name>, <string-name>
+<given-names>S. R.</given-names>
+<surname>Houser</surname>
+</string-name>, <source xml:lang="en">Circ. Res.</source>
+<year>2012</year>, <volume>110</volume>, <fpage>669</fpage>&#x02013;<lpage>674</lpage>;<pub-id pub-id-type="pmid">22302787</pub-id></mixed-citation></ref><ref id="anie201713080-bib-0018b"><label>18b</label><mixed-citation publication-type="journal" id="anie201713080-cit-0037">
+<string-name>
+<given-names>M.</given-names>
+<surname>Murata</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Cingolani</surname>
+</string-name>, <string-name>
+<given-names>A. D.</given-names>
+<surname>McDonald</surname>
+</string-name>, <string-name>
+<given-names>J. K.</given-names>
+<surname>Donahue</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Marban</surname>
+</string-name>, <source xml:lang="en">Circ. Res.</source>
+<year>2004</year>, <volume>95</volume>, <fpage>398</fpage>&#x02013;<lpage>405</lpage>.<pub-id pub-id-type="pmid">15242970</pub-id></mixed-citation></ref><ref id="anie201713080-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="anie201713080-cit-0038">
+<string-name>
+<given-names>K.</given-names>
+<surname>Nishida</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Michael</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Dobrev</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Nattel</surname>
+</string-name>, <source xml:lang="en">EP Europace</source>
+<year>2010</year>, <volume>12</volume>, <fpage>160</fpage>&#x02013;<lpage>172</lpage>.</mixed-citation></ref><ref id="anie201713080-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="anie201713080-cit-0039">
+<string-name>
+<given-names>T.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>H. M.</given-names>
+<surname>Colecraft</surname>
+</string-name>, <source xml:lang="en">Biochim. Biophys. Acta Biomembr.</source>
+<year>2013</year>, <volume>1828</volume>, <fpage>1644</fpage>&#x02013;<lpage>1654</lpage>.</mixed-citation></ref></ref-list></back></article>

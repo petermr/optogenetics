@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6545326/results/search/funders/results.xml">
+  <result pre="0001 2150 1785 grid.17088.36 Department of Electrical and Computer Engineering," exact="Michigan State University," post="[2], 0000 0001 2097 4943 grid.213917.f School of Electrical"/>
+  <result pre="0001 2097 4943 grid.213917.f School of Electrical and Computer Engineering," exact="Georgia Institute of Technology," post="[3], 0000 0001 2150 1785 grid.17088.36 Department of Physiology,"/>
+  <result pre="Technology, [3], 0000 0001 2150 1785 grid.17088.36 Department of Physiology," exact="Michigan State University," post="epub: 2019-6-6 pmc-release: 2019-6-6 collection: 2019 5 23 received:"/>
+  <result pre="usually requires bulky cables and batteries, but Wasif Khan from" exact="Michigan State University" post="in the United States and colleagues have now developed"/>
+  <result pre="implants. Subject terms Electrical and electronic engineering Micro-optics Funding https://doi.org/10.13039/100000001" exact="National Science Foundation" post="(NSF) ECCS-1407880 Khan Wasif Funding https://doi.org/10.13039/100006534 Michigan State University"/>
+  <result pre="https://doi.org/10.13039/100000001 National Science Foundation (NSF) ECCS-1407880 Khan Wasif Funding https://doi.org/10.13039/100006534" exact="Michigan State University" post="Spartans | College of Engineering, Michigan State University Introduction"/>
+  <result pre="ECCS-1407880 Khan Wasif Funding https://doi.org/10.13039/100006534 Michigan State University Spartans |" exact="College of Engineering, Michigan State University" post="Introduction Rapid progress in neuroscience discoveries has been achieved"/>
+  <result pre="Funding https://doi.org/10.13039/100006534 Michigan State University Spartans | College of Engineering," exact="Michigan State University" post="Introduction Rapid progress in neuroscience discoveries has been achieved"/>
+  <result pre="experiments. Rats were housed in the animal facility of the" exact="Michigan State University," post="USA under standard conditions at a constant temperature of"/>
+  <result pre="by the Institutional Animal Care and Use Committee (IACUC) at" exact="Michigan State University." post="All efforts were made to minimize the number of"/>
+  <result pre="10.1038/s41378-019-0061-6. Acknowledgements This work was supported in part by the" exact="National Science Foundation" post="under ECCS-1407880 and Michigan State University. Authors’ contributions Unless"/>
+  <result pre="in part by the National Science Foundation under ECCS-1407880 and" exact="Michigan State University." post="Authors’ contributions Unless otherwise stated, W.K. fabricated the proposed"/>
+ </snippets>
+</snippetsTree>

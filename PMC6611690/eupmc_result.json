@@ -1,0 +1,910 @@
+{
+  "id": [
+    "31281895"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31281895"
+  ],
+  "pmcid": [
+    "PMC6611690"
+  ],
+  "doi": [
+    "10.1126/sciadv.aaw5296"
+  ],
+  "title": [
+    "Battery-free, fully implantable optofluidic cuff system for wireless optogenetic and pharmacological neuromodulation of peripheral nerves."
+  ],
+  "authorString": [
+    "Zhang Y, Mickle AD, Gutruf P, McIlvried LA, Guo H, Wu Y, Golden JP, Xue Y, Grajales-Reyes JG, Wang X, Krishnan S, Xie Y, Peng D, Su CJ, Zhang F, Reeder JT, Vogt SK, Huang Y, Rogers JA, Gereau RW."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Yi"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0907-663X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biomedical, Biological, and Chemical Engineering, University of Missouri, Columbia, MO 65211, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Mickle AD"
+          ],
+          "firstName": [
+            "Aaron D"
+          ],
+          "lastName": [
+            "Mickle"
+          ],
+          "initials": [
+            "AD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6454-8038",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Washington University Pain Center and Department of Anesthesiology, Washington University, St. Louis, MO 63110, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gutruf P"
+          ],
+          "firstName": [
+            "Philipp"
+          ],
+          "lastName": [
+            "Gutruf"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7183-7268",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Biomedical Engineering, College of Engineering, The University of Arizona, Bioscience Research Laboratories, 1230 N. Cherry Ave., Tucson, AZ 85721, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "McIlvried LA"
+          ],
+          "firstName": [
+            "Lisa A"
+          ],
+          "lastName": [
+            "McIlvried"
+          ],
+          "initials": [
+            "LA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2030-1316",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Washington University Pain Center and Department of Anesthesiology, Washington University, St. Louis, MO 63110, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Guo H"
+          ],
+          "firstName": [
+            "Hexia"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7904-9135",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Northwestern University, Evanston, IL 60208, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu Y"
+          ],
+          "firstName": [
+            "Yixin"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6315-4694",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Northwestern University, Evanston, IL 60208, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Golden JP"
+          ],
+          "firstName": [
+            "Judith P"
+          ],
+          "lastName": [
+            "Golden"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "affiliation": [
+            "Washington University Pain Center and Department of Anesthesiology, Washington University, St. Louis, MO 63110, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Xue Y"
+          ],
+          "firstName": [
+            "Yeguang"
+          ],
+          "lastName": [
+            "Xue"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1968-5092",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Civil and Environmental Engineering, Northwestern University, Evanston, IL 60208, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Grajales-Reyes JG"
+          ],
+          "firstName": [
+            "Jose G"
+          ],
+          "lastName": [
+            "Grajales-Reyes"
+          ],
+          "initials": [
+            "JG"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3861-6842",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Washington University Pain Center and Department of Anesthesiology, Washington University, St. Louis, MO 63110, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang X"
+          ],
+          "firstName": [
+            "Xueju"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0669-8759",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Mechanical and Aerospace Engineering, University of Missouri, Columbia, MO 65211, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Krishnan S"
+          ],
+          "firstName": [
+            "Siddharth"
+          ],
+          "lastName": [
+            "Krishnan"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8032-7043",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Northwestern University, Evanston, IL 60208, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Xie Y"
+          ],
+          "firstName": [
+            "Yiwen"
+          ],
+          "lastName": [
+            "Xie"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1684-3796",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Northwestern University, Evanston, IL 60208, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Peng D"
+          ],
+          "firstName": [
+            "Dongsheng"
+          ],
+          "lastName": [
+            "Peng"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Northwestern University, Evanston, IL 60208, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Su CJ"
+          ],
+          "firstName": [
+            "Chun-Ju"
+          ],
+          "lastName": [
+            "Su"
+          ],
+          "initials": [
+            "CJ"
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Northwestern University, Evanston, IL 60208, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang F"
+          ],
+          "firstName": [
+            "Fengyi"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2398-8176",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Chemical and Biomolecular Engineering, Georgia Institute of Technology, Atlanta, GA 30318, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Reeder JT"
+          ],
+          "firstName": [
+            "Jonathan T"
+          ],
+          "lastName": [
+            "Reeder"
+          ],
+          "initials": [
+            "JT"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7624-7355",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Northwestern University, Evanston, IL 60208, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Vogt SK"
+          ],
+          "firstName": [
+            "Sherri K"
+          ],
+          "lastName": [
+            "Vogt"
+          ],
+          "initials": [
+            "SK"
+          ],
+          "affiliation": [
+            "Washington University Pain Center and Department of Anesthesiology, Washington University, St. Louis, MO 63110, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang Y"
+          ],
+          "firstName": [
+            "Yonggang"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0483-8359",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Northwestern University, Evanston, IL 60208, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Rogers JA"
+          ],
+          "firstName": [
+            "John A"
+          ],
+          "lastName": [
+            "Rogers"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3830-5980",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Materials Science and Engineering, Northwestern University, Evanston, IL 60208, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gereau RW 4th"
+          ],
+          "firstName": [
+            "Robert W"
+          ],
+          "lastName": [
+            "Gereau"
+          ],
+          "initials": [
+            "RW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5428-4251",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Washington University Pain Center and Department of Anesthesiology, Washington University, St. Louis, MO 63110, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3861-6842",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6454-8038",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6315-4694",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8032-7043",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7624-7355",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1968-5092",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0669-8759",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0483-8359",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5428-4251",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7183-7268",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7904-9135",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1684-3796",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0907-663X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3830-5980",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2030-1316",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2398-8176",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2836221"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Science advances"
+          ],
+          "ISOAbbreviation": [
+            "Sci Adv"
+          ],
+          "medlineAbbreviation": [
+            "Sci Adv"
+          ],
+          "NLMid": [
+            "101653440"
+          ],
+          "ISSN": [
+            "2375-2548"
+          ],
+          "ESSN": [
+            "2375-2548"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "eaaw5296"
+  ],
+  "abstractText": [
+    "Studies of the peripheral nervous system rely on controlled manipulation of neuronal function with pharmacologic and/or optogenetic techniques. Traditional hardware for these purposes can cause notable damage to fragile nerve tissues, create irritation at the biotic/abiotic interface, and alter the natural behaviors of animals. Here, we present a wireless, battery-free device that integrates a microscale inorganic light-emitting diode and an ultralow-power microfluidic system with an electrochemical pumping mechanism in a soft platform that can be mounted onto target peripheral nerves for programmed delivery of light and/or pharmacological agents in freely moving animals. Biocompliant designs lead to minimal effects on overall nerve health and function, even with chronic use in vivo. The small size and light weight construction allow for deployment as fully implantable devices in mice. These features create opportunities for studies of the peripheral nervous system outside of the scope of those possible with existing technologies."
+  ],
+  "affiliation": [
+    "Department of Biomedical, Biological, and Chemical Engineering, University of Missouri, Columbia, MO 65211, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "F31 NS103472"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "F32 DK115122"
+          ],
+          "agency": [
+            "NIDDK NIH HHS"
+          ],
+          "acronym": [
+            "DK"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 NS042595"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U18 EB021793"
+          ],
+          "agency": [
+            "NIBIB NIH HHS"
+          ],
+          "acronym": [
+            "EB"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R41 MH116525"
+          ],
+          "agency": [
+            "NIMH NIH HHS"
+          ],
+          "acronym": [
+            "MH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "T32 DA007261"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "T32 GM007200"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 NS081707"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6611690?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6611690"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1126/sciadv.aaw5296"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-09"
+  ],
+  "firstIndexDate": [
+    "2019-07-09"
+  ],
+  "dateOfRevision": [
+    "2019-07-12"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-05"
+  ],
+  "firstPublicationDate": [
+    "2019-07-05"
+  ]
+}

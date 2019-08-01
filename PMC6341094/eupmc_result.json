@@ -1,0 +1,987 @@
+{
+  "id": [
+    "30664643"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30664643"
+  ],
+  "pmcid": [
+    "PMC6341094"
+  ],
+  "doi": [
+    "10.1038/s41467-018-08256-w"
+  ],
+  "title": [
+    "A brain-wide functional map of the serotonergic responses to acute stress and fluoxetine."
+  ],
+  "authorString": [
+    "Grandjean J, Corcoba A, Kahn MC, Upton AL, Deneris ES, Seifritz E, Helmchen F, Mann EO, Rudin M, Saab BJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Grandjean J"
+          ],
+          "firstName": [
+            "Joanes"
+          ],
+          "lastName": [
+            "Grandjean"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8413-0491",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Singapore Bioimaging Consortium, Agency for Science Technology and Research, 11 Biopolis Way, Singapore, 138667, Singapore. joanes_grandjean@sbic.a-star.edu.sg."
+          ]
+        },
+        {
+          "fullName": [
+            "Corcoba A"
+          ],
+          "firstName": [
+            "Alberto"
+          ],
+          "lastName": [
+            "Corcoba"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Center for Psychiatric Neuroscience, University of Lausanne, CH-1008, Prilly-Lausanne, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Kahn MC"
+          ],
+          "firstName": [
+            "Martin C"
+          ],
+          "lastName": [
+            "Kahn"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4211-5020",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Preclinical Laboratory for Translational Research into Affective Disorders, Department of Psychiatry, Psychotherapy and Psychosomatics, University of Zurich Hospital for Psychiatry, August-Forel-Str. 7, CH-8008, Zurich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Upton AL"
+          ],
+          "firstName": [
+            "A Louise"
+          ],
+          "lastName": [
+            "Upton"
+          ],
+          "initials": [
+            "AL"
+          ],
+          "affiliation": [
+            "Department of Physiology, Anatomy and Genetics, University of Oxford, Oxford, OX1 3PT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Deneris ES"
+          ],
+          "firstName": [
+            "Evan S"
+          ],
+          "lastName": [
+            "Deneris"
+          ],
+          "initials": [
+            "ES"
+          ],
+          "affiliation": [
+            "Department of Neurosciences, Case Western Reserve University School of Medicine, 10900 Euclid Ave., Cleveland, OH, 44106-4975, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Seifritz E"
+          ],
+          "firstName": [
+            "Erich"
+          ],
+          "lastName": [
+            "Seifritz"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Neuroscience Center Zurich, Winterthurerstr. 190, CH-8057, Zurich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Helmchen F"
+          ],
+          "firstName": [
+            "Fritjof"
+          ],
+          "lastName": [
+            "Helmchen"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Neuroscience Center Zurich, Winterthurerstr. 190, CH-8057, Zurich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Mann EO"
+          ],
+          "firstName": [
+            "Edward O"
+          ],
+          "lastName": [
+            "Mann"
+          ],
+          "initials": [
+            "EO"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2468-7148",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Physiology, Anatomy and Genetics, University of Oxford, Oxford, OX1 3PT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Rudin M"
+          ],
+          "firstName": [
+            "Markus"
+          ],
+          "lastName": [
+            "Rudin"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Neuroscience Center Zurich, Winterthurerstr. 190, CH-8057, Zurich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Saab BJ"
+          ],
+          "firstName": [
+            "Bechara J"
+          ],
+          "lastName": [
+            "Saab"
+          ],
+          "initials": [
+            "BJ"
+          ],
+          "affiliation": [
+            "Neuroscience Center Zurich, Winterthurerstr. 190, CH-8057, Zurich, Switzerland. bechara@mobiointeractive.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2468-7148",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4211-5020",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8413-0491",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2765184"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "350"
+  ],
+  "abstractText": [
+    "Central serotonin (5-HT) orchestrates myriad cognitive processes and lies at the core of many stress-related psychiatric illnesses. However, the basic relationship between its brain-wide axonal projections and functional dynamics is not known. Here we combine optogenetics and fMRI to produce a brain-wide 5-HT evoked functional map. We find that DRN photostimulation leads to an increase in the hemodynamic response in the DRN itself, while projection areas predominately exhibit a reduction of cerebral blood volume mirrored by suppression of cortical delta oscillations. We find that the regional distribution of post-synaptically expressed 5-HT receptors better correlates with DRN 5-HT functional connectivity than anatomical projections. Our work suggests that neuroarchitecture is not the primary determinant of function for the DRN 5-HT. With respect to two 5-HT elevating stimuli, we find that acute stress leads to circuit-wide blunting of the DRN output, while the SSRI fluoxetine noticeably enhances DRN functional connectivity. These data provide fundamental insight into the brain-wide functional dynamics of the 5-HT projection system."
+  ],
+  "affiliation": [
+    "Singapore Bioimaging Consortium, Agency for Science Technology and Research, 11 Biopolis Way, Singapore, 138667, Singapore. joanes_grandjean@sbic.a-star.edu.sg."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "141202"
+          ],
+          "agency": [
+            "Swiss National Science Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "310030"
+          ],
+          "agency": [
+            "Swiss National Science Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "160310"
+          ],
+          "agency": [
+            "Swiss National Science Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "148114"
+          ],
+          "agency": [
+            "Swiss National Science Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cerebral Cortex"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice, Transgenic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Serotonin"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fluoxetine"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Receptors, Serotonin"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Serotonin Uptake Inhibitors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Magnetic Resonance Imaging"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain Mapping"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Immobilization"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Photic Stimulation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Stress, Psychological"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Evoked Potentials, Visual"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cerebrovascular Circulation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Serotonergic Neurons"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Optogenetics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dorsal Raphe Nucleus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Receptors, Serotonin"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Serotonin Uptake Inhibitors"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Serotonin"
+          ],
+          "registryNumber": [
+            "333DO1RDJY"
+          ]
+        },
+        {
+          "name": [
+            "Fluoxetine"
+          ],
+          "registryNumber": [
+            "01K63SUP8D"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6341094?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6341094"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-018-08256-w"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-02-05"
+  ],
+  "dateOfCreation": [
+    "2019-01-22"
+  ],
+  "firstIndexDate": [
+    "2019-01-22"
+  ],
+  "dateOfRevision": [
+    "2019-02-15"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-21"
+  ],
+  "firstPublicationDate": [
+    "2019-01-21"
+  ]
+}

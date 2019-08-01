@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="funders">
+ <result pre="2341 2786 grid.116068.8 MIT Media Lab, Center for Extreme Bionics," exact="Massachusetts Institute of Technology," post="[2], 0000 0001 2341 2786 grid.116068.8 Harvard-MIT Division of"/>
+ <result pre="2786 grid.116068.8 Harvard-MIT Division of Health Sciences and Technology (HST)," exact="Massachusetts Institute of Technology," post="[3], 0000 0001 2341 2786 grid.116068.8 Department of Electrical"/>
+ <result pre="2341 2786 grid.116068.8 Department of Electrical Engineering and Computer Science," exact="Massachusetts Institute of Technology," post="[4], 0000000121839049 grid.5333.6 Department of Bioengineering, École Polytechnique Fédérale"/>
+ <result pre="Massachusetts Institute of Technology, [4], 0000000121839049 grid.5333.6 Department of Bioengineering," exact="École Polytechnique Fédérale de Lausanne" post="(EPFL), [5], 0000 0001 2341 2786 grid.116068.8 Department of"/>
+ <result pre="[5], 0000 0001 2341 2786 grid.116068.8 Department of Biological Engineering," exact="Massachusetts Institute of Technology," post="[6], 000000041936754X grid.38142.3c Harvard-MIT Division of Health Sciences and"/>
+ <result pre="000000041936754X grid.38142.3c Harvard-MIT Division of Health Sciences and Technology (HST)," exact="Harvard Medical School," post="epub: 2018-9-9 pmc-release: 2018-9-9 collection: 2018 8 14076 received:"/>
+ <result pre="were approved by the Committee on Animal Care at the" exact="Massachusetts Institute of Technology." post="All methods were carried out in accordance with relevant"/>
+ <result pre="the same set of tissues. 40 cycles were run on" exact="Roche" post="Light Cycler 480 using SYBR Green I dye chemistry"/>
+ <result pre="Fluor 488 (Fisher) or anti-Rb or anti-Gt AP (Biocare) and" exact="Vulcan" post="Fast Red (Biocare). Expression of ChR2 was amplified with"/>
+ <result pre="of each selection. Statistical analysis Statistical significance was calculated in" exact="Microsoft" post="Excel with the data analysis toolbox. For comparisons of"/>
+</results>

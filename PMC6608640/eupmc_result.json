@@ -1,0 +1,352 @@
+{
+  "id": [
+    "31316806"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31316806"
+  ],
+  "pmcid": [
+    "PMC6608640"
+  ],
+  "doi": [
+    "10.1107/S2052252519005761"
+  ],
+  "title": [
+    "Room-temperature photo-induced martensitic transformation in a protein crystal."
+  ],
+  "authorString": [
+    "Dajnowicz S, Langan PS, Weiss KL, Ivanov IN, Kovalevsky A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Dajnowicz S"
+          ],
+          "firstName": [
+            "Steven"
+          ],
+          "lastName": [
+            "Dajnowicz"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Chemistry and Biochemistry, University of Toledo, Toledo, Ohio 43606, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Langan PS"
+          ],
+          "firstName": [
+            "Patricia S"
+          ],
+          "lastName": [
+            "Langan"
+          ],
+          "initials": [
+            "PS"
+          ],
+          "affiliation": [
+            "Neutron Scattering Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee 37831, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Weiss KL"
+          ],
+          "firstName": [
+            "Kevin L"
+          ],
+          "lastName": [
+            "Weiss"
+          ],
+          "initials": [
+            "KL"
+          ],
+          "affiliation": [
+            "Neutron Scattering Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee 37831, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ivanov IN"
+          ],
+          "firstName": [
+            "Ilia N"
+          ],
+          "lastName": [
+            "Ivanov"
+          ],
+          "initials": [
+            "IN"
+          ],
+          "affiliation": [
+            "Center for Nanophase Materials Sciences, Oak Ridge National Laboratory, Oak Ridge, Tennessee 37831, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kovalevsky A"
+          ],
+          "firstName": [
+            "Andrey"
+          ],
+          "lastName": [
+            "Kovalevsky"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Neutron Scattering Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee 37831, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Pt 4"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2839797"
+      ],
+      "dateOfPublication": [
+        "2019 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "IUCrJ"
+          ],
+          "ISOAbbreviation": [
+            "IUCrJ"
+          ],
+          "medlineAbbreviation": [
+            "IUCrJ"
+          ],
+          "NLMid": [
+            "101623101"
+          ],
+          "ISSN": [
+            "2052-2525"
+          ],
+          "ESSN": [
+            "2052-2525"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "619-629"
+  ],
+  "abstractText": [
+    "Martensitic transformations are the first-order crystal-to-crystal phase transitions that occur mostly in materials such as steel, alloys and ceramics, thus having many technological applications. These phase transitions are rarely observed in molecular crystals and have not been detected in protein crystals. Reversibly switchable fluorescent proteins are widely used in biotechnology, including super-resolution molecular imaging, and hold promise as candidate biomaterials for future high-tech applications. Here, we report on a reversibly switchable fluorescent protein, Tetdron, whose crystals undergo a photo-induced martensitic transformation at room temperature. Room-temperature X-ray crystallography demonstrates that at equilibrium Tetdron chromophores are all in the trans configuration, with an ∼1:1 mixture of their protonated and deprotonated forms. Irradiation of a Tetdron crystal with 400 nm light induces a martensitic transformation, which results in Tetdron tetramerization at room temperature revealed by X-ray photocrystallography. Crystal and solution spectroscopic measurements provide evidence that the photo-induced martensitic phase transition is coupled with the chromophore deprotonation, but no trans-cis isomerization is detected in the structure of an irradiated crystal. It is hypothesized that protein dynamics assists in the light-induced proton transfer from the chromophore to the bulk solvent and in the ensuing martensitic phase transition. The unique properties of Tetdron may be useful in developing novel biomaterials for optogenetics, data storage and nanotechnology."
+  ],
+  "affiliation": [
+    "Department of Chemistry and Biochemistry, University of Toledo, Toledo, Ohio 43606, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Retracted Publication",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Fluorescence",
+        "isomerization",
+        "Tetramerization",
+        "Uv–vis Absorption Spectroscopy",
+        "Reversibly Switchable Fluorescent Proteins",
+        "Martensitic Transformations",
+        "Chromophore Deprotonation",
+        "Room-temperature X-ray Photocrystallography"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6608640?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6608640"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1107/S2052252519005761"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "31318360"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "IUCrJ. 2019 Jun 06;6(Pt 4):781"
+          ],
+          "type": [
+            "Retraction in"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "pdb"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-07-19"
+  ],
+  "firstIndexDate": [
+    "2019-07-19"
+  ],
+  "dateOfRevision": [
+    "2019-07-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-22"
+  ],
+  "firstPublicationDate": [
+    "2019-05-22"
+  ]
+}

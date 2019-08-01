@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6462332/results/species/binomial/results.xml">
+  <result pre="Photoablation with RGPs was performed in " exact="C. elegans" xpath="/html[1]/body[1]/div[4]/div[5]/p[1]" match="C. elegans" post=" and both KillerRed ( Figure 3(a)) [ 44] and miniSOG have been used " name="binomial"/>
+  <result pre="cts can be modulated by changing the duration and intensity of light stimulation. This was seen in " exact="C. elegans" xpath="/html[1]/body[1]/div[4]/div[5]/p[1]" match="C. elegans" post=" expressing the outer membrane-targeted miniSOG in motor neurons where varying the light exposure f" name="binomial"/>
+  <result pre="recently reported that the membrane-targeted miniSOG can ablate neurons and nonneuronal tissues in " exact="C. elegans" xpath="/html[1]/body[1]/div[4]/div[5]/p[1]" match="C. elegans" post=" in a most efficient way rather than mito-miniSOG, thus expanding the throughput of optogenetic cel" name="binomial"/>
+  <result pre="itation was not significantly affected. The nanomodulator was also tested in vivo, within a " exact="Xenopus laevis" xpath="/html[1]/body[1]/div[4]/div[5]/p[1]" match="Xenopus laevis" post=" frog model, and reliable optical modulation of the paw nerve activity was detected. " name="binomial"/>
+  <result pre="P3HT nanoparticles were then administered to in vivo invertebrate models of " exact="Hydra vulgaris" xpath="/html[1]/body[1]/div[4]/div[5]/p[1]" match="Hydra vulgaris" post=", without any clear adverse toxicity effect ( Figure 5(d)). Interestingly, it was s" name="binomial"/>
+  <result pre="nduced cell ablation. (a) KillerRed activation in GABAergic neurons causes a shrinker phenotype in " exact="C. elegans" xpath="/html[1]/body[1]/div[4]/div[5]/p[1]" match="C. elegans" post=" (i.e., longitudinal shortening of the body upon head touch) consistent with the loss of GABAergic " name="binomial"/>
+  <result pre="e loss of GABAergic neuronal function 24 hours after illumination. (b) MiniSOG causes paralysis in " exact="C. elegans" xpath="/html[1]/body[1]/div[4]/div[5]/p[1]" match="C. elegans" post=" via ablation of Punc-17 β-expressing cells. As depicted in the lower panel, light dosage co" name="binomial"/>
+  <result pre=" experiments. (d) rr-P3HT NPs are internalized within in vivo invertebrate animal models of " exact="Hydra vulgaris" match="Hydra vulgaris" post=" without toxicity effects and efficiently modulate the animal behavior. (e) Photoexcitation of poly" name="binomial"/>
+ </snippets>
+</snippetsTree>

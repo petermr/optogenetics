@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6308144/results/search/country/results.xml">
+  <result pre="[], 1 Department of Biology, University of Nevada Reno, NV" exact="United States" post="[], 2 Integrated Neuroscience Graduate Program, University of Nevada"/>
+  <result pre="2 Integrated Neuroscience Graduate Program, University of Nevada Reno, NV" exact="United States" post="[], 3 Department of Mathematics &amp;amp; Statistics, University of"/>
+  <result pre="Department of Mathematics &amp;amp; Statistics, University of Nevada Reno, NV" exact="United States" post="Edited by: Martin Giurfa, UMR5169 Centre de Recherches sur"/>
+  <result pre="Giurfa, UMR5169 Centre de Recherches sur la Cognition Animale (CRCA)," exact="France" post="Reviewed by: Matthew Cobb, University of Manchester, United Kingdom;"/>
+  <result pre="Animale (CRCA), France Reviewed by: Matthew Cobb, University of Manchester," exact="United Kingdom;" post="Hany K. M. Dweck, Yale University, United States *Correspondence:"/>
+  <result pre="of Manchester, United Kingdom; Hany K. M. Dweck, Yale University," exact="United States" post="*Correspondence: Dennis Mathew dennismathew@unr.edu †These authors have contributed equally"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,612 @@
+{
+  "id": [
+    "31232695"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31232695"
+  ],
+  "pmcid": [
+    "PMC6634975"
+  ],
+  "doi": [
+    "10.7554/eLife.43191"
+  ],
+  "title": [
+    "Active information maintenance in working memory by a sensory cortex."
+  ],
+  "authorString": [
+    "Zhang X, Yan W, Wang W, Fan H, Hou R, Chen Y, Chen Z, Ge C, Duan S, Compte A, Li CT."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang X"
+          ],
+          "firstName": [
+            "Xiaoxing"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5229-6091",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "State Key Laboratory of Neuroscience, CAS Center for Excellence in Brain Science and Intelligence Technology, Institute of Neuroscience, Shanghai Center for Brain Science and Brain-Inspired Technology, Chinese Academy of Sciences, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yan W"
+          ],
+          "firstName": [
+            "Wenjun"
+          ],
+          "lastName": [
+            "Yan"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Neuroscience, CAS Center for Excellence in Brain Science and Intelligence Technology, Institute of Neuroscience, Shanghai Center for Brain Science and Brain-Inspired Technology, Chinese Academy of Sciences, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang W"
+          ],
+          "firstName": [
+            "Wenliang"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Neuroscience, CAS Center for Excellence in Brain Science and Intelligence Technology, Institute of Neuroscience, Shanghai Center for Brain Science and Brain-Inspired Technology, Chinese Academy of Sciences, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Fan H"
+          ],
+          "firstName": [
+            "Hongmei"
+          ],
+          "lastName": [
+            "Fan"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Neuroscience, CAS Center for Excellence in Brain Science and Intelligence Technology, Institute of Neuroscience, Shanghai Center for Brain Science and Brain-Inspired Technology, Chinese Academy of Sciences, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Hou R"
+          ],
+          "firstName": [
+            "Ruiqing"
+          ],
+          "lastName": [
+            "Hou"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Neuroscience, CAS Center for Excellence in Brain Science and Intelligence Technology, Institute of Neuroscience, Shanghai Center for Brain Science and Brain-Inspired Technology, Chinese Academy of Sciences, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen Y"
+          ],
+          "firstName": [
+            "Yulei"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Neuroscience, CAS Center for Excellence in Brain Science and Intelligence Technology, Institute of Neuroscience, Shanghai Center for Brain Science and Brain-Inspired Technology, Chinese Academy of Sciences, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen Z"
+          ],
+          "firstName": [
+            "Zhaoqin"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Neuroscience, CAS Center for Excellence in Brain Science and Intelligence Technology, Institute of Neuroscience, Shanghai Center for Brain Science and Brain-Inspired Technology, Chinese Academy of Sciences, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ge C"
+          ],
+          "firstName": [
+            "Chaofan"
+          ],
+          "lastName": [
+            "Ge"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Neuroscience, CAS Center for Excellence in Brain Science and Intelligence Technology, Institute of Neuroscience, Shanghai Center for Brain Science and Brain-Inspired Technology, Chinese Academy of Sciences, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Duan S"
+          ],
+          "firstName": [
+            "Shumin"
+          ],
+          "lastName": [
+            "Duan"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Key Laboratory of Medical Neurobiology of Ministry of Health of China, Department of Neurobiology, Zhejiang University School of Medicine, Hangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Compte A"
+          ],
+          "firstName": [
+            "Albert"
+          ],
+          "lastName": [
+            "Compte"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institut d'Investigacions Biomèdiques August Pi i Sunyer (IDIBAPS), Barcelona, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Li CT"
+          ],
+          "firstName": [
+            "Chengyu T"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "CT"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6829-0209",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "State Key Laboratory of Neuroscience, CAS Center for Excellence in Brain Science and Intelligence Technology, Institute of Neuroscience, Shanghai Center for Brain Science and Brain-Inspired Technology, Chinese Academy of Sciences, Shanghai, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5229-6091",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6829-0209",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2822821"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "eLife"
+          ],
+          "ISOAbbreviation": [
+            "Elife"
+          ],
+          "medlineAbbreviation": [
+            "Elife"
+          ],
+          "NLMid": [
+            "101579614"
+          ],
+          "ISSN": [
+            "2050-084X"
+          ],
+          "ESSN": [
+            "2050-084X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Working memory is a critical brain function for maintaining and manipulating information over delay periods of seconds. It is debated whether delay-period neural activity in sensory regions is important for the active maintenance of information during the delay period. Here, we tackle this question by examining the anterior piriform cortex (APC), an olfactory sensory cortex, in head-fixed mice performing several olfactory working memory tasks. Active information maintenance is necessary in these tasks, especially in a dual-task paradigm in which mice are required to perform another distracting task while actively maintaining information during the delay period. Optogenetic suppression of neuronal activity in APC during the delay period impaired performance in all the tasks. Furthermore, electrophysiological recordings revealed that APC neuronal populations encoded odor information in the delay period even with an intervening distracting task. Thus, delay activity in APC is important for active information maintenance in olfactory working memory."
+  ],
+  "affiliation": [
+    "State Key Laboratory of Neuroscience, CAS Center for Excellence in Brain Science and Intelligence Technology, Institute of Neuroscience, Shanghai Center for Brain Science and Brain-Inspired Technology, Chinese Academy of Sciences, Shanghai, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "15JC1400102"
+          ],
+          "agency": [
+            "Shanghai Municipal Science and Technology Commission"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "16JC1400101"
+          ],
+          "agency": [
+            "Shanghai Municipal Science and Technology Commission"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "16JC1400101"
+          ],
+          "agency": [
+            "Shanghei Science and Technology Commission"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2018SHZDZX05"
+          ],
+          "agency": [
+            "Shanghai Municipal Science and Technology Commission"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2018SHZDZX05"
+          ],
+          "agency": [
+            "Shanghai Municipal Science and Technology Major Project"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "No.15JC1400102"
+          ],
+          "agency": [
+            "Shanghai Science and Technology Commission"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BFU2015-65318-R"
+          ],
+          "agency": [
+            "Innovation and Universities and the European Regional Development Fund"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Distinguished Young Scholars of China (31525010)"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "General Program 31471049"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Instrument Developing Project YZ201540"
+          ],
+          "agency": [
+            "Chinese Academy of Agricultural Sciences"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Key Research Program of Frontier Sciences QYZDB-SSW-SMC009"
+          ],
+          "agency": [
+            "Chinese Academy of Agricultural Sciences"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BFU2015-65318-R"
+          ],
+          "agency": [
+            "European Regional Development Fund"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Mouse",
+        "Neuroscience",
+        "Working memory",
+        "Optogenetics",
+        "Dual-task",
+        "Delay-period Activity",
+        "Anterior Piriform Cortex",
+        "Population Neural Activity"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6634975?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6634975"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7554/eLife.43191"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR46545"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-25"
+  ],
+  "firstIndexDate": [
+    "2019-06-25"
+  ],
+  "dateOfRevision": [
+    "2019-07-19"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-24"
+  ],
+  "firstPublicationDate": [
+    "2019-06-24"
+  ]
+}

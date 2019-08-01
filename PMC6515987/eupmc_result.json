@@ -1,0 +1,441 @@
+{
+  "id": [
+    "31133817"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31133817"
+  ],
+  "pmcid": [
+    "PMC6515987"
+  ],
+  "doi": [
+    "10.3389/fncel.2019.00202"
+  ],
+  "title": [
+    "Corrigendum: Single-Neuron Level One-Photon Voltage Imaging With Sparsely Targeted Genetically Encoded Voltage Indicators."
+  ],
+  "authorString": [
+    "Quicke P, Song C, McKimm EJ, Milosevic MM, Howe CL, Neil M, Schultz SR, Antic SD, Foust AJ, Knöpfel T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Quicke P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "Quicke"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Bioengineering, Imperial College London, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Song C"
+          ],
+          "firstName": [
+            "Chenchen"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Medicine, Imperial College London, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "McKimm EJ"
+          ],
+          "firstName": [
+            "Eric J"
+          ],
+          "lastName": [
+            "McKimm"
+          ],
+          "initials": [
+            "EJ"
+          ],
+          "affiliation": [
+            "Institute for Systems Genomics, Stem Cell Institute, UConn Health, Farmington, CT, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Milosevic MM"
+          ],
+          "firstName": [
+            "Milena M"
+          ],
+          "lastName": [
+            "Milosevic"
+          ],
+          "initials": [
+            "MM"
+          ],
+          "affiliation": [
+            "Institute for Systems Genomics, Stem Cell Institute, UConn Health, Farmington, CT, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Howe CL"
+          ],
+          "firstName": [
+            "Carmel L"
+          ],
+          "lastName": [
+            "Howe"
+          ],
+          "initials": [
+            "CL"
+          ],
+          "affiliation": [
+            "Department of Bioengineering, Imperial College London, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Neil M"
+          ],
+          "firstName": [
+            "Mark"
+          ],
+          "lastName": [
+            "Neil"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Centre for Neurotechnology, Imperial College London, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Schultz SR"
+          ],
+          "firstName": [
+            "Simon R"
+          ],
+          "lastName": [
+            "Schultz"
+          ],
+          "initials": [
+            "SR"
+          ],
+          "affiliation": [
+            "Department of Bioengineering, Imperial College London, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Antic SD"
+          ],
+          "firstName": [
+            "Srdjan D"
+          ],
+          "lastName": [
+            "Antic"
+          ],
+          "initials": [
+            "SD"
+          ],
+          "affiliation": [
+            "Institute for Systems Genomics, Stem Cell Institute, UConn Health, Farmington, CT, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Foust AJ"
+          ],
+          "firstName": [
+            "Amanda J"
+          ],
+          "lastName": [
+            "Foust"
+          ],
+          "initials": [
+            "AJ"
+          ],
+          "affiliation": [
+            "Department of Bioengineering, Imperial College London, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Knöpfel T"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "Knöpfel"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Medicine, Imperial College London, London, United Kingdom."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2779302"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Cellular Neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Cell Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Cell Neurosci"
+          ],
+          "NLMid": [
+            "101477935"
+          ],
+          "ISSN": [
+            "1662-5102"
+          ],
+          "ESSN": [
+            "1662-5102"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "202"
+  ],
+  "abstractText": [
+    "[This corrects the article DOI: 10.3389/fncel.2019.00039.]."
+  ],
+  "affiliation": [
+    "Department of Bioengineering, Imperial College London, London, United Kingdom."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Published Erratum",
+        "correction",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "BB/K001817/1"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cerebral cortex",
+        "Transgenic",
+        "Optogenetics",
+        "Voltage Imaging",
+        "Sparse Expression"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6515987?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6515987"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fncel.2019.00202"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "30890919"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Front Cell Neurosci. 2019 Feb 14;13:39"
+          ],
+          "type": [
+            "Erratum for"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-05-29"
+  ],
+  "firstIndexDate": [
+    "2019-05-29"
+  ],
+  "dateOfRevision": [
+    "2019-07-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-07"
+  ],
+  "firstPublicationDate": [
+    "2019-05-07"
+  ]
+}

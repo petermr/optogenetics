@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC5470037/results/search/funders/results.xml">
+  <result pre=": bold;} span.year {font-family : courier ; font-style : italic;}" exact="EMBO" post="J EMBO J 10.1002/(ISSN)1460-2075 EMBJ embojnl The EMBO Journal"/>
+  <result pre="span.year {font-family : courier ; font-style : italic;} EMBO J" exact="EMBO" post="J 10.1002/(ISSN)1460-2075 EMBJ embojnl The EMBO Journal 0261-4189 1460-2075"/>
+  <result pre=": italic;} EMBO J EMBO J 10.1002/(ISSN)1460-2075 EMBJ embojnl The" exact="EMBO" post="Journal 0261-4189 1460-2075 John Wiley and Sons Inc. Hoboken"/>
+  <result pre="to take the helm from optogenetics. Subject Categories Neuroscience Funding" exact="European Research Council" post="339724 Funding Austrian Science Fund Y726 Funding Boehringer Ingelheim"/>
+  <result pre="optogenetics. Subject Categories Neuroscience Funding European Research Council 339724 Funding" exact="Austrian Science Fund" post="Y726 Funding Boehringer Ingelheim fig-count: table-count: page-count: word-count: Introduction"/>
+  <result pre="European Research Council 339724 Funding Austrian Science Fund Y726 Funding" exact="Boehringer Ingelheim" post="fig-count: table-count: page-count: word-count: Introduction The pre‐eminent goal in"/>
+  <result pre="interest. Acknowledgements We wish to acknowledge the support of the" exact="European Research Council" post="(339724), the Austrian Science Fund (Y726) and Boehringer Ingelheim"/>
+  <result pre="acknowledge the support of the European Research Council (339724), the" exact="Austrian Science Fund" post="(Y726) and Boehringer Ingelheim who fund basic biological research."/>
+  <result pre="European Research Council (339724), the Austrian Science Fund (Y726) and" exact="Boehringer Ingelheim" post="who fund basic biological research. We are indebted to"/>
+ </snippets>
+</snippetsTree>

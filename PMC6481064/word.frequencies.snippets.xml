@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6481064/results/word/frequencies/results.xml">
+  <result title="frequency" word="activity" count="41"/>
+  <result title="frequency" word="cortical" count="33"/>
+  <result title="frequency" word="stimulation" count="31"/>
+  <result title="frequency" word="correlation" count="24"/>
+  <result title="frequency" word="functional" count="23"/>
+  <result title="frequency" word="hemisphere" count="23"/>
+  <result title="frequency" word="connectivity" count="22"/>
+  <result title="frequency" word="optogenetic" count="22"/>
+ </snippets>
+</snippetsTree>

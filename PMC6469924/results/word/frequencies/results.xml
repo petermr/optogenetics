@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="frequencies">
+ <result title="frequency" word="{border-style" count="20"/>
+ <result title="frequency" word="px;}" count="18"/>
+ <result title="frequency" word="vestibular" count="18"/>
+ <result title="frequency" word="#ffffff;}" count="17"/>
+ <result title="frequency" word="cells" count="15"/>
+ <result title="frequency" word="neurons" count="10"/>
+ <result title="frequency" word="UBCs" count="9"/>
+ <result title="frequency" word="primary" count="9"/>
+ <result title="frequency" word="afferents" count="8"/>
+ <result title="frequency" word="cerebellum" count="8"/>
+ <result title="frequency" word="granule" count="8"/>
+ <result title="frequency" word="px;" count="8"/>
+ <result title="frequency" word="synapses" count="8"/>
+ <result title="frequency" word="{font-family" count="8"/>
+ <result title="frequency" word="Balmer" count="7"/>
+ <result title="frequency" word="Trussell" count="7"/>
+ <result title="frequency" word="brush" count="7"/>
+ <result title="frequency" word="called" count="7"/>
+ <result title="frequency" word="font-size" count="7"/>
+ <result title="frequency" word="form" count="7"/>
+ <result title="frequency" word="mossy" count="7"/>
+ <result title="frequency" word="unipolar" count="7"/>
+ <result title="frequency" word="double;" count="6"/>
+ <result title="frequency" word="eLife" count="6"/>
+ <result title="frequency" word="fibers" count="6"/>
+ <result title="frequency" word="secondary" count="6"/>
+ <result title="frequency" word="sensory" count="6"/>
+ <result title="frequency" word="Montpellier," count="5"/>
+ <result title="frequency" word="balance" count="5"/>
+ <result title="frequency" word="border-color" count="5"/>
+ <result title="frequency" word="border-width" count="5"/>
+ <result title="frequency" word="cell" count="5"/>
+ <result title="frequency" word="cerebellar" count="5"/>
+ <result title="frequency" word="solid;" count="5"/>
+ <result title="frequency" word="{font-style" count="5"/>
+ <result title="frequency" word="{font-weight" count="5"/>
+ <result title="frequency" word="Figure" count="4"/>
+ <result title="frequency" word="bold" count="4"/>
+ <result title="frequency" word="circuitry" count="4"/>
+ <result title="frequency" word="courier;" count="4"/>
+ <result title="frequency" word="em;" count="4"/>
+ <result title="frequency" word="pt;}" count="4"/>
+</results>

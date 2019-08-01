@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC5709371/results/search/funders/results.xml">
+  <result pre="#01- 201, [2], 0000 0001 2180 6431 grid.4280.e Mechanobiology Institute," exact="National University of Singapore," post="[3], 0000 0001 2180 6431 grid.4280.e Department of Biological"/>
+  <result pre="[3], 0000 0001 2180 6431 grid.4280.e Department of Biological Sciences," exact="National University of Singapore," post="[4], grid.418812.6 Institute of Molecular and Cell Biology, A*Star,"/>
+  <result pre="by the NICHD of the NIH and maintained at The" exact="University of Iowa," post="Department of Biology, Iowa City, IA 52242 and used"/>
+  <result pre="by an Academic Research Fund (AcRF) grant (MOE2014-T2–2–039) of the" exact="Ministry of Education," post="Singapore and Yale-NUS grant IG16-BS002 to NST. TES was"/>
+  <result pre="Yale-NUS grant IG16-BS002 to NST. TES was supported by a" exact="National Research Foundation" post="NRF Fellowship (NRF2012NRF-NRFF001-094). Author Contributions P.K. and N.S.T. designed"/>
+ </snippets>
+</snippetsTree>

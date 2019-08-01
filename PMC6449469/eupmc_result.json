@@ -1,0 +1,373 @@
+{
+  "id": [
+    "30983967"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30983967"
+  ],
+  "pmcid": [
+    "PMC6449469"
+  ],
+  "doi": [
+    "10.3389/fnmol.2019.00071"
+  ],
+  "title": [
+    "CAV-2 Vector Development and Gene Transfer in the Central and Peripheral Nervous Systems."
+  ],
+  "authorString": [
+    "Del Rio D, Beucher B, Lavigne M, Wehbi A, Gonzalez Dopeso-Reyes I, Saggio I, Kremer EJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Del Rio D"
+          ],
+          "firstName": [
+            "Danila"
+          ],
+          "lastName": [
+            "Del Rio"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Institut de Génétique Moléculaire de Montpellier, University of Montpellier, CNRS, Montpellier, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Beucher B"
+          ],
+          "firstName": [
+            "Bertrand"
+          ],
+          "lastName": [
+            "Beucher"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "PVM, BioCampus, CNRS, INSERM, University of Montpellier, Montpellier, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Lavigne M"
+          ],
+          "firstName": [
+            "Marina"
+          ],
+          "lastName": [
+            "Lavigne"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Institut de Génétique Moléculaire de Montpellier, University of Montpellier, CNRS, Montpellier, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Wehbi A"
+          ],
+          "firstName": [
+            "Amani"
+          ],
+          "lastName": [
+            "Wehbi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institut de Génétique Moléculaire de Montpellier, University of Montpellier, CNRS, Montpellier, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Gonzalez Dopeso-Reyes I"
+          ],
+          "firstName": [
+            "Iria"
+          ],
+          "lastName": [
+            "Gonzalez Dopeso-Reyes"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Institut de Génétique Moléculaire de Montpellier, University of Montpellier, CNRS, Montpellier, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Saggio I"
+          ],
+          "firstName": [
+            "Isabella"
+          ],
+          "lastName": [
+            "Saggio"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Department of Biology and Biotechnology \"C. Darwin\", Sapienza University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Kremer EJ"
+          ],
+          "firstName": [
+            "Eric J"
+          ],
+          "lastName": [
+            "Kremer"
+          ],
+          "initials": [
+            "EJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6114-7530",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institut de Génétique Moléculaire de Montpellier, University of Montpellier, CNRS, Montpellier, France."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6114-7530",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2779771"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Molecular Neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Mol Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Mol Neurosci"
+          ],
+          "NLMid": [
+            "101477914"
+          ],
+          "ISSN": [
+            "1662-5099"
+          ],
+          "ESSN": [
+            "1662-5099"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "71"
+  ],
+  "abstractText": [
+    "The options available for genetic modification of cells of the central nervous system (CNS) have greatly increased in the last decade. The current panoply of viral and nonviral vectors provides multifunctional platforms to deliver expression cassettes to many structures and nuclei. These cassettes can replace defective genes, modify a given pathway perturbed by diseases, or express proteins that can be selectively activated by drugs or light to extinguish or excite neurons. This review focuses on the use of canine adenovirus type 2 (CAV-2) vectors for gene transfer to neurons in the brain, spinal cord, and peripheral nervous system. We discuss (1) recent advances in vector production, (2) why CAV-2 vectors preferentially transduce neurons, (3) the mechanism underlying their widespread distribution via retrograde axonal transport, (4) how CAV-2 vectors have been used to address structure/function, and (5) their therapeutic applications."
+  ],
+  "affiliation": [
+    "Institut de Génétique Moléculaire de Montpellier, University of Montpellier, CNRS, Montpellier, France."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Neurons",
+        "Gene therapy",
+        "Adenovirus",
+        "Vectors",
+        "CAV-2",
+        "Circuits",
+        "Disease Modeling",
+        "Coxsackievirus And Adenovirus Receptor"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6449469?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6449469"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnmol.2019.00071"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-04-16"
+  ],
+  "firstIndexDate": [
+    "2019-04-15"
+  ],
+  "dateOfRevision": [
+    "2019-04-17"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-29"
+  ],
+  "firstPublicationDate": [
+    "2019-03-29"
+  ]
+}

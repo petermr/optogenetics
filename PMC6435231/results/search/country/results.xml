@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="country">
+ <result pre="3 * [1], University of Texas at Dallas, Dallas, TX," exact="United States" post="of America [2], Williams College, Williamstown, MA, United States"/>
+ <result pre="TX, United States of America [2], Williams College, Williamstown, MA," exact="United States" post="of America [3], Department of Neuroscience, University of Pennsylvania,"/>
+ <result pre="America [3], Department of Neuroscience, University of Pennsylvania, Philadelphia, PA," exact="United States" post="of America Arenkiel Benjamin Editor [], Baylor College of"/>
+ <result pre="of Neuroscience, Johns Hopkins University School of Medicine, Baltimore, MD," exact="United States" post="of America * E-mail: wolson6@jhmi.edu (WO); luow@pennmedicine.upenn.edu (WL) epub:"/>
+</results>

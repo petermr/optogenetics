@@ -1,0 +1,299 @@
+{
+  "id": [
+    "29615550"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29615550"
+  ],
+  "pmcid": [
+    "PMC5875559"
+  ],
+  "doi": [
+    "10.3390/jdb6010001"
+  ],
+  "title": [
+    "Modeling Alzheimer's and Other Age Related Human Diseases in Embryonic Systems."
+  ],
+  "authorString": [
+    "Lim CH, Mathuru AS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lim CH"
+          ],
+          "firstName": [
+            "Chu Hsien"
+          ],
+          "lastName": [
+            "Lim"
+          ],
+          "initials": [
+            "CH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6691-8277",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Yale NUS College, 16 College Avenue West, Singapore 138610, Singapore. limchuhsien@yale-nus.edu.sg."
+          ]
+        },
+        {
+          "fullName": [
+            "Mathuru AS"
+          ],
+          "firstName": [
+            "Ajay S"
+          ],
+          "lastName": [
+            "Mathuru"
+          ],
+          "initials": [
+            "AS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4591-5274",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Yale NUS College, 16 College Avenue West, Singapore 138610, Singapore. ajay.mathuru@yale-nus.edu.sg."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4591-5274",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6691-8277",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2668363"
+      ],
+      "dateOfPublication": [
+        "2017 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of developmental biology"
+          ],
+          "ISOAbbreviation": [
+            "J Dev Biol"
+          ],
+          "medlineAbbreviation": [
+            "J Dev Biol"
+          ],
+          "NLMid": [
+            "101613409"
+          ],
+          "ISSN": [
+            "2221-3759"
+          ],
+          "ESSN": [
+            "2221-3759"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "abstractText": [
+    "Modeling human disease in animals is an important strategy to discover potential methods of intervention. We suggest that there is much to be gained by employing a multi-model approach that takes advantage of different animal systems used in the laboratory simultaneously. We use the example of modeling Alzheimer's disease in Drosophila melanogaster, Caenorhabditis elegans, and Danio rerio to illustrate how such an approach can be employed to investigate the pathophysiology of the disease."
+  ],
+  "affiliation": [
+    "Yale NUS College, 16 College Avenue West, Singapore 138610, Singapore. limchuhsien@yale-nus.edu.sg."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "discussion",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Drosophila melanogaster",
+        "Caenorhabditis elegans",
+        "Alzheimer’s disease",
+        "Danio rerio",
+        "Cry2",
+        "Optogenetics"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5875559?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5875559"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/jdb6010001"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-04-05"
+  ],
+  "firstIndexDate": [
+    "2018-04-05"
+  ],
+  "dateOfRevision": [
+    "2018-04-08"
+  ],
+  "electronicPublicationDate": [
+    "2017-12-22"
+  ],
+  "firstPublicationDate": [
+    "2017-12-22"
+  ]
+}

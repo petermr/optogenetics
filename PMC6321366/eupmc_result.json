@@ -1,0 +1,590 @@
+{
+  "id": [
+    "30558189"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30558189"
+  ],
+  "pmcid": [
+    "PMC6321366"
+  ],
+  "doi": [
+    "10.3390/ijms19124052"
+  ],
+  "title": [
+    "Perspectives of RAS and RHEB GTPase Signaling Pathways in Regenerating Brain Neurons."
+  ],
+  "authorString": [
+    "Schöneborn H, Raudzus F, Coppey M, Neumann S, Heumann R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Schöneborn H"
+          ],
+          "firstName": [
+            "Hendrik"
+          ],
+          "lastName": [
+            "Schöneborn"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8913-2987",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Ruhr-Universität Bochum, Faculty of Chemistry and Biochemistry, Department of Biochemistry II-Molecular Neurobiochemistry, 44801 Bochum, Germany. hendrik.schoeneborn@ruhr-uni-bochum.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Raudzus F"
+          ],
+          "firstName": [
+            "Fabian"
+          ],
+          "lastName": [
+            "Raudzus"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8327-2076",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Ruhr-Universität Bochum, Faculty of Chemistry and Biochemistry, Department of Biochemistry II-Molecular Neurobiochemistry, 44801 Bochum, Germany. fabian.raudzus@ruhr-uni-bochum.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Coppey M"
+          ],
+          "firstName": [
+            "Mathieu"
+          ],
+          "lastName": [
+            "Coppey"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8924-3233",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratoire Physico-Chimie, Institut Curie, CNRS UMR168, PSL Research University, Universite Pierre et Marie Curie-Paris, 75005 Paris, France. mathieu.coppey@curie.fr."
+          ]
+        },
+        {
+          "fullName": [
+            "Neumann S"
+          ],
+          "firstName": [
+            "Sebastian"
+          ],
+          "lastName": [
+            "Neumann"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3706-9012",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Ruhr-Universität Bochum, Faculty of Chemistry and Biochemistry, Department of Biochemistry II-Molecular Neurobiochemistry, 44801 Bochum, Germany. sebastian.neumann@ruhr-uni-bochum.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Heumann R"
+          ],
+          "firstName": [
+            "Rolf"
+          ],
+          "lastName": [
+            "Heumann"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4364-2655",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Ruhr-Universität Bochum, Faculty of Chemistry and Biochemistry, Department of Biochemistry II-Molecular Neurobiochemistry, 44801 Bochum, Germany. rolf.heumann@ruhr-uni-bochum.de."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8924-3233",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8327-2076",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8913-2987",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3706-9012",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4364-2655",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2756869"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of molecular sciences"
+          ],
+          "ISOAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "medlineAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "NLMid": [
+            "101092791"
+          ],
+          "ISSN": [
+            "1422-0067"
+          ],
+          "ESSN": [
+            "1422-0067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Cellular activation of RAS GTPases into the GTP-binding \"ON\" state is a key switch for regulating brain functions. Molecular protein structural elements of rat sarcoma (RAS) and RAS homolog protein enriched in brain (RHEB) GTPases involved in this switch are discussed including their subcellular membrane localization for triggering specific signaling pathways resulting in regulation of synaptic connectivity, axonal growth, differentiation, migration, cytoskeletal dynamics, neural protection, and apoptosis. A beneficial role of neuronal H-RAS activity is suggested from cellular and animal models of neurodegenerative diseases. Recent experiments on optogenetic regulation offer insights into the spatiotemporal aspects controlling RAS/mitogen activated protein kinase (MAPK) or phosphoinositide-3 kinase (PI3K) pathways. As optogenetic manipulation of cellular signaling in deep brain regions critically requires penetration of light through large distances of absorbing tissue, we discuss magnetic guidance of re-growing axons as a complementary approach. In Parkinson's disease, dopaminergic neuronal cell bodies degenerate in the substantia nigra. Current human trials of stem cell-derived dopaminergic neurons must take into account the inability of neuronal axons navigating over a large distance from the grafted site into striatal target regions. Grafting dopaminergic precursor neurons directly into the degenerating substantia nigra is discussed as a novel concept aiming to guide axonal growth by activating GTPase signaling through protein-functionalized intracellular magnetic nanoparticles responding to external magnets."
+  ],
+  "affiliation": [
+    "Ruhr-Universität Bochum, Faculty of Chemistry and Biochemistry, Department of Biochemistry II-Molecular Neurobiochemistry, 44801 Bochum, Germany. hendrik.schoeneborn@ruhr-uni-bochum.de."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "686841"
+          ],
+          "agency": [
+            "H2020 Future and Emerging Technologies"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "ras Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Signal Transduction"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Differentiation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Movement"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neurogenesis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Optogenetics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ras Homolog Enriched in Brain Protein"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Survival",
+        "Nanoparticle",
+        "Parkinson’s Disease",
+        "Optogenetics",
+        "Axonal Guidance",
+        "Ras Gtpase",
+        "Brain Regeneration",
+        "Rheb Gtpase",
+        "Magnetogenetics",
+        "Magneto Protein Therapy"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "ras Proteins"
+          ],
+          "registryNumber": [
+            "EC 3.6.5.2"
+          ]
+        },
+        {
+          "name": [
+            "Ras Homolog Enriched in Brain Protein"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6321366?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6321366"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijms19124052"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-03-26"
+  ],
+  "dateOfCreation": [
+    "2018-12-19"
+  ],
+  "firstIndexDate": [
+    "2018-12-31"
+  ],
+  "dateOfRevision": [
+    "2019-03-26"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-14"
+  ],
+  "firstPublicationDate": [
+    "2018-12-14"
+  ]
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6277892/results/word/frequencies/results.xml">
+  <result title="frequency" word="light" count="57"/>
+  <result title="frequency" word="intensity" count="47"/>
+  <result title="frequency" word="pulse" count="43"/>
+  <result title="frequency" word="arrhythmia" count="42"/>
+  <result title="frequency" word="cardiac" count="41"/>
+  <result title="frequency" word="duration" count="35"/>
+  <result title="frequency" word="global" count="34"/>
+  <result title="frequency" word="pacing" count="29"/>
+  <result title="frequency" word="illumination" count="25"/>
+  <result title="frequency" word="electrical" count="23"/>
+  <result title="frequency" word="heart" count="23"/>
+  <result title="frequency" word="optogenetic" count="21"/>
+ </snippets>
+</snippetsTree>

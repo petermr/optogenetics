@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6527892/results/species/binomial/results.xml">
+  <result pre=" we then examined the effects of acutely silencing these neurons in symptomatic mice with enhanced " exact="Natronomonas pharaonis" xpath="/html[1]/body[1]/div[3]/div[6]/div[1]/div[9]/div[2]/p[1]" match="Natronomonas pharaonis" post=" halorhodopsin (eNpHR). Optically silencing SOM-expressing interneurons resulted in a greater decre" name="binomial"/>
+  <result pre="or experiments where SOM-expressing interneurons were silenced with optical activation of enhanced " exact="Natronomonas pharaonis" xpath="/html[1]/body[1]/div[3]/div[6]/div[1]/div[9]/div[2]/p[1]" match="Natronomonas pharaonis" post=" halorhodopsin (eNpHR), yellow light (585 nm, 1 mW) was applied at various durations through the mi" name="binomial"/>
+  <result pre="vely active at rest with firing frequencies of 1–10 Hz. During yellow light activation of enhanced " exact="Natronomonas pharaonis" xpath="/html[1]/body[1]/div[3]/div[6]/div[1]/div[9]/div[2]/p[1]" match="Natronomonas pharaonis" post=" halorhodopsin (eNpHR; bar, 585 nm, 1 mW), the cell was silenced. (C2) Yellow light illumination (b" name="binomial"/>
+  <result pre="enhanced " exact="Natronomonas pharaonis" match="Natronomonas pharaonis" post=" halorhodopsin " name="binomial"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6219844/results/search/country/results.xml">
+  <result pre="1 [1], UCL Institute of Neurology University College London London" exact="United Kingdom" post="[2], Champalimaud Neuroscience Program Champalimaud Center for the Unknown"/>
+  <result pre="[2], Champalimaud Neuroscience Program Champalimaud Center for the Unknown Lisbon" exact="Portugal" post="Bartos Marlene Reviewing Editor [], University of Freiburg Germany"/>
+  <result pre="Lisbon Portugal Bartos Marlene Reviewing Editor [], University of Freiburg" exact="Germany" post="Frank Michael J Senior Editor [], Brown University United"/>
+  <result pre="Freiburg Germany Frank Michael J Senior Editor [], Brown University" exact="United States" post="‡ Department of Experimental Psychology, University of Oxford, England,"/>
+  <result pre="States ‡ Department of Experimental Psychology, University of Oxford, England," exact="United Kingdom." post="† These authors contributed equally to this work. :"/>
+  <result pre="Rosin B Slovik M Mitelman R Rivlin-Etzion M Haber SN" exact="Israel" post="Z Vaadia E Bergman H 2011 Closed-loop deep brain"/>
+ </snippets>
+</snippetsTree>

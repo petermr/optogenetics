@@ -1,0 +1,339 @@
+{
+  "id": [
+    "28966573"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28966573"
+  ],
+  "pmcid": [
+    "PMC5605616"
+  ],
+  "doi": [
+    "10.3389/fnins.2017.00514"
+  ],
+  "title": [
+    "A Chronically Implantable Bidirectional Neural Interface for Non-human Primates."
+  ],
+  "authorString": [
+    "Komatsu M, Sugano E, Tomita H, Fujii N."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Komatsu M"
+          ],
+          "firstName": [
+            "Misako"
+          ],
+          "lastName": [
+            "Komatsu"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4464-4484",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Ichinohe Group, Laboratory for Molecular Analysis of Higher Brain Function, RIKEN Brain Science InstituteSaitama, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Sugano E"
+          ],
+          "firstName": [
+            "Eriko"
+          ],
+          "lastName": [
+            "Sugano"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Chemistry and Biological Sciences, Iwate UniversityIwate, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Tomita H"
+          ],
+          "firstName": [
+            "Hiroshi"
+          ],
+          "lastName": [
+            "Tomita"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1051-2301",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Chemistry and Biological Sciences, Iwate UniversityIwate, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Fujii N"
+          ],
+          "firstName": [
+            "Naotaka"
+          ],
+          "lastName": [
+            "Fujii"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Laboratory for Adaptive Intelligence, RIKEN Brain Science InstituteSaitama, Japan."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1051-2301",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4464-4484",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2520978"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Neurosci"
+          ],
+          "NLMid": [
+            "101478481"
+          ],
+          "ISSN": [
+            "1662-4548"
+          ],
+          "ESSN": [
+            "1662-453X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "514"
+  ],
+  "abstractText": [
+    "Optogenetics has potential applications in the study of epilepsy and neuroprostheses, and for studies on neural circuit dynamics. However, to achieve translation to clinical usage, optogenetic interfaces that are capable of chronic stimulation and monitoring with minimal brain trauma are required. We aimed to develop a chronically implantable device for photostimulation of the brain of non-human primates. We used a micro-light-emitting diode (LED) array with a flexible polyimide film. The array was combined with a whole-cortex electrocorticographic (ECoG) electrode array for simultaneous photostimulation and recording. Channelrhodopsin-2 (ChR2) was virally transduced into the cerebral cortex of common marmosets, and then the device was epidurally implanted into their brains. We recorded the neural activity during photostimulation of the awake monkeys for 4 months. The neural responses gradually increased after the virus injection for ~8 weeks and remained constant for another 8 weeks. The micro-LED and ECoG arrays allowed semi-invasive simultaneous stimulation and recording during long-term implantation in the brains of non-human primates. The development of this device represents substantial progress in the field of optogenetic applications."
+  ],
+  "affiliation": [
+    "Ichinohe Group, Laboratory for Molecular Analysis of Higher Brain Function, RIKEN Brain Science InstituteSaitama, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Monkey",
+        "Common marmoset",
+        "Optogenetics",
+        "Electrocorticography (Ecog)",
+        "Brain–machine Interface (Bmi)"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5605616?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5605616"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnins.2017.00514"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2017-10-02"
+  ],
+  "firstIndexDate": [
+    "2017-10-02"
+  ],
+  "dateOfRevision": [
+    "2017-10-04"
+  ],
+  "electronicPublicationDate": [
+    "2017-09-15"
+  ],
+  "firstPublicationDate": [
+    "2017-09-15"
+  ]
+}

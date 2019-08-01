@@ -1,0 +1,378 @@
+{
+  "id": [
+    "30699891"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30699891"
+  ],
+  "pmcid": [
+    "PMC6406977"
+  ],
+  "doi": [
+    "10.3390/brainsci9020026"
+  ],
+  "title": [
+    "Potential Application of Optogenetic Stimulation in the Treatment of Pain and Migraine Headache: A Perspective from Animal Studies."
+  ],
+  "authorString": [
+    "Liu S, Tang Y, Xing Y, Kramer P, Bellinger L, Tao F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liu S"
+          ],
+          "firstName": [
+            "Sufang"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Biomedical Sciences, Texas A&M University College of Dentistry, Dallas, TX 75246, USA. sufang.liu@tamhsc.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Tang Y"
+          ],
+          "firstName": [
+            "Yuanyuan"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Biomedical Sciences, Texas A&M University College of Dentistry, Dallas, TX 75246, USA. yuanyuan8402@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Xing Y"
+          ],
+          "firstName": [
+            "Ying"
+          ],
+          "lastName": [
+            "Xing"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Physiology, Zhengzhou University School of Medicine, Zhengzhou 450001, China. xingyingprofessor@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Kramer P"
+          ],
+          "firstName": [
+            "Phillip"
+          ],
+          "lastName": [
+            "Kramer"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Biomedical Sciences, Texas A&M University College of Dentistry, Dallas, TX 75246, USA. PKramer@tamhsc.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Bellinger L"
+          ],
+          "firstName": [
+            "Larry"
+          ],
+          "lastName": [
+            "Bellinger"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Biomedical Sciences, Texas A&M University College of Dentistry, Dallas, TX 75246, USA. LBellinger@tamhsc.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Tao F"
+          ],
+          "firstName": [
+            "Feng"
+          ],
+          "lastName": [
+            "Tao"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Biomedical Sciences, Texas A&M University College of Dentistry, Dallas, TX 75246, USA. tao@tamhsc.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2774073"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Brain sciences"
+          ],
+          "ISOAbbreviation": [
+            "Brain Sci"
+          ],
+          "medlineAbbreviation": [
+            "Brain Sci"
+          ],
+          "NLMid": [
+            "101598646"
+          ],
+          "ISSN": [
+            "2076-3425"
+          ],
+          "ESSN": [
+            "2076-3425"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Optogenetic manipulation is uniquely useful in unraveling the functional organization of neuronal circuits in the central nervous system by enabling reversible gain- or loss-of-function of discrete populations of neurons within restricted brain regions. This state-of-the-art technology can produce circuit-specific neuromodulation by overexpressing light-sensitive proteins (opsins) in particular cell types of interest. Here, we discuss the principle of optogenetic manipulation and its application in pain research using animal models, and we also discuss how to potentially use optogenetic stimulation in the treatment of migraine headache in the future."
+  ],
+  "affiliation": [
+    "Department of Biomedical Sciences, Texas A&M University College of Dentistry, Dallas, TX 75246, USA. sufang.liu@tamhsc.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "K02 DE023551"
+          ],
+          "agency": [
+            "NIDCR NIH HHS"
+          ],
+          "acronym": [
+            "DE"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 DE022880 and K02 DE023551"
+          ],
+          "agency": [
+            "National Institute of Dental and Craniofacial Research"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 DE022880"
+          ],
+          "agency": [
+            "NIDCR NIH HHS"
+          ],
+          "acronym": [
+            "DE"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Optogenetics",
+        "Neuronal Excitation",
+        "Neuronal Inhibition",
+        "Migraine-like Pain",
+        "Neuronal Activity Modulation"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6406977?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6406977"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/brainsci9020026"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-01"
+  ],
+  "firstIndexDate": [
+    "2019-02-01"
+  ],
+  "dateOfRevision": [
+    "2019-03-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-29"
+  ],
+  "firstPublicationDate": [
+    "2019-01-29"
+  ]
+}

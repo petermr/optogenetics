@@ -1,0 +1,704 @@
+{
+  "id": [
+    "30446664"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30446664"
+  ],
+  "pmcid": [
+    "PMC6240110"
+  ],
+  "doi": [
+    "10.1038/s41467-018-07286-8"
+  ],
+  "title": [
+    "Optogenetic dissection of Rac1 and Cdc42 gradient shaping."
+  ],
+  "authorString": [
+    "de Beco S, Vaidžiulytė K, Manzi J, Dalier F, di Federico F, Cornilleau G, Dahan M, Coppey M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "de Beco S"
+          ],
+          "firstName": [
+            "S"
+          ],
+          "lastName": [
+            "de Beco"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Laboratoire Physico Chimie Curie, Institut Curie, PSL Research University, Sorbonne Université, CNRS, 75005, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Vaidžiulytė K"
+          ],
+          "firstName": [
+            "K"
+          ],
+          "lastName": [
+            "Vaidžiulytė"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Laboratoire Physico Chimie Curie, Institut Curie, PSL Research University, Sorbonne Université, CNRS, 75005, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Manzi J"
+          ],
+          "firstName": [
+            "J"
+          ],
+          "lastName": [
+            "Manzi"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Laboratoire Physico Chimie Curie, Institut Curie, PSL Research University, Sorbonne Université, CNRS, 75005, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Dalier F"
+          ],
+          "firstName": [
+            "F"
+          ],
+          "lastName": [
+            "Dalier"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "PASTEUR, Département de chimie, École normale supérieure, CNRS UMR 8640, PSL Research University, Sorbonne Université, 75005, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "di Federico F"
+          ],
+          "firstName": [
+            "F"
+          ],
+          "lastName": [
+            "di Federico"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Laboratoire Physico Chimie Curie, Institut Curie, PSL Research University, Sorbonne Université, CNRS, 75005, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Cornilleau G"
+          ],
+          "firstName": [
+            "G"
+          ],
+          "lastName": [
+            "Cornilleau"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Laboratoire Physico Chimie Curie, Institut Curie, PSL Research University, Sorbonne Université, CNRS, 75005, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Dahan M"
+          ],
+          "firstName": [
+            "M"
+          ],
+          "lastName": [
+            "Dahan"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Laboratoire Physico Chimie Curie, Institut Curie, PSL Research University, Sorbonne Université, CNRS, 75005, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Coppey M"
+          ],
+          "firstName": [
+            "M"
+          ],
+          "lastName": [
+            "Coppey"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8924-3233",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratoire Physico Chimie Curie, Institut Curie, PSL Research University, Sorbonne Université, CNRS, 75005, Paris, France. mathieu.coppey@curie.fr."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8924-3233",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2743884"
+      ],
+      "dateOfPublication": [
+        "2018 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "4816"
+  ],
+  "abstractText": [
+    "During cell migration, Rho GTPases spontaneously form spatial gradients that define the front and back of cells. At the front, active Cdc42 forms a steep gradient whereas active Rac1 forms a more extended pattern peaking a few microns away. What are the mechanisms shaping these gradients, and what is the functional role of the shape of these gradients? Here we report, using a combination of optogenetics and micropatterning, that Cdc42 and Rac1 gradients are set by spatial patterns of activators and deactivators and not directly by transport mechanisms. Cdc42 simply follows the distribution of Guanine nucleotide Exchange Factors, whereas Rac1 shaping requires the activity of a GTPase-Activating Protein, β2-chimaerin, which is sharply localized at the tip of the cell through feedbacks from Cdc42 and Rac1. Functionally, the spatial extent of Rho GTPases gradients governs cell migration, a sharp Cdc42 gradient maximizes directionality while an extended Rac1 gradient controls the speed."
+  ],
+  "affiliation": [
+    "Laboratoire Physico Chimie Curie, Institut Curie, PSL Research University, Sorbonne Université, CNRS, 75005, Paris, France."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hela Cells"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "cdc42 GTP-Binding Protein"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "rac1 GTP-Binding Protein"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Guanine Nucleotide Exchange Factors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neoplasm Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Signal Transduction"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Movement"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Feedback, Physiological"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Optogenetics"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "beta-chimaerin"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "RAC1 protein, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Neoplasm Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Guanine Nucleotide Exchange Factors"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "cdc42 GTP-Binding Protein"
+          ],
+          "registryNumber": [
+            "EC 3.6.5.2"
+          ]
+        },
+        {
+          "name": [
+            "rac1 GTP-Binding Protein"
+          ],
+          "registryNumber": [
+            "EC 3.6.5.2"
+          ]
+        },
+        {
+          "name": [
+            "CDC42 protein, human"
+          ],
+          "registryNumber": [
+            "EC 3.6.5.2"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6240110?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6240110"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-018-07286-8"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR13200"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-12-19"
+  ],
+  "dateOfCreation": [
+    "2018-11-18"
+  ],
+  "firstIndexDate": [
+    "2018-11-17"
+  ],
+  "dateOfRevision": [
+    "2018-12-19"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-16"
+  ],
+  "firstPublicationDate": [
+    "2018-11-16"
+  ]
+}

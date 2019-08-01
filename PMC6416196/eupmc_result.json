@@ -1,0 +1,528 @@
+{
+  "id": [
+    "30899227"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30899227"
+  ],
+  "pmcid": [
+    "PMC6416196"
+  ],
+  "doi": [
+    "10.3389/fphys.2019.00182"
+  ],
+  "title": [
+    "Cardiac Optogenetics and Optical Mapping - Overcoming Spectral Congestion in All-Optical Cardiac Electrophysiology."
+  ],
+  "authorString": [
+    "O'Shea C, Holmes AP, Winter J, Correia J, Ou X, Dong R, He S, Kirchhof P, Fabritz L, Rajpoot K, Pavlovic D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "O'Shea C"
+          ],
+          "firstName": [
+            "Christopher"
+          ],
+          "lastName": [
+            "O'Shea"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Institute of Cardiovascular Sciences, University of Birmingham, Birmingham, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Holmes AP"
+          ],
+          "firstName": [
+            "Andrew P"
+          ],
+          "lastName": [
+            "Holmes"
+          ],
+          "initials": [
+            "AP"
+          ],
+          "affiliation": [
+            "Institute of Cardiovascular Sciences, University of Birmingham, Birmingham, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Winter J"
+          ],
+          "firstName": [
+            "James"
+          ],
+          "lastName": [
+            "Winter"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Institute of Cardiovascular Sciences, University of Birmingham, Birmingham, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Correia J"
+          ],
+          "firstName": [
+            "Joao"
+          ],
+          "lastName": [
+            "Correia"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4376-978X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Microbiology and Infection, School of Biosciences, University of Birmingham, Birmingham, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Ou X"
+          ],
+          "firstName": [
+            "Xianhong"
+          ],
+          "lastName": [
+            "Ou"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Key Laboratory of Medical Electrophysiology of Ministry of Education, Collaborative Innovation Center for Prevention and Treatment of Cardiovascular Disease/Institute of Cardiovascular Research, Southwest Medical University, Luzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Dong R"
+          ],
+          "firstName": [
+            "Ruirui"
+          ],
+          "lastName": [
+            "Dong"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Key Laboratory of Medical Electrophysiology of Ministry of Education, Collaborative Innovation Center for Prevention and Treatment of Cardiovascular Disease/Institute of Cardiovascular Research, Southwest Medical University, Luzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "He S"
+          ],
+          "firstName": [
+            "Shicheng"
+          ],
+          "lastName": [
+            "He"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Key Laboratory of Medical Electrophysiology of Ministry of Education, Collaborative Innovation Center for Prevention and Treatment of Cardiovascular Disease/Institute of Cardiovascular Research, Southwest Medical University, Luzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Kirchhof P"
+          ],
+          "firstName": [
+            "Paulus"
+          ],
+          "lastName": [
+            "Kirchhof"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Institute of Cardiovascular Sciences, University of Birmingham, Birmingham, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Fabritz L"
+          ],
+          "firstName": [
+            "Larissa"
+          ],
+          "lastName": [
+            "Fabritz"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Institute of Cardiovascular Sciences, University of Birmingham, Birmingham, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Rajpoot K"
+          ],
+          "firstName": [
+            "Kashif"
+          ],
+          "lastName": [
+            "Rajpoot"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "School of Computer Science, University of Birmingham, Birmingham, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Pavlovic D"
+          ],
+          "firstName": [
+            "Davor"
+          ],
+          "lastName": [
+            "Pavlovic"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Institute of Cardiovascular Sciences, University of Birmingham, Birmingham, United Kingdom."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4376-978X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2777617"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Physiology"
+          ],
+          "ISOAbbreviation": [
+            "Front Physiol"
+          ],
+          "medlineAbbreviation": [
+            "Front Physiol"
+          ],
+          "NLMid": [
+            "101549006"
+          ],
+          "ISSN": [
+            "1664-042X"
+          ],
+          "ESSN": [
+            "1664-042X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "182"
+  ],
+  "abstractText": [
+    "Optogenetic control of the heart is an emergent technology that offers unparalleled spatio-temporal control of cardiac dynamics via light-sensitive ion pumps and channels (opsins). This fast-evolving technique holds broad scope in both clinical and basic research setting. Combination of optogenetics with optical mapping of voltage or calcium fluorescent probes facilitates 'all-optical' electrophysiology, allowing precise optogenetic actuation of cardiac tissue with high spatio-temporal resolution imaging of action potential and calcium transient morphology and conduction patterns. In this review, we provide a synopsis of optogenetics and discuss in detail its use and compatibility with optical interrogation of cardiac electrophysiology. We briefly discuss the benefits of all-optical cardiac control and electrophysiological interrogation compared to traditional techniques, and describe mechanisms, unique features and limitations of optically induced cardiac control. In particular, we focus on state-of-the-art setup design, challenges in light delivery and filtering, and compatibility of opsins with fluorescent reporters used in optical mapping. The interaction of cardiac tissue with light, and physical and computational approaches to overcome the 'spectral congestion' that arises from the combination of optogenetics and optical mapping are discussed. Finally, we summarize recent preclinical work applications of combined cardiac optogenetics and optical mapping approach."
+  ],
+  "affiliation": [
+    "Institute of Cardiovascular Sciences, University of Birmingham, Birmingham, United Kingdom."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "109604/Z/15/Z"
+          ],
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "FS/13/43/30324"
+          ],
+          "agency": [
+            "British Heart Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "FS/16/35/31952"
+          ],
+          "agency": [
+            "British Heart Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "PG/17/55/33087"
+          ],
+          "agency": [
+            "British Heart Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "RG/17/15/33106"
+          ],
+          "agency": [
+            "British Heart Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "PG/17/30/32961"
+          ],
+          "agency": [
+            "British Heart Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Fluorescence",
+        "Calcium",
+        "Action potential",
+        "Cardiac",
+        "Arrhythmias",
+        "Optical Mapping",
+        "Optogenetic",
+        "Conduction (Action Potential)"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6416196?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6416196"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fphys.2019.00182"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-03-23"
+  ],
+  "firstIndexDate": [
+    "2019-03-23"
+  ],
+  "dateOfRevision": [
+    "2019-03-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-07"
+  ],
+  "firstPublicationDate": [
+    "2019-03-07"
+  ]
+}

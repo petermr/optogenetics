@@ -1,0 +1,680 @@
+{
+  "id": [
+    "28011703"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28011703"
+  ],
+  "pmcid": [
+    "PMC5837774"
+  ],
+  "doi": [
+    "10.1093/eurheartj/ehw574"
+  ],
+  "title": [
+    "Optogenetic termination of ventricular arrhythmias in the whole heart: towards biological cardiac rhythm management."
+  ],
+  "authorString": [
+    "Nyns ECA, Kip A, Bart CI, Plomp JJ, Zeppenfeld K, Schalij MJ, de Vries AAF, Pijnappels DA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Nyns ECA"
+          ],
+          "firstName": [
+            "Emile C A"
+          ],
+          "lastName": [
+            "Nyns"
+          ],
+          "initials": [
+            "ECA"
+          ],
+          "affiliation": [
+            "Laboratory of Experimental Cardiology,Department of Cardiology, Heart Lung Center Leiden, Albinusdreef 2, 2300 RC Leiden, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Kip A"
+          ],
+          "firstName": [
+            "Annemarie"
+          ],
+          "lastName": [
+            "Kip"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Laboratory of Experimental Cardiology,Department of Cardiology, Heart Lung Center Leiden, Albinusdreef 2, 2300 RC Leiden, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Bart CI"
+          ],
+          "firstName": [
+            "Cindy I"
+          ],
+          "lastName": [
+            "Bart"
+          ],
+          "initials": [
+            "CI"
+          ],
+          "affiliation": [
+            "Laboratory of Experimental Cardiology,Department of Cardiology, Heart Lung Center Leiden, Albinusdreef 2, 2300 RC Leiden, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Plomp JJ"
+          ],
+          "firstName": [
+            "Jaap J"
+          ],
+          "lastName": [
+            "Plomp"
+          ],
+          "initials": [
+            "JJ"
+          ],
+          "affiliation": [
+            "Department of Neurology and Neurophysiology, Leiden University Medical Center, Albinusdreef 2, 2300 RC Leiden, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Zeppenfeld K"
+          ],
+          "firstName": [
+            "Katja"
+          ],
+          "lastName": [
+            "Zeppenfeld"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Laboratory of Experimental Cardiology,Department of Cardiology, Heart Lung Center Leiden, Albinusdreef 2, 2300 RC Leiden, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Schalij MJ"
+          ],
+          "firstName": [
+            "Martin J"
+          ],
+          "lastName": [
+            "Schalij"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "affiliation": [
+            "Laboratory of Experimental Cardiology,Department of Cardiology, Heart Lung Center Leiden, Albinusdreef 2, 2300 RC Leiden, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "de Vries AAF"
+          ],
+          "firstName": [
+            "Antoine A F"
+          ],
+          "lastName": [
+            "de Vries"
+          ],
+          "initials": [
+            "AAF"
+          ],
+          "affiliation": [
+            "Laboratory of Experimental Cardiology,Department of Cardiology, Heart Lung Center Leiden, Albinusdreef 2, 2300 RC Leiden, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Pijnappels DA"
+          ],
+          "firstName": [
+            "Daniël A"
+          ],
+          "lastName": [
+            "Pijnappels"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "affiliation": [
+            "Laboratory of Experimental Cardiology,Department of Cardiology, Heart Lung Center Leiden, Albinusdreef 2, 2300 RC Leiden, The Netherlands."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "27"
+      ],
+      "volume": [
+        "38"
+      ],
+      "journalIssueId": [
+        "2606674"
+      ],
+      "dateOfPublication": [
+        "2017 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "European heart journal"
+          ],
+          "ISOAbbreviation": [
+            "Eur. Heart J."
+          ],
+          "medlineAbbreviation": [
+            "Eur Heart J"
+          ],
+          "NLMid": [
+            "8006263"
+          ],
+          "ISSN": [
+            "0195-668X"
+          ],
+          "ESSN": [
+            "1522-9645"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "2132-2136"
+  ],
+  "abstractText": [
+    "Current treatments of ventricular arrhythmias rely on modulation of cardiac electrical function through drugs, ablation or electroshocks, which are all non-biological and rather unspecific, irreversible or traumatizing interventions. Optogenetics, however, is a novel, biological technique allowing electrical modulation in a specific, reversible and trauma-free manner using light-gated ion channels. The aim of our study was to investigate optogenetic termination of ventricular arrhythmias in the whole heart.Systemic delivery of cardiotropic adeno-associated virus vectors, encoding the light-gated depolarizing ion channel red-activatable channelrhodopsin (ReaChR), resulted in global cardiomyocyte-restricted transgene expression in adult Wistar rat hearts allowing ReaChR-mediated depolarization and pacing. Next, ventricular tachyarrhythmias (VTs) were induced in the optogenetically modified hearts by burst pacing in a Langendorff setup, followed by programmed, local epicardial illumination. A single 470-nm light pulse (1000 ms, 2.97 mW/mm2) terminated 97% of monomorphic and 57% of polymorphic VTs vs. 0% without illumination, as assessed by electrocardiogram recordings. Optical mapping showed significant prolongation of voltage signals just before arrhythmia termination. Pharmacological action potential duration (APD) shortening almost fully inhibited light-induced arrhythmia termination indicating an important role for APD in this process.Brief local epicardial illumination of the optogenetically modified adult rat heart allows contact- and shock-free termination of ventricular arrhythmias in an effective and repetitive manner after optogenetic modification. These findings could lay the basis for the development of fundamentally new and biological options for cardiac arrhythmia management."
+  ],
+  "affiliation": [
+    "Laboratory of Experimental Cardiology,Department of Cardiology, Heart Lung Center Leiden, Albinusdreef 2, 2300 RC Leiden, The Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Myocytes, Cardiac"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rats, Wistar"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adenoviridae"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tachycardia, Ventricular"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phototherapy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ion Channel Gating"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "RE"
+                  ],
+                  "qualifierName": [
+                    "radiation effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Transgenes"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genetic Vectors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Light"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Arrhythmias, Cardiac"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genetic Therapy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Optogenetics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Channelrhodopsins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Gene therapy",
+        "Adeno-associated virus vector",
+        "anti-arrhythmic",
+        "Ventricular Arrhythmias",
+        "Optogenetics",
+        "Channelrhodopsin"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Channelrhodopsins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5837774?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5837774"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/eurheartj/ehw574"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "15"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-06-18"
+  ],
+  "dateOfCreation": [
+    "2016-12-25"
+  ],
+  "firstIndexDate": [
+    "2016-12-25"
+  ],
+  "dateOfRevision": [
+    "2018-06-18"
+  ],
+  "firstPublicationDate": [
+    "2017-07-01"
+  ]
+}

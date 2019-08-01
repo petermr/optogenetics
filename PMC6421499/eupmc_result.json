@@ -1,0 +1,282 @@
+{
+  "id": [
+    "30914967"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30914967"
+  ],
+  "pmcid": [
+    "PMC6421499"
+  ],
+  "doi": [
+    "10.3389/fphys.2019.00200"
+  ],
+  "title": [
+    "Autonomic Neuromodulation for Preventing and Treating Ventricular Arrhythmias."
+  ],
+  "authorString": [
+    "Lai Y, Yu L, Jiang H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lai Y"
+          ],
+          "firstName": [
+            "Yanqiu"
+          ],
+          "lastName": [
+            "Lai"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Cardiology, Renmin Hospital of Wuhan University, Wuhan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yu L"
+          ],
+          "firstName": [
+            "Lilei"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Cardiology, Renmin Hospital of Wuhan University, Wuhan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Jiang H"
+          ],
+          "firstName": [
+            "Hong"
+          ],
+          "lastName": [
+            "Jiang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Cardiology, Renmin Hospital of Wuhan University, Wuhan, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2777617"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in physiology"
+          ],
+          "ISOAbbreviation": [
+            "Front Physiol"
+          ],
+          "medlineAbbreviation": [
+            "Front Physiol"
+          ],
+          "NLMid": [
+            "101549006"
+          ],
+          "ISSN": [
+            "1664-042X"
+          ],
+          "ESSN": [
+            "1664-042X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "200"
+  ],
+  "abstractText": [
+    "The cardiac autonomic nervous system (CANS) is associated with modulation of cardiac electrophysiology and arrhythmogenesis. In this mini review, we will briefly introduce cardiac autonomic anatomy and autonomic activity in ventricular arrhythmias (VAs) and discuss novel approaches of CANS modulation for treating VAs. Studies over the decades have provided a better understanding of cardiac autonomic innervation and revealed overwhelming evidence of the relationship between autonomic tone and VAs. A high sympathetic tone and low parasympathetic (vagal) tone are considered as the major triggers of VAs in patients with myocardial ischemia, which can cause sudden cardiac death. In recent years, novel methods of autonomic neuromodulation have been investigated to prevent VAs, and they have been verified as being beneficial for malignant VAs in animal models and humans. The clinical outcome of autonomic neuromodulation depends on the level of cardiac neuraxis, stimulation parameters, and patient's pathological status. Since autonomic modulation for VA treatment is still in the early stage of clinical application, more basic and clinical studies should be performed to clarify these mechanisms and optimize autonomic neuromodulation therapies for patients with VAs in the future."
+  ],
+  "affiliation": [
+    "Department of Cardiology, Renmin Hospital of Wuhan University, Wuhan, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Ventricular Arrhythmias",
+        "Neuromodulation",
+        "Neurocardiology",
+        "Cardiac Autonomic Nervous System",
+        "Neurorebalance"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6421499?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6421499"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fphys.2019.00200"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-03-28"
+  ],
+  "firstIndexDate": [
+    "2019-03-28"
+  ],
+  "dateOfRevision": [
+    "2019-03-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-11"
+  ],
+  "firstPublicationDate": [
+    "2019-03-11"
+  ]
+}

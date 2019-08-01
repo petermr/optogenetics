@@ -1,0 +1,644 @@
+{
+  "id": [
+    "29089483"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29089483"
+  ],
+  "pmcid": [
+    "PMC5663714"
+  ],
+  "doi": [
+    "10.1038/s41467-017-01031-3"
+  ],
+  "title": [
+    "Three-dimensional scanless holographic optogenetics with temporal focusing (3D-SHOT)."
+  ],
+  "authorString": [
+    "Pégard NC, Mardinly AR, Oldenburg IA, Sridharan S, Waller L, Adesnik H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pégard NC"
+          ],
+          "firstName": [
+            "Nicolas C"
+          ],
+          "lastName": [
+            "Pégard"
+          ],
+          "initials": [
+            "NC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2868-7118",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Molecular and Cell Biology, 205 Life Science Addition, University of California, Berkeley, CA, 94720, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Mardinly AR"
+          ],
+          "firstName": [
+            "Alan R"
+          ],
+          "lastName": [
+            "Mardinly"
+          ],
+          "initials": [
+            "AR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9891-6719",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Molecular and Cell Biology, 205 Life Science Addition, University of California, Berkeley, CA, 94720, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Oldenburg IA"
+          ],
+          "firstName": [
+            "Ian Antón"
+          ],
+          "lastName": [
+            "Oldenburg"
+          ],
+          "initials": [
+            "IA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7356-104X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Molecular and Cell Biology, 205 Life Science Addition, University of California, Berkeley, CA, 94720, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Sridharan S"
+          ],
+          "firstName": [
+            "Savitha"
+          ],
+          "lastName": [
+            "Sridharan"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Molecular and Cell Biology, 205 Life Science Addition, University of California, Berkeley, CA, 94720, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Waller L"
+          ],
+          "firstName": [
+            "Laura"
+          ],
+          "lastName": [
+            "Waller"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1243-2356",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Electrical Engineering and Computer Science, 514 Cory Hall, University of California, Berkeley, CA, 94720, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Adesnik H"
+          ],
+          "firstName": [
+            "Hillel"
+          ],
+          "lastName": [
+            "Adesnik"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3796-8643",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Molecular and Cell Biology, 205 Life Science Addition, University of California, Berkeley, CA, 94720, USA. hadesnik@berkeley.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2868-7118",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7356-104X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1243-2356",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9891-6719",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3796-8643",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2603097"
+      ],
+      "dateOfPublication": [
+        "2017 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "1228"
+  ],
+  "abstractText": [
+    "Optical methods capable of manipulating neural activity with cellular resolution and millisecond precision in three dimensions will accelerate the pace of neuroscience research. Existing approaches for targeting individual neurons, however, fall short of these requirements. Here we present a new multiphoton photo-excitation method, termed three-dimensional scanless holographic optogenetics with temporal focusing (3D-SHOT), which allows precise, simultaneous photo-activation of arbitrary sets of neurons anywhere within the addressable volume of a microscope. This technique uses point-cloud holography to place multiple copies of a temporally focused disc matching the dimensions of a neuron's cell body. Experiments in cultured cells, brain slices, and in living mice demonstrate single-neuron spatial resolution even when optically targeting randomly distributed groups of neurons in 3D. This approach opens new avenues for mapping and manipulating neural circuits, allowing a real-time, cellular resolution interface to the brain."
+  ],
+  "affiliation": [
+    "Department of Molecular and Cell Biology, 205 Life Science Addition, University of California, Berkeley, CA, 94720, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "F32 NS095690"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R21 EY027597"
+          ],
+          "agency": [
+            "NEI NIH HHS"
+          ],
+          "acronym": [
+            "EY"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P30 EY003176"
+          ],
+          "agency": [
+            "NEI NIH HHS"
+          ],
+          "acronym": [
+            "EY"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neurons"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "CHO Cells"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cricetulus"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Imaging, Three-Dimensional"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Holography"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Photons"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cricetinae"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Optogenetics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Absorption, Radiation"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5663714?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5663714"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-017-01031-3"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "13"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-08-27"
+  ],
+  "dateOfCreation": [
+    "2017-11-02"
+  ],
+  "firstIndexDate": [
+    "2017-11-02"
+  ],
+  "dateOfRevision": [
+    "2018-10-31"
+  ],
+  "electronicPublicationDate": [
+    "2017-10-31"
+  ],
+  "firstPublicationDate": [
+    "2017-10-31"
+  ]
+}

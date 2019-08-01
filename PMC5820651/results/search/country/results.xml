@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="country">
+ <result pre="Todd P. * † [†], University of California, San Diego" exact="United States" post="[‡], University of California, San Diego United States [§],"/>
+ <result pre="San Diego United States [‡], University of California, San Diego" exact="United States" post="[§], University of California, San Diego United States [∥],"/>
+ <result pre="San Diego United States [§], University of California, San Diego" exact="United States" post="[∥], Quinnipiac University United States [⊥], University of California,"/>
+ <result pre="University of California, San Diego United States [∥], Quinnipiac University" exact="United States" post="[⊥], University of California, San Diego United States [#],"/>
+ <result pre="Quinnipiac University United States [⊥], University of California, San Diego" exact="United States" post="[#], University of Iowa United States *E-mail: pkyriaka@ucsd.edu. *E-mail:"/>
+ <result pre="of California, San Diego United States [#], University of Iowa" exact="United States" post="*E-mail: pkyriaka@ucsd.edu. *E-mail: tpcoleman@ucsd.edu. epub: 2018-01-01 ppub: 2018-02-02 7"/>
+</results>

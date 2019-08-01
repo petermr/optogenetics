@@ -1,0 +1,378 @@
+{
+  "id": [
+    "29486056"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29486056"
+  ],
+  "pmcid": [
+    "PMC5979753"
+  ],
+  "doi": [
+    "10.1111/bph.14183"
+  ],
+  "title": [
+    "Defining the ionic mechanisms of optogenetic control of vascular tone by channelrhodopsin-2."
+  ],
+  "authorString": [
+    "Rorsman NJG, Ta CM, Garnett H, Swietach P, Tammaro P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rorsman NJG"
+          ],
+          "firstName": [
+            "Nils J G"
+          ],
+          "lastName": [
+            "Rorsman"
+          ],
+          "initials": [
+            "NJG"
+          ],
+          "affiliation": [
+            "Department of Pharmacology, University of Oxford, Oxford, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Ta CM"
+          ],
+          "firstName": [
+            "Chau M"
+          ],
+          "lastName": [
+            "Ta"
+          ],
+          "initials": [
+            "CM"
+          ],
+          "affiliation": [
+            "Department of Pharmacology, University of Oxford, Oxford, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Garnett H"
+          ],
+          "firstName": [
+            "Hannah"
+          ],
+          "lastName": [
+            "Garnett"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Pharmacology, University of Oxford, Oxford, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Swietach P"
+          ],
+          "firstName": [
+            "Pawel"
+          ],
+          "lastName": [
+            "Swietach"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9945-9473",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Physiology, Anatomy and Genetics, University of Oxford, Oxford, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Tammaro P"
+          ],
+          "firstName": [
+            "Paolo"
+          ],
+          "lastName": [
+            "Tammaro"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6183-8187",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pharmacology, University of Oxford, Oxford, UK."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9945-9473",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6183-8187",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "175"
+      ],
+      "journalIssueId": [
+        "2693730"
+      ],
+      "dateOfPublication": [
+        "2018 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "British journal of pharmacology"
+          ],
+          "ISOAbbreviation": [
+            "Br. J. Pharmacol."
+          ],
+          "medlineAbbreviation": [
+            "Br J Pharmacol"
+          ],
+          "NLMid": [
+            "7502536"
+          ],
+          "ISSN": [
+            "0007-1188"
+          ],
+          "ESSN": [
+            "1476-5381"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "2028-2045"
+  ],
+  "abstractText": [
+    "BACKGROUND AND PURPOSE:Optogenetic control of electromechanical coupling in vascular smooth muscle cells (VSMCs) is emerging as a powerful research tool with potential applications in drug discovery and therapeutics. However, the precise ionic mechanisms involved in this control remain unclear. EXPERIMENTAL APPROACH:Cell imaging, patch-clamp electrophysiology and muscle tension recordings were used to define these mechanisms over a wide range of light stimulations. KEY RESULTS:Transgenic mice expressing a channelrhodopsin-2 variant [ChR2(H134R)] selectively in VSMCs were generated. Isolated VSMCs obtained from these mice demonstrated blue light-induced depolarizing whole-cell currents. Fine control of artery tone was attained by varying the intensity of the light stimulus. This arterial response was sufficient to overcome the endogenous, melanopsin-mediated, light-evoked, arterial relaxation observed in the presence of contractile agonists. Ca2+ entry through voltage-gated Ca2+ channels, and opening of plasmalemmal depolarizing channels (TMEM16A and TRPM) and intracellular IP3 receptors were involved in the ChR2(H134R)-dependent arterial response to blue light at intensities lower than ~0.1 mW·mm-2 . Light stimuli of greater intensity evoked a significant Ca2+ influx directly through ChR2(H134R) and produced marked intracellular alkalinization of VSMCs. CONCLUSIONS AND IMPLICATIONS:We identified the range of light intensity allowing optical control of arterial tone, primarily by means of endogenous channels and without substantial alteration to intracellular pH. Within this range, mice expressing ChR2(H134R) in VSMCs are a powerful experimental model for achieving accurate and tuneable optical voltage-clamp of VSMCs and finely graded control of arterial tone, offering new approaches to the discovery of vasorelaxant drugs."
+  ],
+  "affiliation": [
+    "Department of Pharmacology, University of Oxford, Oxford, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "RE/08/004 "
+          ],
+          "agency": [
+            "British Heart Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "RG/15/9/31534"
+          ],
+          "agency": [
+            "British Heart Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5979753?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5979753"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/bph.14183"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-02-28"
+  ],
+  "firstIndexDate": [
+    "2018-02-28"
+  ],
+  "dateOfRevision": [
+    "2019-03-22"
+  ],
+  "electronicPublicationDate": [
+    "2018-04-17"
+  ],
+  "firstPublicationDate": [
+    "2018-04-17"
+  ]
+}

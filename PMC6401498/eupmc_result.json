@@ -1,0 +1,351 @@
+{
+  "id": [
+    "30867827"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30867827"
+  ],
+  "pmcid": [
+    "PMC6401498"
+  ],
+  "doi": [
+    "10.7150/thno.25735"
+  ],
+  "title": [
+    "Quantification of human neuromuscular function through optogenetics."
+  ],
+  "authorString": [
+    "Vila OF, Uzel SGM, Ma SP, Williams D, Pak J, Kamm RD, Vunjak-Novakovic G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Vila OF"
+          ],
+          "firstName": [
+            "Olaia F"
+          ],
+          "lastName": [
+            "Vila"
+          ],
+          "initials": [
+            "OF"
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, Columbia University, New York, NY 10032, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Uzel SGM"
+          ],
+          "firstName": [
+            "Sebastien G M"
+          ],
+          "lastName": [
+            "Uzel"
+          ],
+          "initials": [
+            "SGM"
+          ],
+          "affiliation": [
+            "Department of Mechanical Engineering and Biological Engineering, Massachusetts Institute of Technology, Cambridge MA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ma SP"
+          ],
+          "firstName": [
+            "Stephen P"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "SP"
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, Columbia University, New York, NY 10032, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Williams D"
+          ],
+          "firstName": [
+            "Damian"
+          ],
+          "lastName": [
+            "Williams"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Columbia University Stem Cell Core Facility, Department of Rehabilitation and Regenerative Medicine, Columbia University, New York, NY 10032, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Pak J"
+          ],
+          "firstName": [
+            "Joseph"
+          ],
+          "lastName": [
+            "Pak"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, Columbia University, New York, NY 10032, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kamm RD"
+          ],
+          "firstName": [
+            "Roger D"
+          ],
+          "lastName": [
+            "Kamm"
+          ],
+          "initials": [
+            "RD"
+          ],
+          "affiliation": [
+            "Department of Mechanical Engineering and Biological Engineering, Massachusetts Institute of Technology, Cambridge MA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Vunjak-Novakovic G"
+          ],
+          "firstName": [
+            "Gordana"
+          ],
+          "lastName": [
+            "Vunjak-Novakovic"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, Columbia University, New York, NY 10032, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2793727"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Theranostics"
+          ],
+          "ISOAbbreviation": [
+            "Theranostics"
+          ],
+          "medlineAbbreviation": [
+            "Theranostics"
+          ],
+          "NLMid": [
+            "101552395"
+          ],
+          "ISSN": [
+            "1838-7640"
+          ],
+          "ESSN": [
+            "1838-7640"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1232-1246"
+  ],
+  "abstractText": [
+    "The study of human neuromuscular diseases has traditionally been performed in animal models, due to the difficulty of performing studies in human subjects. Despite the unquestioned value of animal models, inter-species differences hamper the translation of these findings to clinical trials. Tissue-engineered models of the neuromuscular junction (NMJ) allow for the recapitulation of the human physiology in tightly controlled in vitro settings. Methods: Here we report the first human patient-specific tissue-engineered model of the neuromuscular junction (NMJ) that combines stem cell technology with tissue engineering, optogenetics, microfabrication and image processing. The combination of custom-made hardware and software allows for repeated, quantitative measurements of NMJ function in a user-independent manner. Results: We demonstrate the utility of this model for basic and translational research by characterizing in real time the functional changes during physiological and pathological processes. Principal Conclusions: This system holds great potential for the study of neuromuscular diseases and drug screening, allowing for the extraction of quantitative functional data from a human, patient-specific system."
+  ],
+  "affiliation": [
+    "Department of Biomedical Engineering, Columbia University, New York, NY 10032, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Myasthenia gravis",
+        "Tissue engineering",
+        "Neuromuscular Junctions",
+        "Induced Pluripotent Stem Cells"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6401498?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6401498"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7150/thno.25735"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-03-15"
+  ],
+  "firstIndexDate": [
+    "2019-03-15"
+  ],
+  "dateOfRevision": [
+    "2019-03-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-31"
+  ],
+  "firstPublicationDate": [
+    "2019-01-31"
+  ]
+}

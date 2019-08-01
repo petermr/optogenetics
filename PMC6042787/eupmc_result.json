@@ -1,0 +1,428 @@
+{
+  "id": [
+    "30001435"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30001435"
+  ],
+  "pmcid": [
+    "PMC6042787"
+  ],
+  "doi": [
+    "10.1371/journal.ppat.1007046"
+  ],
+  "title": [
+    "Illuminating pathogen-host intimacy through optogenetics."
+  ],
+  "authorString": [
+    "Arroyo-Olarte RD, Thurow L, Kozjak-Pavlovic V, Gupta N."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Arroyo-Olarte RD"
+          ],
+          "firstName": [
+            "Ruben Dario"
+          ],
+          "lastName": [
+            "Arroyo-Olarte"
+          ],
+          "initials": [
+            "RD"
+          ],
+          "affiliation": [
+            "Department of Molecular Parasitology, Faculty of Life Sciences, Humboldt University, Berlin, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Thurow L"
+          ],
+          "firstName": [
+            "Laura"
+          ],
+          "lastName": [
+            "Thurow"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5621-5391",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Molecular Parasitology, Faculty of Life Sciences, Humboldt University, Berlin, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Kozjak-Pavlovic V"
+          ],
+          "firstName": [
+            "Vera"
+          ],
+          "lastName": [
+            "Kozjak-Pavlovic"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9658-7018",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Microbiology, Biocenter, Julius Maximilian University, Würzburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Gupta N"
+          ],
+          "firstName": [
+            "Nishith"
+          ],
+          "lastName": [
+            "Gupta"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1452-5126",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Molecular Parasitology, Faculty of Life Sciences, Humboldt University, Berlin, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5621-5391",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9658-7018",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1452-5126",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2703543"
+      ],
+      "dateOfPublication": [
+        "2018 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PLoS pathogens"
+          ],
+          "ISOAbbreviation": [
+            "PLoS Pathog."
+          ],
+          "medlineAbbreviation": [
+            "PLoS Pathog"
+          ],
+          "NLMid": [
+            "101238921"
+          ],
+          "ISSN": [
+            "1553-7366"
+          ],
+          "ESSN": [
+            "1553-7374"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e1007046"
+  ],
+  "abstractText": [
+    "The birth and subsequent evolution of optogenetics has resulted in an unprecedented advancement in our understanding of the brain. Its outstanding success does usher wider applications; however, the tool remains still largely relegated to neuroscience. Here, we introduce selected aspects of optogenetics with potential applications in infection biology that will not only answer long-standing questions about intracellular pathogens (parasites, bacteria, viruses) but also broaden the dimension of current research in entwined models. In this essay, we illustrate how a judicious integration of optogenetics with routine methods can illuminate the host-pathogen interactions in a way that has not been feasible otherwise."
+  ],
+  "affiliation": [
+    "Department of Molecular Parasitology, Faculty of Life Sciences, Humboldt University, Berlin, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Host-Pathogen Interactions"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Optogenetics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6042787?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6042787"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.ppat.1007046"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-01-14"
+  ],
+  "dateOfCreation": [
+    "2018-07-13"
+  ],
+  "firstIndexDate": [
+    "2018-07-13"
+  ],
+  "dateOfRevision": [
+    "2019-01-14"
+  ],
+  "electronicPublicationDate": [
+    "2018-07-12"
+  ],
+  "firstPublicationDate": [
+    "2018-07-12"
+  ]
+}

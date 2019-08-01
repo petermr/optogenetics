@@ -1,0 +1,551 @@
+{
+  "id": [
+    "30918264"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30918264"
+  ],
+  "pmcid": [
+    "PMC6437158"
+  ],
+  "doi": [
+    "10.1038/s41467-019-09345-0"
+  ],
+  "title": [
+    "Upconversion amplification through dielectric superlensing modulation."
+  ],
+  "authorString": [
+    "Liang L, Teh DBL, Dinh ND, Chen W, Chen Q, Wu Y, Chowdhury S, Yamanaka A, Sum TC, Chen CH, Thakor NV, All AH, Liu X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liang L"
+          ],
+          "firstName": [
+            "Liangliang"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4958-3801",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Chemistry, National University of Singapore, Singapore, 117543, Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Teh DBL"
+          ],
+          "firstName": [
+            "Daniel B L"
+          ],
+          "lastName": [
+            "Teh"
+          ],
+          "initials": [
+            "DBL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4560-8568",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biochemistry, National University of Singapore, Singapore, 117456, Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Dinh ND"
+          ],
+          "firstName": [
+            "Ngoc-Duy"
+          ],
+          "lastName": [
+            "Dinh"
+          ],
+          "initials": [
+            "ND"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4964-7038",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, National University of Singapore, Singapore, 119228, Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen W"
+          ],
+          "firstName": [
+            "Weiqiang"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Division of Physics and Applied Physics, School of Physical and Mathematical Sciences, Nanyang Technological University, Singapore, 637371, Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen Q"
+          ],
+          "firstName": [
+            "Qiushui"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Department of Chemistry, National University of Singapore, Singapore, 117543, Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu Y"
+          ],
+          "firstName": [
+            "Yiming"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Chemistry, National University of Singapore, Singapore, 117543, Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Chowdhury S"
+          ],
+          "firstName": [
+            "Srikanta"
+          ],
+          "lastName": [
+            "Chowdhury"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2216-5960",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neuroscience II, Research Institute of Environmental Medicine, Nagoya University, Nagoya, 464-8601, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Yamanaka A"
+          ],
+          "firstName": [
+            "Akihiro"
+          ],
+          "lastName": [
+            "Yamanaka"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Neuroscience II, Research Institute of Environmental Medicine, Nagoya University, Nagoya, 464-8601, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Sum TC"
+          ],
+          "firstName": [
+            "Tze Chien"
+          ],
+          "lastName": [
+            "Sum"
+          ],
+          "initials": [
+            "TC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4049-2719",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Physics and Applied Physics, School of Physical and Mathematical Sciences, Nanyang Technological University, Singapore, 637371, Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen CH"
+          ],
+          "firstName": [
+            "Chia-Hung"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "CH"
+          ],
+          "affiliation": [
+            "Singapore Institute of Neurotechnology (SINAPSE), National University of Singapore, Singapore, 117456, Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Thakor NV"
+          ],
+          "firstName": [
+            "Nitish V"
+          ],
+          "lastName": [
+            "Thakor"
+          ],
+          "initials": [
+            "NV"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9981-9395",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Singapore Institute of Neurotechnology (SINAPSE), National University of Singapore, Singapore, 117456, Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "All AH"
+          ],
+          "firstName": [
+            "Angelo H"
+          ],
+          "lastName": [
+            "All"
+          ],
+          "initials": [
+            "AH"
+          ],
+          "affiliation": [
+            "Department of Neurology, Johns Hopkins School of Medicine, Baltimore, MD, 21205, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu X"
+          ],
+          "firstName": [
+            "Xiaogang"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2517-5790",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Chemistry, National University of Singapore, Singapore, 117543, Singapore. chmlx@nus.edu.sg."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2216-5960",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4049-2719",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2517-5790",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9981-9395",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4964-7038",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4958-3801",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4560-8568",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2787934"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1391"
+  ],
+  "abstractText": [
+    "Achieving efficient photon upconversion under low irradiance is not only a fundamental challenge but also central to numerous advanced applications spanning from photovoltaics to biophotonics. However, to date, almost all approaches for upconversion luminescence intensification require stringent controls over numerous factors such as composition and size of nanophosphors. Here, we report the utilization of dielectric microbeads to significantly enhance the photon upconversion processes in lanthanide-doped nanocrystals. By modulating the wavefront of both excitation and emission fields through dielectric superlensing effects, luminescence amplification up to 5 orders of magnitude can be achieved. This design delineates a general strategy to converge a low-power incident light beam into a photonic hotspot of high field intensity, while simultaneously enabling collimation of highly divergent emission for far-field accumulation. The dielectric superlensing-mediated strategy may provide a major step forward in facilitating photon upconversion processes toward practical applications in the fields of photobiology, energy conversion, and optogenetics."
+  ],
+  "affiliation": [
+    "Department of Chemistry, National University of Singapore, Singapore, 117543, Singapore."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6437158?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6437158"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-019-09345-0"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-04-09"
+  ],
+  "dateOfCreation": [
+    "2019-03-29"
+  ],
+  "firstIndexDate": [
+    "2019-03-29"
+  ],
+  "dateOfRevision": [
+    "2019-04-09"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-27"
+  ],
+  "firstPublicationDate": [
+    "2019-03-27"
+  ]
+}

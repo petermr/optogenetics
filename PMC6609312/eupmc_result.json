@@ -1,0 +1,334 @@
+{
+  "id": [
+    "31316356"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31316356"
+  ],
+  "pmcid": [
+    "PMC6609312"
+  ],
+  "doi": [
+    "10.3389/fncel.2019.00291"
+  ],
+  "title": [
+    "The Stability of Glutamatergic Synapses Is Independent of Activity Level, but Predicted by Synapse Size."
+  ],
+  "authorString": [
+    "Quinn DP, Kolar A, Harris SA, Wigerius M, Fawcett JP, Krueger SR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Quinn DP"
+          ],
+          "firstName": [
+            "Dylan P"
+          ],
+          "lastName": [
+            "Quinn"
+          ],
+          "initials": [
+            "DP"
+          ],
+          "affiliation": [
+            "Department of Physiology and Biophysics, Faculty of Medicine, Dalhousie University, Halifax, NS, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Kolar A"
+          ],
+          "firstName": [
+            "Annette"
+          ],
+          "lastName": [
+            "Kolar"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Physiology and Biophysics, Faculty of Medicine, Dalhousie University, Halifax, NS, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Harris SA"
+          ],
+          "firstName": [
+            "Sydney A"
+          ],
+          "lastName": [
+            "Harris"
+          ],
+          "initials": [
+            "SA"
+          ],
+          "affiliation": [
+            "Department of Physiology and Biophysics, Faculty of Medicine, Dalhousie University, Halifax, NS, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Wigerius M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Wigerius"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Pharmacology, Faculty of Medicine, Dalhousie University, Halifax, NS, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Fawcett JP"
+          ],
+          "firstName": [
+            "James P"
+          ],
+          "lastName": [
+            "Fawcett"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "affiliation": [
+            "Department of Pharmacology, Faculty of Medicine, Dalhousie University, Halifax, NS, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Krueger SR"
+          ],
+          "firstName": [
+            "Stefan R"
+          ],
+          "lastName": [
+            "Krueger"
+          ],
+          "initials": [
+            "SR"
+          ],
+          "affiliation": [
+            "Department of Physiology and Biophysics, Faculty of Medicine, Dalhousie University, Halifax, NS, Canada."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2779302"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in cellular neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Cell Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Cell Neurosci"
+          ],
+          "NLMid": [
+            "101477935"
+          ],
+          "ISSN": [
+            "1662-5102"
+          ],
+          "ESSN": [
+            "1662-5102"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "291"
+  ],
+  "abstractText": [
+    "Neuronal activity is thought to drive the remodeling of circuits in the mammalian cerebral cortex. However, its precise function in the underlying formation and elimination of glutamatergic synapses has remained controversial. To clarify the role of activity in synapse turnover, we have assessed the effects of inhibition of glutamate release from a sparse subset of cultured hippocampal neurons on synapse turnover. Sustained chemogenetic attenuation of release through presynaptic expression of a designer receptor exclusively activated by designer drugs (DREADD) had no effect on the formation or elimination of glutamatergic synapses. Sparse expression of tetanus neurotoxin light chain (TeNT-LC), a synaptobrevin-cleaving protease that completely abolishes neurotransmitter release, likewise did not lead to changes in the rate of synapse elimination, although it reduced the rate of synapse formation. The stability of active and silenced synapses correlated with measures of synapse size. While not excluding a modulatory role in synapse elimination, our findings show that synaptic activity is neither required for the removal nor the maintenance of glutamatergic synapses between hippocampal neurons. Our results also demonstrate that the stability of glutamatergic synapses scales with their size irrespective of their activity."
+  ],
+  "affiliation": [
+    "Department of Physiology and Biophysics, Faculty of Medicine, Dalhousie University, Halifax, NS, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Hippocampus",
+        "Neurotransmitter release",
+        "Synaptic plasticity",
+        "Dendritic Spines",
+        "Channelrhodopsin",
+        "Dreadd",
+        "Presynaptic Specializations"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6609312?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6609312"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fncel.2019.00291"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-19"
+  ],
+  "firstIndexDate": [
+    "2019-07-19"
+  ],
+  "dateOfRevision": [
+    "2019-07-23"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-27"
+  ],
+  "firstPublicationDate": [
+    "2019-06-27"
+  ]
+}

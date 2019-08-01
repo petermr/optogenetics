@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6140114/results/search/country/results.xml">
+  <result pre="Antoine 3 http://orcid.org/0000-0001-9985-3860 Jones Barbara E. 1 [1], McGill University" exact="Canada" post="[2], New York Medical College [3], University of Bern"/>
+  <result pre="[2], New York Medical College [3], University of Bern CH-3010," exact="Switzerland" post="The authors declare no competing financial interests. Author contributions:"/>
+  <result pre="REM sleep slow wave sleep θ waking Funding http://doi.org/10.13039/501100000024Gouvernement du" exact="Canada" post="| Canadian Institutes of Health Research (CIHR) CIHR MOP130502"/>
+  <result pre="Brain Res 306: 39– 52. 10.1016/0006-8993(84)90354-8 6466986 Baghdoyan HA ," exact="Monaco" post="AP , Rodrigo-Angulo ML , Assens F , McCarley"/>
+ </snippets>
+</snippetsTree>

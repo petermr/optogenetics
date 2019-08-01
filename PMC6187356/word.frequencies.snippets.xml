@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6187356/results/word/frequencies/results.xml">
+  <result title="frequency" word="temperature" count="51"/>
+  <result title="frequency" word="RTD" count="48"/>
+  <result title="frequency" word="Figure" count="38"/>
+  <result title="frequency" word="LED" count="36"/>
+  <result title="frequency" word="recording" count="31"/>
+  <result title="frequency" word="neural" count="27"/>
+  <result title="frequency" word="brain" count="25"/>
+  <result title="frequency" word="probe" count="24"/>
+  <result title="frequency" word="light" count="21"/>
+ </snippets>
+</snippetsTree>

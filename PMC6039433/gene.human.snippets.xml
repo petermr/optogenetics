@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6039433/results/gene/human/results.xml">
+  <result pre="Brainbow technologies, with the lox sequences, mCherry, and the transcription factor " exact="QF2" post=" w encoded downstream of the pan-neuronal promoter ( F25B3.3p). In the i" xpath="/html[1]/body[1]/div[2]/div[4]/div[2]/p[2]" dictionary="hgnc" dictionaryCheck="false" name="human"/>
+  <result pre="at shock. In the plasmid pSTAR, lox sequences, mCherry, and a transcription factor ( " exact="QF2" post=" w 15 ) were inserted downstream of a pan-neuronal " xpath="/html[1]/body[1]/div[2]/div[4]/div[2]/p[2]" dictionary="hgnc" dictionaryCheck="false" name="human"/>
+  <result pre="To construct pSTAR, a backbone plasmid with lox and " exact="QF2" post=" w 15 sequences was synthesized (Thermo Fisher Sci" dictionary="hgnc" dictionaryCheck="false" name="human"/>
+ </snippets>
+</snippetsTree>

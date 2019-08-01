@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC5343659/results/search/country/results.xml">
+  <result pre="Assistance Publique-Hôpitaux de Paris (APHP), Groupe Henri-Mondor Albert-Chenevier, PePsy department" exact="France" post="[2], U955 INSERM IMRB eq.14 Université Paris 12 UPEC,"/>
+  <result pre="INSERM IMRB eq.14 Université Paris 12 UPEC, Faculté de Médecine" exact="France" post="[3], IMNC, CNRS Univ. Paris Sud, Univ. Paris Saclay"/>
+  <result pre="[3], IMNC, CNRS Univ. Paris Sud, Univ. Paris Saclay Orsay" exact="France" post="[4], Faculty of Physics, Univ. Warsaw Poland [5], Department"/>
+  <result pre="Paris Saclay Orsay France [4], Faculty of Physics, Univ. Warsaw" exact="Poland" post="[5], Department of Biomedical Engineering and Environmental Sciences, National"/>
+  <result pre="interactions and liver physiopathology, INSERM, Univ. Paris-Sud, Univ. Paris Saclay" exact="France" post="[7], L2S, CentraleSupélec, Univ. Paris Saclay France [8], Univ."/>
+  <result pre="Univ. Paris Saclay France [7], L2S, CentraleSupélec, Univ. Paris Saclay" exact="France" post="[8], Univ. Paris Diderot, Sorbonne Paris Cité, Unité de"/>
+  <result pre="Sorbonne Paris Cité, Unité de Biologie Fonctionnelle et Adaptative, CNRS" exact="France" post="a pain@imnc.in2p3.fr epub: 2017-03-03 collection: 2017 7 43997 received:"/>
+ </snippets>
+</snippetsTree>

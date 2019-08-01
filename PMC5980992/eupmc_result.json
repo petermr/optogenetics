@@ -1,0 +1,353 @@
+{
+  "id": [
+    "29887797"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29887797"
+  ],
+  "pmcid": [
+    "PMC5980992"
+  ],
+  "doi": [
+    "10.3389/fnsys.2018.00021"
+  ],
+  "title": [
+    "Multiple Approaches to the Investigation of Cell Assembly in Memory Research-Present and Future."
+  ],
+  "authorString": [
+    "Sakurai Y, Osako Y, Tanisumi Y, Ishihara E, Hirokawa J, Manabe H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sakurai Y"
+          ],
+          "firstName": [
+            "Yoshio"
+          ],
+          "lastName": [
+            "Sakurai"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Laboratory of Neural Information, Graduate School of Brain Science, Doshisha University, Kyoto, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Osako Y"
+          ],
+          "firstName": [
+            "Yuma"
+          ],
+          "lastName": [
+            "Osako"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Laboratory of Neural Information, Graduate School of Brain Science, Doshisha University, Kyoto, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Tanisumi Y"
+          ],
+          "firstName": [
+            "Yuta"
+          ],
+          "lastName": [
+            "Tanisumi"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Laboratory of Neural Information, Graduate School of Brain Science, Doshisha University, Kyoto, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Ishihara E"
+          ],
+          "firstName": [
+            "Eriko"
+          ],
+          "lastName": [
+            "Ishihara"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Laboratory of Neural Information, Graduate School of Brain Science, Doshisha University, Kyoto, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Hirokawa J"
+          ],
+          "firstName": [
+            "Junya"
+          ],
+          "lastName": [
+            "Hirokawa"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1238-5713",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratory of Neural Information, Graduate School of Brain Science, Doshisha University, Kyoto, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Manabe H"
+          ],
+          "firstName": [
+            "Hiroyuki"
+          ],
+          "lastName": [
+            "Manabe"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Laboratory of Neural Information, Graduate School of Brain Science, Doshisha University, Kyoto, Japan."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1238-5713",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2651524"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Systems Neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Syst Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Syst Neurosci"
+          ],
+          "NLMid": [
+            "101477946"
+          ],
+          "ISSN": [
+            "1662-5137"
+          ],
+          "ESSN": [
+            "1662-5137"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "21"
+  ],
+  "abstractText": [
+    "In this review article we focus on research methodologies for detecting the actual activity of cell assemblies, which are populations of functionally connected neurons that encode information in the brain. We introduce and discuss traditional and novel experimental methods and those currently in development and briefly discuss their advantages and disadvantages for the detection of cell-assembly activity. First, we introduce the electrophysiological method, i.e., multineuronal recording, and review former and recent examples of studies showing models of dynamic coding by cell assemblies in behaving rodents and monkeys. We also discuss how the firing correlation of two neurons reflects the firing synchrony among the numerous surrounding neurons that constitute cell assemblies. Second, we review the recent outstanding studies that used the novel method of optogenetics to show causal relationships between cell-assembly activity and behavioral change. Third, we review the most recently developed method of live-cell imaging, which facilitates the simultaneous observation of firings of a large number of neurons in behaving rodents. Currently, all these available methods have both advantages and disadvantages, and no single measurement method can directly and precisely detect the actual activity of cell assemblies. The best strategy is to combine the available methods and utilize each of their advantages with the technique of operant conditioning of multiple-task behaviors in animals and, if necessary, with brain-machine interface technology to verify the accuracy of neural information detected as cell-assembly activity."
+  ],
+  "affiliation": [
+    "Laboratory of Neural Information, Graduate School of Brain Science, Doshisha University, Kyoto, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Brain-machine Interface",
+        "Optogenetics",
+        "Live Cell Imaging",
+        "Cell Assembly",
+        "Multineuronal Recording"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5980992?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5980992"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnsys.2018.00021"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-06-12"
+  ],
+  "firstIndexDate": [
+    "2018-06-12"
+  ],
+  "dateOfRevision": [
+    "2018-06-13"
+  ],
+  "electronicPublicationDate": [
+    "2018-05-25"
+  ],
+  "firstPublicationDate": [
+    "2018-05-25"
+  ]
+}

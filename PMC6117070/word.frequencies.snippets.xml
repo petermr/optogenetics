@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6117070/results/word/frequencies/results.xml">
+  <result title="frequency" word="stimulation" count="54"/>
+  <result title="frequency" word="TBS" count="41"/>
+  <result title="frequency" word="MEP" count="34"/>
+  <result title="frequency" word="optogenetic" count="32"/>
+  <result title="frequency" word="motor" count="30"/>
+  <result title="frequency" word="neural" count="29"/>
+  <result title="frequency" word="optical" count="25"/>
+  <result title="frequency" word="Fig" count="23"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="binomial">
+ <result pre="integrating the customizable DNA-binding transcription activator-like effector (TALE) domains from " exact="Xanthomonas sp" xpath="/html[1]/body[1]/div[2]/div[6]/div[3]/p[1]" match="Xanthomonas sp" post=" with CRY2/CIB1 was developed for the mammalian cells [ 5, 33]. In a" name="binomial"/>
+ <result pre="In a recent elegant work, LOV2 domains of " exact="Avena sativa" xpath="/html[1]/body[1]/div[2]/div[6]/div[3]/p[1]" match="Avena sativa" post=" phototropin 1 ( AsLOV2) were fused with two different protein domains that impair functioni" name="binomial"/>
+ <result pre=" cyanobacterial phytochrome Cph1 and the genes of the EnvZ/OmpR signaling pathway were combined in " exact="E. coli" xpath="/html[1]/body[1]/div[2]/div[6]/div[3]/p[1]" match="E. coli" post=" to express a phycobilisome-related gene [ 45]. Coupling the CcaS/CcaR to a red phy" name="binomial"/>
+ <result pre="The plant phytochrome PhyB with a photosensitive N-terminal domain was cloned from " exact="Arabidopsis thaliana" xpath="/html[1]/body[1]/div[2]/div[6]/div[3]/p[1]" match="Arabidopsis thaliana" post=". In an optogenetic split transcription factor system, a fragment of PhyB is conjugated to the memb" name="binomial"/>
+ <result pre="diffusion time. A typical Tet-OFF system uses a TetR-DNA binding protein and a VP16 TA domain from " exact="Herpes simplex" xpath="/html[1]/body[1]/div[2]/div[6]/div[3]/p[1]" match="Herpes simplex" post=" virus fused to its operator site [ 56, 57]. Other derivatives of V" name="binomial"/>
+ <result pre="nelrhodopsins [ 65, 66] and Jaws, a red light sensitive opsin from " exact="Haloarcula salinarum" match="Haloarcula salinarum" post=" (strain Shark) [ 67]. The latter has already been utilized to restore photosensory" name="binomial"/>
+</results>

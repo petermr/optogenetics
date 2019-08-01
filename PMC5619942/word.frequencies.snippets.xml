@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC5619942/results/word/frequencies/results.xml">
+  <result title="frequency" word="anxiety" count="55"/>
+  <result title="frequency" word="structural" count="31"/>
+  <result title="frequency" word="anxious" count="28"/>
+  <result title="frequency" word="connectome" count="28"/>
+  <result title="frequency" word="amygdala" count="27"/>
+  <result title="frequency" word="trait" count="24"/>
+  <result title="frequency" word="left" count="23"/>
+  <result title="frequency" word="connectivity" count="21"/>
+  <result title="frequency" word="study" count="21"/>
+ </snippets>
+</snippetsTree>

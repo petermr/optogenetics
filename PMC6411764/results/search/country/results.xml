@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="country">
+ <result pre="[], 1 Research Center E. Piaggio, University of Pisa Pisa" exact="Italy" post="[], 2 Department of Information Engineering, University of Pisa"/>
+ <result pre="[], 2 Department of Information Engineering, University of Pisa Pisa" exact="Italy" post="Edited by: Ioan Opris, University of Miami, United States"/>
+ <result pre="Pisa Pisa Italy Edited by: Ioan Opris, University of Miami," exact="United States" post="Reviewed by: Jennie Leach, University of Maryland, Baltimore County,"/>
+ <result pre="States Reviewed by: Jennie Leach, University of Maryland, Baltimore County," exact="United States;" post="Kim Drnec, United States Army Research Laboratory, United States"/>
+ <result pre="Leach, University of Maryland, Baltimore County, United States; Kim Drnec," exact="United States" post="Army Research Laboratory, United States *Correspondence: Arti Ahluwalia, arti.ahluwalia@unipi.it"/>
+ <result pre="County, United States; Kim Drnec, United States Army Research Laboratory," exact="United States" post="*Correspondence: Arti Ahluwalia, arti.ahluwalia@unipi.it This article was submitted to"/>
+ <result pre="level Organoids acquired with a confocal microscope were analyzed using" exact="Fiji" post="to identify lobules staining positive for forebrain, midbrain and"/>
+</results>

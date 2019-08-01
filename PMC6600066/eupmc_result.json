@@ -1,0 +1,323 @@
+{
+  "id": [
+    "31152176"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31152176"
+  ],
+  "pmcid": [
+    "PMC6600066"
+  ],
+  "doi": [
+    "10.1093/pm/pnz074"
+  ],
+  "title": [
+    "The Evolution of Neuromodulation in the Treatment of Chronic Pain: Forward-Looking Perspectives."
+  ],
+  "authorString": [
+    "Fishman MA, Antony A, Esposito M, Deer T, Levy R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Fishman MA"
+          ],
+          "firstName": [
+            "Michael A"
+          ],
+          "lastName": [
+            "Fishman"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "Center for Interventional Pain and Spine, Exton, Pennsylvania."
+          ]
+        },
+        {
+          "fullName": [
+            "Antony A"
+          ],
+          "firstName": [
+            "Ajay"
+          ],
+          "lastName": [
+            "Antony"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "University of Florida, Gainesville, Florida."
+          ]
+        },
+        {
+          "fullName": [
+            "Esposito M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Esposito"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Florida Pain Institute, Melbourne, Florida."
+          ]
+        },
+        {
+          "fullName": [
+            "Deer T"
+          ],
+          "firstName": [
+            "Timothy"
+          ],
+          "lastName": [
+            "Deer"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "The Spine and Nerve Center of the Virginias, Charleston, West Virginia."
+          ]
+        },
+        {
+          "fullName": [
+            "Levy R"
+          ],
+          "firstName": [
+            "Robert"
+          ],
+          "lastName": [
+            "Levy"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Institute for Neuromodulation, Boca Raton, Florida, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Supplement_1"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2821736"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Pain medicine (Malden, Mass.)"
+          ],
+          "ISOAbbreviation": [
+            "Pain Med"
+          ],
+          "medlineAbbreviation": [
+            "Pain Med"
+          ],
+          "NLMid": [
+            "100894201"
+          ],
+          "ISSN": [
+            "1526-2375"
+          ],
+          "ESSN": [
+            "1526-4637"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "S58-S68"
+  ],
+  "abstractText": [
+    "BACKGROUND:The field of neuromodulation is continually evolving, with the past decade showing significant advancement in the therapeutic efficacy of neuromodulation procedures. The continued evolution of neuromodulation technology brings with it the promise of addressing the needs of both patients and physicians, as current technology improves and clinical applications expand. DESIGN:This review highlights the current state of the art of neuromodulation for treating chronic pain, describes key areas of development including stimulation patterns and neural targets, expanding indications and applications, feedback-controlled systems, noninvasive approaches, and biomarkers for neuromodulation and technology miniaturization. RESULTS AND CONCLUSIONS:The field of neuromodulation is undergoing a renaissance of technology development with potential for profoundly improving the care of chronic pain patients. New and emerging targets like the dorsal root ganglion, as well as high-frequency and patterned stimulation methodologies such as burst stimulation, are paving the way for better clinical outcomes. As we look forward to the future, neural sensing, novel target-specific stimulation patterns, and approaches combining neuromodulation therapies are likely to significantly impact how neuromodulation is used. Moreover, select biomarkers may influence and guide the use of neuromodulation and help objectively demonstrate efficacy and outcomes."
+  ],
+  "affiliation": [
+    "Center for Interventional Pain and Spine, Exton, Pennsylvania."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Technology",
+        "Miniaturization",
+        "Noninvasive",
+        "Optogenetics",
+        "Closed-loop",
+        "Stimulation Patterns"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6600066?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6600066"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/pm/pnz074"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-06-02"
+  ],
+  "firstIndexDate": [
+    "2019-06-01"
+  ],
+  "dateOfRevision": [
+    "2019-07-07"
+  ],
+  "firstPublicationDate": [
+    "2019-06-01"
+  ]
+}

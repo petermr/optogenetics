@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="frequencies">
+ <result title="frequency" count="2">GMP</result>
+ <result title="frequency" count="2">VP16</result>
+ <result title="frequency" count="1">GTP</result>
+ <result title="frequency" count="1">PLC</result>
+ <result title="frequency" count="1">DBD</result>
+ <result title="frequency" count="1">PKC</result>
+ <result title="frequency" count="1">PIF</result>
+ <result title="frequency" count="1">NFAT</result>
+ <result title="frequency" count="1">FKF1</result>
+ <result title="frequency" count="1">TBK1</result>
+ <result title="frequency" count="1">DGCL</result>
+ <result title="frequency" count="1">IRF3</result>
+ <result title="frequency" count="1">PINF</result>
+ <result title="frequency" count="1">TRPC</result>
+ <result title="frequency" count="1">CRY2</result>
+ <result title="frequency" count="1">STING</result>
+ <result title="frequency" count="1">PIF16</result>
+ <result title="frequency" count="1">CIB</result>
+</results>

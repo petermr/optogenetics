@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6077191/results/species/binomial/results.xml">
+  <result pre="midt-Hager et al., 2014; Bruder et al., 2016). Similar can be achieved by detecting " exact="Escherichia coli" xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[1]" match="Escherichia coli" post="’s auto-fluorescence, linked with the secretion of flavins ( Mihalcescu et al., 2015" name="binomial"/>
+  <result pre="( Tabor et al., 2011) and recently, three-color RGB vision has been demonstrated in " exact="E. coli" xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[1]" match="Escherichia coli" post=" ( Fernandez-Rodriguez et al., 2017). " name="binomial"/>
+  <result pre="hat a specific two-component system from cyanobacteria acts as a low pass filter when expressed in " exact="E. coli" xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[1]" match="Escherichia coli" post=" and ( Gerhardt et al., 2016) successfully programmed specific gene expression profi" name="binomial"/>
+  <result pre="ter et al., 2015; Figure 2a ). The system has been used for in vitro study of " exact="Arabidopsis thaliana" xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[1]" match="Arabidopsis thaliana" post=" phytochrome B photoactivation, but can, in principle, be used for optogenetic control. " name="binomial"/>
+  <result pre="croplates, using LEDs to supply light to individual wells and study lipid conversion efficiency of " exact="Dunaliella tertiolecta" xpath="/html[1]/body[1]/div[2]/div[3]/div[6]/p[1]" match="Dunaliella tertiolecta" post=". Similarly, the recently developed &quot;Photobiobox&quot; integrates 96-well plate with LEDs for illuminati" name="binomial"/>
+  <result pre="fy anaerobic cultivation and enable cheap and innovative solutions. For example, recently reported " exact="Moorella thermoacetica" match="Moorella thermoacetica" post=" that can self-photosynthesize via synthetically introduced cadium sulfur (CdS) nanoparticles, is s" name="binomial"/>
+ </snippets>
+</snippetsTree>

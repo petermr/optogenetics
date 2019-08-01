@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6565376/results/search/country/results.xml">
+  <result pre="S. 3 4 https://orcid.org/0000-0002-8713-070X Wallén-Mackenzie Åsa 1 [1], Uppsala University" exact="Sweden" post="[2], Karolinska Institutet Sweden [3], University of California, San"/>
+  <result pre="Wallén-Mackenzie Åsa 1 [1], Uppsala University Sweden [2], Karolinska Institutet" exact="Sweden" post="[3], University of California, San Diego [4], Research Service"/>
+  <result pre="[4], Research Service VA San Diego Healthcare System [5], Oramacell" exact="France" post="[6], Institut National de la Santé et de la"/>
+  <result pre="Scientifique, Unité Mixte de Recherche 8246; Sorbonne University Université Pierre-et-Marie-Curie" exact="France" post="[7], Canada [8], Canada S.D. is the owner of"/>
+  <result pre="Mixte de Recherche 8246; Sorbonne University Université Pierre-et-Marie-Curie France [7]," exact="Canada" post="[8], Canada S.D. is the owner of Oramacell. All"/>
+  <result pre="Recherche 8246; Sorbonne University Université Pierre-et-Marie-Curie France [7], Canada [8]," exact="Canada" post="S.D. is the owner of Oramacell. All other authors"/>
+  <result pre="mice, Professor Ole Kiehn and Dr. Lotta Borgius (Karolinska Institutet," exact="Sweden" post="and University of Copenhagen, Denmark) for the Vglut2-Cre mice,"/>
+ </snippets>
+</snippetsTree>

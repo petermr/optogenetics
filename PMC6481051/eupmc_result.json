@@ -1,0 +1,421 @@
+{
+  "id": [
+    "31164591"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31164591"
+  ],
+  "pmcid": [
+    "PMC6481051"
+  ],
+  "doi": [
+    "10.3390/mps2010007"
+  ],
+  "title": [
+    "A Software Architecture to Mimic a Ventricular Tachycardia in Intact Murine Hearts by Means of an All-Optical Platform."
+  ],
+  "authorString": [
+    "Giardini F, Biasci V, Scardigli M, Pavone FS, Bub G, Sacconi L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Giardini F"
+          ],
+          "firstName": [
+            "Francesco"
+          ],
+          "lastName": [
+            "Giardini"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8301-2864",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "European Laboratory for Non-Linear Spectroscopy, 50019 Sesto Fiorentino, Italy. giardini@lens.unifi.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Biasci V"
+          ],
+          "firstName": [
+            "Valentina"
+          ],
+          "lastName": [
+            "Biasci"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "European Laboratory for Non-Linear Spectroscopy, 50019 Sesto Fiorentino, Italy. biasci@lens.unifi.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Scardigli M"
+          ],
+          "firstName": [
+            "Marina"
+          ],
+          "lastName": [
+            "Scardigli"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "European Laboratory for Non-Linear Spectroscopy, 50019 Sesto Fiorentino, Italy. scardigli@lens.unifi.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Pavone FS"
+          ],
+          "firstName": [
+            "Francesco S"
+          ],
+          "lastName": [
+            "Pavone"
+          ],
+          "initials": [
+            "FS"
+          ],
+          "affiliation": [
+            "European Laboratory for Non-Linear Spectroscopy, 50019 Sesto Fiorentino, Italy. pavone@lens.unifi.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Bub G"
+          ],
+          "firstName": [
+            "Gil"
+          ],
+          "lastName": [
+            "Bub"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Physiology, McGill University, Montreal, QC H3A 0G4, Canada. gilbub@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Sacconi L"
+          ],
+          "firstName": [
+            "Leonardo"
+          ],
+          "lastName": [
+            "Sacconi"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9320-5085",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "European Laboratory for Non-Linear Spectroscopy, 50019 Sesto Fiorentino, Italy. sacconi@lens.unifi.it."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9320-5085",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8301-2864",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "2825009"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Methods and protocols"
+          ],
+          "ISOAbbreviation": [
+            "Methods Protoc"
+          ],
+          "medlineAbbreviation": [
+            "Methods Protoc"
+          ],
+          "NLMid": [
+            "101720073"
+          ],
+          "ISSN": [
+            "2409-9279"
+          ],
+          "ESSN": [
+            "2409-9279"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Optogenetics is an emerging method that uses light to manipulate electrical activity in excitable cells exploiting the interaction between light and light-sensitive depolarizing ion channels, such as channelrhodopsin-2 (ChR2). Initially used in the neuroscience, it has been adopted in cardiac research where the expression of ChR2 in cardiac preparations allows optical pacing, resynchronization and defibrillation. Recently, optogenetics has been leveraged to manipulate cardiac electrical activity in the intact heart in real-time. This new approach was applied to simulate a re-entrant circuit across the ventricle. In this technical note, we describe the development and the implementation of a new software package for real-time optogenetic intervention. The package consists of a single LabVIEW program that simultaneously captures images at very high frame rates and delivers precisely timed optogenetic stimuli based on the content of the images. The software implementation guarantees closed-loop optical manipulation at high temporal resolution by processing the raw data in workstation memory. We demonstrate that this strategy allows the simulation of a ventricular tachycardia with high stability and with a negligible loss of data with a temporal resolution of up to 1 ms."
+  ],
+  "affiliation": [
+    "European Laboratory for Non-Linear Spectroscopy, 50019 Sesto Fiorentino, Italy. giardini@lens.unifi.it."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "other",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2014/0410"
+          ],
+          "agency": [
+            "Ente Cassa di Risparmio di Firenze"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Flagship Project NANOMAX"
+          ],
+          "agency": [
+            "Ministero dell'Istruzione, dell'Università e della Ricerca"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "FAS-Salute ToRSADE"
+          ],
+          "agency": [
+            "Regione Toscana"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "654148"
+          ],
+          "agency": [
+            "Horizon 2020"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Optical Manipulation",
+        "Optogenetics",
+        "Channelrhodopsin-2",
+        "Closed-loop",
+        "Optical Mapping",
+        "Labview",
+        "Cardiac Electrophysiology",
+        "Voltage Sensitive Dye",
+        "Real-time Analysis",
+        "Voltage Imaging"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6481051?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6481051"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/mps2010007"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-06"
+  ],
+  "firstIndexDate": [
+    "2019-06-12"
+  ],
+  "dateOfRevision": [
+    "2019-06-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-08"
+  ],
+  "firstPublicationDate": [
+    "2019-01-08"
+  ]
+}

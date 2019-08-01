@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6608640/results/search/funders/results.xml">
+  <result pre="Kovalevsky Andrey b * [a], University of Toledo USA [b]," exact="Oak Ridge National Laboratory" post="USA [c], Oak Ridge National Laboratory USA Correspondence e-mail:"/>
+  <result pre="of Toledo USA [b], Oak Ridge National Laboratory USA [c]," exact="Oak Ridge National Laboratory" post="USA Correspondence e-mail: kovalevskyay@ornl.gov ‡ Present address: Lentigen Technology,"/>
+  <result pre="isomerization chromophore deprotonation UV–vis absorption spectroscopy room-temperature X-ray photocrystallography Funding" exact="Argonne National Laboratory" post="DE-AC02-06CH11357 Basic Energy Sciences U.S. Department of Energy, Office"/>
+  <result pre="absorption spectroscopy room-temperature X-ray photocrystallography Funding Argonne National Laboratory DE-AC02-06CH11357" exact="Basic Energy Sciences" post="U.S. Department of Energy, Office of Science Biological and"/>
+  <result pre="X-ray photocrystallography Funding Argonne National Laboratory DE-AC02-06CH11357 Basic Energy Sciences" exact="U.S. Department of Energy," post="Office of Science Biological and Environmental Research U.S. Department"/>
+  <result pre="National Laboratory DE-AC02-06CH11357 Basic Energy Sciences U.S. Department of Energy," exact="Office of Science" post="Biological and Environmental Research U.S. Department of Energy DE-AC05-00OR22725"/>
+  <result pre="Basic Energy Sciences U.S. Department of Energy, Office of Science" exact="Biological and Environmental Research" post="U.S. Department of Energy DE-AC05-00OR22725 This work was funded"/>
+  <result pre="Department of Energy, Office of Science Biological and Environmental Research" exact="U.S. Department of Energy" post="DE-AC05-00OR22725 This work was funded by Argonne National Laboratory"/>
+  <result pre="U.S. Department of Energy DE-AC05-00OR22725 This work was funded by" exact="Argonne National Laboratory" post="grant DE-AC02-06CH11357. Basic Energy Sciences grant . U.S. Department"/>
+  <result pre="This work was funded by Argonne National Laboratory grant DE-AC02-06CH11357." exact="Basic Energy Sciences" post="grant . U.S. Department of Energy, Office of Science"/>
+  <result pre="Argonne National Laboratory grant DE-AC02-06CH11357. Basic Energy Sciences grant ." exact="U.S. Department of Energy," post="Office of Science grant . Biological and Environmental Research"/>
+  <result pre="DE-AC02-06CH11357. Basic Energy Sciences grant . U.S. Department of Energy," exact="Office of Science" post="grant . Biological and Environmental Research grant . U.S."/>
+  <result pre=". U.S. Department of Energy, Office of Science grant ." exact="Biological and Environmental Research" post="grant . U.S. Department of Energy grant DE-AC05-00OR22725. page-count:"/>
+  <result pre="of Science grant . Biological and Environmental Research grant ." exact="U.S. Department of Energy" post="grant DE-AC05-00OR22725. page-count: 1. Introduction Martensitic transformations are diffusionless"/>
+ </snippets>
+</snippetsTree>

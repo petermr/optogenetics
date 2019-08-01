@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="frequencies">
+ <result title="frequency" count="3">Arabidopsis thaliana</result>
+ <result title="frequency" count="2">Thermus thermophilus</result>
+ <result title="frequency" count="1">Rhodobacter sphaeroides</result>
+ <result title="frequency" count="1">Escherichia coli</result>
+ <result title="frequency" count="1">Arabidopsis sativa</result>
+ <result title="frequency" count="1">Vaucheria frigida</result>
+ <result title="frequency" count="1">Neurospora crassa</result>
+ <result title="frequency" count="1">Carybdea rastonii</result>
+</results>

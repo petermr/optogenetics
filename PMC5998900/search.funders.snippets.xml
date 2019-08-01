@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC5998900/results/search/funders/results.xml">
+  <result pre="705-1400 max@localizedtherapeutics.com 4 7 [1], 0000 0001 2107 4242 grid.266100.3" exact="University of California," post="[2], [3], 0000 0004 1936 8032 grid.22448.38 Center for"/>
+  <result pre="of Chronic Metabolic and Rare Diseases, School of Systems Biology," exact="George Mason University," post="[4], [5], 0000 0004 0456 3003 grid.416016.4 Rochester General"/>
+  <result pre="Research Institute of San Diego, [8], [9], 0000000092721542 grid.18763.3b Moscow" exact="Institute of Physics" post="and Technology, epub: 2018-4-4 pmc-release: 2018-4-4 collection: 2018 19"/>
+  <result pre="and attack specific cancer cells. Two CAR-based therapies, CTL019 by" exact="Novartis" post="and JCAR01 by Juno, were granted &quot;breakthrough status&quot; in"/>
+  <result pre="Simulation and measurement of transcranial near infrared light penetration. Proc." exact="SPIE" post="9321, Optical Interactions with Tissue and Cells XXVI, 2015,"/>
+  <result pre="treatment of arthritic knees: a clinical study. In: Proceedings of" exact="SPIE" post="7552, Mechanisms for low-light therapy V; 2010, p. 75520K."/>
+ </snippets>
+</snippetsTree>

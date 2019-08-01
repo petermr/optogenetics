@@ -1,0 +1,344 @@
+{
+  "id": [
+    "30271926"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30271926"
+  ],
+  "pmcid": [
+    "PMC6123622"
+  ],
+  "doi": [
+    "10.1038/s42003-018-0043-5"
+  ],
+  "title": [
+    "Dietary polyphenols enhance optogenetic recall of fear memory in hippocampal dentate gyrus granule neuron subpopulations."
+  ],
+  "authorString": [
+    "Smith C, Frolinger T, Brathwaite J, Sims S, Pasinetti GM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Smith C"
+          ],
+          "firstName": [
+            "Chad"
+          ],
+          "lastName": [
+            "Smith"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "1Department of Neurology, Icahn School of Medicine at Mount Sinai, New York, 10029 NY USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Frolinger T"
+          ],
+          "firstName": [
+            "Tal"
+          ],
+          "lastName": [
+            "Frolinger"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "1Department of Neurology, Icahn School of Medicine at Mount Sinai, New York, 10029 NY USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Brathwaite J"
+          ],
+          "firstName": [
+            "Justin"
+          ],
+          "lastName": [
+            "Brathwaite"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "1Department of Neurology, Icahn School of Medicine at Mount Sinai, New York, 10029 NY USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Sims S"
+          ],
+          "firstName": [
+            "Steven"
+          ],
+          "lastName": [
+            "Sims"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "1Department of Neurology, Icahn School of Medicine at Mount Sinai, New York, 10029 NY USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Pasinetti GM"
+          ],
+          "firstName": [
+            "Giulio M"
+          ],
+          "lastName": [
+            "Pasinetti"
+          ],
+          "initials": [
+            "GM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1524-5196",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "1Department of Neurology, Icahn School of Medicine at Mount Sinai, New York, 10029 NY USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1524-5196",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "1"
+      ],
+      "journalIssueId": [
+        "2686009"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Communications biology"
+          ],
+          "ISOAbbreviation": [
+            "Commun Biol"
+          ],
+          "medlineAbbreviation": [
+            "Commun Biol"
+          ],
+          "NLMid": [
+            "101719179"
+          ],
+          "ISSN": [
+            "2399-3642"
+          ],
+          "ESSN": [
+            "2399-3642"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "42"
+  ],
+  "abstractText": [
+    "Grape-derived polyphenols have been investigated for their role in promoting memory in model systems of stress, but little is known about select subpopulations of neurons that are influenced by polyphenols to improve memory performance. Granule neurons in the hippocampal dentate gyrus are vulnerable to stressors that impair contextual memory function and can be influenced by dietary polyphenols. We utilized a c-fos-tTA/TRE-ChR2 optogenetics model in which neurons activated during fear learning are labeled with ChR2-mCherry and can be optically reactivated in a different context to recapitulate the behavioral output of a related memory. Treatment with dietary polyphenols increased fear memory recall and ChR2-mCherry expression in dentate gyrus neurons, suggesting that dietary polyphenols promote recruitment of neurons to a fear memory engram. We show that dietary polyphenols promote memory function and offer a general method to map cellular subpopulations influenced by dietary polyphenols, in part through the mechanism of c-Fos expression enhancement."
+  ],
+  "affiliation": [
+    "1Department of Neurology, Icahn School of Medicine at Mount Sinai, New York, 10029 NY USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "P50 AT008661"
+          ],
+          "agency": [
+            "NCCIH NIH HHS"
+          ],
+          "acronym": [
+            "AT"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6123622?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6123622"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s42003-018-0043-5"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-10-02"
+  ],
+  "firstIndexDate": [
+    "2018-10-01"
+  ],
+  "dateOfRevision": [
+    "2018-10-04"
+  ],
+  "electronicPublicationDate": [
+    "2018-05-03"
+  ],
+  "firstPublicationDate": [
+    "2018-05-03"
+  ]
+}

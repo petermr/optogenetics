@@ -1,0 +1,490 @@
+{
+  "id": [
+    "28946882"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28946882"
+  ],
+  "pmcid": [
+    "PMC5613628"
+  ],
+  "doi": [
+    "10.1186/s12915-017-0421-3"
+  ],
+  "title": [
+    "Q&A: How can advances in tissue clearing and optogenetics contribute to our understanding of normal and diseased biology?"
+  ],
+  "authorString": [
+    "Greenbaum A, Jang MJ, Challis C, Gradinaru V."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Greenbaum A"
+          ],
+          "firstName": [
+            "Alon"
+          ],
+          "lastName": [
+            "Greenbaum"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Division of Biology and Biological Engineering, California Institute of Technology, Pasadena, CA, 91125, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Jang MJ"
+          ],
+          "firstName": [
+            "Min J"
+          ],
+          "lastName": [
+            "Jang"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "affiliation": [
+            "Division of Biology and Biological Engineering, California Institute of Technology, Pasadena, CA, 91125, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Challis C"
+          ],
+          "firstName": [
+            "Collin"
+          ],
+          "lastName": [
+            "Challis"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Division of Biology and Biological Engineering, California Institute of Technology, Pasadena, CA, 91125, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gradinaru V"
+          ],
+          "firstName": [
+            "Viviana"
+          ],
+          "lastName": [
+            "Gradinaru"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Division of Biology and Biological Engineering, California Institute of Technology, Pasadena, CA, 91125, USA. viviana@caltech.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2591313"
+      ],
+      "dateOfPublication": [
+        "2017 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC biology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Biol."
+          ],
+          "medlineAbbreviation": [
+            "BMC Biol"
+          ],
+          "NLMid": [
+            "101190720"
+          ],
+          "ISSN": [
+            "1741-7007"
+          ],
+          "ESSN": [
+            "1741-7007"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "87"
+  ],
+  "abstractText": [
+    "Mammalian organs comprise a variety of cells that interact with each other and have distinct biological roles. Access to evaluate and perturb intact biological systems at the cellular and molecular levels is essential to fully understand their functioning in normal and diseased conditions, yet technical limitations have constrained most research to small pieces of tissue. Tissue clearing and optogenetics can help overcome this hurdle: tissue clearing affords optical interrogation of whole organs at the molecular level, and optogenetics enables the scalable control and measurement of cellular activity with light. In this Q&A, we delineate recent advances and practical challenges associated with these two techniques when applied body-wide."
+  ],
+  "affiliation": [
+    "Division of Biology and Biological Engineering, California Institute of Technology, Pasadena, CA, 91125, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "brief-report",
+        "Research Support, Non-U.S. Gov't",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "DP2 NS087949"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 AG047664"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "OT2 OD023848"
+          ],
+          "agency": [
+            "NIH HHS"
+          ],
+          "acronym": [
+            "OD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "F32 AG054101"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Mammals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Diagnostic Techniques and Procedures"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IS"
+                  ],
+                  "qualifierName": [
+                    "instrumentation"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tissue Fixation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IS"
+                  ],
+                  "qualifierName": [
+                    "instrumentation"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Optogenetics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IS"
+                  ],
+                  "qualifierName": [
+                    "instrumentation"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5613628?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5613628"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12915-017-0421-3"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-05-14"
+  ],
+  "dateOfCreation": [
+    "2017-09-27"
+  ],
+  "firstIndexDate": [
+    "2017-09-27"
+  ],
+  "dateOfRevision": [
+    "2018-10-25"
+  ],
+  "electronicPublicationDate": [
+    "2017-09-25"
+  ],
+  "firstPublicationDate": [
+    "2017-09-25"
+  ]
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6187923/results/species/binomial/results.xml">
+  <result pre="n of this principle is the first experimental evidence for the importance of individual neurons in " exact="C. elegans" xpath="/html[1]/body[1]/div[2]/div[4]/p[2]" match="C. elegans" post=" locomotion (Yan et al., 2017). Using the wiring diagram of a shallow network (base" name="binomial"/>
+  <result pre="he wiring diagram of a shallow network (based on the only available full connectome, i.e., that of " exact="C. elegans" match="C. elegans" post="; White et al., 1986; Varshney et al., 2011), it was predicted and " name="binomial"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6240888/results/search/funders/results.xml">
+  <result pre="Lett jz jpclcd The Journal of Physical Chemistry Letters 1948-7185" exact="American Chemical Society" post="pmcid: 6240888 doi: 10.1021/acs.jpclett.8b02780 : Letter Strong pH-Dependent Near-Infrared"/>
+  <result pre="Universiteit The Netherlands [‡], Leiden University The Netherlands [#], ELI-Beamlines," exact="Institute of Physics" post="Czech Republic [¶], Radboud University Medical Center The Netherlands"/>
+  <result pre="2018-11-11 9 22 6469 6474 received: 2018-09-10 accepted: 2018-10-30 (C)" exact="American Chemical Society," post="2018 This is an open access article published under"/>
+  <result pre="Cells (BSC Core Project Grant C2.9), cofinanced by the Dutch" exact="Ministry of Economic Affairs." post="This work was supported by the Czech Scientific Foundation"/>
+  <result pre=". 25955727 Ravensbergen J. ; Abdi F. F. ; van" exact="Santen" post="J. H. ; Frese R. N. ; Dam B."/>
+ </snippets>
+</snippetsTree>

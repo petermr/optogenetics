@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6197853/results/search/funders/results.xml">
+  <result pre="4 5 * [1], Program in Neurosciences &amp;amp; Mental Health" exact="Hospital for Sick Children" post="Toronto Canada [2], Department of Psychology University of Toronto"/>
+  <result pre="Hospital for Sick Children Toronto Canada [2], Department of Psychology" exact="University of Toronto" post="Toronto Canada [3], Department of Physiology University of Toronto"/>
+  <result pre="Psychology University of Toronto Toronto Canada [3], Department of Physiology" exact="University of Toronto" post="Toronto Canada [4], Institute of Medical Sciences University of"/>
+  <result pre="University of Toronto Toronto Canada [4], Institute of Medical Sciences" exact="University of Toronto" post="Toronto Canada [5], Brain, Mind &amp;amp; Consciousness Program Canadian"/>
+  <result pre="of Toronto Toronto Canada [5], Brain, Mind &amp;amp; Consciousness Program" exact="Canadian Institute for Advanced Research" post="Toronto Canada : 2018-10-10 collection: 2018 7 e42367 received:"/>
+  <result pre="Josselyn is in the Program in Neurosciences &amp;amp; Mental Health," exact="Hospital for Sick Children," post="Toronto, Canada; the Departments of Psychology, Physiology and the"/>
+  <result pre="Departments of Psychology, Physiology and the Institute of Medical Sciences," exact="University of Toronto," post="Toronto, Canada; and the Brain, Mind &amp;amp; Consciousness Program,"/>
+  <result pre="Toronto, Toronto, Canada; and the Brain, Mind &amp;amp; Consciousness Program," exact="Canadian Institute for Advanced Research," post="Toronto, Canada. She is also a member of the"/>
+ </snippets>
+</snippetsTree>

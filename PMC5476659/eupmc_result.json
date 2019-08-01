@@ -1,0 +1,302 @@
+{
+  "id": [
+    "28652752"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28652752"
+  ],
+  "pmcid": [
+    "PMC5476659"
+  ],
+  "doi": [
+    "10.2147/NDT.S136122"
+  ],
+  "title": [
+    "Cognitive dysfunction in major depression and Alzheimer's disease is associated with hippocampal-prefrontal cortex dysconnectivity."
+  ],
+  "authorString": [
+    "Sampath D, Sathyanesan M, Newton SS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sampath D"
+          ],
+          "firstName": [
+            "Dayalan"
+          ],
+          "lastName": [
+            "Sampath"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Division of Basic Biomedical Sciences, Sanford School of Medicine, University of South Dakota, Vermillion."
+          ]
+        },
+        {
+          "fullName": [
+            "Sathyanesan M"
+          ],
+          "firstName": [
+            "Monica"
+          ],
+          "lastName": [
+            "Sathyanesan"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Sioux Falls VA Healthcare System, Sioux Falls, SD, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Newton SS"
+          ],
+          "firstName": [
+            "Samuel S"
+          ],
+          "lastName": [
+            "Newton"
+          ],
+          "initials": [
+            "SS"
+          ],
+          "affiliation": [
+            "Sioux Falls VA Healthcare System, Sioux Falls, SD, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2509110"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Neuropsychiatric disease and treatment"
+          ],
+          "ISOAbbreviation": [
+            "Neuropsychiatr Dis Treat"
+          ],
+          "medlineAbbreviation": [
+            "Neuropsychiatr Dis Treat"
+          ],
+          "NLMid": [
+            "101240304"
+          ],
+          "ISSN": [
+            "1176-6328"
+          ],
+          "ESSN": [
+            "1178-2021"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "1509-1519"
+  ],
+  "abstractText": [
+    "Cognitive dysfunction is prevalent in psychiatric disorders. Deficits are observed in multiple domains, including working memory, executive function, attention, and information processing. Disability caused by cognitive dysfunction is frequently as debilitating as the prominent emotional disturbances. Interactions between the hippocampus and the prefrontal cortex are increasingly appreciated as an important link between cognition and emotion. Recent developments in optogenetics, imaging, and connectomics can enable the investigation of this circuit in a manner that is relevant to disease pathophysiology. The goal of this review is to shed light on the contributions of this circuit to cognitive dysfunction in neuropsychiatric disorders, focusing on Alzheimer's disease and depression."
+  ],
+  "affiliation": [
+    "Division of Basic Biomedical Sciences, Sanford School of Medicine, University of South Dakota, Vermillion."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 MH106640"
+          ],
+          "agency": [
+            "NIMH NIH HHS"
+          ],
+          "acronym": [
+            "MH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Hippocampus",
+        "Cognition",
+        "Depression",
+        "Alzheimer’s disease",
+        "prefrontal cortex"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5476659?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5476659"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/NDT.S136122"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "8"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-06-27"
+  ],
+  "firstIndexDate": [
+    "2017-06-28"
+  ],
+  "dateOfRevision": [
+    "2017-08-16"
+  ],
+  "electronicPublicationDate": [
+    "2017-06-12"
+  ],
+  "firstPublicationDate": [
+    "2017-06-12"
+  ]
+}

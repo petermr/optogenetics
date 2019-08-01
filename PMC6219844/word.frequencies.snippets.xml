@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6219844/results/word/frequencies/results.xml">
+  <result title="frequency" word="phase" count="81"/>
+  <result title="frequency" word="gamma" count="79"/>
+  <result title="frequency" word="Figure" count="59"/>
+  <result title="frequency" word="LFP" count="53"/>
+  <result title="frequency" word="frequency" count="50"/>
+  <result title="frequency" word="oscillations" count="44"/>
+  <result title="frequency" word="oscillation" count="40"/>
+  <result title="frequency" word="current" count="35"/>
+  <result title="frequency" word="pyramidal" count="34"/>
+  <result title="frequency" word="modulation" count="33"/>
+  <result title="frequency" word="clamp" count="31"/>
+  <result title="frequency" word="power" count="31"/>
+  <result title="frequency" word="LED" count="28"/>
+  <result title="frequency" word="optogenetic" count="28"/>
+  <result title="frequency" word="average" count="26"/>
+  <result title="frequency" word="Neuroscience" count="23"/>
+  <result title="frequency" word="excitatory" count="23"/>
+  <result title="frequency" word="inhibitory" count="22"/>
+  <result title="frequency" word="increase" count="21"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,1195 @@
+{
+  "id": [
+    "30089879"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30089879"
+  ],
+  "pmcid": [
+    "PMC6082848"
+  ],
+  "doi": [
+    "10.1038/s41467-018-05657-9"
+  ],
+  "title": [
+    "Transcriptional and physiological adaptations in nucleus accumbens somatostatin interneurons that regulate behavioral responses to cocaine."
+  ],
+  "authorString": [
+    "Ribeiro EA, Salery M, Scarpa JR, Calipari ES, Hamilton PJ, Ku SM, Kronman H, Purushothaman I, Juarez B, Heshmati M, Doyle M, Lardner C, Burek D, Strat A, Pirpinias S, Mouzon E, Han MH, Neve RL, Bagot RC, Kasarskis A, Koo JW, Nestler EJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ribeiro EA"
+          ],
+          "firstName": [
+            "Efrain A"
+          ],
+          "lastName": [
+            "Ribeiro"
+          ],
+          "initials": [
+            "EA"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Friedman Brain Institute, New York, 10029, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Salery M"
+          ],
+          "firstName": [
+            "Marine"
+          ],
+          "lastName": [
+            "Salery"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Friedman Brain Institute, New York, 10029, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Scarpa JR"
+          ],
+          "firstName": [
+            "Joseph R"
+          ],
+          "lastName": [
+            "Scarpa"
+          ],
+          "initials": [
+            "JR"
+          ],
+          "affiliation": [
+            "Department of Genetics and Genomic Science, Icahn Institute of Genomics and Multiscale Biology, New York, 10029, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Calipari ES"
+          ],
+          "firstName": [
+            "Erin S"
+          ],
+          "lastName": [
+            "Calipari"
+          ],
+          "initials": [
+            "ES"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Friedman Brain Institute, New York, 10029, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hamilton PJ"
+          ],
+          "firstName": [
+            "Peter J"
+          ],
+          "lastName": [
+            "Hamilton"
+          ],
+          "initials": [
+            "PJ"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Friedman Brain Institute, New York, 10029, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ku SM"
+          ],
+          "firstName": [
+            "Stacy M"
+          ],
+          "lastName": [
+            "Ku"
+          ],
+          "initials": [
+            "SM"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Friedman Brain Institute, New York, 10029, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kronman H"
+          ],
+          "firstName": [
+            "Hope"
+          ],
+          "lastName": [
+            "Kronman"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Friedman Brain Institute, New York, 10029, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Purushothaman I"
+          ],
+          "firstName": [
+            "Immanuel"
+          ],
+          "lastName": [
+            "Purushothaman"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Friedman Brain Institute, New York, 10029, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Juarez B"
+          ],
+          "firstName": [
+            "Barbara"
+          ],
+          "lastName": [
+            "Juarez"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Pharmacological Sciences, Icahn School of Medicine at Mount Sinai, New York, 10029, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Heshmati M"
+          ],
+          "firstName": [
+            "Mitra"
+          ],
+          "lastName": [
+            "Heshmati"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Friedman Brain Institute, New York, 10029, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Doyle M"
+          ],
+          "firstName": [
+            "Marie"
+          ],
+          "lastName": [
+            "Doyle"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Friedman Brain Institute, New York, 10029, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lardner C"
+          ],
+          "firstName": [
+            "Casey"
+          ],
+          "lastName": [
+            "Lardner"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Friedman Brain Institute, New York, 10029, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Burek D"
+          ],
+          "firstName": [
+            "Dominicka"
+          ],
+          "lastName": [
+            "Burek"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Friedman Brain Institute, New York, 10029, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Strat A"
+          ],
+          "firstName": [
+            "Ana"
+          ],
+          "lastName": [
+            "Strat"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Friedman Brain Institute, New York, 10029, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Pirpinias S"
+          ],
+          "firstName": [
+            "Stephen"
+          ],
+          "lastName": [
+            "Pirpinias"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Friedman Brain Institute, New York, 10029, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Mouzon E"
+          ],
+          "firstName": [
+            "Ezekiell"
+          ],
+          "lastName": [
+            "Mouzon"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Friedman Brain Institute, New York, 10029, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Han MH"
+          ],
+          "firstName": [
+            "Ming-Hu"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "MH"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Friedman Brain Institute, New York, 10029, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Neve RL"
+          ],
+          "firstName": [
+            "Rachael L"
+          ],
+          "lastName": [
+            "Neve"
+          ],
+          "initials": [
+            "RL"
+          ],
+          "affiliation": [
+            "Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, 02139, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bagot RC"
+          ],
+          "firstName": [
+            "Rosemary C"
+          ],
+          "lastName": [
+            "Bagot"
+          ],
+          "initials": [
+            "RC"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Friedman Brain Institute, New York, 10029, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kasarskis A"
+          ],
+          "firstName": [
+            "Andrew"
+          ],
+          "lastName": [
+            "Kasarskis"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Genetics and Genomic Science, Icahn Institute of Genomics and Multiscale Biology, New York, 10029, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Koo JW"
+          ],
+          "firstName": [
+            "Ja Wook"
+          ],
+          "lastName": [
+            "Koo"
+          ],
+          "initials": [
+            "JW"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Friedman Brain Institute, New York, 10029, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Nestler EJ"
+          ],
+          "firstName": [
+            "Eric J"
+          ],
+          "lastName": [
+            "Nestler"
+          ],
+          "initials": [
+            "EJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7905-2000",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Friedman Brain Institute, New York, 10029, NY, USA. eric.nestler@mssm.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7905-2000",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2711895"
+      ],
+      "dateOfPublication": [
+        "2018 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "3149"
+  ],
+  "abstractText": [
+    "The role of somatostatin interneurons in nucleus accumbens (NAc), a key brain reward region, remains poorly understood due to the fact that these cells account for < 1% of NAc neurons. Here, we use optogenetics, electrophysiology, and RNA-sequencing to characterize the transcriptome and functioning of NAc somatostatin interneurons after repeated exposure to cocaine. We find that the activity of somatostatin interneurons regulates behavioral responses to cocaine, with repeated cocaine reducing the excitability of these neurons. Repeated cocaine also induces transcriptome-wide changes in gene expression within NAc somatostatin interneurons. We identify the JUND transcription factor as a key regulator of cocaine action and confirmed, by use of viral-mediated gene transfer, that JUND activity in somatostatin interneurons influences behavioral responses to cocaine. Our results identify alterations in NAc induced by cocaine in a sparse population of somatostatin interneurons, and illustrate the value of studying brain diseases using cell type-specific whole transcriptome RNA-sequencing."
+  ],
+  "affiliation": [
+    "Department of Neuroscience, Friedman Brain Institute, New York, 10029, NY, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "P01DA008227"
+          ],
+          "agency": [
+            "U.S. Department of Health &amp; Human Services | NIH | National Institute on Drug Abuse (NIDA)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 DA014133"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "S10 OD018522"
+          ],
+          "agency": [
+            "NIH HHS"
+          ],
+          "acronym": [
+            "OD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R21 MH112081"
+          ],
+          "agency": [
+            "NIMH NIH HHS"
+          ],
+          "acronym": [
+            "MH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R37 DA007359"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01DA007359"
+          ],
+          "agency": [
+            "U.S. Department of Health &amp; Human Services | NIH | National Institute on Drug Abuse (NIDA)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nucleus Accumbens"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neurons"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Interneurons"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice, Inbred C57BL"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cocaine"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Somatostatin"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Proto-Oncogene Proteins c-jun"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Transcription Factors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Profiling"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Transfer Techniques"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sequence Analysis, RNA"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Reward"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adaptation, Physiological"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Locomotion"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Transcriptome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Optogenetics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Somatostatin"
+          ],
+          "registryNumber": [
+            "51110-01-1"
+          ]
+        },
+        {
+          "name": [
+            "Transcription Factors"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Proto-Oncogene Proteins c-jun"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "junD protein, mouse"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Cocaine"
+          ],
+          "registryNumber": [
+            "I5Y540LHVR"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6082848?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6082848"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-018-05657-9"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "geo"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-12-12"
+  ],
+  "dateOfCreation": [
+    "2018-08-10"
+  ],
+  "firstIndexDate": [
+    "2018-08-10"
+  ],
+  "dateOfRevision": [
+    "2019-07-30"
+  ],
+  "electronicPublicationDate": [
+    "2018-08-08"
+  ],
+  "firstPublicationDate": [
+    "2018-08-08"
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "id": [
+    "29545740"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29545740"
+  ],
+  "pmcid": [
+    "PMC5837991"
+  ],
+  "doi": [
+    "10.3389/fnins.2018.00120"
+  ],
+  "title": [
+    "Three Research Strategies of Neuroscience and the Future of Legal Imaging Evidence."
+  ],
+  "authorString": [
+    "Jun J, Yoo S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jun J"
+          ],
+          "firstName": [
+            "Jinkwon"
+          ],
+          "lastName": [
+            "Jun"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "KIAS Transdisciplinary Research Program, Korea Institute for Advanced Study, Seoul, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Yoo S"
+          ],
+          "firstName": [
+            "Soyoung"
+          ],
+          "lastName": [
+            "Yoo"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Human Research Protection Center, Asan Medical Center, Seoul, South Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2647764"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Neurosci"
+          ],
+          "NLMid": [
+            "101478481"
+          ],
+          "ISSN": [
+            "1662-4548"
+          ],
+          "ESSN": [
+            "1662-453X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "120"
+  ],
+  "abstractText": [
+    "Neuroscientific imaging evidence (NIE) has become an integral part of the criminal justice system in the United States. However, in most legal cases, NIE is submitted and used only to mitigate penalties because the court does not recognize it as substantial evidence, considering its lack of reliability. Nevertheless, we here discuss how neuroscience is expected to improve the use of NIE in the legal system. For this purpose, we classified the efforts of neuroscientists into three research strategies: cognitive subtraction, the data-driven approach, and the brain-manipulation approach. Cognitive subtraction is outdated and problematic; consequently, the court deemed it to be an inadequate approach in terms of legal evidence in 2012. In contrast, the data-driven and brain manipulation approaches, which are state-of-the-art approaches, have overcome the limitations of cognitive subtraction. The data-driven approach brings data science into the field and is benefiting immensely from the development of research platforms that allow automatized collection, analysis, and sharing of data. This broadens the scale of imaging evidence. The brain-manipulation approach uses high-functioning tools that facilitate non-invasive and precise human brain manipulation. These two approaches are expected to have synergistic effects. Neuroscience has strived to improve the evidential reliability of NIE, with considerable success. With the support of cutting-edge technologies, and the progress of these approaches, the evidential status of NIE will be improved and NIE will become an increasingly important part of legal practice."
+  ],
+  "affiliation": [
+    "KIAS Transdisciplinary Research Program, Korea Institute for Advanced Study, Seoul, South Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Neuroethics",
+        "Neurolaw",
+        "Neuroscience And Law",
+        "Brain Manipulation",
+        "Brain Function Database"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5837991?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5837991"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnins.2018.00120"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-03-17"
+  ],
+  "firstIndexDate": [
+    "2018-03-16"
+  ],
+  "dateOfRevision": [
+    "2018-03-18"
+  ],
+  "electronicPublicationDate": [
+    "2018-03-01"
+  ],
+  "firstPublicationDate": [
+    "2018-03-01"
+  ]
+}

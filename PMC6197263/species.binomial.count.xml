@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="frequencies">
+ <result title="frequency" count="2">Halobacterium salinarum</result>
+ <result title="frequency" count="2">E. coli</result>
+ <result title="frequency" count="1">Tetraselmis striata</result>
+ <result title="frequency" count="1">Dunaliella salina</result>
+ <result title="frequency" count="1">Haloarcula vallismortis</result>
+ <result title="frequency" count="1">Proteomonas sulcata</result>
+ <result title="frequency" count="1">Sparse modeling</result>
+ <result title="frequency" count="1">Chlamydomonas reinhardtii</result>
+ <result title="frequency" count="1">Halobacterium walsbyi</result>
+ <result title="frequency" count="1">Gloeobacter violaceus</result>
+</results>

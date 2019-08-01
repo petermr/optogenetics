@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6195347/results/search/country/results.xml">
+  <result pre="Cardiology, Heart Lung Center Leiden University Medical Center Leiden The" exact="Netherlands" post="[2], Department of Physics and Astronomy Gent University Gent"/>
+  <result pre="Netherlands [2], Department of Physics and Astronomy Gent University Gent" exact="Belgium" post="[3], Laboratory of Computational Biology and Medicine Ural Federal"/>
+  <result pre="University Ekaterinburg Russia Glass Leon Reviewing Editor [], McGill University" exact="Canada" post="Chakraborty Arup K Senior Editor [], Massachusetts Institute of"/>
+  <result pre="Chakraborty Arup K Senior Editor [], Massachusetts Institute of Technology" exact="United States" post="§ Laboratory for Fluid Physics, Pattern Formation and Biocomplexity,"/>
+  <result pre="Daniel A Pijnappels. Acknowledgements This study was supported by The" exact="Netherlands" post="Organization for Scientific Research (Vidi grant 91714336) and the"/>
+ </snippets>
+</snippetsTree>

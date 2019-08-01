@@ -1,0 +1,230 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="article-commentary"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">EMBO Rep</journal-id><journal-id journal-id-type="iso-abbrev">EMBO Rep</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1469-3178</journal-id><journal-id journal-id-type="publisher-id">EMBR</journal-id><journal-id journal-id-type="hwp">embor</journal-id><journal-title-group><journal-title>EMBO Reports</journal-title></journal-title-group><issn pub-type="ppub">1469-221X</issn><issn pub-type="epub">1469-3178</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5452044</article-id><article-id pub-id-type="pmid">28566521</article-id><article-id pub-id-type="doi">10.15252/embr.201744405</article-id><article-id pub-id-type="publisher-id">EMBR201744405</article-id><article-categories><subj-group subj-group-type="overline"><subject>Opinion</subject></subj-group><subj-group subj-group-type="heading"><subject>Opinion</subject></subj-group></article-categories><title-group><article-title>Optical and chemical discoveries recognized for impact on
+biology and psychiatry</article-title><alt-title alt-title-type="left-running-head">Karl Deisseroth</alt-title></title-group><contrib-group><contrib id="embr201744405-cr-0001" contrib-type="author"><name><surname>Deisseroth</surname><given-names>Karl</given-names></name><address><email>deissero@stanford.edu</email></address><xref ref-type="aff" rid="embr201744405-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="embr201744405-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="embr201744405-aff-0003">
+<sup>3</sup>
+</xref></contrib></contrib-group><aff id="embr201744405-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Department of
+Bioengineering</named-content><institution>Stanford University</institution><named-content content-type="city">Stanford</named-content><named-content content-type="country-part">CA</named-content><country country="US">USA</country></aff><aff id="embr201744405-aff-0002"><label><sup>2</sup></label><named-content content-type="organisation-division">Department of
+Psychiatry and Behavioral Sciences</named-content><institution>Stanford University</institution><named-content content-type="city">Stanford</named-content><named-content content-type="country-part">CA</named-content><country country="US">USA</country></aff><aff id="embr201744405-aff-0003"><label><sup>3</sup></label><named-content content-type="organisation-division">Howard Hughes
+Medical Institute</named-content><institution>Stanford University</institution><named-content content-type="city">Stanford</named-content><named-content content-type="country-part">CA</named-content><country country="US">USA</country></aff><pub-date pub-type="epub"><day>31</day><month>5</month><year>2017</year></pub-date><pub-date pub-type="ppub"><month>6</month><year>2017</year></pub-date><pub-date pub-type="pmc-release"><day>31</day><month>5</month><year>2017</year></pub-date><!-- PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>. --><volume>18</volume><issue>6</issue><issue-id pub-id-type="doi">10.1002/embr.v18.6</issue-id><fpage>859</fpage><lpage>860</lpage><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2017 EMBO <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Author. Published under
+the terms of the CC BY NC ND 4.0 license</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons
+Attribution&#x02010;NonCommercial&#x02010;NoDerivs 4.0</ext-link> License, which permits use
+and distribution in any medium, provided the original work is properly cited, the
+use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:EMBR-18-859.pdf"/><abstract abstract-type="executive-summary"><p>Karl Deisseroth was awarded the 2017 quadrennial 4 million euro Else
+Kr&#x000f6;ner Fresenius Prize today for the &#x0201c;discoveries of optogenetics and of
+hydrogel&#x02010;tissue chemistry, and for developing circuit&#x02010;level insight into depression&#x0201d;.
+In this opinion, he was invited to discuss the impact of optogenetics and
+hydrogel&#x02010;tissue chemistry <xref rid="embr201744405-bib-0001" ref-type="ref">1</xref>,
+<xref rid="embr201744405-bib-0002" ref-type="ref">2</xref>, <xref rid="embr201744405-bib-0003" ref-type="ref">3</xref>, <xref rid="embr201744405-bib-0004" ref-type="ref">4</xref>, <xref rid="embr201744405-bib-0005" ref-type="ref">5</xref>, <xref rid="embr201744405-bib-0006" ref-type="ref">6</xref>, <xref rid="embr201744405-bib-0007" ref-type="ref">7</xref>, <xref rid="embr201744405-bib-0008" ref-type="ref">8</xref>, <xref rid="embr201744405-bib-0009" ref-type="ref">9</xref>, <xref rid="embr201744405-bib-0010" ref-type="ref">10</xref> on understanding the
+structure and function of the brain in health and disease.</p></abstract><kwd-group kwd-group-type="subject-categories"><title>Subject Categories</title><kwd>Neuroscience</kwd><kwd>S&#x00026;S: Health &#x00026; Disease</kwd><kwd>S&#x00026;S: Technology</kwd></kwd-group><counts><fig-count count="0"/><table-count count="0"/><page-count count="2"/><word-count count="1587"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>embr201744405</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>June 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.1.0 mode:remove_FC
+converted:01.06.2017</meta-value></custom-meta></custom-meta-group></article-meta></front><body><p>How do diseases of the brain, such as major depression or schizophrenia,
+change an individual's ability to manifest subjective mental states? These diseases not
+only create dysregulated negative or aversive states, but the very same experiences that
+once brought joy, reward, and motivation, fail to do so, giving rise to the common and
+crippling symptom of anhedonia. More broadly, we could ask the following question: How
+does the brain interpret specific experiences under different circumstances&#x02014;for distinct
+individuals, or during distinct adaptive behavioral states? These are fascinating and
+difficult questions, long at the core of our shared human experience, that are now
+accessible to modern psychiatry and neuroscience&#x02014;raising hope for alleviating human
+suffering and for understanding brain function.</p><p>The development of optogenetics (controlling specific neural circuit
+elements during behavior using microbial opsin genes, fiberoptics, and generalizable
+cell targeting tools), from 2004 to 2009, ultimately enabled considerable progress in
+answering these questions <xref rid="embr201744405-bib-0001" ref-type="ref">1</xref>,
+<xref rid="embr201744405-bib-0002" ref-type="ref">2</xref>, <xref rid="embr201744405-bib-0003" ref-type="ref">3</xref>. By way of example, a 2012 paper
+identified specific cellular connections&#x02014;spanning the entire adult mammalian brain from
+medial prefrontal cortex to the lateral habenula, or to the dorsal raphe nucleus&#x02014;that
+are causally involved in precise bidirectional tuning of motivational behavior in
+response to depression&#x02010;related challenges <xref rid="embr201744405-bib-0004" ref-type="ref">4</xref>. And in a more recent paper, we described specific
+circuit&#x02010;dynamical underpinnings of anhedonia itself <xref rid="embr201744405-bib-0005" ref-type="ref">5</xref>.</p><p>When we set up an experiment to elicit recruitment of midbrain dopamine
+neurons in the freely moving rat in operant fashion by the rat pressing a lever, we
+observed that some animals pressed the lever much more than others, up to hundreds of
+times per day. It revealed not only that the dopamine neuron recruitment was a source of
+primary reward and motivation, but also that this behavior quantitatively varied between
+individuals <xref rid="embr201744405-bib-0005" ref-type="ref">5</xref>. In accounting
+for this variability, we found that the extent of activation of a distant subcortical
+structure, the ventral striatum, by midbrain dopamine neurons contributed to the
+observed behavioral differences <xref rid="embr201744405-bib-0005" ref-type="ref">5</xref>.</p><p>This brainwide activity relationship was interesting in itself, but we
+soon observed something even more interesting. When we optogenetically elevated activity
+in the medial prefrontal cortex of these rats (based on the observation that human
+patients suffering from depression often show elevated activity in homologous prefrontal
+regions (reviewed in ref. <xref rid="embr201744405-bib-0006" ref-type="ref">6</xref>),
+we observed anhedonic behavior. Even more strikingly, this intervention accessed the
+same long&#x02010;range multi&#x02010;region dynamical pattern that had been found to contribute to
+naturally occurring individual variability earlier, in diminishing the ability of
+elicited midbrain dopamine neuron activity to recruit ventral striatum <xref rid="embr201744405-bib-0005" ref-type="ref">5</xref>.</p><p>This observation&#x02014;that naturalistic and brainwide behaviorally relevant
+activity patterns can be causally elicited by optogenetic intervention&#x02014;raises intriguing
+possibilities for the field. Relevant to this opportunity, we have developed new
+methodologies for precise observation and control of brainwide activity states, for
+example using the brain&#x02010;spanning and multi&#x02010;site approach of frame&#x02010;projected
+independent&#x02010;fiber photometry to match or modify the native timing and amplitude of local
+or global activity patterns across acute or chronic timescales during free mammalian
+behavior <xref rid="embr201744405-bib-0007" ref-type="ref">7</xref>. These advances
+allow exploration of a virtually limitless range of ideas and hypotheses regarding the
+causal and global circuit dynamics of adaptive and maladaptive behaviors, including
+states related to depression, anxiety, and altered social behavior.</p><p>Interdisciplinary collaboration has been the hallmark of these efforts,
+characterized by joint efforts among physicians, biologists, physicists, materials
+scientists, biochemists, chemists, and chemical engineers. On the smallest of spatial
+scales in biology, chemical and biophysical analysis of the microbial opsins themselves
+at the atomic level has been a priority in my laboratory for more than a decade, driven
+by curiosity about these remarkable molecules, as well as by the opportunity to create
+new functionality for neuroscience via molecular analysis and design <xref rid="embr201744405-bib-0001" ref-type="ref">1</xref>.</p><p>Our work in chemistry and biochemistry also led to the second discovery
+recognized by the 2017 Prize, described as hydrogel&#x02010;tissue chemistry (HTC) <xref rid="embr201744405-bib-0008" ref-type="ref">8</xref>, <xref rid="embr201744405-bib-0009" ref-type="ref">9</xref>, <xref rid="embr201744405-bib-0010" ref-type="ref">10</xref>. The talented scientists in my
+laboratory were able to overcome a key limitation for the structural analysis of
+biological tissues: generally stated, the linking of deep content to deep context. From
+2009 to 2016, they developed a new approach by which an intact metazoan animal tissue
+(reconsidered as its positionally defined constituent biomolecules) effectively becomes
+a reactant or &#x0201c;meta&#x02010;reactant&#x0201d; in a chemical process. Various polymers and gels have long
+been used to physically support biological tissues for sectioning and histology, and
+hydrogels had long been explored as a substrate onto which cells could be seeded or
+printed to create tissues or organs. In contrast, with HTC the hydrogel is built from
+within each cell of a tissue simultaneously: specific tissue components are anchored
+(via molecular linkers) to gel monomers, and then, crosslinkers are triggered to cause
+polymerization and gelation. Subsequent selective removal of unlinked tissue elements
+from the tractable new composite hydrogel&#x02010;tissue material is then possible <xref rid="embr201744405-bib-0008" ref-type="ref">8</xref>, <xref rid="embr201744405-bib-0009" ref-type="ref">9</xref>, allowing high&#x02010;resolution
+optical access and permeability for macromolecular probes. Since 2013, many forms of the
+original HTC concept have been described <xref rid="embr201744405-bib-0009" ref-type="ref">9</xref>, <xref rid="embr201744405-bib-0010" ref-type="ref">10</xref>,
+spurring considerable innovation and many intriguing experimental insights into
+biology.</p><p>For example, this approach has been used to obtain brainwide
+cellular&#x02010;resolution activity&#x02010;trace information after defined behavioral experiences in
+freely moving mice. One form of HTC, called CLARITY <xref rid="embr201744405-bib-0009" ref-type="ref">9</xref>, was used to transform the intact brains of large cohorts of
+mice that had&#x000a0;experienced positive (appetitive) or negative (aversive) experience or
+neither. This was combined with a novel method called CAPTURE <xref rid="embr201744405-bib-0010" ref-type="ref">10</xref> to label and quantify the
+brainwide projections from the medial prefrontal cortex that were strongly activated
+during these experiences <xref rid="embr201744405-bib-0009" ref-type="ref">9</xref>,
+<xref rid="embr201744405-bib-0010" ref-type="ref">10</xref>. These experiments
+revealed that the projection from the medial prefrontal cortex to the lateral
+habenula&#x02014;similar to the projection that we had identified earlier as favoring
+passive&#x02010;coping or depressive&#x02010;like responses <xref rid="embr201744405-bib-0004" ref-type="ref">4</xref>&#x02014;was recruited more robustly by negative experience <xref rid="embr201744405-bib-0010" ref-type="ref">10</xref>. In contrast, the projection
+from the medial prefrontal cortex to the ventral striatum/nucleus accumbens was more
+strongly recruited by positive experience, which suggests a possible mechanism by which
+the prefrontal cortex could exert influence in the ventral striatum and reward&#x02010;related
+responses in anhedonia <xref rid="embr201744405-bib-0005" ref-type="ref">5</xref>. In
+addition to this brainwide anatomical perspective, the HTC approach <xref rid="embr201744405-bib-0008" ref-type="ref">8</xref> also enabled molecular
+interrogation of recruited prefrontal cells; selective expression of the NPAS4
+transcription factor <xref rid="embr201744405-bib-0010" ref-type="ref">10</xref>, which
+is involved in regulating adaptive responses to experience, was revealed in
+positive&#x02010;experience prefrontal cells.</p><p>Looking to the future, registering all of these datastreams together in
+single subjects (local and global wiring, molecular cell typology, and natural causally
+important changes in neural activity during behaviors of interest) will continue to
+deepen our understanding of adaptive inner states and behavioral state transitions that
+are central to the expression of psychiatric disease symptoms and, more broadly, the
+experience of life.</p><p>It is worth noting, in closing, a topic of timeliness: the importance of
+public support for basic research, which has considerable relevance to our discoveries
+recognized by the 2017 Else Kr&#x000f6;ner Fresenius Prize. The tentative first steps that
+eventually led to optogenetics <xref rid="embr201744405-bib-0002" ref-type="ref">2</xref> and HTC <xref rid="embr201744405-bib-0008" ref-type="ref">8</xref> were
+neither part of disease&#x02010;related research, nor even constrained in terms of specific
+applications to basic science. Exploratory early&#x02010;stage research is a vulnerable target
+for budget cuts: an easy target and easy to dismiss. We and many others have discussed
+how to balance funding of early versus late&#x02010;stage research (e.g., <ext-link ext-link-type="uri" xlink:href="http://www.pnas.org/content/112/47/E6413.full">http://www.pnas.org/content/112/47/E6413.full</ext-link>), and we
+have repeatedly suggested that scientists must communicate to the broader public that
+any specific goal of a research portfolio&#x02014;be it disease treatment or national
+interest&#x02014;is best served with a major basic research component where direct links between
+research and goal are&#x000a0;not known, or even knowable <xref rid="embr201744405-bib-0003" ref-type="ref">3</xref>. As a&#x000a0;society, we must also work harder to prevent
+discouraging or dismissing scientists at the early stages of their careers with
+the&#x000a0;wrong signals or inconstant support. Just&#x000a0;as with&#x000a0;early&#x02010;stage research, junior
+scientists are full&#x000a0;of promise, unconstrained and vulnerable. The fullest reckoning of
+our&#x000a0;community's success can be measured in theirs.</p></body><back><ref-list content-type="cited-references" id="embr201744405-bibl-0001"><title>References</title><ref id="embr201744405-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="embr201744405-cit-0001">
+<string-name>
+<surname>Kim</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Adhikari</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Deisseroth</surname>
+<given-names>K</given-names>
+</string-name> (<year>2017</year>) <source>Nat Rev Neurosci</source>
+<volume>18</volume>: <fpage>222</fpage>&#x02013;<lpage>235</lpage>
+<pub-id pub-id-type="pmid">28303019</pub-id></mixed-citation></ref><ref id="embr201744405-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="embr201744405-cit-0002">
+<string-name>
+<surname>Deisseroth</surname>
+<given-names>K</given-names>
+</string-name> (<year>2015</year>) <source>Nat Neurosci</source>
+<volume>18</volume>: <fpage>1213</fpage>&#x02013;<lpage>1225</lpage>
+<pub-id pub-id-type="pmid">26308982</pub-id></mixed-citation></ref><ref id="embr201744405-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="embr201744405-cit-0003">
+<string-name>
+<surname>Deisseroth</surname>
+<given-names>K</given-names>
+</string-name> (<year>2010</year>) <source>Sci Am</source>
+<volume>303</volume>: <fpage>48</fpage>&#x02013;<lpage>55</lpage>
+</mixed-citation></ref><ref id="embr201744405-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="embr201744405-cit-0004">
+<string-name>
+<surname>Warden</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Selimbeyoglu</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Mirzabekov</surname>
+<given-names>J</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2012</year>) <source>Nature</source>
+<volume>492</volume>: <fpage>428</fpage>&#x02013;<lpage>432</lpage>
+<pub-id pub-id-type="pmid">23160494</pub-id></mixed-citation></ref><ref id="embr201744405-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="embr201744405-cit-0005">
+<string-name>
+<surname>Ferenczi</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Zalocusky</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Liston</surname>
+<given-names>C</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2016</year>) <source>Science</source>
+<volume>351</volume>: <fpage>aac9698</fpage>
+<pub-id pub-id-type="pmid">26722001</pub-id></mixed-citation></ref><ref id="embr201744405-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="embr201744405-cit-0006">
+<string-name>
+<surname>Deisseroth</surname>
+<given-names>K</given-names>
+</string-name> (<year>2014</year>) <source>Nature</source>
+<volume>505</volume>: <fpage>309</fpage>&#x02013;<lpage>317</lpage>
+<pub-id pub-id-type="pmid">24429629</pub-id></mixed-citation></ref><ref id="embr201744405-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="embr201744405-cit-0007">
+<string-name>
+<surname>Kim</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Pichamoorthy</surname>
+<given-names>N</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2016</year>) <source>Nat Methods</source>
+<volume>13</volume>: <fpage>325</fpage>&#x02013;<lpage>328</lpage>
+<pub-id pub-id-type="pmid">26878381</pub-id></mixed-citation></ref><ref id="embr201744405-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="embr201744405-cit-0008">
+<string-name>
+<surname>Deisseroth</surname>
+<given-names>K</given-names>
+</string-name> (<year>2016</year>) <source>Sci Am</source>
+<volume>315</volume>: <fpage>30</fpage>&#x02013;<lpage>37</lpage>
+</mixed-citation></ref><ref id="embr201744405-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="embr201744405-cit-0009">
+<string-name>
+<surname>Chung</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Wallace</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>SY</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2013</year>) <source>Nature</source>
+<volume>497</volume>: <fpage>332</fpage>&#x02013;<lpage>337</lpage>
+<pub-id pub-id-type="pmid">23575631</pub-id></mixed-citation></ref><ref id="embr201744405-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="embr201744405-cit-0010">
+<string-name>
+<surname>Ye</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Thompson</surname>
+<given-names>K</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2016</year>) <source>Cell</source>
+<volume>165</volume>: <fpage>1776</fpage>&#x02013;<lpage>1788</lpage>
+<pub-id pub-id-type="pmid">27238022</pub-id></mixed-citation></ref></ref-list></back></article>

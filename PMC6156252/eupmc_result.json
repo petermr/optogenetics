@@ -1,0 +1,302 @@
+{
+  "id": [
+    "30283305"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30283305"
+  ],
+  "pmcid": [
+    "PMC6156252"
+  ],
+  "doi": [
+    "10.3389/fncel.2018.00320"
+  ],
+  "title": [
+    "Gap Junctions in the Nervous System: Probing Functional Connections Using New Imaging Approaches."
+  ],
+  "authorString": [
+    "Dong A, Liu S, Li Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Dong A"
+          ],
+          "firstName": [
+            "Ao"
+          ],
+          "lastName": [
+            "Dong"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2821-9528",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "State Key Laboratory of Membrane Biology, Peking University School of Life Sciences, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu S"
+          ],
+          "firstName": [
+            "Simin"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Membrane Biology, Peking University School of Life Sciences, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li Y"
+          ],
+          "firstName": [
+            "Yulong"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "State Key Laboratory of Membrane Biology, Peking University School of Life Sciences, Beijing, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2821-9528",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2645045"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Cellular Neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Cell Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Cell Neurosci"
+          ],
+          "NLMid": [
+            "101477935"
+          ],
+          "ISSN": [
+            "1662-5102"
+          ],
+          "ESSN": [
+            "1662-5102"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "320"
+  ],
+  "abstractText": [
+    "Gap junctions are channels that physically connect adjacent cells, mediating the rapid exchange of small molecules, and playing an essential role in a wide range of physiological processes in nearly every system in the body, including the nervous system. Thus, altered function of gap junctions has been linked with a plethora of diseases and pathological conditions. Being able to measure and characterize the distribution, function, and regulation of gap junctions in intact tissue is therefore essential for understanding the physiological and pathophysiological roles that gap junctions play. In recent decades, several robust in vitro and in vivo methods have been developed for detecting and characterizing gap junctions. Here, we review the currently available methods with respect to invasiveness, signal-to-noise ratio, temporal resolution and others, highlighting the recently developed chemical tracers and hybrid imaging systems that use novel chemical compounds and/or genetically encoded enzymes, transporters, channels, and fluorescent proteins in order to map gap junctions. Finally, we discuss possible avenues for further improving existing techniques in order to achieve highly sensitive, cell type-specific, non-invasive measures of in vivo gap junction function with high throughput and high spatiotemporal resolution."
+  ],
+  "affiliation": [
+    "State Key Laboratory of Membrane Biology, Peking University School of Life Sciences, Beijing, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Nervous system",
+        "Gap junction",
+        "fluorescence imaging",
+        "Electrical Synapse",
+        "Genetically Encoded Methods"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6156252?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6156252"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fncel.2018.00320"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-10-05"
+  ],
+  "firstIndexDate": [
+    "2018-10-05"
+  ],
+  "dateOfRevision": [
+    "2018-10-07"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-19"
+  ],
+  "firstPublicationDate": [
+    "2018-09-19"
+  ]
+}

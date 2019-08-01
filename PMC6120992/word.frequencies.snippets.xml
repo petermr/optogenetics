@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6120992/results/word/frequencies/results.xml">
+  <result title="frequency" word="eye" count="76"/>
+  <result title="frequency" word="FEF" count="66"/>
+  <result title="frequency" word="signals" count="39"/>
+  <result title="frequency" word="saccadic" count="35"/>
+  <result title="frequency" word="neurons" count="32"/>
+  <result title="frequency" word="frontal" count="29"/>
+  <result title="frequency" word="movements" count="25"/>
+  <result title="frequency" word="stimulation" count="25"/>
+  <result title="frequency" word="SC." count="22"/>
+  <result title="frequency" word="saccade" count="22"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6072332/results/search/funders/results.xml">
+  <result pre="font-style : italic;} eNeuro eNeuro eneuro eneuro eNeuro eNeuro 2373-2822" exact="Society for Neuroscience" post="pmcid: 6072332 doi: 10.1523/ENEURO.0168-18.2018 eN-COM-0168-18 : 1 1.10 :"/>
+  <result pre="Miguel 1 2 http://orcid.org/0000-0003-1446-3295 de Villers-Sidani Etienne 1 2 [1]," exact="McGill University" post="Canada [2], Centre for Research on Brain, Language, and"/>
+  <result pre="de Villers-Sidani Etienne 1 2 [1], McGill University Canada [2]," exact="Centre for Research on Brain, Language, and Music" post="Canada The authors declare no competing financial interests. Author"/>
+  <result pre="E.d.V.-S. wrote the paper. This work was supported by the" exact="Canadian Institutes of Health Research." post="Correspondence should be addressed to J. Miguel Cisneros-Franco, 3801"/>
+  <result pre="paper. This work was supported by the Canadian Institutes of" exact="Health Research." post="Correspondence should be addressed to J. Miguel Cisneros-Franco, 3801"/>
+  <result pre="G ( 2014) Individual differences in susceptibility to investment fraud," exact="Stanford University" post="Accessed July 2018. Available at https://pdfs.semanticscholar.org/78a6/7f45aae9dd46c16fd10df668fddc39ed1bc1.pdf. Knutson B ,"/>
+ </snippets>
+</snippetsTree>

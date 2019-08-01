@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="binomial">
+ <result pre="THE vinegar fly " exact="Drosophila melanogaster" xpath="/html[1]/body[1]/div[2]/div[5]/p[5]" match="Drosophila melanogaster" post=" has made many contributions to our understanding of development, function, and diseases of the ner" name="binomial"/>
+ <result pre="ude ChR2, a green light (470 nm)-sensitive nonselective cation channel derived from the green alga " exact="Chlamydomonas reinhardtii" xpath="/html[1]/body[1]/div[2]/div[5]/p[5]" match="Chlamydomonas reinhardtii" post=", and CsChrimson, a red light (590 nm)-activated channel from the red alga C. subdivisa. Spe" name="binomial"/>
+ <result pre="ydomonas reinhardtii, and CsChrimson, a red light (590 nm)-activated channel from the red alga " exact="C. subdivisa" xpath="/html[1]/body[1]/div[2]/div[5]/p[5]" match="Chlamydomonas subdivisa" post=". Spectral profiles are shown in Figure 2A. " name="binomial"/>
+ <result pre=" achieved with a light-sensitive (570 nm) anion pump halorhodopsin (NpH 2) from the archeobacteria " exact="Natronobacterium pharaonis" xpath="/html[1]/body[1]/div[2]/div[5]/p[5]" match="Natronobacterium pharaonis" post=". Protein engineering has improved trafficking and stability, and these have been used in larvae ( " name="binomial"/>
+ <result pre=". A naturally occurring light-sensitive chloride channel, gtAcr, was recently cloned from the alga " exact="Guillardia theta" match="Guillardia theta" post=" and has been expressed in flies ( Mauss et al. 2017 ; Moh" name="binomial"/>
+</results>

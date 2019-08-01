@@ -1,0 +1,688 @@
+{
+  "id": [
+    "29867370"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29867370"
+  ],
+  "pmcid": [
+    "PMC5949341"
+  ],
+  "doi": [
+    "10.3389/fncir.2018.00036"
+  ],
+  "title": [
+    "Stimulation of the Nigrotectal Pathway at the Level of the Superior Colliculus Reduces Threat Recognition and Causes a Shift From Avoidance to Approach Behavior."
+  ],
+  "authorString": [
+    "Almada RC, Genewsky AJ, Heinz DE, Kaplick PM, Coimbra NC, Wotjak CT."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Almada RC"
+          ],
+          "firstName": [
+            "Rafael C"
+          ],
+          "lastName": [
+            "Almada"
+          ],
+          "initials": [
+            "RC"
+          ],
+          "affiliation": [
+            "Department of Stress Neurobiology and Neurogenetics, Neuronal Plasticity, Max Planck Institute of Psychiatry, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Genewsky AJ"
+          ],
+          "firstName": [
+            "Andreas J"
+          ],
+          "lastName": [
+            "Genewsky"
+          ],
+          "initials": [
+            "AJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6017-2862",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Stress Neurobiology and Neurogenetics, Neuronal Plasticity, Max Planck Institute of Psychiatry, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Heinz DE"
+          ],
+          "firstName": [
+            "Daniel E"
+          ],
+          "lastName": [
+            "Heinz"
+          ],
+          "initials": [
+            "DE"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7103-9621",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Stress Neurobiology and Neurogenetics, Neuronal Plasticity, Max Planck Institute of Psychiatry, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Kaplick PM"
+          ],
+          "firstName": [
+            "Paul M"
+          ],
+          "lastName": [
+            "Kaplick"
+          ],
+          "initials": [
+            "PM"
+          ],
+          "affiliation": [
+            "Department of Stress Neurobiology and Neurogenetics, Neuronal Plasticity, Max Planck Institute of Psychiatry, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Coimbra NC"
+          ],
+          "firstName": [
+            "Norberto C"
+          ],
+          "lastName": [
+            "Coimbra"
+          ],
+          "initials": [
+            "NC"
+          ],
+          "affiliation": [
+            "Laboratory of Neuroanatomy and Neuropsychobiology, Department of Pharmacology, Ribeirão Preto Medical School (FMRP), University of São Paulo (USP), São Paulo, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Wotjak CT"
+          ],
+          "firstName": [
+            "Carsten T"
+          ],
+          "lastName": [
+            "Wotjak"
+          ],
+          "initials": [
+            "CT"
+          ],
+          "affiliation": [
+            "Department of Stress Neurobiology and Neurogenetics, Neuronal Plasticity, Max Planck Institute of Psychiatry, Munich, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6017-2862",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7103-9621",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2647765"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neural circuits"
+          ],
+          "ISOAbbreviation": [
+            "Front Neural Circuits"
+          ],
+          "medlineAbbreviation": [
+            "Front Neural Circuits"
+          ],
+          "NLMid": [
+            "101477940"
+          ],
+          "ISSN": [
+            "1662-5110"
+          ],
+          "ESSN": [
+            "1662-5110"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "36"
+  ],
+  "abstractText": [
+    "Defensive behavioral responses are essential for survival in threating situations. The superior colliculus (SC) has been implicated in the generation of defensive behaviors elicited by visual, tactile and auditory stimuli. Furthermore, substantia nigra pars reticulata (SNr) neurons are known to exert a modulatory effect on midbrain tectum neural substrates. However, the functional role of this nigrotectal pathway in threating situations is still poorly understood. Using optogenetics in freely behaving mice, we activated SNr projections at the level of the SC, and assessed consequences on behavioral performance in an open field test (OFT) and the beetle mania task (BMT). The latter confronts a mouse with an erratic moving robo-beetle and allows to measure active and passive defensive responses upon frequent encounter of the threatening object. Channelrhodopsin-2 (ChR2)-mediated activation of the inhibitory nigrotectal pathway did not affect anxiety-like and exploratory behavior in the OFT, but increased the number of contacts between robo-beetle and test mouse in the BMT. Depending on the size of the arena, active avoidance responses were reduced, whereas tolerance and close following of the robo-beetle were significantly increased. We conclude from the data that the nigrotectal pathway plays holds the potential to modulate innate fear by attenuating threat recognition and causing a shift from defensive to approach behavior."
+  ],
+  "affiliation": [
+    "Department of Stress Neurobiology and Neurogenetics, Neuronal Plasticity, Max Planck Institute of Psychiatry, Munich, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neural Pathways"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neurons"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice, Inbred C57BL"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Bicuculline"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Behavior, Animal"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anxiety"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fear"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Choice Behavior"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Superior Colliculi"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Fear",
+        "Optogenetics",
+        "Robo-beetle",
+        "Substantia Nigra Pars Reticulata (Snr)",
+        "Deep Layers Of Superior Colliculus (Dlsc)",
+        "Nigrotectal Pathway",
+        "Beetle Mania Task (Bmt)"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Bicuculline"
+          ],
+          "registryNumber": [
+            "Y37615DVKC"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5949341?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5949341"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fncir.2018.00036"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-02-27"
+  ],
+  "dateOfCreation": [
+    "2018-06-06"
+  ],
+  "firstIndexDate": [
+    "2018-06-06"
+  ],
+  "dateOfRevision": [
+    "2019-02-27"
+  ],
+  "electronicPublicationDate": [
+    "2018-05-07"
+  ],
+  "firstPublicationDate": [
+    "2018-05-07"
+  ]
+}

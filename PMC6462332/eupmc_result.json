@@ -1,0 +1,319 @@
+{
+  "id": [
+    "31049131"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31049131"
+  ],
+  "pmcid": [
+    "PMC6462332"
+  ],
+  "doi": [
+    "10.1155/2019/2867516"
+  ],
+  "title": [
+    "Use of Exogenous and Endogenous Photomediators as Efficient ROS Modulation Tools: Results and Perspectives for Therapeutic Purposes."
+  ],
+  "authorString": [
+    "Antognazza MR, Abdel Aziz I, Lodola F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Antognazza MR"
+          ],
+          "firstName": [
+            "Maria Rosa"
+          ],
+          "lastName": [
+            "Antognazza"
+          ],
+          "initials": [
+            "MR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4599-2384",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Nano Science and Technology, Istituto Italiano di Tecnologia, Via Pascoli 70/3, 20133 Milano, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Abdel Aziz I"
+          ],
+          "firstName": [
+            "Ilaria"
+          ],
+          "lastName": [
+            "Abdel Aziz"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6159-1770",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Nano Science and Technology, Istituto Italiano di Tecnologia, Via Pascoli 70/3, 20133 Milano, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Lodola F"
+          ],
+          "firstName": [
+            "Francesco"
+          ],
+          "lastName": [
+            "Lodola"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3506-5619",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Nano Science and Technology, Istituto Italiano di Tecnologia, Via Pascoli 70/3, 20133 Milano, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4599-2384",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3506-5619",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6159-1770",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2019"
+      ],
+      "journalIssueId": [
+        "2779314"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Oxidative medicine and cellular longevity"
+          ],
+          "ISOAbbreviation": [
+            "Oxid Med Cell Longev"
+          ],
+          "medlineAbbreviation": [
+            "Oxid Med Cell Longev"
+          ],
+          "NLMid": [
+            "101479826"
+          ],
+          "ISSN": [
+            "1942-0994"
+          ],
+          "ESSN": [
+            "1942-0994"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2867516"
+  ],
+  "abstractText": [
+    "Reactive Oxygen Species (ROS) play an essential dual role in living systems. Healthy levels of ROS modulate several signaling pathways, but at the same time, when they exceed normal physiological amounts, they work in the opposite direction, playing pivotal functions in the pathophysiology of multiple severe medical conditions (i.e., cancer, diabetes, neurodegenerative and cardiovascular diseases, and aging). Therefore, the research for methods to detect their levels via light-sensitive fluorescent probes has been extensively studied over the years. However, this is not the only link between light and ROS. In fact, the modulation of ROS mediated by light has been exploited already for a long time. In this review, we report the state of the art, as well as recent developments, in the field of photostimulation of oxidative stress, from photobiomodulation (PBM) mediated by naturally expressed light-sensitive proteins to the most recent optogenetic approaches, and finally, we describe the main methods of exogenous stimulation, in particular highlighting the new insights based on optically driven ROS modulation mediated by polymeric materials."
+  ],
+  "affiliation": [
+    "Center for Nano Science and Technology, Istituto Italiano di Tecnologia, Via Pascoli 70/3, 20133 Milano, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6462332?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6462332"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2019/2867516"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-05-04"
+  ],
+  "firstIndexDate": [
+    "2019-05-06"
+  ],
+  "dateOfRevision": [
+    "2019-05-05"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-31"
+  ],
+  "firstPublicationDate": [
+    "2019-03-31"
+  ]
+}

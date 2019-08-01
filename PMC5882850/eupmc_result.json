@@ -1,0 +1,488 @@
+{
+  "id": [
+    "29643766"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29643766"
+  ],
+  "pmcid": [
+    "PMC5882850"
+  ],
+  "doi": [
+    "10.3389/fnmol.2018.00095"
+  ],
+  "title": [
+    "Spatiotemporal Control of GPR37 Signaling and Its Behavioral Effects by Optogenetics."
+  ],
+  "authorString": [
+    "Zheng W, Zhou J, Luan Y, Yang J, Ge Y, Wang M, Wu B, Wu Z, Chen X, Li F, Li Z, Vakal S, Guo W, Chen JF."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zheng W"
+          ],
+          "firstName": [
+            "Wu"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Molecular Neuropharmacology Laboratory, School of Optometry and Ophthalmology and Eye Hospital, Wenzhou Medical University, Wenzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou J"
+          ],
+          "firstName": [
+            "Jianhong"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Molecular Neuropharmacology Laboratory, School of Optometry and Ophthalmology and Eye Hospital, Wenzhou Medical University, Wenzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Luan Y"
+          ],
+          "firstName": [
+            "Yanan"
+          ],
+          "lastName": [
+            "Luan"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Molecular Neuropharmacology Laboratory, School of Optometry and Ophthalmology and Eye Hospital, Wenzhou Medical University, Wenzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang J"
+          ],
+          "firstName": [
+            "Jianglan"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Molecular Neuropharmacology Laboratory, School of Optometry and Ophthalmology and Eye Hospital, Wenzhou Medical University, Wenzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ge Y"
+          ],
+          "firstName": [
+            "Yuanyuan"
+          ],
+          "lastName": [
+            "Ge"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Molecular Neuropharmacology Laboratory, School of Optometry and Ophthalmology and Eye Hospital, Wenzhou Medical University, Wenzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang M"
+          ],
+          "firstName": [
+            "Muran"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Molecular Neuropharmacology Laboratory, School of Optometry and Ophthalmology and Eye Hospital, Wenzhou Medical University, Wenzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu B"
+          ],
+          "firstName": [
+            "Beibei"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Molecular Neuropharmacology Laboratory, School of Optometry and Ophthalmology and Eye Hospital, Wenzhou Medical University, Wenzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu Z"
+          ],
+          "firstName": [
+            "Zhongnan"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Molecular Neuropharmacology Laboratory, School of Optometry and Ophthalmology and Eye Hospital, Wenzhou Medical University, Wenzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen X"
+          ],
+          "firstName": [
+            "Xingjun"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Molecular Neuropharmacology Laboratory, School of Optometry and Ophthalmology and Eye Hospital, Wenzhou Medical University, Wenzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li F"
+          ],
+          "firstName": [
+            "Fei"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Molecular Neuropharmacology Laboratory, School of Optometry and Ophthalmology and Eye Hospital, Wenzhou Medical University, Wenzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li Z"
+          ],
+          "firstName": [
+            "Zhihui"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Molecular Neuropharmacology Laboratory, School of Optometry and Ophthalmology and Eye Hospital, Wenzhou Medical University, Wenzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Vakal S"
+          ],
+          "firstName": [
+            "Sergii"
+          ],
+          "lastName": [
+            "Vakal"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1549-0394",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Molecular Neuropharmacology Laboratory, School of Optometry and Ophthalmology and Eye Hospital, Wenzhou Medical University, Wenzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Guo W"
+          ],
+          "firstName": [
+            "Wei"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Molecular Neuropharmacology Laboratory, School of Optometry and Ophthalmology and Eye Hospital, Wenzhou Medical University, Wenzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen JF"
+          ],
+          "firstName": [
+            "Jiang-Fan"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "JF"
+          ],
+          "affiliation": [
+            "Molecular Neuropharmacology Laboratory, School of Optometry and Ophthalmology and Eye Hospital, Wenzhou Medical University, Wenzhou, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1549-0394",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2645044"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in molecular neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Mol Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Mol Neurosci"
+          ],
+          "NLMid": [
+            "101477914"
+          ],
+          "ISSN": [
+            "1662-5099"
+          ],
+          "ESSN": [
+            "1662-5099"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "95"
+  ],
+  "abstractText": [
+    "Despite the progress in deorphanization of G Protein-Coupled Receptors (GPCRs), ≈100 GPCRs are still classified as orphan receptors without identified endogenous ligands and with unknown physiological functions. The lack of endogenous ligands triggering GPCR signaling has hampered the study of orphan GPCR functions. Using GPR37 as an example, we provide here the first demonstration of the channelrhodopsin 2 (ChR2)-GPCR approach to bypass the endogenous ligand and selectively activate the orphan GPCR signal by optogenetics. Inspired by the opto-XR approach, we designed the ChR2-GPR37 chimera, in which the corresponding parts of GPR37 replaced the intracellular portions of ChR2. We showed that optogenetic activation of ChR2/opto-GPR37 elicited specific GPR37 signaling, as evidenced by reduced cAMP level, enhanced ERK phosphorylation and increased motor activity, confirming the specificity of opto-GPR37 signaling. Besides, optogenetic activation of opto-GPR37 uncovered novel aspects of GPR37 signaling (such as IP-3 signaling) and anxiety-related behavior. Optogenetic activation of opto-GPR37 permits the causal analysis of GPR37 activity in the defined cells and behavioral responses of freely moving animals. Importantly, given the evolutionarily conserved seven-helix transmembrane structures of ChR2 and orphan GPCRs, we propose that opto-GPR37 approach can be readily applied to other orphan GPCRs for their deorphanization in freely moving animals."
+  ],
+  "affiliation": [
+    "Molecular Neuropharmacology Laboratory, School of Optometry and Ophthalmology and Eye Hospital, Wenzhou Medical University, Wenzhou, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Optogenetics",
+        "Channelrhodopsin",
+        "Gpcrs",
+        "Orphan Gpcrs",
+        "Opto-gpr37"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5882850?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5882850"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnmol.2018.00095"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-04-13"
+  ],
+  "firstIndexDate": [
+    "2018-04-13"
+  ],
+  "dateOfRevision": [
+    "2018-04-15"
+  ],
+  "electronicPublicationDate": [
+    "2018-03-28"
+  ],
+  "firstPublicationDate": [
+    "2018-03-28"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="funders">
+ <result pre="3 [1], 0000 0001 2097 4943 grid.213917.f Interdisciplinary Bioengineering Program," exact="Georgia Institute of Technology," post="[2], 0000 0001 2097 4943 grid.213917.f Wallace H. Coulter"/>
+ <result pre="2097 4943 grid.213917.f Wallace H. Coulter Department of Biomedical Engineering," exact="Georgia Institute of Technology" post="and Emory University, [3], 0000 0001 2097 4943 grid.213917.f"/>
+ <result pre="Coulter Department of Biomedical Engineering, Georgia Institute of Technology and" exact="Emory University," post="[3], 0000 0001 2097 4943 grid.213917.f School of Chemical"/>
+ <result pre="0001 2097 4943 grid.213917.f School of Chemical &amp;amp; Biomolecular Engineering," exact="Georgia Institute of Technology," post="epub: 2019-3-3 pmc-release: 2019-3-3 collection: 2019 9 5182 received:"/>
+ <result pre="neuron or other excitable cells in the animal. Funding US" exact="National Institutes of Health" post="Introduction A key function of the nervous system is"/>
+ <result pre="The authors gratefully acknowledge the funding support of the US" exact="National Institutes of Health" post="(R01NS096581, R01GM088333, R21EB021676, and R21EB020424 to H.L.). Author Contributions"/>
+</results>

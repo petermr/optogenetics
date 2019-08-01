@@ -1,0 +1,375 @@
+{
+  "id": [
+    "30914655"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30914655"
+  ],
+  "pmcid": [
+    "PMC6435754"
+  ],
+  "doi": [
+    "10.1038/s41598-019-41349-0"
+  ],
+  "title": [
+    "Reverse-Correlation Analysis of the Mechanosensation Circuit and Behavior in C. elegans Reveals Temporal and Spatial Encoding."
+  ],
+  "authorString": [
+    "Porto DA, Giblin J, Zhao Y, Lu H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Porto DA"
+          ],
+          "firstName": [
+            "Daniel A"
+          ],
+          "lastName": [
+            "Porto"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "affiliation": [
+            "Interdisciplinary Bioengineering Program, Georgia Institute of Technology, Atlanta, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Giblin J"
+          ],
+          "firstName": [
+            "John"
+          ],
+          "lastName": [
+            "Giblin"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology and Emory University, Atlanta, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao Y"
+          ],
+          "firstName": [
+            "Yiran"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology and Emory University, Atlanta, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lu H"
+          ],
+          "firstName": [
+            "Hang"
+          ],
+          "lastName": [
+            "Lu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Interdisciplinary Bioengineering Program, Georgia Institute of Technology, Atlanta, USA. hang.lu@gatech.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2787935"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "5182"
+  ],
+  "abstractText": [
+    "Animals must integrate the activity of multiple mechanoreceptors to navigate complex environments. In Caenorhabditis elegans, the general roles of the mechanosensory neurons have been defined, but most studies involve end-point or single-time-point measurements, and thus lack dynamic information. Here, we formulate a set of unbiased quantitative characterizations of the mechanosensory system by using reverse correlation analysis on behavior. We use a custom tracking, selective illumination, and optogenetics platform to compare two mechanosensory systems: the gentle-touch (TRNs) and harsh-touch (PVD) circuits. This method yields characteristic linear filters that allow for the prediction of behavioral responses. The resulting filters are consistent with previous findings and further provide new insights on the dynamics and spatial encoding of the systems. Our results suggest that the tiled network of the gentle-touch neurons has better resolution for spatial encoding than the harsh-touch neurons. Additionally, linear-nonlinear models can predict behavioral responses based only on sensory neuron activity. Our results capture the overall dynamics of behavior induced by the activation of sensory neurons, providing simple transformations that quantitatively characterize these systems. Furthermore, this platform can be extended to capture the behavioral dynamics induced by any neuron or other excitable cells in the animal."
+  ],
+  "affiliation": [
+    "Interdisciplinary Bioengineering Program, Georgia Institute of Technology, Atlanta, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 GM088333"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R21 EB021676"
+          ],
+          "agency": [
+            "NIBIB NIH HHS"
+          ],
+          "acronym": [
+            "EB"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R21 EB020424"
+          ],
+          "agency": [
+            "NIBIB NIH HHS"
+          ],
+          "acronym": [
+            "EB"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 NS096581"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6435754?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6435754"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-41349-0"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR17189"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-03-28"
+  ],
+  "firstIndexDate": [
+    "2019-03-28"
+  ],
+  "dateOfRevision": [
+    "2019-04-06"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-26"
+  ],
+  "firstPublicationDate": [
+    "2019-03-26"
+  ]
+}

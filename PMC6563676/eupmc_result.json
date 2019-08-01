@@ -1,0 +1,302 @@
+{
+  "id": [
+    "31244670"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31244670"
+  ],
+  "pmcid": [
+    "PMC6563676"
+  ],
+  "doi": [
+    "10.3389/fphys.2019.00675"
+  ],
+  "title": [
+    "Optogenetic Termination of Cardiac Arrhythmia: Mechanistic Enlightenment and Therapeutic Application?"
+  ],
+  "authorString": [
+    "Sasse P, Funken M, Beiert T, Bruegmann T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sasse P"
+          ],
+          "firstName": [
+            "Philipp"
+          ],
+          "lastName": [
+            "Sasse"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Institute of Physiology I, Medical Faculty, University of Bonn, Bonn, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Funken M"
+          ],
+          "firstName": [
+            "Maximilian"
+          ],
+          "lastName": [
+            "Funken"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Institute of Physiology I, Medical Faculty, University of Bonn, Bonn, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Beiert T"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "Beiert"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Internal Medicine II, University Hospital Bonn, University of Bonn, Bonn, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Bruegmann T"
+          ],
+          "firstName": [
+            "Tobias"
+          ],
+          "lastName": [
+            "Bruegmann"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Institute of Physiology I, Medical Faculty, University of Bonn, Bonn, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2777617"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in physiology"
+          ],
+          "ISOAbbreviation": [
+            "Front Physiol"
+          ],
+          "medlineAbbreviation": [
+            "Front Physiol"
+          ],
+          "NLMid": [
+            "101549006"
+          ],
+          "ISSN": [
+            "1664-042X"
+          ],
+          "ESSN": [
+            "1664-042X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "675"
+  ],
+  "abstractText": [
+    "Optogenetic methods enable selective de- and hyperpolarization of cardiomyocytes expressing light-sensitive proteins within the myocardium. By using light, this technology provides very high spatial and temporal precision, which is in clear contrast to electrical stimulation. In addition, cardiomyocyte-specific expression would allow pain-free stimulation. In light of these intrinsic technical advantages, optogenetic methods provide an intriguing opportunity to understand and improve current strategies to terminate cardiac arrhythmia as well as for possible pain-free arrhythmia termination in patients in the future. In this review, we give a concise introduction to optogenetic stimulation of cardiomyocytes and the whole heart and summarize the recent progress on optogenetic defibrillation and cardioversion to terminate cardiac arrhythmia. Toward this aim, we specifically focus on the different mechanisms of optogenetic arrhythmia termination and how these might influence the prerequisites for success. Furthermore, we critically discuss the clinical perspectives and potential patient populations, which might benefit from optogenetic defibrillation devices."
+  ],
+  "affiliation": [
+    "Institute of Physiology I, Medical Faculty, University of Bonn, Bonn, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Atrial fibrillation",
+        "Ventricular tachycardia",
+        "Ventricular fibrillation",
+        "ventricular arrhythmia",
+        "Defibrillation",
+        "Implantable Cardioverter Defibrillator",
+        "Cardioversion",
+        "Optogenetics"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6563676?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6563676"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fphys.2019.00675"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-28"
+  ],
+  "firstIndexDate": [
+    "2019-06-28"
+  ],
+  "dateOfRevision": [
+    "2019-06-30"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-06"
+  ],
+  "firstPublicationDate": [
+    "2019-06-06"
+  ]
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6586873/results/search/funders/results.xml">
+  <result pre="9924 grid.32224.35 Department of Neurology, MassGeneral Institute of Neurodegenerative Diseases," exact="Massachusetts General Hospital" post="and Harvard Medical School, epub: 2019-6-6 pmc-release: 2019-6-6 collection:"/>
+  <result pre="Neurology, MassGeneral Institute of Neurodegenerative Diseases, Massachusetts General Hospital and" exact="Harvard Medical School," post="epub: 2019-6-6 pmc-release: 2019-6-6 collection: 2019 9 8964 received:"/>
+  <result pre="neuronal dysfunction. Subject terms Neural circuits Alzheimer's disease Funding https://doi.org/10.13039/100006312" exact="BrightFocus Foundation" post="(BrightFocus) Funding https://doi.org/10.13039/100000002 U.S. Department of Health &amp;amp; Human"/>
+  <result pre="Alzheimer's disease Funding https://doi.org/10.13039/100006312 BrightFocus Foundation (BrightFocus) Funding https://doi.org/10.13039/100000002 U.S." exact="Department of Health" post="&amp;amp; Human Services | National Institutes of Health (NIH)"/>
+  <result pre="Funding https://doi.org/10.13039/100000002 U.S. Department of Health &amp;amp; Human Services |" exact="National Institutes of Health" post="(NIH) Introduction Disruptions in neuronal activity patterns have been"/>
+  <result pre="3–9 months of age unless specified otherwise. The studies followed" exact="Massachusetts General Hospital" post="(MGH) Animal Care and Use Committee and NIH guidelines"/>
+  <result pre="to the donors of Alzheimer’s Disease Research, a program of" exact="BrightFocus Foundation," post="and NIH EB00768 for support of this research. Special"/>
+  <result pre="40-Hz oscillation characterizes dream state in humans Proceedings of the" exact="National Academy of Sciences" post="1993 90 5 2078 2081 10.1073/pnas.90.5.2078 7. Chen JY"/>
+ </snippets>
+</snippetsTree>

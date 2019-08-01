@@ -1,0 +1,488 @@
+{
+  "id": [
+    "31133660"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31133660"
+  ],
+  "pmcid": [
+    "PMC6536681"
+  ],
+  "doi": [
+    "10.1038/s41598-019-44308-x"
+  ],
+  "title": [
+    "Quantitation of the neural silencing activity of anion channelrhodopsins in Caenorhabditis elegans and their applicability for long-term illumination."
+  ],
+  "authorString": [
+    "Yamanashi T, Maki M, Kojima K, Shibukawa A, Tsukamoto T, Chowdhury S, Yamanaka A, Takagi S, Sudo Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yamanashi T"
+          ],
+          "firstName": [
+            "Taro"
+          ],
+          "lastName": [
+            "Yamanashi"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Graduate School of Medicine, Dentistry and Pharmaceutical Sciences, Okayama University, Okayama, 700-8530, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Maki M"
+          ],
+          "firstName": [
+            "Misayo"
+          ],
+          "lastName": [
+            "Maki"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Graduate School of Medicine, Dentistry and Pharmaceutical Sciences, Okayama University, Okayama, 700-8530, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kojima K"
+          ],
+          "firstName": [
+            "Keiichi"
+          ],
+          "lastName": [
+            "Kojima"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Graduate School of Medicine, Dentistry and Pharmaceutical Sciences, Okayama University, Okayama, 700-8530, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Shibukawa A"
+          ],
+          "firstName": [
+            "Atsushi"
+          ],
+          "lastName": [
+            "Shibukawa"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Graduate School of Medicine, Dentistry and Pharmaceutical Sciences, Okayama University, Okayama, 700-8530, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Tsukamoto T"
+          ],
+          "firstName": [
+            "Takashi"
+          ],
+          "lastName": [
+            "Tsukamoto"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6348-6664",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Graduate School of Medicine, Dentistry and Pharmaceutical Sciences, Okayama University, Okayama, 700-8530, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Chowdhury S"
+          ],
+          "firstName": [
+            "Srikanta"
+          ],
+          "lastName": [
+            "Chowdhury"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2216-5960",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neuroscience II, Research Institute of Environmental Medicine, Nagoya University, Nagoya, 464-8601, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Yamanaka A"
+          ],
+          "firstName": [
+            "Akihiro"
+          ],
+          "lastName": [
+            "Yamanaka"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Neuroscience II, Research Institute of Environmental Medicine, Nagoya University, Nagoya, 464-8601, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Takagi S"
+          ],
+          "firstName": [
+            "Shin"
+          ],
+          "lastName": [
+            "Takagi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Division of Biological Science, Graduate School of Science, Nagoya University, Nagoya, 464-8602, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Sudo Y"
+          ],
+          "firstName": [
+            "Yuki"
+          ],
+          "lastName": [
+            "Sudo"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Graduate School of Medicine, Dentistry and Pharmaceutical Sciences, Okayama University, Okayama, 700-8530, Japan. sudo@okayama-u.ac.jp."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6348-6664",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2216-5960",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2810580"
+      ],
+      "dateOfPublication": [
+        "2019 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "7863"
+  ],
+  "abstractText": [
+    "Ion pumps and channels are responsible for a wide variety of biological functions. Ion pumps transport only one ion during each stimulus-dependent reaction cycle, whereas ion channels conduct a large number of ions during each cycle. Ion pumping rhodopsins such as archaerhodopsin-3 (Arch) are often utilized as light-dependent neural silencers in animals, but they require a high-density light illumination of around 1 mW/mm2. Recently, anion channelrhodopsins -1 and -2 (GtACR1 and GtACR2) were discovered as light-gated anion channels from the cryptophyte algae Guillardia theta. GtACRs are therefore expected to silence neural activity much more efficiently than Arch. In this study, we successfully expressed GtACRs in neurons of the nematode Caenorhabditis elegans (C. elegans) and quantitatively evaluated how potently GtACRs can silence neurons in freely moving C. elegans. The results showed that the light intensity required for GtACRs to cause locomotion paralysis was around 1 µW/mm2, which is three orders of magnitude smaller than the light intensity required for Arch. As attractive features, GtACRs are less harmfulness to worms and allow stable neural silencing effects under long-term illumination. Our findings thus demonstrate that GtACRs possess a hypersensitive neural silencing activity in C. elegans and are promising tools for long-term neural silencing."
+  ],
+  "affiliation": [
+    "Graduate School of Medicine, Dentistry and Pharmaceutical Sciences, Okayama University, Okayama, 700-8530, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "17933570"
+          ],
+          "agency": [
+            "Japan Agency for Medical Research and Development (AMED)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "JP15H04363, JP15H00878, JP25104005 and JP17H05726"
+          ],
+          "agency": [
+            "MEXT | Japan Society for the Promotion of Science (JSPS)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "JPMJCR1656"
+          ],
+          "agency": [
+            "MEXT | JST | Core Research for Evolutional Science and Technology (CREST)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "JP18H02523"
+          ],
+          "agency": [
+            "MEXT | Japan Society for the Promotion of Science (JSPS)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "JP18H06051"
+          ],
+          "agency": [
+            "MEXT | Japan Society for the Promotion of Science (JSPS)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "JP15K18519"
+          ],
+          "agency": [
+            "MEXT | Japan Society for the Promotion of Science (JSPS)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6536681?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6536681"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-44308-x"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "gen"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-05-29"
+  ],
+  "firstIndexDate": [
+    "2019-05-29"
+  ],
+  "dateOfRevision": [
+    "2019-06-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-27"
+  ],
+  "firstPublicationDate": [
+    "2019-05-27"
+  ]
+}

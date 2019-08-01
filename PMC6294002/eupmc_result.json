@@ -1,0 +1,554 @@
+{
+  "id": [
+    "30546051"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30546051"
+  ],
+  "pmcid": [
+    "PMC6294002"
+  ],
+  "doi": [
+    "10.1038/s41467-018-07721-w"
+  ],
+  "title": [
+    "Closed-loop functional optogenetic stimulation."
+  ],
+  "authorString": [
+    "Srinivasan SS, Maimon BE, Diaz M, Song H, Herr HM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Srinivasan SS"
+          ],
+          "firstName": [
+            "Shriya S"
+          ],
+          "lastName": [
+            "Srinivasan"
+          ],
+          "initials": [
+            "SS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2508-1324",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "MIT Media Lab, Center for Extreme Bionics, Massachusetts Institute of Technology, Cambridge, 02139, MA, USA. shriyas@mit.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Maimon BE"
+          ],
+          "firstName": [
+            "Benjamin E"
+          ],
+          "lastName": [
+            "Maimon"
+          ],
+          "initials": [
+            "BE"
+          ],
+          "affiliation": [
+            "MIT Media Lab, Center for Extreme Bionics, Massachusetts Institute of Technology, Cambridge, 02139, MA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Diaz M"
+          ],
+          "firstName": [
+            "Maurizio"
+          ],
+          "lastName": [
+            "Diaz"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "MIT Media Lab, Center for Extreme Bionics, Massachusetts Institute of Technology, Cambridge, 02139, MA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Song H"
+          ],
+          "firstName": [
+            "Hyungeun"
+          ],
+          "lastName": [
+            "Song"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "MIT Media Lab, Center for Extreme Bionics, Massachusetts Institute of Technology, Cambridge, 02139, MA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Herr HM"
+          ],
+          "firstName": [
+            "Hugh M"
+          ],
+          "lastName": [
+            "Herr"
+          ],
+          "initials": [
+            "HM"
+          ],
+          "affiliation": [
+            "MIT Media Lab, Center for Extreme Bionics, Massachusetts Institute of Technology, Cambridge, 02139, MA, USA. hherr@media.mit.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2508-1324",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2756345"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "5303"
+  ],
+  "abstractText": [
+    "Optogenetics has been used to orchestrate temporal- and tissue-specific control of neural tissues and offers a wealth of unique advantages for neuromuscular control. Here, we establish a closed-loop functional optogenetic stimulation (CL-FOS) system to control ankle joint position in murine models. Using the measurement of either joint angle or fascicle length as a feedback signal, we compare the controllability of CL-FOS to closed-loop functional electrical stimulation (CL-FES) and demonstrate significantly greater accuracy, lower rise times and lower overshoot percentages. We demonstrate orderly recruitment of motor units and reduced fatigue when performing cyclical movements with CL-FOS compared with CL-FES. We develop and investigate a 3-phase, photo-kinetic model to elucidate the underlying mechanisms for temporal variations in optogenetically activated neuromusculature during closed-loop control experiments. Methods and insights from this study lay the groundwork for the development of closed-loop optogenetic neuromuscular stimulation therapies and devices for peripheral limb control."
+  ],
+  "affiliation": [
+    "MIT Media Lab, Center for Extreme Bionics, Massachusetts Institute of Technology, Cambridge, 02139, MA, USA. shriyas@mit.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Muscle, Skeletal"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IR"
+                  ],
+                  "qualifierName": [
+                    "innervation"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ankle Joint"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IR"
+                  ],
+                  "qualifierName": [
+                    "innervation"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Peripheral Nervous System"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rats, Inbred F344"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice, Transgenic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rats"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Electric Stimulation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Movement"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Feedback"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Optogenetics"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6294002?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6294002"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-018-07721-w"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-01-22"
+  ],
+  "dateOfCreation": [
+    "2018-12-15"
+  ],
+  "firstIndexDate": [
+    "2018-12-21"
+  ],
+  "dateOfRevision": [
+    "2019-01-22"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-13"
+  ],
+  "firstPublicationDate": [
+    "2018-12-13"
+  ]
+}

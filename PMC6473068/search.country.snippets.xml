@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6473068/results/search/country/results.xml">
+  <result pre="Blue Brain Project, Ecole Polytechnique Fédérale de Lausanne (EPFL) Geneva" exact="Switzerland" post="Edited by: Robert C. Froemke, New York University, United"/>
+  <result pre="Geneva Switzerland Edited by: Robert C. Froemke, New York University," exact="United States" post="Reviewed by: Heiko J. Luhmann, Johannes Gutenberg University Mainz,"/>
+  <result pre="Johannes Gutenberg University Mainz, Germany; Gilad Silberberg, Karolinska Institute (KI)," exact="Sweden" post="*Correspondence: Cristina Colangelo cristina.colangelo@epfl.ch Srikanth Ramaswamy srikanth.ramaswamy@epfl.ch epub: 2019-4-4"/>
+ </snippets>
+</snippetsTree>

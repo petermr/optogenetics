@@ -1,0 +1,546 @@
+{
+  "id": [
+    "31097625"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31097625"
+  ],
+  "pmcid": [
+    "PMC6565376"
+  ],
+  "doi": [
+    "10.1523/ENEURO.0066-19.2019"
+  ],
+  "title": [
+    "The NeuroD6 Subtype of VTA Neurons Contributes to Psychostimulant Sensitization and Behavioral Reinforcement."
+  ],
+  "authorString": [
+    "Bimpisidis Z, König N, Stagkourakis S, Zell V, Vlcek B, Dumas S, Giros B, Broberger C, Hnasko TS, Wallén-Mackenzie Å."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bimpisidis Z"
+          ],
+          "firstName": [
+            "Zisis"
+          ],
+          "lastName": [
+            "Bimpisidis"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8819-7957",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Organismal Biology, Uppsala University, 75236 Uppsala, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "König N"
+          ],
+          "firstName": [
+            "Niclas"
+          ],
+          "lastName": [
+            "König"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Organismal Biology, Uppsala University, 75236 Uppsala, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Stagkourakis S"
+          ],
+          "firstName": [
+            "Stefanos"
+          ],
+          "lastName": [
+            "Stagkourakis"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1218-791X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Karolinska Institutet, 17177 Stockholm, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Zell V"
+          ],
+          "firstName": [
+            "Vivien"
+          ],
+          "lastName": [
+            "Zell"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Department of Neurosciences, University of California, San Diego, La Jolla, CA."
+          ]
+        },
+        {
+          "fullName": [
+            "Vlcek B"
+          ],
+          "firstName": [
+            "Bianca"
+          ],
+          "lastName": [
+            "Vlcek"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5442-2303",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Organismal Biology, Uppsala University, 75236 Uppsala, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Dumas S"
+          ],
+          "firstName": [
+            "Sylvie"
+          ],
+          "lastName": [
+            "Dumas"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Oramacell, 8 Rue Grégoire de Tours, 75006 Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Giros B"
+          ],
+          "firstName": [
+            "Bruno"
+          ],
+          "lastName": [
+            "Giros"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5876-9822",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institut National de la Santé et de la Recherche Médicale, INSERM UMRS 1130; Centre National de la Recherche Scientifique, Unité Mixte de Recherche 8246; Sorbonne University Université Pierre-et-Marie-Curie, Neurosciences Paris-Seine, F-75005, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Broberger C"
+          ],
+          "firstName": [
+            "Christian"
+          ],
+          "lastName": [
+            "Broberger"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7050-8809",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Karolinska Institutet, 17177 Stockholm, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Hnasko TS"
+          ],
+          "firstName": [
+            "Thomas S"
+          ],
+          "lastName": [
+            "Hnasko"
+          ],
+          "initials": [
+            "TS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6176-8513",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neurosciences, University of California, San Diego, La Jolla, CA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wallén-Mackenzie Å"
+          ],
+          "firstName": [
+            "Åsa"
+          ],
+          "lastName": [
+            "Wallén-Mackenzie"
+          ],
+          "initials": [
+            "Å"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8713-070X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Organismal Biology, Uppsala University, 75236 Uppsala, Sweden asa.mackenzie@ebc.uu.se."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6176-8513",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8819-7957",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1218-791X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7050-8809",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5876-9822",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8713-070X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5442-2303",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2818345"
+      ],
+      "dateOfPublication": [
+        "2019 May/Jun"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "eNeuro"
+          ],
+          "ISOAbbreviation": [
+            "eNeuro"
+          ],
+          "medlineAbbreviation": [
+            "eNeuro"
+          ],
+          "NLMid": [
+            "101647362"
+          ],
+          "ISSN": [
+            "2373-2822"
+          ],
+          "ESSN": [
+            "2373-2822"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Reward-related behavior is complex and its dysfunction correlated with neuropsychiatric illness. Dopamine (DA) neurons of the ventral tegmental area (VTA) have long been associated with different aspects of reward function, but it remains to be disentangled how distinct VTA DA neurons contribute to the full range of behaviors ascribed to the VTA. Here, a recently identified subtype of VTA neurons molecularly defined by NeuroD6 (NEX1M) was addressed. Among all VTA DA neurons, less than 15% were identified as positive for NeuroD6. In addition to dopaminergic markers, sparse NeuroD6 neurons expressed the vesicular glutamate transporter 2 (Vglut2) gene. To achieve manipulation of NeuroD6 VTA neurons, NeuroD6(NEX)-Cre-driven mouse genetics and optogenetics were implemented. First, expression of vesicular monoamine transporter 2 (VMAT2) was ablated to disrupt dopaminergic function in NeuroD6 VTA neurons. Comparing Vmat2lox/lox;NEX-Cre conditional knock-out (cKO) mice with littermate controls, it was evident that baseline locomotion, preference for sugar and ethanol, and place preference upon amphetamine-induced and cocaine-induced conditioning were similar between genotypes. However, locomotion upon repeated psychostimulant administration was significantly elevated above control levels in cKO mice. Second, optogenetic activation of NEX-Cre VTA neurons was shown to induce DA release and glutamatergic postsynaptic currents within the nucleus accumbens. Third, optogenetic stimulation of NEX-Cre VTA neurons in vivo induced significant place preference behavior, while stimulation of VTA neurons defined by Calretinin failed to cause a similar response. The results show that NeuroD6 VTA neurons exert distinct regulation over specific aspects of reward-related behavior, findings that contribute to the current understanding of VTA neurocircuitry."
+  ],
+  "affiliation": [
+    "Department of Organismal Biology, Uppsala University, 75236 Uppsala, Sweden."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 DA036612"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "I01 BX003759"
+          ],
+          "agency": [
+            "BLRD VA"
+          ],
+          "acronym": [
+            "BX"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Dopamine",
+        "Ventral tegmental area",
+        "Reward",
+        "Optogenetics",
+        "Mouse Genetics",
+        "Accumbens"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6565376?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6565376"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1523/ENEURO.0066-19.2019"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refseq"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-05-18"
+  ],
+  "firstIndexDate": [
+    "2019-05-18"
+  ],
+  "dateOfRevision": [
+    "2019-06-26"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-12"
+  ],
+  "firstPublicationDate": [
+    "2019-05-01"
+  ]
+}

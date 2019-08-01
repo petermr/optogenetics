@@ -1,0 +1,717 @@
+{
+  "id": [
+    "30279442"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30279442"
+  ],
+  "pmcid": [
+    "PMC6168510"
+  ],
+  "doi": [
+    "10.1038/s41467-018-06531-4"
+  ],
+  "title": [
+    "Computational design of chemogenetic and optogenetic split proteins."
+  ],
+  "authorString": [
+    "Dagliyan O, Krokhotin A, Ozkan-Dagliyan I, Deiters A, Der CJ, Hahn KM, Dokholyan NV."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Dagliyan O"
+          ],
+          "firstName": [
+            "Onur"
+          ],
+          "lastName": [
+            "Dagliyan"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1825-1011",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biochemistry and Biophysics, University of North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Krokhotin A"
+          ],
+          "firstName": [
+            "Andrey"
+          ],
+          "lastName": [
+            "Krokhotin"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Biochemistry and Biophysics, University of North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ozkan-Dagliyan I"
+          ],
+          "firstName": [
+            "Irem"
+          ],
+          "lastName": [
+            "Ozkan-Dagliyan"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Department of Pharmacology, University of North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Deiters A"
+          ],
+          "firstName": [
+            "Alexander"
+          ],
+          "lastName": [
+            "Deiters"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0234-9209",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Chemistry, University of Pittsburgh, Pittsburgh, PA, 15260, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Der CJ"
+          ],
+          "firstName": [
+            "Channing J"
+          ],
+          "lastName": [
+            "Der"
+          ],
+          "initials": [
+            "CJ"
+          ],
+          "affiliation": [
+            "Department of Pharmacology, University of North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hahn KM"
+          ],
+          "firstName": [
+            "Klaus M"
+          ],
+          "lastName": [
+            "Hahn"
+          ],
+          "initials": [
+            "KM"
+          ],
+          "affiliation": [
+            "Department of Pharmacology, University of North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA. khahn@med.unc.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Dokholyan NV"
+          ],
+          "firstName": [
+            "Nikolay V"
+          ],
+          "lastName": [
+            "Dokholyan"
+          ],
+          "initials": [
+            "NV"
+          ],
+          "affiliation": [
+            "Department of Biochemistry and Biophysics, University of North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA. dokh@psu.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1825-1011",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0234-9209",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2732876"
+      ],
+      "dateOfPublication": [
+        "2018 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "4042"
+  ],
+  "abstractText": [
+    "Controlling protein activity with chemogenetics and optogenetics has proven to be powerful for testing hypotheses regarding protein function in rapid biological processes. Controlling proteins by splitting them and then rescuing their activity through inducible reassembly offers great potential to control diverse protein activities. Building split proteins has been difficult due to spontaneous assembly, difficulty in identifying appropriate split sites, and inefficient induction of effective reassembly. Here we present an automated approach to design effective split proteins regulated by a ligand or by light (SPELL). We develop a scoring function together with an engineered domain to enable reassembly of protein halves with high efficiency and with reduced spontaneous assembly. We demonstrate SPELL by applying it to proteins of various shapes and sizes in living cells. The SPELL server (spell.dokhlab.org) offers an automated prediction of split sites."
+  ],
+  "affiliation": [
+    "Department of Biochemistry and Biophysics, University of North Carolina at Chapel Hill, Chapel Hill, NC, 27599, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Evaluation Studies",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "P41 EB002025"
+          ],
+          "agency": [
+            "NIBIB NIH HHS"
+          ],
+          "acronym": [
+            "EB"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 CA175747"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R35 GM122596"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 GM114015"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 GM123247"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 GM064803"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tacrolimus Binding Protein 1A"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "src-Family Kinases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Guanine Nucleotide Dissociation Inhibitors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Protein Engineering"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Algorithms"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Automation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Proto-Oncogene Proteins c-vav"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Optogenetics"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "GDP dissociation inhibitor 1"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Guanine Nucleotide Dissociation Inhibitors"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Tacrolimus Binding Protein 1A"
+          ],
+          "registryNumber": [
+            "EC 5.2.1.-"
+          ]
+        },
+        {
+          "name": [
+            "Proto-Oncogene Proteins c-vav"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "src-Family Kinases"
+          ],
+          "registryNumber": [
+            "EC 2.7.10.2"
+          ]
+        },
+        {
+          "name": [
+            "lyn protein-tyrosine kinase"
+          ],
+          "registryNumber": [
+            "EC 2.7.10.2"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6168510?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6168510"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-018-06531-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "30504879"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Nat Methods. 2018 Dec;15(12):1001"
+          ],
+          "type": [
+            "Comment in"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-01-22"
+  ],
+  "dateOfCreation": [
+    "2018-10-04"
+  ],
+  "firstIndexDate": [
+    "2018-10-04"
+  ],
+  "dateOfRevision": [
+    "2019-01-22"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-02"
+  ],
+  "firstPublicationDate": [
+    "2018-10-02"
+  ]
+}

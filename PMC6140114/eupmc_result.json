@@ -1,0 +1,760 @@
+{
+  "id": [
+    "30225352"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30225352"
+  ],
+  "pmcid": [
+    "PMC6140114"
+  ],
+  "doi": [
+    "10.1523/ENEURO.0270-18.2018"
+  ],
+  "title": [
+    "Discharge and Role of Acetylcholine Pontomesencephalic Neurons in Cortical Activity and Sleep-Wake States Examined by Optogenetics and Juxtacellular Recording in Mice."
+  ],
+  "authorString": [
+    "Cissé Y, Toossi H, Ishibashi M, Mainville L, Leonard CS, Adamantidis A, Jones BE."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cissé Y"
+          ],
+          "firstName": [
+            "Youssouf"
+          ],
+          "lastName": [
+            "Cissé"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Neurology and Neurosurgery, Montreal Neurological Institute, McGill University, Montreal, Quebec H3A 2B4, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Toossi H"
+          ],
+          "firstName": [
+            "Hanieh"
+          ],
+          "lastName": [
+            "Toossi"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Neurology and Neurosurgery, Montreal Neurological Institute, McGill University, Montreal, Quebec H3A 2B4, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Ishibashi M"
+          ],
+          "firstName": [
+            "Masaru"
+          ],
+          "lastName": [
+            "Ishibashi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7413-1359",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Physiology, New York Medical College, Valhalla, NY 10595."
+          ]
+        },
+        {
+          "fullName": [
+            "Mainville L"
+          ],
+          "firstName": [
+            "Lynda"
+          ],
+          "lastName": [
+            "Mainville"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Neurology and Neurosurgery, Montreal Neurological Institute, McGill University, Montreal, Quebec H3A 2B4, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Leonard CS"
+          ],
+          "firstName": [
+            "Christopher S"
+          ],
+          "lastName": [
+            "Leonard"
+          ],
+          "initials": [
+            "CS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4414-1748",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Physiology, New York Medical College, Valhalla, NY 10595."
+          ]
+        },
+        {
+          "fullName": [
+            "Adamantidis A"
+          ],
+          "firstName": [
+            "Antoine"
+          ],
+          "lastName": [
+            "Adamantidis"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2531-5175",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biomedical Research and Department of Neurology, Zentrum Für Experimentelle Neurologie, Inselspital University Hospital Bern, University of Bern, Bern, CH-3010, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Jones BE"
+          ],
+          "firstName": [
+            "Barbara E"
+          ],
+          "lastName": [
+            "Jones"
+          ],
+          "initials": [
+            "BE"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9985-3860",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neurology and Neurosurgery, Montreal Neurological Institute, McGill University, Montreal, Quebec H3A 2B4, Canada."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7413-1359",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4414-1748",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2531-5175",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9985-3860",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2712660"
+      ],
+      "dateOfPublication": [
+        "2018 Jul-Aug"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "eNeuro"
+          ],
+          "ISOAbbreviation": [
+            "eNeuro"
+          ],
+          "medlineAbbreviation": [
+            "eNeuro"
+          ],
+          "NLMid": [
+            "101647362"
+          ],
+          "ISSN": [
+            "2373-2822"
+          ],
+          "ESSN": [
+            "2373-2822"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Acetylcholine (ACh) neurons in the pontomesencephalic tegmentum (PMT) are thought to play an important role in promoting cortical activation with waking (W) and paradoxical sleep [PS; or rapid eye movement (REM)], but have yet to be proven to do so by selective stimulation and simultaneous recording of identified ACh neurons. Here, we employed optogenetics combined with juxtacellular recording and labeling of neurons in transgenic (TG) mice expressing ChR2 in choline acetyltransferase (ChAT)-synthesizing neurons. We established in vitro then in vivo in anesthetized (A) and unanesthetized (UA), head-fixed mice that photostimulation elicited a spike with short latency in neurons which could be identified by immunohistochemical staining as ACh neurons within the laterodorsal (LDT)/sublaterodorsal (SubLDT) and pedunculopontine tegmental (PPT) nuclei. Continuous light pulse stimulation during sleep evoked tonic spiking by ACh neurons that elicited a shift from irregular slow wave activity to rhythmic θ and enhanced γ activity on the cortex without behavioral arousal. With θ frequency rhythmic light pulse stimulation, ACh neurons discharged in bursts that occurred in synchrony with evoked cortical θ. During natural sleep-wake states, they were virtually silent during slow wave sleep (SWS), discharged in bursts during PS and discharged tonically during W. Yet, their bursting during PS was not rhythmic or synchronized with cortical θ but associated with phasic whisker movements. We conclude that ACh PMT neurons promote θ and γ cortical activity during W and PS by their tonic or phasic discharge through release of ACh onto local neurons within the PMT and/or more distant targets in the hypothalamus and thalamus."
+  ],
+  "affiliation": [
+    "Department of Neurology and Neurosurgery, Montreal Neurological Institute, McGill University, Montreal, Quebec H3A 2B4, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "MOP130502 "
+          ],
+          "agency": [
+            "CIHR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 NS027881"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "MOP246264 "
+          ],
+          "agency": [
+            "CIHR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tegmentum Mesencephali"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice, Inbred C57BL"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice, Transgenic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Theta Rhythm"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cytological Techniques"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Wakefulness"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sleep, REM"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Action Potentials"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cholinergic Neurons"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Optogenetics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gamma Rhythm"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sleep, Slow-Wave"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Slow Wave Sleep",
+        "Rem Sleep",
+        "Paradoxical Sleep",
+        "Waking",
+        "Γ",
+        "Θ"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6140114?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6140114"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1523/ENEURO.0270-18.2018"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-03-08"
+  ],
+  "dateOfCreation": [
+    "2018-09-19"
+  ],
+  "firstIndexDate": [
+    "2018-09-19"
+  ],
+  "dateOfRevision": [
+    "2019-03-08"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-13"
+  ],
+  "firstPublicationDate": [
+    "2018-07-01"
+  ]
+}

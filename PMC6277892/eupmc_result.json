@@ -1,0 +1,299 @@
+{
+  "id": [
+    "30542292"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30542292"
+  ],
+  "pmcid": [
+    "PMC6277892"
+  ],
+  "doi": [
+    "10.3389/fphys.2018.01651"
+  ],
+  "title": [
+    "Energy-Reduced Arrhythmia Termination Using Global Photostimulation in Optogenetic Murine Hearts."
+  ],
+  "authorString": [
+    "Quiñonez Uribe RA, Luther S, Diaz-Maue L, Richter C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Quiñonez Uribe RA"
+          ],
+          "firstName": [
+            "Raúl A"
+          ],
+          "lastName": [
+            "Quiñonez Uribe"
+          ],
+          "initials": [
+            "RA"
+          ],
+          "affiliation": [
+            "RG Biomedical Physics, Max Planck Institute for Dynamics and Self-Organization, Göttingen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Luther S"
+          ],
+          "firstName": [
+            "Stefan"
+          ],
+          "lastName": [
+            "Luther"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "RG Biomedical Physics, Max Planck Institute for Dynamics and Self-Organization, Göttingen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Diaz-Maue L"
+          ],
+          "firstName": [
+            "Laura"
+          ],
+          "lastName": [
+            "Diaz-Maue"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "RG Biomedical Physics, Max Planck Institute for Dynamics and Self-Organization, Göttingen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Richter C"
+          ],
+          "firstName": [
+            "Claudia"
+          ],
+          "lastName": [
+            "Richter"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "RG Biomedical Physics, Max Planck Institute for Dynamics and Self-Organization, Göttingen, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2644114"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in physiology"
+          ],
+          "ISOAbbreviation": [
+            "Front Physiol"
+          ],
+          "medlineAbbreviation": [
+            "Front Physiol"
+          ],
+          "NLMid": [
+            "101549006"
+          ],
+          "ISSN": [
+            "1664-042X"
+          ],
+          "ESSN": [
+            "1664-042X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "1651"
+  ],
+  "abstractText": [
+    "Complex spatiotemporal non-linearity as observed during cardiac arrhythmia strongly correlates with vortex-like excitation wavelengths and tissue characteristics. Therefore, the control of arrhythmic patterns requires fundamental understanding of dependencies between onset and perpetuation of arrhythmia and substrate instabilities. Available treatments, such as drug application or high-energy electrical shocks, are discussed for potential side effects resulting in prognosis worsening due to the lack of specificity and spatiotemporal precision. In contrast, cardiac optogenetics relies on light sensitive ion channels stimulated to trigger excitation of cardiomyocytes solely making use of the inner cell mechanisms. This enables low-energy, non-damaging optical control of cardiac excitation with high resolution. Recently, the capability of optogenetic cardioversion was shown in Channelrhodopsin-2 (ChR2) transgenic mice. But these studies used mainly structured and local illumination for cardiac stimulation. In addition, since optogenetic and electrical stimulus work on different principles to control the electrical activity of cardiac tissue, a better understanding of the phenomena behind optogenetic cardioversion is still needed. The present study aims to investigate global illumination with regard to parameter characterization and its potential for cardioversion. Our results show that by tuning the light intensity without exceeding 1.10 mW mm-2, a single pulse in the range of 10-1,000 ms is sufficient to reliably reset the heart into sinus rhythm. The combination of our panoramic low-intensity photostimulation with optical mapping techniques visualized wave collision resulting in annihilation as well as propagation perturbations as mechanisms leading to optogenetic cardioversion, which seem to base on other processes than electrical defibrillation. This study contributes to the understanding of the roles played by epicardial illumination, pulse duration and light intensity in optogenetic cardioversion, which are the main variables influencing cardiac optogenetic control, highlighting the advantages and insights of global stimulation. Therefore, the presented results can be modules in the design of novel illumination technologies with specific energy requirements on the way toward tissue-protective defibrillation techniques."
+  ],
+  "affiliation": [
+    "RG Biomedical Physics, Max Planck Institute for Dynamics and Self-Organization, Göttingen, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cardiac Arrhythmia",
+        "Optogenetics",
+        "Channelrhodopsin-2",
+        "Photostimulation",
+        "Energy-reduced Defibrillation",
+        "Global Illumination"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6277892?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6277892"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fphys.2018.01651"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-14"
+  ],
+  "firstIndexDate": [
+    "2018-12-21"
+  ],
+  "dateOfRevision": [
+    "2018-12-17"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-27"
+  ],
+  "firstPublicationDate": [
+    "2018-11-27"
+  ]
+}

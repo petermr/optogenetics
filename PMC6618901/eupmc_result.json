@@ -1,0 +1,270 @@
+{
+  "id": [
+    "31333423"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31333423"
+  ],
+  "pmcid": [
+    "PMC6618901"
+  ],
+  "doi": [
+    "10.3389/fnint.2019.00018"
+  ],
+  "title": [
+    "Corpus Colossal: A Bibliometric Analysis of Neuroscience Abstracts and Impact Factor."
+  ],
+  "authorString": [
+    "Kenkel WM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kenkel WM"
+          ],
+          "firstName": [
+            "William M"
+          ],
+          "lastName": [
+            "Kenkel"
+          ],
+          "initials": [
+            "WM"
+          ],
+          "affiliation": [
+            "Neuroscience Institute, Georgia State University, Atlanta, GA, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2776215"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in integrative neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Integr Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Integr Neurosci"
+          ],
+          "NLMid": [
+            "101477950"
+          ],
+          "ISSN": [
+            "1662-5145"
+          ],
+          "ESSN": [
+            "1662-5145"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "18"
+  ],
+  "abstractText": [
+    "A field's priorities are reflected by the contents of its high-impact journals. Researchers in turn may choose to pursue research objectives based on what is believed to be most highly valued by their peers. However, these assessments of the field's priorities are often subjective, owing to a lack of formal quantification of high-impact journals' contents. By compiling a corpus of abstracts from within the field neuroscience, I was able to analyze which terms had differential frequencies between 13 high-impact and 14 medium-impact journals. Approximately 50,000 neuroscience abstracts were analyzed over the years 2014-2018. Several broad trends emerged from the analysis of which terms were biased toward high-impact journals. Generally speaking, high-impact journals tended to feature: genetic studies, use of the latest and most sophisticated methods, examinations of the orbitofrontal cortex or amygdala, and/or use of human or non-mammalian subjects. Medium-impact journals tended to feature motor or cardiovascular studies, use of older methods, examinations of caudal brain regions, and/or rats as subjects. This approach also allowed for the comparison of high-impact bias among: brain regions, methods, neurotransmitters, study species, and broad themes within neuroscience. A systematic approach to the contents of high-impact journals offers the field an objective view of itself."
+  ],
+  "affiliation": [
+    "Neuroscience Institute, Georgia State University, Atlanta, GA, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Systematic Review",
+        "systematic-review"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Brain",
+        "Neuroscience",
+        "Bibliometric",
+        "Information Science",
+        "Meta-research"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6618901?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6618901"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnint.2019.00018"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR66268"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-24"
+  ],
+  "firstIndexDate": [
+    "2019-07-27"
+  ],
+  "dateOfRevision": [
+    "2019-07-25"
+  ],
+  "electronicPublicationDate": [
+    "2019-07-03"
+  ],
+  "firstPublicationDate": [
+    "2019-07-03"
+  ]
+}

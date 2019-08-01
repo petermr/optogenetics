@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="country">
+ <result pre="* [], 1 Department of Bioengineering, Imperial College London London" exact="United Kingdom" post="[], 2 Department of Medicine, Imperial College London London"/>
+ <result pre="Kingdom [], 2 Department of Medicine, Imperial College London London" exact="United Kingdom" post="[], 3 Centre for Neurotechnology, Imperial College London London"/>
+ <result pre="Kingdom [], 3 Centre for Neurotechnology, Imperial College London London" exact="United Kingdom" post="[], 4 Institute for Systems Genomics, Stem Cell Institute,"/>
+ <result pre="for Systems Genomics, Stem Cell Institute, UConn Health Farmington, CT" exact="United States" post="[], 5 Department of Physics, Imperial College London London"/>
+ <result pre="States [], 5 Department of Physics, Imperial College London London" exact="United Kingdom" post="Edited and reviewed by: Josef Bischofberger, Universität Basel, Switzerland"/>
+ <result pre="United Kingdom Edited and reviewed by: Josef Bischofberger, Universität Basel," exact="Switzerland" post="*Correspondence: Thomas Knöpfel tknopfel@knopfel-lab.net This article was submitted to"/>
+</results>

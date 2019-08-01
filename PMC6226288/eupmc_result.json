@@ -1,0 +1,856 @@
+{
+  "id": [
+    "30320548"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30320548"
+  ],
+  "pmcid": [
+    "PMC6226288"
+  ],
+  "doi": [
+    "10.7554/eLife.40474"
+  ],
+  "title": [
+    "RalB directly triggers invasion downstream Ras by mobilizing the Wave complex."
+  ],
+  "authorString": [
+    "Zago G, Veith I, Singh MK, Fuhrmann L, De Beco S, Remorino A, Takaoka S, Palmeri M, Berger F, Brandon N, El Marjou A, Vincent-Salomon A, Camonis J, Coppey M, Parrini MC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zago G"
+          ],
+          "firstName": [
+            "Giulia"
+          ],
+          "lastName": [
+            "Zago"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8280-1589",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institut Curie, Centre de Recherche, Paris Sciences et Lettres Research University, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Veith I"
+          ],
+          "firstName": [
+            "Irina"
+          ],
+          "lastName": [
+            "Veith"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Institut Curie, Centre de Recherche, Paris Sciences et Lettres Research University, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Singh MK"
+          ],
+          "firstName": [
+            "Manish Kumar"
+          ],
+          "lastName": [
+            "Singh"
+          ],
+          "initials": [
+            "MK"
+          ],
+          "affiliation": [
+            "Institut Curie, Centre de Recherche, Paris Sciences et Lettres Research University, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Fuhrmann L"
+          ],
+          "firstName": [
+            "Laetitia"
+          ],
+          "lastName": [
+            "Fuhrmann"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Institut Curie, Centre de Recherche, Paris Sciences et Lettres Research University, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "De Beco S"
+          ],
+          "firstName": [
+            "Simon"
+          ],
+          "lastName": [
+            "De Beco"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Institut Curie, Centre de Recherche, Paris Sciences et Lettres Research University, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Remorino A"
+          ],
+          "firstName": [
+            "Amanda"
+          ],
+          "lastName": [
+            "Remorino"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institut Curie, Centre de Recherche, Paris Sciences et Lettres Research University, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Takaoka S"
+          ],
+          "firstName": [
+            "Saori"
+          ],
+          "lastName": [
+            "Takaoka"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Institut Curie, Centre de Recherche, Paris Sciences et Lettres Research University, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Palmeri M"
+          ],
+          "firstName": [
+            "Marjorie"
+          ],
+          "lastName": [
+            "Palmeri"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Institut Curie, Centre de Recherche, Paris Sciences et Lettres Research University, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Berger F"
+          ],
+          "firstName": [
+            "Frédérique"
+          ],
+          "lastName": [
+            "Berger"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3251-4060",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institut Curie, Centre de Recherche, Paris Sciences et Lettres Research University, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Brandon N"
+          ],
+          "firstName": [
+            "Nathalie"
+          ],
+          "lastName": [
+            "Brandon"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Institut Curie, Centre de Recherche, Paris Sciences et Lettres Research University, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "El Marjou A"
+          ],
+          "firstName": [
+            "Ahmed"
+          ],
+          "lastName": [
+            "El Marjou"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institut Curie, Centre de Recherche, Paris Sciences et Lettres Research University, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Vincent-Salomon A"
+          ],
+          "firstName": [
+            "Anne"
+          ],
+          "lastName": [
+            "Vincent-Salomon"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institut Curie, Centre de Recherche, Paris Sciences et Lettres Research University, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Camonis J"
+          ],
+          "firstName": [
+            "Jacques"
+          ],
+          "lastName": [
+            "Camonis"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Institut Curie, Centre de Recherche, Paris Sciences et Lettres Research University, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Coppey M"
+          ],
+          "firstName": [
+            "Mathieu"
+          ],
+          "lastName": [
+            "Coppey"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8924-3233",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institut Curie, Centre de Recherche, Paris Sciences et Lettres Research University, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Parrini MC"
+          ],
+          "firstName": [
+            "Maria Carla"
+          ],
+          "lastName": [
+            "Parrini"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7082-9792",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institut Curie, Centre de Recherche, Paris Sciences et Lettres Research University, Paris, France."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3251-4060",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8280-1589",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8924-3233",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7082-9792",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2732447"
+      ],
+      "dateOfPublication": [
+        "2018 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "eLife"
+          ],
+          "ISOAbbreviation": [
+            "Elife"
+          ],
+          "medlineAbbreviation": [
+            "Elife"
+          ],
+          "NLMid": [
+            "101579614"
+          ],
+          "ISSN": [
+            "2050-084X"
+          ],
+          "ESSN": [
+            "2050-084X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "The two Ral GTPases, RalA and RalB, have crucial roles downstream Ras oncoproteins in human cancers; in particular, RalB is involved in invasion and metastasis. However, therapies targeting Ral signalling are not available yet. By a novel optogenetic approach, we found that light-controlled activation of Ral at plasma-membrane promotes the recruitment of the Wave Regulatory Complex (WRC) via its effector exocyst, with consequent induction of protrusions and invasion. We show that active Ras signals to RalB via two RalGEFs (Guanine nucleotide Exchange Factors), RGL1 and RGL2, to foster invasiveness; RalB contribution appears to be more important than that of MAPK and PI3K pathways. Moreover, on the clinical side, we uncovered a potential role of RalB in human breast cancers by determining that RalB expression at protein level increases in a manner consistent with progression toward metastasis. This work highlights the Ras-RGL1/2-RalB-exocyst-WRC axis as appealing target for novel anticancer strategies."
+  ],
+  "affiliation": [
+    "Institut Curie, Centre de Recherche, Paris Sciences et Lettres Research University, Paris, France."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Line"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Membrane"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "RE"
+                  ],
+                  "qualifierName": [
+                    "radiation effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Surface Extensions"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "RE"
+                  ],
+                  "qualifierName": [
+                    "radiation effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Breast Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neoplasm Invasiveness"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Disease Progression"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "ral GTP-Binding Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "ras Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Signal Transduction"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Light"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Wiskott-Aldrich Syndrome Protein Family"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Optogenetics"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Human",
+        "Cell biology",
+        "Breast cancer",
+        "Invasion",
+        "Ral",
+        "Wave",
+        "Optogenetics",
+        "Exocyst"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Ralb protein, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "ras Proteins"
+          ],
+          "registryNumber": [
+            "EC 3.6.5.2"
+          ]
+        },
+        {
+          "name": [
+            "Wiskott-Aldrich Syndrome Protein Family"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "ral GTP-Binding Proteins"
+          ],
+          "registryNumber": [
+            "EC 3.6.5.2"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6226288?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6226288"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7554/eLife.40474"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-02-26"
+  ],
+  "dateOfCreation": [
+    "2018-10-16"
+  ],
+  "firstIndexDate": [
+    "2018-10-16"
+  ],
+  "dateOfRevision": [
+    "2019-05-22"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-15"
+  ],
+  "firstPublicationDate": [
+    "2018-10-15"
+  ]
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC5820651/results/word/frequencies/results.xml">
+  <result title="frequency" word="light" count="86"/>
+  <result title="frequency" word="PCB" count="79"/>
+  <result title="frequency" word="Figure" count="63"/>
+  <result title="frequency" word="production" count="59"/>
+  <result title="frequency" word="gene" count="42"/>
+  <result title="frequency" word="cells" count="39"/>
+  <result title="frequency" word="using" count="39"/>
+  <result title="frequency" word="red" count="37"/>
+  <result title="frequency" word="min" count="31"/>
+  <result title="frequency" word="FdFNR" count="30"/>
+  <result title="frequency" word="PhyB" count="30"/>
+  <result title="frequency" word="levels" count="29"/>
+  <result title="frequency" word="PhyB-PIF" count="26"/>
+  <result title="frequency" word="activation" count="26"/>
+  <result title="frequency" word="μmol/m" count="26"/>
+  <result title="frequency" word="mammalian" count="25"/>
+  <result title="frequency" word="&amp;lt;" count="21"/>
+  <result title="frequency" word="far-red" count="21"/>
+ </snippets>
+</snippetsTree>

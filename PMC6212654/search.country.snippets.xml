@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6212654/results/search/country/results.xml">
+  <result pre="1 Istituto Italiano di Tecnologia, Center for Biomolecular Nanotechnologies Arnesano" exact="Italy" post="[], 2 Developmental Neurophysiology, Institute of Neuroanatomy, University Medical"/>
+  <result pre="Developmental Neurophysiology, Institute of Neuroanatomy, University Medical Center Hamburg-Eppendorf Hamburg" exact="Germany" post="[], 3 Department of Microsystems Engineering (IMTEK), University of"/>
+  <result pre="of Microsystems Engineering (IMTEK), University of Freiburg Freiburg im Breisgau" exact="Germany" post="[], 4 ATLAS Neuroengineering bvba Leuven Belgium [], 5"/>
+  <result pre="Freiburg im Breisgau Germany [], 4 ATLAS Neuroengineering bvba Leuven" exact="Belgium" post="[], 5 Dipartimento di Ingegneria dell’Innovazione, UniversitaÌ del Salento"/>
+  <result pre="[], 5 Dipartimento di Ingegneria dell’Innovazione, UniversitaÌ del Salento Lecce" exact="Italy" post="[], 6 Cluster of Excellence BrainLinks-BrainTools, University of Freiburg"/>
+  <result pre="Cluster of Excellence BrainLinks-BrainTools, University of Freiburg Freiburg im Breisgau" exact="Germany" post="Edited by: Mikhail Lebedev, Duke University, United States Reviewed"/>
+  <result pre="Freiburg im Breisgau Germany Edited by: Mikhail Lebedev, Duke University," exact="United States" post="Reviewed by: Sotiris Masmanidis, University of California, Los Angeles,"/>
+  <result pre="States Reviewed by: Sotiris Masmanidis, University of California, Los Angeles," exact="United States;" post="Kuan Hong Wang, National Institute of Mental Health (NIMH),"/>
+  <result pre="States; Kuan Hong Wang, National Institute of Mental Health (NIMH)," exact="United States" post="*Correspondence: Ferruccio Pisanello, ferruccio.pisanello@iit.it †These authors have contributed equally"/>
+ </snippets>
+</snippetsTree>

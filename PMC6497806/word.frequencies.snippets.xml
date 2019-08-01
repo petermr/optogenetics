@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6497806/results/word/frequencies/results.xml">
+  <result title="frequency" word="neurons" count="72"/>
+  <result title="frequency" word="respiratory" count="43"/>
+  <result title="frequency" word="arousal" count="42"/>
+  <result title="frequency" word="sleep" count="42"/>
+  <result title="frequency" word="CGRP" count="37"/>
+  <result title="frequency" word="PBel" count="37"/>
+  <result title="frequency" word="Kaur" count="29"/>
+  <result title="frequency" word="nucleus" count="29"/>
+  <result title="frequency" word="Physiol." count="23"/>
+  <result title="frequency" word="parabrachial" count="23"/>
+  <result title="frequency" word="control" count="21"/>
+ </snippets>
+</snippetsTree>

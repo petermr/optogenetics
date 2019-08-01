@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6421499/results/word/frequencies/results.xml">
+  <result title="frequency" word="PMID:" count="87"/>
+  <result title="frequency" word="sympathetic" count="64"/>
+  <result title="frequency" word="ventricular" count="57"/>
+  <result title="frequency" word="cardiac" count="55"/>
+  <result title="frequency" word="autonomic" count="47"/>
+  <result title="frequency" word="stimulation" count="46"/>
+  <result title="frequency" word="VAs" count="40"/>
+  <result title="frequency" word="nerve" count="32"/>
+  <result title="frequency" word="heart" count="29"/>
+  <result title="frequency" word="Wang" count="28"/>
+  <result title="frequency" word="patients" count="28"/>
+  <result title="frequency" word="denervation" count="26"/>
+  <result title="frequency" word="myocardial" count="25"/>
+  <result title="frequency" word="arrhythmias" count="24"/>
+  <result title="frequency" word="left" count="24"/>
+  <result title="frequency" word="Heart" count="23"/>
+  <result title="frequency" word="activity" count="22"/>
+ </snippets>
+</snippetsTree>

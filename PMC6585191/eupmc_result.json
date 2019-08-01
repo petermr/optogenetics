@@ -1,0 +1,265 @@
+{
+  "id": [
+    "31263396"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31263396"
+  ],
+  "pmcid": [
+    "PMC6585191"
+  ],
+  "doi": [
+    "10.3389/fnins.2019.00535"
+  ],
+  "title": [
+    "The Central Autonomic Network and Regulation of Bladder Function."
+  ],
+  "authorString": [
+    "Roy HA, Green AL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Roy HA"
+          ],
+          "firstName": [
+            "Holly Ann"
+          ],
+          "lastName": [
+            "Roy"
+          ],
+          "initials": [
+            "HA"
+          ],
+          "affiliation": [
+            "Department of Neurosurgery, Plymouth Hospitals NHS Trust, Plymouth, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Green AL"
+          ],
+          "firstName": [
+            "Alexander L"
+          ],
+          "lastName": [
+            "Green"
+          ],
+          "initials": [
+            "AL"
+          ],
+          "affiliation": [
+            "Nuffield Department of Surgical Sciences, Medical Sciences Division, University of Oxford, Oxford, United Kingdom."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2779301"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Neurosci"
+          ],
+          "NLMid": [
+            "101478481"
+          ],
+          "ISSN": [
+            "1662-4548"
+          ],
+          "ESSN": [
+            "1662-453X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "535"
+  ],
+  "abstractText": [
+    "The autonomic nervous system (ANS) is involved in the regulation of physiologic and homeostatic parameters relating particularly to the visceral organs and the co-ordination of physiological responses to threat. Blood pressure and heart rate, respiration, pupillomotor reactivity, sexual function, gastrointestinal secretions and motility, and urine storage and micturition are all under a degree of ANS control. Furthermore, there is close integration between the ANS and other neural functions such as emotion and cognition, and thus brain regions that are known to be important for autonomic control are also implicated in emotional functions. In this review we explore the role of the central ANS in the control of the bladder, and the implications of this for bladder dysfunction in diseases of the ANS."
+  ],
+  "affiliation": [
+    "Department of Neurosurgery, Plymouth Hospitals NHS Trust, Plymouth, United Kingdom."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Bladder",
+        "Autonomic",
+        "Parkinson’s Disease",
+        "Multiple System Atrophy",
+        "Periaquecductal Gray"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6585191?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6585191"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnins.2019.00535"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-07-03"
+  ],
+  "firstIndexDate": [
+    "2019-07-03"
+  ],
+  "dateOfRevision": [
+    "2019-07-04"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-13"
+  ],
+  "firstPublicationDate": [
+    "2019-06-13"
+  ]
+}

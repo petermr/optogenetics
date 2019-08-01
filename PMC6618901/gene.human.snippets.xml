@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6618901/results/gene/human/results.xml">
+  <result pre="neurotransmitters had negative odds ratios, as did many methodological approaches. Terms such as &quot; " exact="EPM" post="&quot; (elevated plus maze), &quot; MEP&quot; (motor-evoked potential), and &quot; tunel&quot;—a marker of apo" xpath="/html[1]/body[1]/div[2]/div[4]/p[7]" dictionary="hgnc" dictionaryCheck="false" name="human"/>
+  <result pre="ratios, as did many methodological approaches. Terms such as &quot; EPM&quot; (elevated plus maze), &quot; " exact="MEP" post="&quot; (motor-evoked potential), and &quot; tunel&quot;—a marker of apoptosis, all spoke to a more methodol" xpath="/html[1]/body[1]/div[2]/div[4]/p[7]" dictionary="hgnc" dictionaryCheck="false" name="human"/>
+  <result pre="entry. For instance, the relatively ubiquitous event-related potential (&quot; event-related,&quot; &quot; " exact="ERP" post=",&quot; and &quot; ERPs&quot;) was consistently among the most medium-impact based. Another trend among the" xpath="/html[1]/body[1]/div[2]/div[4]/p[7]" dictionary="hgnc" dictionaryCheck="false" name="human"/>
+  <result pre="&quot; " exact="CCI" post="&quot; (chronic constrictive injury), &quot; edema,&quot; &quot; MCAO&quot; (middle cerebral artery occlusion)" xpath="/html[1]/body[1]/div[2]/div[4]/p[7]" dictionary="hgnc" dictionaryCheck="false" name="human"/>
+  <result pre="&quot; CCI&quot; (chronic constrictive injury), &quot; edema,&quot; &quot; " exact="MCAO" post="&quot; (middle cerebral artery occlusion), &quot; oxygen-glucose,&quot; &quot; OGD&quot; (oxygen-glucose-depri" xpath="/html[1]/body[1]/div[2]/div[4]/p[7]" dictionary="hgnc" dictionaryCheck="false" name="human"/>
+  <result pre="), &quot; edema,&quot; &quot; MCAO&quot; (middle cerebral artery occlusion), &quot; oxygen-glucose,&quot; &quot; " exact="OGD" post="&quot; (oxygen-glucose-deprivation), &quot; reperfusion,&quot; and &quot; stenosis&quot; were terms biased tow" xpath="/html[1]/body[1]/div[2]/div[4]/p[7]" dictionary="hgnc" dictionaryCheck="false" name="human"/>
+  <result pre="ters, most terms were biased toward medium-impact journals, with only &quot; oxytocin&quot; and the &quot; " exact="AMPA" post="&quot; glutamate receptor showing a substantially positive log odds ratio. On the other hand, themes wer" dictionary="hgnc" dictionaryCheck="false" name="human"/>
+ </snippets>
+</snippetsTree>

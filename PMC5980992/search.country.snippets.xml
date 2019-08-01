@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC5980992/results/search/country/results.xml">
+  <result pre="Neural Information, Graduate School of Brain Science, Doshisha University Kyoto" exact="Japan" post="Edited by: Chrystalina A. Antoniades, University of Oxford, United"/>
+  <result pre="Kyoto Japan Edited by: Chrystalina A. Antoniades, University of Oxford," exact="United Kingdom" post="Reviewed by: Joe Z. Tsien, Augusta University, United States;"/>
+  <result pre="Oxford, United Kingdom Reviewed by: Joe Z. Tsien, Augusta University," exact="United States;" post="Dong Song, University of Southern California, United States; Robert"/>
+  <result pre="Augusta University, United States; Dong Song, University of Southern California," exact="United States;" post="Robert W. Stackman, Florida Atlantic University, United States; Grace"/>
+  <result pre="Southern California, United States; Robert W. Stackman, Florida Atlantic University," exact="United States;" post="Grace Fox contributed to the review of Joe Z."/>
+ </snippets>
+</snippetsTree>

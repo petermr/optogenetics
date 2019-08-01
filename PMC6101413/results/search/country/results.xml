@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="country">
+ <result pre="4 * [1], Peking University School of Life Sciences, Beijing," exact="China" post="[2], Peking-Tsinghua Center for Life Sciences, Beijing, China [3],"/>
+ <result pre="Sciences, Beijing, China [2], Peking-Tsinghua Center for Life Sciences, Beijing," exact="China" post="[3], IDG/McGovern Institute for Brain Research at Peking University,"/>
+ <result pre="[3], IDG/McGovern Institute for Brain Research at Peking University, Beijing," exact="China" post="[4], Key Laboratory of Machine Perception (Ministry of Education),"/>
+ <result pre="Laboratory of Machine Perception (Ministry of Education), Peking University, Beijing," exact="China" post="[5], State University of New York, Downstate Medical Center,"/>
+ <result pre="University of New York, Downstate Medical Center, Brooklyn, New York," exact="United States" post="of America Kohn Adam Academic Editor [], Albert Einstein"/>
+ <result pre="Kohn Adam Academic Editor [], Albert Einstein College of Medicine," exact="United States" post="of America The authors have declared that no competing"/>
+ <result pre="behavior, and neurological/psychiatric disorders. Funding National Natural Science Foundation of" exact="China" post="(grant number 31730109). The funder had no role in"/>
+ <result pre="or preparation of the manuscript. National Basic Research Program of" exact="China" post="(grant number 2017YFA0105201). The funder had no role in"/>
+ <result pre="or preparation of the manuscript. National Natural Science Foundation of" exact="China" post="Outstanding Young Researcher Award (grant number 30525016). The funder"/>
+</results>

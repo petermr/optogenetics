@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6120992/results/search/country/results.xml">
+  <result pre="of Biomedical Science, Faculty of Medicine, University of Tsukuba Tsukuba" exact="Japan" post="[], 2 Graduate School of Comprehensive Human Sciences, University"/>
+  <result pre="Graduate School of Comprehensive Human Sciences, University of Tsukuba Tsukuba" exact="Japan" post="[], 3 Transborder Medical Research Center, University of Tsukuba"/>
+  <result pre="[], 3 Transborder Medical Research Center, University of Tsukuba Tsukuba" exact="Japan" post="[], 4 Systems Neuroscience Section, Primate Research Institute, Kyoto"/>
+  <result pre="4 Systems Neuroscience Section, Primate Research Institute, Kyoto University Inuyama" exact="Japan" post="[], 5 Precursory Research for Embryonic Science and Technology"/>
+  <result pre="[], 5 Precursory Research for Embryonic Science and Technology (PRESTO)," exact="Japan" post="Science and Technology Agency (JST) Kawaguchi Japan Edited by:"/>
+  <result pre="and Technology (PRESTO), Japan Science and Technology Agency (JST) Kawaguchi" exact="Japan" post="Edited by: Tadashi Isa, Kyoto University, Japan Reviewed by:"/>
+  <result pre="Agency (JST) Kawaguchi Japan Edited by: Tadashi Isa, Kyoto University," exact="Japan" post="Reviewed by: Marc A. Sommer, Duke University, United States;"/>
+  <result pre="Kyoto University, Japan Reviewed by: Marc A. Sommer, Duke University," exact="United States;" post="Laurent Petit, Centre National de la Recherche Scientifique (CNRS),"/>
+  <result pre="la Recherche Scientifique (CNRS), France; Ziad M. Hafed, Universität Tübingen," exact="Germany" post="*Correspondence: Masayuki Matsumoto mmatsumoto@md.tsukuba.ac.jp epub: 2018-8-8 collection: 2018 12"/>
+  <result pre="Sports, Culture and Technology of Japan; PREST (JPMJPR1683) from the" exact="Japan" post="Science and Technology Agency (JST) to KI; Funding Program"/>
+ </snippets>
+</snippetsTree>

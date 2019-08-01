@@ -1,0 +1,349 @@
+{
+  "id": [
+    "31231537"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31231537"
+  ],
+  "pmcid": [
+    "PMC6545326"
+  ],
+  "doi": [
+    "10.1038/s41378-019-0061-6"
+  ],
+  "title": [
+    "Inductively coupled, mm-sized, single channel optical neuro-stimulator with intensity enhancer."
+  ],
+  "authorString": [
+    "Khan W, Jia Y, Madi F, Weber A, Ghovanloo M, Li W."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Khan W"
+          ],
+          "firstName": [
+            "Wasif"
+          ],
+          "lastName": [
+            "Khan"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5905-8299",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "1Department of Electrical and Computer Engineering, Michigan State University, East Lansing, MI USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Jia Y"
+          ],
+          "firstName": [
+            "Yaoyao"
+          ],
+          "lastName": [
+            "Jia"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "2School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, GA USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Madi F"
+          ],
+          "firstName": [
+            "Fatma"
+          ],
+          "lastName": [
+            "Madi"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "3Department of Physiology, Michigan State University, East Lansing, MI USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Weber A"
+          ],
+          "firstName": [
+            "Arthur"
+          ],
+          "lastName": [
+            "Weber"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "3Department of Physiology, Michigan State University, East Lansing, MI USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ghovanloo M"
+          ],
+          "firstName": [
+            "Maysam"
+          ],
+          "lastName": [
+            "Ghovanloo"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "2School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, GA USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Li W"
+          ],
+          "firstName": [
+            "Wen"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "1Department of Electrical and Computer Engineering, Michigan State University, East Lansing, MI USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5905-8299",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2813495"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Microsystems & nanoengineering"
+          ],
+          "ISOAbbreviation": [
+            "Microsyst Nanoeng"
+          ],
+          "medlineAbbreviation": [
+            "Microsyst Nanoeng"
+          ],
+          "NLMid": [
+            "101695458"
+          ],
+          "ISSN": [
+            "2096-1030"
+          ],
+          "ESSN": [
+            "2055-7434"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "23"
+  ],
+  "abstractText": [
+    "We introduce a single channel neuro-stimulator consisting of a reflector-coupled microscale light emitting diode (µLED) with an integrated mm-sized wireless receiver (Rx) coil for free-floating, battery-free, untethered optogenetics neuromodulation. The system utilizes a two-coil inductive link to deliver instantaneous power at a low operating frequency (<100 MHz) for continuous optical stimulation with minimized invasiveness and tissue exposure to electromagnetic radiation. Coupling a microscale reflector to the µLED provides significant light intensity enhancement compared to a bare µLED. Our activated stimulators have an operational temperature increase of <1 °C, well below the safety limit of biomedical implants. In vivo experiment and histological analysis verify the efficacy of wireless optical stimulation in the primary visual cortex of rats, using c-Fos biomarker as a reporter of light-evoked neuronal activity."
+  ],
+  "affiliation": [
+    "1Department of Electrical and Computer Engineering, Michigan State University, East Lansing, MI USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Micro-optics",
+        "Electrical And Electronic Engineering"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6545326?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6545326"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41378-019-0061-6"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-25"
+  ],
+  "firstIndexDate": [
+    "2019-06-25"
+  ],
+  "dateOfRevision": [
+    "2019-06-27"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-03"
+  ],
+  "firstPublicationDate": [
+    "2019-06-03"
+  ]
+}

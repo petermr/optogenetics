@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6441501/results/word/frequencies/results.xml">
+  <result title="frequency" word="stroke" count="71"/>
+  <result title="frequency" word="stimulation" count="68"/>
+  <result title="frequency" word="motor" count="62"/>
+  <result title="frequency" word="recovery" count="46"/>
+  <result title="frequency" word="neurons" count="39"/>
+  <result title="frequency" word="brain" count="38"/>
+  <result title="frequency" word="function" count="30"/>
+  <result title="frequency" word="neural" count="30"/>
+  <result title="frequency" word="circuits" count="29"/>
+  <result title="frequency" word="neuronal" count="28"/>
+  <result title="frequency" word="synaptic" count="21"/>
+ </snippets>
+</snippetsTree>

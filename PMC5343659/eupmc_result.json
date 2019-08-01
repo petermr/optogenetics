@@ -1,0 +1,604 @@
+{
+  "id": [
+    "28276522"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28276522"
+  ],
+  "pmcid": [
+    "PMC5343659"
+  ],
+  "doi": [
+    "10.1038/srep43997"
+  ],
+  "title": [
+    "Experimental assessment of the safety and potential efficacy of high irradiance photostimulation of brain tissues."
+  ],
+  "authorString": [
+    "Senova S, Scisniak I, Chiang CC, Doignon I, Palfi S, Chaillet A, Martin C, Pain F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Senova S"
+          ],
+          "firstName": [
+            "Suhan"
+          ],
+          "lastName": [
+            "Senova"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Neurosurgery Department, Assistance Publique-Hôpitaux de Paris (APHP), Groupe Henri-Mondor Albert-Chenevier, PePsy department, Créteil, F-94000, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Scisniak I"
+          ],
+          "firstName": [
+            "Ilona"
+          ],
+          "lastName": [
+            "Scisniak"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "IMNC, CNRS Univ. Paris Sud, Univ. Paris Saclay Orsay F-91405, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Chiang CC"
+          ],
+          "firstName": [
+            "Chih-Chieh"
+          ],
+          "lastName": [
+            "Chiang"
+          ],
+          "initials": [
+            "CC"
+          ],
+          "affiliation": [
+            "IMNC, CNRS Univ. Paris Sud, Univ. Paris Saclay Orsay F-91405, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Doignon I"
+          ],
+          "firstName": [
+            "Isabelle"
+          ],
+          "lastName": [
+            "Doignon"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Laboratory of Cellular interactions and liver physiopathology, INSERM, Univ. Paris-Sud, Univ. Paris Saclay, Orsay, F-91405 France."
+          ]
+        },
+        {
+          "fullName": [
+            "Palfi S"
+          ],
+          "firstName": [
+            "Stéphane"
+          ],
+          "lastName": [
+            "Palfi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Neurosurgery Department, Assistance Publique-Hôpitaux de Paris (APHP), Groupe Henri-Mondor Albert-Chenevier, PePsy department, Créteil, F-94000, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Chaillet A"
+          ],
+          "firstName": [
+            "Antoine"
+          ],
+          "lastName": [
+            "Chaillet"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "L2S, CentraleSupélec, Univ. Paris Saclay, Gif sur Yvette, F-91192 France."
+          ]
+        },
+        {
+          "fullName": [
+            "Martin C"
+          ],
+          "firstName": [
+            "Claire"
+          ],
+          "lastName": [
+            "Martin"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "IMNC, CNRS Univ. Paris Sud, Univ. Paris Saclay Orsay F-91405, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Pain F"
+          ],
+          "firstName": [
+            "Frédéric"
+          ],
+          "lastName": [
+            "Pain"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9854-6025",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "IMNC, CNRS Univ. Paris Sud, Univ. Paris Saclay Orsay F-91405, France."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9854-6025",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2529066"
+      ],
+      "dateOfPublication": [
+        "2017 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "43997"
+  ],
+  "abstractText": [
+    "Optogenetics is widely used in fundamental neuroscience. Its potential clinical translation for brain neuromodulation requires a careful assessment of the safety and efficacy of repeated, sustained optical stimulation of large volumes of brain tissues. This study was performed in rats and not in non-human primates for ethical reasons. We studied the spatial distribution of light, potential damage, and non-physiological effects in vivo, in anesthetized rat brains, on large brain volumes, following repeated high irradiance photo-stimulation. We generated 2D irradiance and temperature increase surface maps based on recordings taken during optical stimulation using irradiance and temporal parameters representative of common optogenetics experiments. Irradiances of 100 to 600 mW/mm2 with 5 ms pulses at 20, 40, and 60 Hz were applied during 90 s. In vivo electrophysiological recordings and post-mortem histological analyses showed that high power light stimulation had no obvious phototoxic effects and did not trigger non-physiological functional activation. This study demonstrates the ability to illuminate cortical layers to a depth of several millimeters using pulsed red light without detrimental thermal damages."
+  ],
+  "affiliation": [
+    "Neurosurgery Department, Assistance Publique-Hôpitaux de Paris (APHP), Groupe Henri-Mondor Albert-Chenevier, PePsy department, Créteil, F-94000, France."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cerebral Cortex"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "RE"
+                  ],
+                  "qualifierName": [
+                    "radiation effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neurons"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "RE"
+                  ],
+                  "qualifierName": [
+                    "radiation effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rats, Wistar"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Light"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hot Temperature"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Translational Medical Research"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Optogenetics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5343659?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5343659"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/srep43997"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "28387302"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Sci Rep. 2017 Apr 07;7:46199"
+          ],
+          "type": [
+            "Erratum in"
+          ],
+          "orderIn": [
+            "51"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-11-08"
+  ],
+  "dateOfCreation": [
+    "2017-03-10"
+  ],
+  "firstIndexDate": [
+    "2017-03-10"
+  ],
+  "dateOfRevision": [
+    "2018-11-08"
+  ],
+  "electronicPublicationDate": [
+    "2017-03-09"
+  ],
+  "firstPublicationDate": [
+    "2017-03-09"
+  ]
+}

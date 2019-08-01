@@ -1,0 +1,559 @@
+{
+  "id": [
+    "30376338"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30376338"
+  ],
+  "pmcid": [
+    "PMC6240888"
+  ],
+  "doi": [
+    "10.1021/acs.jpclett.8b02780"
+  ],
+  "title": [
+    "Strong pH-Dependent Near-Infrared Fluorescence in a Microbial Rhodopsin Reconstituted with a Red-Shifting Retinal Analogue."
+  ],
+  "authorString": [
+    "Hontani Y, Ganapathy S, Frehan S, Kloz M, de Grip WJ, Kennis JTM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hontani Y"
+          ],
+          "firstName": [
+            "Yusaku"
+          ],
+          "lastName": [
+            "Hontani"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8853-9454",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Physics and Astronomy , Vrije Universiteit , Amsterdam 1081 HV , The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Ganapathy S"
+          ],
+          "firstName": [
+            "Srividya"
+          ],
+          "lastName": [
+            "Ganapathy"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1264-9387",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biophysical Organic Chemistry , Leiden Institute of Chemistry, Gorlaeus Laboratories, Leiden University , Leiden 2300 RA , The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Frehan S"
+          ],
+          "firstName": [
+            "Sean"
+          ],
+          "lastName": [
+            "Frehan"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Physics and Astronomy , Vrije Universiteit , Amsterdam 1081 HV , The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Kloz M"
+          ],
+          "firstName": [
+            "Miroslav"
+          ],
+          "lastName": [
+            "Kloz"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Physics and Astronomy , Vrije Universiteit , Amsterdam 1081 HV , The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "de Grip WJ"
+          ],
+          "firstName": [
+            "Willem J"
+          ],
+          "lastName": [
+            "de Grip"
+          ],
+          "initials": [
+            "WJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7637-4920",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biophysical Organic Chemistry , Leiden Institute of Chemistry, Gorlaeus Laboratories, Leiden University , Leiden 2300 RA , The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Kennis JTM"
+          ],
+          "firstName": [
+            "John T M"
+          ],
+          "lastName": [
+            "Kennis"
+          ],
+          "initials": [
+            "JTM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3563-2353",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Physics and Astronomy , Vrije Universiteit , Amsterdam 1081 HV , The Netherlands."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1264-9387",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7637-4920",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3563-2353",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8853-9454",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "22"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2749451"
+      ],
+      "dateOfPublication": [
+        "2018 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The journal of physical chemistry letters"
+          ],
+          "ISOAbbreviation": [
+            "J Phys Chem Lett"
+          ],
+          "medlineAbbreviation": [
+            "J Phys Chem Lett"
+          ],
+          "NLMid": [
+            "101526034"
+          ],
+          "ISSN": [
+            "1948-7185"
+          ],
+          "ESSN": [
+            "1948-7185"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "6469-6474"
+  ],
+  "abstractText": [
+    "Near-infrared (NIR)-driven rhodopsins are of great interest in optogenetics and other optobiotechnological developments such as artificial photosynthesis and deep-tissue voltage imaging. Here we report that the proton pump proteorhodopsin (PR) containing a NIR-active retinal analogue (PR:MMAR) exhibits intense NIR fluorescence at a quantum yield of 3.3%. This is 130 times higher than native PR ( Lenz , M. O. ; Biophys J. 2006 , 91 , 255 - 262 ) and 3-8 times higher than the QuasAr and PROPS voltage sensors ( Kralj , J. ; Science 2011 , 333 , 345 - 348 ; Hochbaum , D. R. ; Nat. Methods 2014 , 11 , 825 - 833 ). The NIR fluorescence strongly depends on the pH in the range of 6-8.5, suggesting potential application of MMAR-binding proteins as ultrasensitive NIR-driven pH and/or voltage sensors. Femtosecond transient absorption spectroscopy showed that upon near-IR excitation, PR:MMAR features an unusually long fluorescence lifetime of 310 ps and the absence of isomerized photoproducts, consistent with the high fluorescence quantum yield. Stimulated Raman analysis indicates that the NIR-absorbing species develops upon protonation of a conserved aspartate, which promotes charge delocalization and bond length leveling due to an additional methylamino group in MMAR, in essence providing a secondary protonated Schiff base. This results in much smaller bond length alteration along the conjugated backbone, thereby conferring significant single-bond character to the C13═C14 bond and structural deformation of the chromophore, which interferes with photoinduced isomerization and extends the lifetime for fluorescence. Hence, our studies allow for a molecular understanding of the relation between absorption/emission wavelength, isomerization, and fluorescence in PR:MMAR. As acidification enhances the resonance state, this explains the strong pH dependence of the NIR emission."
+  ],
+  "affiliation": [
+    "Department of Physics and Astronomy , Vrije Universiteit , Amsterdam 1081 HV , The Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "rapid-communication",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Protons"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Retinaldehyde"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AA"
+                  ],
+                  "qualifierName": [
+                    "analogs & derivatives"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Schiff Bases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rhodopsins, Microbial"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Spectrum Analysis, Raman"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hydrogen-Ion Concentration"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fluorescence"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "proteorhodopsin"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Protons"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Schiff Bases"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Rhodopsins, Microbial"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Retinaldehyde"
+          ],
+          "registryNumber": [
+            "RR725D715M"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6240888?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6240888"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1021/acs.jpclett.8b02780"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-12-11"
+  ],
+  "dateOfCreation": [
+    "2018-10-31"
+  ],
+  "firstIndexDate": [
+    "2018-10-31"
+  ],
+  "dateOfRevision": [
+    "2018-12-11"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-01"
+  ],
+  "firstPublicationDate": [
+    "2018-11-01"
+  ]
+}

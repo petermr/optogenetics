@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6528970/results/gene/human/results.xml">
+  <result pre="ion of IR52a in the wing is supported by four lines of evidence: RNA-seq, RT-PCR, qPCR, and " exact="GAL4" post=" driver analysis. Expression is found in both male and female wings, in both D. melanogaster" xpath="/html[1]/body[1]/div[2]/div[5]/div[8]/p[1]" dictionary="hgnc" dictionaryCheck="false" name="human"/>
+  <result pre="(A) ppk genes. (B) Trp genes (C) CheB genes, which are a class of " exact="CSP" post=" genes. (D) CheA genes, a class of CSP genes. (E) Obp genes. Genes are listed " xpath="/html[1]/body[1]/div[2]/div[5]/div[8]/p[1]" dictionary="hgnc" dictionaryCheck="false" name="human"/>
+  <result pre="es (C) CheB genes, which are a class of CSP genes. (D) CheA genes, a class of " exact="CSP" post=" genes. (E) Obp genes. Genes are listed in decreasing order of FPKM in the control genotype " xpath="/html[1]/body[1]/div[2]/div[5]/div[8]/p[1]" dictionary="hgnc" dictionaryCheck="false" name="human"/>
+  <result pre="(A) " exact="IR52" post=" cluster contains five genes: IR52a, IR52b, IR52e, IR52c, and IR52d&lt;" xpath="/html[1]/body[1]/div[2]/div[5]/div[8]/p[1]" dictionary="hgnc" dictionaryCheck="false" name="human"/>
+  <result pre="/i&gt;, and IR52d. The D. melanogaster reference genome contains only four genes in the " exact="IR52" post=" cluster [ 84]. Our Canton-S5 stock contains five genes: IR52b&lt;/i" dictionary="hgnc" dictionaryCheck="false" name="human"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,279 @@
+{
+  "id": [
+    "30838337"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30838337"
+  ],
+  "pmcid": [
+    "PMC6397925"
+  ],
+  "doi": [
+    "10.4111/icu.2019.60.2.61"
+  ],
+  "title": [
+    "A new approach to urinary bladder control with optogenetics."
+  ],
+  "authorString": [
+    "Park E, Lee KS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Park E"
+          ],
+          "firstName": [
+            "Eunkyoung"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Smart Healthcare & Device Research Center, Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee KS"
+          ],
+          "firstName": [
+            "Kyu-Sung"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "KS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0891-2488",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Smart Healthcare & Device Research Center, Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0891-2488",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "60"
+      ],
+      "journalIssueId": [
+        "2790723"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Investigative and clinical urology"
+          ],
+          "ISOAbbreviation": [
+            "Investig Clin Urol"
+          ],
+          "medlineAbbreviation": [
+            "Investig Clin Urol"
+          ],
+          "NLMid": [
+            "101674989"
+          ],
+          "ISSN": [
+            "2466-0493"
+          ],
+          "ESSN": [
+            "2466-054X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "61-63"
+  ],
+  "affiliation": [
+    "Smart Healthcare & Device Research Center, Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Editorial"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6397925?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6397925"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4111/icu.2019.60.2.61"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-03-07"
+  ],
+  "firstIndexDate": [
+    "2019-03-07"
+  ],
+  "dateOfRevision": [
+    "2019-06-19"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-27"
+  ],
+  "firstPublicationDate": [
+    "2019-02-27"
+  ]
+}

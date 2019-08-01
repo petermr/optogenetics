@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6563676/results/search/country/results.xml">
+  <result pre="Institute of Physiology I, Medical Faculty, University of Bonn Bonn" exact="Germany" post="[], 2 Department of Internal Medicine II, University Hospital"/>
+  <result pre="Internal Medicine II, University Hospital Bonn, University of Bonn Bonn" exact="Germany" post="[], 3 Research Training Group 1873, University of Bonn"/>
+  <result pre="[], 3 Research Training Group 1873, University of Bonn Bonn" exact="Germany" post="[], 4 Institute of Cardiovascular Physiology, University Medical Center,"/>
+  <result pre="Cardiovascular Physiology, University Medical Center, Georg August University Göttingen Göttingen" exact="Germany" post="[], 5 German Center for Cardiovascular Research (DZHK), Partner"/>
+  <result pre="German Center for Cardiovascular Research (DZHK), Partner site Göttingen Göttingen" exact="Germany" post="Edited by: Christopher Huang, University of Cambridge, United Kingdom"/>
+  <result pre="Göttingen Göttingen Germany Edited by: Christopher Huang, University of Cambridge," exact="United Kingdom" post="Reviewed by: Henggui Zhang, University of Manchester, United Kingdom;"/>
+  <result pre="Cambridge, United Kingdom Reviewed by: Henggui Zhang, University of Manchester," exact="United Kingdom;" post="Leonardo Sacconi, University of Florence, Italy *Correspondence: Philipp Sasse,"/>
+  <result pre="University of Manchester, United Kingdom; Leonardo Sacconi, University of Florence," exact="Italy" post="*Correspondence: Philipp Sasse, philipp.sasse@uni-bonn.de, orcid.org/0000-0002-8502-9472 Tobias Bruegmann, tobias.bruegmann@med.uni-goettingen.de, orcid.org/0000-0002-6930-9634"/>
+ </snippets>
+</snippetsTree>

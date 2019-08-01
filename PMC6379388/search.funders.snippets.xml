@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6379388/results/search/funders/results.xml">
+  <result pre="Science, [2], 0000 0001 2242 4849 grid.177174.3 Faculty of Design," exact="Kyushu University," post="[3], 0000 0004 1762 2236 grid.444515.5 School of Materials"/>
+  <result pre="Scientists (B) (Grant no. JP17K17761). T.S. was supported by the" exact="Japan Science and Technology Agency" post="under Precursory Research for Embryonic Science and Technology (PRESTO)"/>
+  <result pre="Science and Technology (PRESTO) (Grant no. JPMJPR12A9) and by the" exact="Mochida Memorial Foundation for Medical and Pharmaceutical Research." post="Author contributions H.I. discovered the phenomenon of dynamical network"/>
+  <result pre="Food/Agar Medium (Agricultural Research (Western Region), Science and Education Administration," exact="U.S. Department of Agriculture," post="U.S.A, 1981). 27. Cassada RC Russell RL The dauerlarva,"/>
+  <result pre="in C. elegans: extrachromosomal maintenance and integration of transforming sequences" exact="EMBO" post="J. 1991 10 3959 3970 10.1002/j.1460-2075.1991.tb04966.x 1935914 45. Boyden"/>
+ </snippets>
+</snippetsTree>

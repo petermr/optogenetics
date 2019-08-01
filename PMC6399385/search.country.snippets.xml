@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6399385/results/search/country/results.xml">
+  <result pre="* [], 1 Faculty of Biology, University of Freiburg Freiburg" exact="Germany" post="[], 2 Signalling Research Centres BIOSS and CIBSS, University"/>
+  <result pre="Signalling Research Centres BIOSS and CIBSS, University of Freiburg Freiburg" exact="Germany" post="[], 3 Spemann Graduate School of Biology and Medicine,"/>
+  <result pre="Graduate School of Biology and Medicine, University of Freiburg Freiburg" exact="Germany" post="[], 4 Centre for Chronic Immunodeficiency CCI, Medical Center,"/>
+  <result pre="for Chronic Immunodeficiency CCI, Medical Center, University of Freiburg Freiburg" exact="Germany" post="Edited by: Jorge Bernardino De La Serna, United Kingdom"/>
+  <result pre="Freiburg Freiburg Germany Edited by: Jorge Bernardino De La Serna," exact="United Kingdom" post="Research and Innovation, United Kingdom Reviewed by: Gottfried Baier,"/>
+  <result pre="Jorge Bernardino De La Serna, United Kingdom Research and Innovation," exact="United Kingdom" post="Reviewed by: Gottfried Baier, Innsbruck Medical University, Austria; Cosima"/>
+  <result pre="Innsbruck Medical University, Austria; Cosima T. Baldari, University of Siena," exact="Italy" post="*Correspondence: Wilfried Weber wilfried.weber@biologie.uni-freiburg.de Wolfgang W. A. Schamel wolfgang.schamel@biologie.uni-freiburg.de"/>
+ </snippets>
+</snippetsTree>

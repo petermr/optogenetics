@@ -1,0 +1,419 @@
+{
+  "id": [
+    "27413006"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27413006"
+  ],
+  "pmcid": [
+    "PMC5548626"
+  ],
+  "doi": [
+    "10.1002/jnr.23767"
+  ],
+  "title": [
+    "Optogenetic study of networks in epilepsy."
+  ],
+  "authorString": [
+    "Choy M, Duffy BA, Lee JH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Choy M"
+          ],
+          "firstName": [
+            "ManKin"
+          ],
+          "lastName": [
+            "Choy"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Neurology and Neurological Sciences, Stanford University, Stanford, California."
+          ]
+        },
+        {
+          "fullName": [
+            "Duffy BA"
+          ],
+          "firstName": [
+            "Ben A"
+          ],
+          "lastName": [
+            "Duffy"
+          ],
+          "initials": [
+            "BA"
+          ],
+          "affiliation": [
+            "Department of Neurology and Neurological Sciences, Stanford University, Stanford, California."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee JH"
+          ],
+          "firstName": [
+            "Jin Hyung"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "JH"
+          ],
+          "affiliation": [
+            "Department of Neurology and Neurological Sciences, Stanford University, Stanford, California."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "95"
+      ],
+      "journalIssueId": [
+        "2608972"
+      ],
+      "dateOfPublication": [
+        "2017 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of neuroscience research"
+          ],
+          "ISOAbbreviation": [
+            "J. Neurosci. Res."
+          ],
+          "medlineAbbreviation": [
+            "J Neurosci Res"
+          ],
+          "NLMid": [
+            "7600111"
+          ],
+          "ISSN": [
+            "0360-4012"
+          ],
+          "ESSN": [
+            "1097-4547"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "2325-2335"
+  ],
+  "abstractText": [
+    "Currently, approximately 30% of patients with epilepsy do not have adequate seizure control. A greater understanding of the underlying mechanisms by which seizures start or propagate could lead to new therapeutic strategies. The recent development of optogenetics, because of its unprecedented precision for controlling activity within distinct neuronal populations, has revolutionized neuroscience, including epilepsy research. This Review discusses recent breakthroughs made with optogenetics in epilepsy research. These breakthroughs include new insights into the key roles that different cell types play in mediating seizures as well as in the development of epilepsy. Subsequently, we discuss how targeting different brain regions and cell populations has opened up the possibility of highly specific therapies that can stop seizures on demand. Finally, we illustrate how combining newly available neuroscience tools with whole-brain imaging techniques will allow researchers to understand better the spread of seizures on a network level. © 2016 The Authors. Journal of Neuroscience Research Published by Wiley Periodicals, Inc."
+  ],
+  "affiliation": [
+    "Department of Neurology and Neurological Sciences, Stanford University, Stanford, California."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Review",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "DP2 OD007265"
+          ],
+          "agency": [
+            "NIH HHS"
+          ],
+          "acronym": [
+            "OD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R00 EB008738"
+          ],
+          "agency": [
+            "NIBIB NIH HHS"
+          ],
+          "acronym": [
+            "EB"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "RF1 AG047666"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 NS091461"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 NS087159"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Epilepsy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Optogenetics"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Epilepsy",
+        "Seizures",
+        "Optogenetics"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5548626?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5548626"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/jnr.23767"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "7"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "Y"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "Y"
+  ],
+  "manuscriptId": [
+    "NIHMS782752"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-06-08"
+  ],
+  "dateOfCreation": [
+    "2016-07-15"
+  ],
+  "firstIndexDate": [
+    "2016-07-15"
+  ],
+  "dateOfRevision": [
+    "2018-10-29"
+  ],
+  "electronicPublicationDate": [
+    "2016-07-14"
+  ],
+  "firstPublicationDate": [
+    "2016-07-14"
+  ]
+}

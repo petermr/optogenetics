@@ -1,0 +1,403 @@
+{
+  "id": [
+    "30087590"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30087590"
+  ],
+  "pmcid": [
+    "PMC6066578"
+  ],
+  "doi": [
+    "10.3389/fnins.2018.00496"
+  ],
+  "title": [
+    "Simultaneous Optogenetics and Cellular Resolution Calcium Imaging During Active Behavior Using a Miniaturized Microscope."
+  ],
+  "authorString": [
+    "Stamatakis AM, Schachter MJ, Gulati S, Zitelli KT, Malanowski S, Tajik A, Fritz C, Trulson M, Otte SL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Stamatakis AM"
+          ],
+          "firstName": [
+            "Alice M"
+          ],
+          "lastName": [
+            "Stamatakis"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "affiliation": [
+            "Inscopix Inc., Palo Alto, CA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Schachter MJ"
+          ],
+          "firstName": [
+            "Mike J"
+          ],
+          "lastName": [
+            "Schachter"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "affiliation": [
+            "Inscopix Inc., Palo Alto, CA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Gulati S"
+          ],
+          "firstName": [
+            "Srishti"
+          ],
+          "lastName": [
+            "Gulati"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Inscopix Inc., Palo Alto, CA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Zitelli KT"
+          ],
+          "firstName": [
+            "Kevin T"
+          ],
+          "lastName": [
+            "Zitelli"
+          ],
+          "initials": [
+            "KT"
+          ],
+          "affiliation": [
+            "Inscopix Inc., Palo Alto, CA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Malanowski S"
+          ],
+          "firstName": [
+            "Sam"
+          ],
+          "lastName": [
+            "Malanowski"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Inscopix Inc., Palo Alto, CA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Tajik A"
+          ],
+          "firstName": [
+            "Arash"
+          ],
+          "lastName": [
+            "Tajik"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Inscopix Inc., Palo Alto, CA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Fritz C"
+          ],
+          "firstName": [
+            "Christopher"
+          ],
+          "lastName": [
+            "Fritz"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Inscopix Inc., Palo Alto, CA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Trulson M"
+          ],
+          "firstName": [
+            "Mark"
+          ],
+          "lastName": [
+            "Trulson"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Inscopix Inc., Palo Alto, CA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Otte SL"
+          ],
+          "firstName": [
+            "Stephani L"
+          ],
+          "lastName": [
+            "Otte"
+          ],
+          "initials": [
+            "SL"
+          ],
+          "affiliation": [
+            "Inscopix Inc., Palo Alto, CA, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2647764"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Neurosci"
+          ],
+          "NLMid": [
+            "101478481"
+          ],
+          "ISSN": [
+            "1662-4548"
+          ],
+          "ESSN": [
+            "1662-453X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "496"
+  ],
+  "abstractText": [
+    "The ability to precisely monitor and manipulate neural circuits is essential to understand the brain. Advancements over the last decade in optical techniques such as calcium imaging and optogenetics have empowered researchers to gain insight into brain function by systematically manipulating or monitoring defined neural circuits. Combining these cutting-edge techniques enables a more direct mechanism for ascribing neural dynamics to behavior. Here, we developed a miniaturized integrated microscope that allows for simultaneous optogenetic manipulation and cellular-resolution calcium imaging within the same field of view in freely behaving mice. The integrated microscope has two LEDs, one filtered with a 435-460 nm excitation filter for imaging green calcium indicators, and a second LED filtered with a 590-650 nm excitation filter for optogenetic modulation of red-shifted opsins. We developed and tested this technology to minimize biological and optical crosstalk. We observed insignificant amounts of biological and optical crosstalk with regards to the optogenetic LED affecting calcium imaging. We observed some amounts of residual crosstalk of the imaging light on optogenetic manipulation. Despite residual crosstalk, we have demonstrated the utility of this technology by probing the causal relationship between basolateral amygdala (BLA) -to- nucleus accumbens (NAc) circuit function, behavior, and network dynamics. Using this integrated microscope we were able to observe both a significant behavioral and cellular calcium response of the optogenetic modulation on the BLA-to-NAc circuit. This integrated strategy will allow for routine investigation of the causality of circuit manipulation on cellular-resolution network dynamics and behavior."
+  ],
+  "affiliation": [
+    "Inscopix Inc., Palo Alto, CA, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "P30 NS069375"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Calcium imaging",
+        "Optogenetics",
+        "Neurocircuits",
+        "Freely Behaving",
+        "Grin Lenses"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6066578?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6066578"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnins.2018.00496"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-08-09"
+  ],
+  "firstIndexDate": [
+    "2018-08-09"
+  ],
+  "dateOfRevision": [
+    "2018-08-11"
+  ],
+  "electronicPublicationDate": [
+    "2018-07-24"
+  ],
+  "firstPublicationDate": [
+    "2018-07-24"
+  ]
+}

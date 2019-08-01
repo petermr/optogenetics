@@ -1,0 +1,409 @@
+{
+  "id": [
+    "30232391"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30232391"
+  ],
+  "pmcid": [
+    "PMC6145901"
+  ],
+  "doi": [
+    "10.1038/s41598-018-32075-0"
+  ],
+  "title": [
+    "Optogenetic Peripheral Nerve Immunogenicity."
+  ],
+  "authorString": [
+    "Maimon BE, Diaz M, Revol ECM, Schneider AM, Leaker B, Varela CE, Srinivasan S, Weber MB, Herr HM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Maimon BE"
+          ],
+          "firstName": [
+            "Benjamin E"
+          ],
+          "lastName": [
+            "Maimon"
+          ],
+          "initials": [
+            "BE"
+          ],
+          "affiliation": [
+            "MIT Media Lab, Center for Extreme Bionics, Massachusetts Institute of Technology, Cambridge, MA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Diaz M"
+          ],
+          "firstName": [
+            "Maurizio"
+          ],
+          "lastName": [
+            "Diaz"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology, Cambridge, MA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Revol ECM"
+          ],
+          "firstName": [
+            "Emilie C M"
+          ],
+          "lastName": [
+            "Revol"
+          ],
+          "initials": [
+            "ECM"
+          ],
+          "affiliation": [
+            "Department of Bioengineering, École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Schneider AM"
+          ],
+          "firstName": [
+            "Alexis M"
+          ],
+          "lastName": [
+            "Schneider"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2158-6915",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biological Engineering, Massachusetts Institute of Technology, Cambridge, MA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Leaker B"
+          ],
+          "firstName": [
+            "Ben"
+          ],
+          "lastName": [
+            "Leaker"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Harvard-MIT Division of Health Sciences and Technology (HST), Massachusetts Institute of Technology, Cambridge, MA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Varela CE"
+          ],
+          "firstName": [
+            "Claudia E"
+          ],
+          "lastName": [
+            "Varela"
+          ],
+          "initials": [
+            "CE"
+          ],
+          "affiliation": [
+            "Harvard-MIT Division of Health Sciences and Technology (HST), Massachusetts Institute of Technology, Cambridge, MA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Srinivasan S"
+          ],
+          "firstName": [
+            "Shriya"
+          ],
+          "lastName": [
+            "Srinivasan"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2508-1324",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "MIT Media Lab, Center for Extreme Bionics, Massachusetts Institute of Technology, Cambridge, MA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Weber MB"
+          ],
+          "firstName": [
+            "Matthew B"
+          ],
+          "lastName": [
+            "Weber"
+          ],
+          "initials": [
+            "MB"
+          ],
+          "affiliation": [
+            "MIT Media Lab, Center for Extreme Bionics, Massachusetts Institute of Technology, Cambridge, MA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Herr HM"
+          ],
+          "firstName": [
+            "Hugh M"
+          ],
+          "lastName": [
+            "Herr"
+          ],
+          "initials": [
+            "HM"
+          ],
+          "affiliation": [
+            "MIT Media Lab, Center for Extreme Bionics, Massachusetts Institute of Technology, Cambridge, MA, USA. hherr@media.mit.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2508-1324",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2158-6915",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2722578"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "14076"
+  ],
+  "abstractText": [
+    "Optogenetic technologies have been the subject of great excitement within the scientific community for their ability to demystify complex neurophysiological pathways in the central (CNS) and peripheral nervous systems (PNS). The excitement surrounding optogenetics has also extended to the clinic with a trial for ChR2 in the treatment of retinitis pigmentosa currently underway and additional trials anticipated for the near future. In this work, we identify the cause of loss-of-expression in response to transdermal illumination of an optogenetically active peroneal nerve following an anterior compartment (AC) injection of AAV6-hSyn-ChR2(H134R) with and without a fluorescent reporter. Using Sprague Dawley Rag2-/- rats and appropriate controls, we discover optogenetic loss-of-expression is chiefly elicited by ChR2-mediated immunogenicity in the spinal cord, resulting in both CNS motor neuron death and ipsilateral muscle atrophy in both low and high Adeno-Associated Virus (AAV) dosages. We further employ pharmacological immunosuppression using a slow-release tacrolimus pellet to demonstrate sustained transdermal optogenetic expression up to 12 weeks. These results suggest that all dosages of AAV-mediated optogenetic expression within the PNS may be unsafe. Clinical optogenetics for both PNS and CNS applications should take extreme caution when employing opsins to treat disease and may require concurrent immunosuppression. Future work in optogenetics should focus on designing opsins with lesser immunogenicity."
+  ],
+  "affiliation": [
+    "MIT Media Lab, Center for Extreme Bionics, Massachusetts Institute of Technology, Cambridge, MA, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6145901?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6145901"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-018-32075-0"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-09-21"
+  ],
+  "firstIndexDate": [
+    "2018-09-20"
+  ],
+  "dateOfRevision": [
+    "2018-09-25"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-19"
+  ],
+  "firstPublicationDate": [
+    "2018-09-19"
+  ]
+}

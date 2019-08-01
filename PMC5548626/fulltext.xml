@@ -1,0 +1,2566 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Neurosci Res</journal-id><journal-id journal-id-type="iso-abbrev">J. Neurosci. Res</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1097-4547</journal-id><journal-id journal-id-type="publisher-id">JNR</journal-id><journal-title-group><journal-title>Journal of Neuroscience Research</journal-title></journal-title-group><issn pub-type="ppub">0360-4012</issn><issn pub-type="epub">1097-4547</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5548626</article-id><article-id pub-id-type="doi">10.1002/jnr.23767</article-id><article-id pub-id-type="publisher-id">JNR23767</article-id><article-categories><subj-group subj-group-type="overline"><subject>Review</subject></subj-group><subj-group subj-group-type="heading"><subject>Review</subject><subj-group subj-group-type="heading"><subject>In Focus: Illuminating Seizures: Optogenetic Approaches to Studying Networks in Epilepsy by Esther Krook&#x02010;Magnuson</subject></subj-group></subj-group></article-categories><title-group><article-title>Optogenetic study of networks in epilepsy</article-title><alt-title alt-title-type="right-running-head">Optogenetics and Epilepsy</alt-title><alt-title alt-title-type="left-running-head">Choy et al.</alt-title></title-group><contrib-group><contrib id="jnr23767-cr-0001" contrib-type="author"><name><surname>Choy</surname><given-names>ManKin</given-names></name><xref ref-type="aff" rid="jnr23767-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jnr23767-cr-0002" contrib-type="author"><name><surname>Duffy</surname><given-names>Ben A.</given-names></name><xref ref-type="aff" rid="jnr23767-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jnr23767-cr-0003" contrib-type="author" corresp="yes"><name><surname>Lee</surname><given-names>Jin Hyung</given-names></name><address><email>ljinhy@stanford.edu</email></address><xref ref-type="aff" rid="jnr23767-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jnr23767-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="jnr23767-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="jnr23767-aff-0004">
+<sup>4</sup>
+</xref></contrib></contrib-group><aff id="jnr23767-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Neurology and Neurological Sciences</named-content>
+<institution>Stanford University</institution>
+<named-content content-type="city">Stanford</named-content>
+<named-content content-type="country-part">California</named-content>
+</aff><aff id="jnr23767-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Bioengineering</named-content>
+<institution>Stanford University</institution>
+<named-content content-type="city">Stanford</named-content>
+<named-content content-type="country-part">California</named-content>
+</aff><aff id="jnr23767-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Neurosurgery</named-content>
+<institution>Stanford University</institution>
+<named-content content-type="city">Stanford</named-content>
+<named-content content-type="country-part">California</named-content>
+</aff><aff id="jnr23767-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Department of Electrical Engineering</named-content>
+<institution>Stanford University</institution>
+<named-content content-type="city">Stanford</named-content>
+<named-content content-type="country-part">California</named-content>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>Correspondence to: Jin Hyung Lee, PhD, 1201 Welch Road, P206, Stanford, CA 94305. E&#x02010;mail: <email>ljinhy@stanford.edu</email></corresp></author-notes><pub-date pub-type="epub"><day>14</day><month>7</month><year>2016</year></pub-date><pub-date pub-type="ppub"><month>12</month><year>2017</year></pub-date><volume>95</volume><issue>12</issue><issue-id pub-id-type="doi">10.1002/jnr.v95.12</issue-id><fpage>2325</fpage><lpage>2335</lpage><history><date date-type="received"><day>23</day><month>2</month><year>2016</year></date><date date-type="rev-recd"><day>27</day><month>4</month><year>2016</year></date><date date-type="accepted"><day>28</day><month>4</month><year>2016</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2017 Wiley Periodicals, Inc. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2016 The Authors. Journal of Neuroscience Research Published by Wiley Periodicals, Inc.</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution&#x02010;NonCommercial&#x02010;NoDerivs</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:JNR-95-2325.pdf"/><abstract><title>Abstract</title><p>Currently, approximately 30% of patients with epilepsy do not have adequate seizure control. A greater understanding of the underlying mechanisms by which seizures start or propagate could lead to new therapeutic strategies. The recent development of optogenetics, because of its unprecedented precision for controlling activity within distinct neuronal populations, has revolutionized neuroscience, including epilepsy research. This Review discusses recent breakthroughs made with optogenetics in epilepsy research. These breakthroughs include new insights into the key roles that different cell types play in mediating seizures as well as in the development of epilepsy. Subsequently, we discuss how targeting different brain regions and cell populations has opened up the possibility of highly specific therapies that can stop seizures on demand. Finally, we illustrate how combining newly available neuroscience tools with whole&#x02010;brain imaging techniques will allow researchers to understand better the spread of seizures on a network level. &#x000a9; 2016 The Authors. Journal of Neuroscience Research Published by Wiley Periodicals, Inc.</p></abstract><kwd-group><kwd id="jnr23767-kwd-0001">optogenetics</kwd><kwd id="jnr23767-kwd-0002">epilepsy</kwd><kwd id="jnr23767-kwd-0003">seizures</kwd></kwd-group><funding-group><award-group><funding-source>National Institute of Biomedical Imaging and Bioengineering
+</funding-source><award-id>R00EB008738
+</award-id></award-group><award-group><funding-source>Okawa Foundation Research Grant Award
+</funding-source></award-group><award-group><funding-source>National Institutes of Health Director's New Innovator Award
+</funding-source><award-id>DP2OD007265
+</award-id></award-group><award-group><funding-source>National Science Foundation Career Award
+</funding-source><award-id>1056008
+</award-id></award-group><award-group><funding-source>Alfred P. Sloan Research Fellowship
+</funding-source></award-group><award-group><funding-source>Stanford Bio&#x02010;X Interdisciplinary Initiatives Seed Grant Program
+</funding-source></award-group><award-group><funding-source>National Institute of Neurological Disorders and Stroke
+</funding-source><award-id>R01NS087159
+</award-id><award-id>R01NS091461
+</award-id></award-group><award-group><funding-source>National Institute on Aging
+</funding-source><award-id>RF1AG047666
+</award-id></award-group></funding-group><counts><fig-count count="1"/><table-count count="1"/><page-count count="11"/><word-count count="7212"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>jnr23767</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.2.1 mode:remove_FC converted:25.10.2017</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group><fn id="jnr23767-note-1001"><p>SIGNIFICANCE Optogenetics is a relatively new technique that allows researchers to control brain cells and neural circuits by genetically engineering them to respond to light. Using optogenetic tools, epilepsy researchers have made breakthroughs in our understanding of seizures and the development of epilepsy. Recent studies have also highlighted a potential new therapeutic avenue. Furthermore, by combining optogenetics with whole&#x02010;brain imaging, seizure circuits can now be monitored in their entirety and manipulated with cell type specificity.</p></fn></fn-group></notes></front><body><p>Epileptic seizures are characterized by transient bursts of pathological activity permeating brain networks. Since the middle of the 20th century, epilepsy researchers have used electrical and pharmacological tools to probe epileptic networks, leading to considerable improvements in treatments for epilepsy (Putnam and Merritt, <xref rid="jnr23767-bib-0068" ref-type="ref">1937</xref>; Spiegel, <xref rid="jnr23767-bib-0077" ref-type="ref">1937</xref>; Goddard et al., <xref rid="jnr23767-bib-0029" ref-type="ref">1969</xref>; for excellent historical reviews of epilepsy drug development, see Shorvon, <xref rid="jnr23767-bib-0074" ref-type="ref">2009a</xref>, <xref rid="jnr23767-bib-0075" ref-type="ref">2009b</xref>; Brodie, <xref rid="jnr23767-bib-0007" ref-type="ref">2010</xref>). However, approximately 30% of patients with epilepsy do not respond to antiepileptic medications, and at this time we do not fully understand the conditions required for seizures to start, propagate, or stop. The recent development of optogenetics, because of its unprecedented precision, has revolutionized neuroscience, including epilepsy research; it has allowed us to target specific cell types and to switch them on or off with exquisite temporal control, revealing the details of seizure circuits like never before. Although the use of optogenetics in epilepsy research is still in its infancy, exciting work has already emerged, including new insights into the key roles of certain cell types in mediating seizures and epileptogenesis. Optogenetics has also revealed the potential of very specific targeted interventions that could allow on&#x02010;demand seizure interventions. Combining these new research tools with imaging technologies such as functional magnetic resonance imaging (fMRI) will allow us to have a better understanding of seizure circuits over the whole brain. This Review discusses some of the most recent breakthroughs in the field of optogenetics and epilepsy research. First, we discuss how optogenetics has been used to further our understanding of seizure circuits, and then we consider the future potential of this technique to aid both our understanding and the treatment of epilepsy.</p><sec id="jnr23767-sec-0003"><title>UNDERSTANDING SEIZURE CIRCUITS</title><p>Epilepsy research has a long history of using electrical stimulation of brain regions to drive seizure&#x02010;like afterdischarges, and this technique is widely used in animal models (Goddard et al., <xref rid="jnr23767-bib-0029" ref-type="ref">1969</xref>; Racine, <xref rid="jnr23767-bib-0069" ref-type="ref">1972</xref>; Pinel and Rovner, <xref rid="jnr23767-bib-0066" ref-type="ref">1978</xref>; Leung, <xref rid="jnr23767-bib-0049" ref-type="ref">1987</xref>; Nissinen et al., <xref rid="jnr23767-bib-0061" ref-type="ref">2000</xref>; Englot et al., <xref rid="jnr23767-bib-0022" ref-type="ref">2008</xref>). However, electrical stimulation is nonspecific, exciting all types of neurons as well as nonneuronal cells, thus making it difficult to elucidate the role played by individual cell types during the generation of seizures (Pitk&#x000e4;nen et al., <xref rid="jnr23767-bib-0067" ref-type="ref">2006</xref>). The optogenetics toolbox has helped to disentangle these roles and, in this way, has aided our understanding of the conditions that allow seizures to emerge.</p><p>Optogenetics uses light at different wavelengths to excite or inhibit the activity of opsin&#x02010;expressing cells with millisecond control (Boyden et al., <xref rid="jnr23767-bib-0006" ref-type="ref">2005</xref>; Deisseroth, <xref rid="jnr23767-bib-0017" ref-type="ref">2015</xref>). The nonselective cation channel channelrhodopsin&#x02010;2 (Chr2) and its variants are used for depolarizing cells, and halorhodopsin&#x02010;3, a chloride pump, archaeorhodopsin&#x02010;3, a proton pump, or their variants are commonly used for inhibition or hyperpolarization. By tying the expression of these genes to specific promoters and delivering light onto targeted regions, the activity of particular cell populations can be rapidly modulated in a given circuit.</p><p>The emergence of seizures has classically been attributed to a shift in the balance between excitation and inhibition neuronal activity toward excitation. The mechanisms that underlie this transition to seizure are not well understood, but evidence suggests that there is significant interplay between pyramidal cells and interneurons in the emergence of epileptic phenomena. For example, in in vitro hippocampal slices from rats, simultaneous whole&#x02010;cell recordings from pyramidal cells and interneurons have revealed that both types of cells are active at different times during the course of a seizure; interneurons are more active at onset of epileptiform discharges but then undergo a period of depolarization block, during which there is an increase in pyramidal cell firing (Ziburkus et al., <xref rid="jnr23767-bib-0090" ref-type="ref">2006</xref>). Toyoda and colleagues (<xref rid="jnr23767-bib-0082" ref-type="ref">2015</xref>) found a similar response in vivo using unit recordings in the postpilocarpine epileptic rat. Most interneurons recorded in the hippocampus (most notably in the subiculum) increased in firing rate up to 4 min prior to the onset of spontaneous seizures. During this time, a smaller population of interneurons decreased in firing rate. After seizure onset, many of the examined interneurons briefly stopped firing before resuming activity. The mechanism of this pause is not known, but Toyoda and colleagues (<xref rid="jnr23767-bib-0082" ref-type="ref">2015</xref>) speculated that it could be due to depolarization block resulting from elevated extracellular potassium ion concentrations.</p><p>The preictal change in interneuronal firing rate could indicate a possible role for them in the initiation of spontaneous seizures. With respect to evoked seizures, remarkably, blocking GABAergic synapses with bicuculline in hippocampal slices enhances the generation of short&#x02010;duration interictal bursts but prevents electrically induced afterdischarges altogether (Higashima et al., <xref rid="jnr23767-bib-0031" ref-type="ref">1996</xref>). Studying epileptic tissue from the human hippocampus, Huberfeld and colleagues (<xref rid="jnr23767-bib-0033" ref-type="ref">2011</xref>) found that the transition to seizure is preceded by pyramidal cell firing and dependent on glutamatergic signaling, whereas interictal epileptiform activity is preceded by interneuron firing and involves both glutamatergic and GABAergic mechanisms. Nevertheless, because of complex interdependencies, it has been difficult to disentangle the precise role of individual cell populations. The development of optogenetics has afforded researchers the possibility of driving specific cell populations, with the aim of investigating their roles in seizure mechanisms.</p><p>Osawa and colleagues (<xref rid="jnr23767-bib-0062" ref-type="ref">2013</xref>) found that repetitive optogenetic stimulation of hippocampal neurons at 10 or 20 Hz efficiently evokes seizure&#x02010;like afterdischarges in rats anesthetized under ketamine and xylazine. Furthermore, selective stimulation of the excitatory hippocampal pyramidal cell population via the Ca<sup>2+</sup>/calmodulin&#x02010;dependent protein kinase II&#x003b1; (CamKII) promoter (Weitz et al., <xref rid="jnr23767-bib-0086" ref-type="ref">2015</xref>) also evokes seizure&#x02010;like afterdischarges in awake and anesthetized rats, confirming the hypothesis that excessive tetanic stimulation of excitatory neurons can result in seizures. Alongside the benefits of inducing epileptic activity from specific cell types with temporal precision, another key advantage of optogenetic seizure initiation is that simultaneous electrophysiology remains uncontaminated by electrical stimulation artefacts during the stimulation period so that the dynamics of the stimulation period may be investigated. However, artefacts on electrophysiology can occur if the light delivered for stimulation hits the recording electrode, inducing a photovoltaic effect. These artefacts may be reduced or eliminated by moving the electrode away from light contamination (Cardin et al., <xref rid="jnr23767-bib-0010" ref-type="ref">2010</xref>). Stimulating rat dorsal hippocampal neurons (expressing ChR2 under the Thy1.2 promoter) in vivo, Osawa and colleagues (<xref rid="jnr23767-bib-0062" ref-type="ref">2013</xref>) noted that, at the start of stimulation, evoked potentials were time locked to the light pulses, but, eventually, abnormal spontaneous activity emerged in addition to the evoked potentials that persisted beyond the end of the stimulation period. A Granger causality analysis on the local field potential (LFP) traces recorded from the septal and temporal hippocampus suggested that the direction of causal influence shifts during the development of afterdischarges from initially being greater in the septotemporal direction at onset to being greater in the temporal&#x02010;septal direction toward the end. Using fMRI during selective stimulation of CamKII hippocampal neurons allowed the visualization of distinct frequency&#x02010;dependent networks, which depended on the location along the septal&#x02010;temporal axis at which the stimulation was applied (Weitz et al., <xref rid="jnr23767-bib-0086" ref-type="ref">2015</xref>). For example, dorsal stimulations resulted in activity restricted to limbic regions, whereas intermediate stimulations led to widespread brain activity, including recruitment of the cortical and subcortical regions. Awake&#x02010;behavioral experiments also suggested a more severe phenotype after stimulation of the intermediate compared with the dorsal hippocampus.</p><p>Modulating excitatory neurons is not the only means for driving seizures optogenetically; other research has suggested that activity within the inhibitory system also plays a critical role in this shift toward excitation. When postsynaptic intracellular chloride concentrations significantly increase, which occurs during seizure discharges, GABA<sub>A</sub> receptors become depolarizing instead of hyperpolarizing, and inhibitory interneurons effectively become excitatory; this mechanism is thought to induce or facilitate seizures (Staley et al., <xref rid="jnr23767-bib-0078" ref-type="ref">1995</xref>; Bernard et al., <xref rid="jnr23767-bib-0003" ref-type="ref">2000</xref>; Lillis et al., <xref rid="jnr23767-bib-0051" ref-type="ref">2012</xref>; Trevelyan et al., <xref rid="jnr23767-bib-0083" ref-type="ref">2015</xref>). In line with this hypothesis, under certain conditions, epileptiform discharges can be initiated in entorhinal cortex slices by selective optogenetic activation of individual classes of interneurons, including parvalbumin (PV)&#x02010; and somatostatin (SOM)&#x02010;expressing neurons (Shiri et al., <xref rid="jnr23767-bib-0073" ref-type="ref">2015</xref>; Yekhlef et al., <xref rid="jnr23767-bib-0089" ref-type="ref">2015</xref>). For example, in the 4&#x02010;aminopyridine (4AP) in vitro slice model, stimulating PV&#x02010;expressing cells rapidly evokes epileptiform activity with a distinct low&#x02010;voltage fast&#x02010;onset pattern resembling those that occur spontaneously in the same model (Shiri et al., <xref rid="jnr23767-bib-0073" ref-type="ref">2015</xref>). Similarly, Yekhlef and colleagues (<xref rid="jnr23767-bib-0089" ref-type="ref">2015</xref>) demonstrated that stimulating either PV&#x02010; or SOM&#x02010;expressing neurons in medial entorhinal cortical slices perfused in 4AP triggers interictal and preictal spikes that rapidly lead to seizure&#x02010;like events. Furthermore, these stimulations were accompanied by a rapid and transient accumulation of extracellular potassium, an effect also found in spontaneous events, before the emergence of epileptiform activity. Such an accumulation in itself can contribute to these discharges and is consistent with the hypothesis that intense interneuronal activation can result in an excitatory drive resulting from elevated intracellular chloride and a consequent increased extracellular potassium mediated by the K<sup>+</sup>&#x02010;Cl<sup>&#x02013;</sup> cotransporter KCC2 (Kaila et al., <xref rid="jnr23767-bib-0036" ref-type="ref">1997</xref>; Viitanen et al., <xref rid="jnr23767-bib-0084" ref-type="ref">2010</xref>; Yekhlef et al., <xref rid="jnr23767-bib-0089" ref-type="ref">2015</xref>).</p><p>The role of inhibitory interneurons is likely to be nuanced, and researchers have suggested that their effect is apparent only when there is a background of pathological activity (Ellender et al., <xref rid="jnr23767-bib-0021" ref-type="ref">2014</xref>; Sessolo et al., <xref rid="jnr23767-bib-0072" ref-type="ref">2015</xref>; Yekhlef et al., <xref rid="jnr23767-bib-0089" ref-type="ref">2015</xref>). Activating PV interneurons in vitro generated epileptiform discharges only in areas with concomitant localized hyperactivity (Sessolo et al., <xref rid="jnr23767-bib-0072" ref-type="ref">2015</xref>). Furthermore, directly increasing the GABA reversal potential by loading hippocampal pyramidal cells with chloride using halorhodopsin was not enough on its own to induce epileptiform discharges; although overall network activity was affected, discharges emerged only after a low dose of 4AP was added to increase background activity (Alfonsa et al., <xref rid="jnr23767-bib-0001" ref-type="ref">2015</xref>). These findings suggest that the preictal environment is crucial in determining the role played by different cell types in seizure onset. Also highlighting the importance of the preictal state, in an in vivo model of absence seizures generated by optogenetic stimulation of excitatory neocortical neurons, Wagner and colleagues (<xref rid="jnr23767-bib-0085" ref-type="ref">2015</xref>) found that the average LFP power before optogenetic stimulation appears to be significantly lower in trials that led to induced seizures compared with those that did not. Likewise, the influence of different cell types may change or wax and wane over the course of a seizure. For example, Ellender and colleagues (<xref rid="jnr23767-bib-0021" ref-type="ref">2014</xref>) found in their in vitro preparation that, although PV interneurons are inhibitory during the early stages of epileptiform discharges, during the later clonic stages they not only excite pyramidal cells because of high intracellular chloride levels but also directly act to synchronize pyramidal cells across the network, thereby potentiating and maintaining epileptiform discharges (Ellender et al., <xref rid="jnr23767-bib-0021" ref-type="ref">2014</xref>).</p></sec><sec id="jnr23767-sec-0004"><title>EPILEPTOGENESIS</title><p>Epileptogenesis is the process in which neural circuit reorganization leads to epilepsy. Understanding how the circuit reorganizes and understanding the conditions required for the emergence of seizures remain critical, unsolved goals for epilepsy research (Buckmaster and Dudek, <xref rid="jnr23767-bib-0008" ref-type="ref">1997</xref>; Kelley et al., <xref rid="jnr23767-bib-0037" ref-type="ref">2009</xref>). One of the challenges to achieving these goals is that weeks or even years can pass between an epilepsy&#x02010;inducing brain injury and the onset of seizures, and during this time the insult will have induced a myriad of processes, including inflammation, neurogenesis, cell death, and gliosis (Mathern et al., <xref rid="jnr23767-bib-0057" ref-type="ref">1995</xref>; Lukasiuk et al., <xref rid="jnr23767-bib-0056" ref-type="ref">2003</xref>; Duffy et al., <xref rid="jnr23767-bib-0019" ref-type="ref">2012</xref>; Choy et al., <xref rid="jnr23767-bib-0013" ref-type="ref">2014a</xref>, <xref rid="jnr23767-bib-0014" ref-type="ref">2014b</xref>). The degree of neuronal activity during development may play an important role by setting homeostatic limits that can influence subsequent seizure expression. In a genetic <italic>Drosophila</italic> model of epilepsy, researchers were able to prevent the emergence of the seizure phenotype by reducing neuronal activity with halorhodopsin during a critical period in embryonic development (Giachello and Baines, <xref rid="jnr23767-bib-0028" ref-type="ref">2015</xref>). Conversely, using ChR to increase activity during this period, they were able to induce the seizure phenotype in wild&#x02010;type flies. If this property is conserved across species, identifying such a critical developmental window may have profound consequences for genetic epilepsies and could also inform our understanding and treatment of acquired epilepsies, in which significant neurogenesis is known to occur.</p><p>Even after epilepsy emerges, however, it is unclear which features of an epileptic circuit make it hyperexcitable and inherently prone to seizures. Epilepsy is often associated with widespread circuit changes, but it is difficult to separate epileptogenic changes from those that are compensatory or mere epiphenomena. In temporal lobe epilepsy, common structural changes include mossy fiber sprouting, granule cell dispersion, loss of pyramidal cells in CA1, and changes to inhibitory neurons (Thom and Bertram, <xref rid="jnr23767-bib-0080" ref-type="ref">2012</xref>), but we do not yet know which of these changes, if any, makes the region prone to seizures. Directly manipulating individual cell populations will help to characterize epileptic circuits further and to reveal the roles of those cells (Buckmaster and Lew, <xref rid="jnr23767-bib-0009" ref-type="ref">2011</xref>; Peng et al., <xref rid="jnr23767-bib-0065" ref-type="ref">2013</xref>). For example, in rats with epilepsy induced by status epilepticus, there is substantial axonal reorganization in the hippocampus, including in dentate granule cells and in PV&#x02010; and SOM&#x02010;expressing interneurons (Peng et al., <xref rid="jnr23767-bib-0065" ref-type="ref">2013</xref>). By targeting SOM&#x02010;expressing CA1 neurons and using optogenetic stimulation in slices taken from these epileptic rats, Peng and colleagues (<xref rid="jnr23767-bib-0065" ref-type="ref">2013</xref>) demonstrated that these interneurons increase their functional territories in the reorganized circuit, extending their influence from the CA1 into the dentate gyrus. Recently, three separate studies have shown that hippocampal grafts of GABAergic interneurons reduce seizure frequency in chronic epilepsy (Hunt et al., <xref rid="jnr23767-bib-0034" ref-type="ref">2013</xref>; Cunningham et al., <xref rid="jnr23767-bib-0016" ref-type="ref">2014</xref>; Henderson et al., <xref rid="jnr23767-bib-0030" ref-type="ref">2014</xref>). First, Hunt and colleagues (<xref rid="jnr23767-bib-0034" ref-type="ref">2013</xref>) showed that implanting inhibitory neurons into the mouse hippocampus dramatically reduced spontaneous seizures, whereas grafting these cells into the amygdala did not affect seizure frequency. Cunningham and colleagues (<xref rid="jnr23767-bib-0016" ref-type="ref">2014</xref>) transplanted ChR2&#x02010;expressing human&#x02010;derived maturing GABAergic interneurons into the hippocampi of epileptic mice and discovered extensive migration and integration with host circuitry. Channelrhodopsin&#x02010;2 stimulation led to robust postsynaptic responses in host hippocampal neurons. Similarly, Henderson and colleagues (<xref rid="jnr23767-bib-0030" ref-type="ref">2014</xref>) transplanted ChR2&#x02010;expressing fetal medial ganglionic eminence GABAergic progenitor cells into the mouse hippocampi 2 weeks after pilocarpine&#x02010;induced status epilepticus and found reduced seizure frequency between 61 and 80 days after the initial injury. These cells became functionally integrated into the network, and stimulating ChR2&#x02010;expressing cells from hippocampal slices collected during this period yielded responses in host granule cells, innervated by these transplanted interneurons. Histology indicated that the grafts differentiated into interneuron subtypes, including neuropeptide Y&#x02010;, PV&#x02010;, and SOM&#x02010;expressing cells. Additional functional mapping of these grafts may reveal the connectivity changes that reduce seizure activity and also help assess potential cell therapies for epilepsy.</p></sec><sec id="jnr23767-sec-0005"><title>OPTOGENETIC SEIZURE CONTROL</title><p>Controlling seizures, ideally without side effects, is still an unattained goal; approximately 30% of patients with epilepsy do not respond to conventional therapies. However, it has been shown that optogenetics can be used to ameliorate seizures and that this can be achieved with only a brief targeted intervention at the beginning of the seizure (Krook&#x02010;Magnuson et al., <xref rid="jnr23767-bib-0041" ref-type="ref">2013</xref>; Paz et al., <xref rid="jnr23767-bib-0064" ref-type="ref">2013</xref>).</p><p>Since the first study, in 2009, that reported halorhodopsin could be used to control hippocampal epileptiform activity in vitro (T&#x000f8;nnesen et al., <xref rid="jnr23767-bib-0081" ref-type="ref">2009</xref>), progress has been rapid, and in vivo studies have quickly followed (Wykes et al., <xref rid="jnr23767-bib-0088" ref-type="ref">2012</xref>; Krook&#x02010;Magnuson et al., <xref rid="jnr23767-bib-0041" ref-type="ref">2013</xref>; Paz et al., <xref rid="jnr23767-bib-0064" ref-type="ref">2013</xref>; Sukhotinsky et al., <xref rid="jnr23767-bib-0079" ref-type="ref">2013</xref>). Optogenetics has now been shown to be effective for ameliorating seizures in vivo across a spectrum of epilepsy models, including neocortical, temporal lobe, poststroke, and absence epilepsies as well as status epilepticus (see Table <xref rid="jnr23767-tbl-0001" ref-type="table-wrap">1</xref>). For example, several studies have shown that halorhodopsin, expressed in excitatory neurons, can be used to stop seizures. Inhibiting neocortical CamKII&#x02010;expressing neurons with halorhodopsin reduced epileptiform activity in the tetanus rat model of neocortical epilepsy (Wykes et al., <xref rid="jnr23767-bib-0088" ref-type="ref">2012</xref>), and suppressing hippocampal activity was effective in a mouse model of temporal lobe epilepsy (Krook&#x02010;Magnuson et al., <xref rid="jnr23767-bib-0041" ref-type="ref">2013</xref>). After photothrombotic cortical stroke in rats, using halorhodopsin to inhibit CamKII&#x02010;expressing neurons in the ventrobasal thalamus halted thalamocortical seizures (Paz et al., <xref rid="jnr23767-bib-0064" ref-type="ref">2013</xref>), and, in the lithium&#x02010;pilocarpine rat model of status epilepticus, inhibiting hippocampal CamKII&#x02010;expressing neurons with halorhodopsin delayed seizure onset (Sukhotinsky et al., <xref rid="jnr23767-bib-0079" ref-type="ref">2013</xref>).</p><table-wrap id="jnr23767-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Summary of Regions Targeted for Optogenetic Control of Seizures In Vivo<xref ref-type="fn" rid="jnr23767-note-0001">a</xref>
+</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><thead valign="bottom"><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Target region</th><th align="center" valign="bottom" rowspan="1" colspan="1">Promoter</th><th align="center" valign="bottom" rowspan="1" colspan="1">Cell type</th><th align="center" valign="bottom" rowspan="1" colspan="1">Opsin</th><th align="center" valign="bottom" rowspan="1" colspan="1">Model</th><th align="center" valign="bottom" rowspan="1" colspan="1">Effect</th><th align="center" valign="bottom" rowspan="1" colspan="1">Reference</th></tr></thead><tbody valign="top"><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Motor cortex</td><td align="left" valign="top" rowspan="1" colspan="1">CamKII</td><td align="left" valign="top" rowspan="1" colspan="1">Glutamatergic</td><td align="left" valign="top" rowspan="1" colspan="1">NpHR</td><td align="left" valign="top" rowspan="1" colspan="1">Intracortical tetanus toxin</td><td align="left" valign="top" rowspan="1" colspan="1">Reduced frequency of epileptiform events</td><td align="left" valign="top" rowspan="1" colspan="1">Wykes et al., <xref rid="jnr23767-bib-0088" ref-type="ref">2012</xref>
+</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Ventrobasal thalamus</td><td align="left" valign="top" rowspan="1" colspan="1">CamKII</td><td align="left" valign="top" rowspan="1" colspan="1">Glutamatergic</td><td align="left" valign="top" rowspan="1" colspan="1">NpHR</td><td align="left" valign="top" rowspan="1" colspan="1">Photothrombotic stroke</td><td align="left" valign="top" rowspan="1" colspan="1">Reduces power of epileptic events</td><td align="left" valign="top" rowspan="1" colspan="1">Paz et al., <xref rid="jnr23767-bib-0064" ref-type="ref">2013</xref>
+</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Hippocampus</td><td align="left" valign="top" rowspan="1" colspan="1">CamKII</td><td align="left" valign="top" rowspan="1" colspan="1">Glutamatergic</td><td align="left" valign="top" rowspan="1" colspan="1">NpHR</td><td align="left" valign="top" rowspan="1" colspan="1">Systemic pilocarpine&#x02010;induced SE</td><td align="left" valign="top" rowspan="1" colspan="1">Delayed SE onset by 5 min</td><td align="left" valign="top" rowspan="1" colspan="1">Sukhotinsky et al., <xref rid="jnr23767-bib-0079" ref-type="ref">2013</xref>
+</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Ipsilateral hippocampus CA1</td><td align="left" valign="top" rowspan="1" colspan="1">PV</td><td align="left" valign="top" rowspan="1" colspan="1">GABAergic</td><td align="left" valign="top" rowspan="1" colspan="1">ChR2</td><td align="left" valign="top" rowspan="1" colspan="1">Intrahippocampal KA spontaneous seizures</td><td align="left" valign="top" rowspan="1" colspan="1">Reduces seizure duration</td><td align="left" valign="top" rowspan="1" colspan="1">Krook&#x02010;Magnuson et al., <xref rid="jnr23767-bib-0041" ref-type="ref">2013</xref>
+</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Contralateral hippocampus CA1</td><td align="left" valign="top" rowspan="1" colspan="1">PV</td><td align="left" valign="top" rowspan="1" colspan="1">GABAergic</td><td align="left" valign="top" rowspan="1" colspan="1">ChR2</td><td align="left" valign="top" rowspan="1" colspan="1">Intrahippocampal KA spontaneous seizures</td><td align="left" valign="top" rowspan="1" colspan="1">Reduces seizure duration</td><td align="left" valign="top" rowspan="1" colspan="1">Krook&#x02010;Magnuson et al., <xref rid="jnr23767-bib-0041" ref-type="ref">2013</xref>
+</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Ipsilateral hippocampus CA1</td><td align="left" valign="top" rowspan="1" colspan="1">CamKII</td><td align="left" valign="top" rowspan="1" colspan="1">Glutamatergic</td><td align="left" valign="top" rowspan="1" colspan="1">NpHR</td><td align="left" valign="top" rowspan="1" colspan="1">Intrahippocampal KA spontaneous seizures</td><td align="left" valign="top" rowspan="1" colspan="1">Reduces seizure duration</td><td align="left" valign="top" rowspan="1" colspan="1">Krook&#x02010;Magnuson et al., <xref rid="jnr23767-bib-0041" ref-type="ref">2013</xref>
+</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Ipsilateral cerebellum</td><td align="left" valign="top" rowspan="1" colspan="1">PV</td><td align="left" valign="top" rowspan="1" colspan="1">GABAergic</td><td align="left" valign="top" rowspan="1" colspan="1">ChR2</td><td align="left" valign="top" rowspan="1" colspan="1">Intrahippocampal KA spontaneous seizures</td><td align="left" valign="top" rowspan="1" colspan="1">Reduces seizure duration</td><td align="left" valign="top" rowspan="1" colspan="1">Krook&#x02010;Magnuson et al., <xref rid="jnr23767-bib-0042" ref-type="ref">2014</xref>
+</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Contralateral cerebellum</td><td align="left" valign="top" rowspan="1" colspan="1">PV</td><td align="left" valign="top" rowspan="1" colspan="1">GABAergic</td><td align="left" valign="top" rowspan="1" colspan="1">ChR2</td><td align="left" valign="top" rowspan="1" colspan="1">Intrahippocampal KA spontaneous seizures</td><td align="left" valign="top" rowspan="1" colspan="1">Reduces seizure duration</td><td align="left" valign="top" rowspan="1" colspan="1">Krook&#x02010;Magnuson et al., <xref rid="jnr23767-bib-0042" ref-type="ref">2014</xref>
+</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Ipsilateral cerebellum</td><td align="left" valign="top" rowspan="1" colspan="1">PV</td><td align="left" valign="top" rowspan="1" colspan="1">GABAergic</td><td align="left" valign="top" rowspan="1" colspan="1">NpHR</td><td align="left" valign="top" rowspan="1" colspan="1">Intrahippocampal KA spontaneous seizures</td><td align="left" valign="top" rowspan="1" colspan="1">Reduces seizure duration</td><td align="left" valign="top" rowspan="1" colspan="1">Krook&#x02010;Magnuson et al., <xref rid="jnr23767-bib-0042" ref-type="ref">2014</xref>
+</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Contralateral cerebellum</td><td align="left" valign="top" rowspan="1" colspan="1">PV</td><td align="left" valign="top" rowspan="1" colspan="1">GABAergic</td><td align="left" valign="top" rowspan="1" colspan="1">NpHR</td><td align="left" valign="top" rowspan="1" colspan="1">Intrahippocampal KA spontaneous seizures</td><td align="left" valign="top" rowspan="1" colspan="1">Reduces seizure duration</td><td align="left" valign="top" rowspan="1" colspan="1">Krook&#x02010;Magnuson et al., <xref rid="jnr23767-bib-0042" ref-type="ref">2014</xref>
+</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Midline cerebellum (vermis)</td><td align="left" valign="top" rowspan="1" colspan="1">PV</td><td align="left" valign="top" rowspan="1" colspan="1">GABAergic</td><td align="left" valign="top" rowspan="1" colspan="1">ChR2</td><td align="left" valign="top" rowspan="1" colspan="1">Intrahippocampal KA spontaneous seizures</td><td align="left" valign="top" rowspan="1" colspan="1">Reduces seizure duration and increase time to next seizure</td><td align="left" valign="top" rowspan="1" colspan="1">Krook&#x02010;Magnuson et al., <xref rid="jnr23767-bib-0042" ref-type="ref">2014</xref>
+</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Midline cerebellum (vermis)</td><td align="left" valign="top" rowspan="1" colspan="1">PV</td><td align="left" valign="top" rowspan="1" colspan="1">GABAergic</td><td align="left" valign="top" rowspan="1" colspan="1">NpHR</td><td align="left" valign="top" rowspan="1" colspan="1">Intrahippocampal KA spontaneous seizures</td><td align="left" valign="top" rowspan="1" colspan="1">No effect on time to next seizure</td><td align="left" valign="top" rowspan="1" colspan="1">Krook&#x02010;Magnuson et al., <xref rid="jnr23767-bib-0042" ref-type="ref">2014</xref>
+</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Hippocampus</td><td align="left" valign="top" rowspan="1" colspan="1">PV</td><td align="left" valign="top" rowspan="1" colspan="1">GABAergic</td><td align="left" valign="top" rowspan="1" colspan="1">NpHR</td><td align="left" valign="top" rowspan="1" colspan="1">Intrahippocampal KA spontaneous seizures</td><td align="left" valign="top" rowspan="1" colspan="1">No effect</td><td align="left" valign="top" rowspan="1" colspan="1">Krook&#x02010;Magnuson et al., <xref rid="jnr23767-bib-0042" ref-type="ref">2014</xref>
+</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Deep cerebellar nuclei</td><td align="left" valign="top" rowspan="1" colspan="1">PV</td><td align="left" valign="top" rowspan="1" colspan="1">GABAergic</td><td align="left" valign="top" rowspan="1" colspan="1">ChR2</td><td align="left" valign="top" rowspan="1" colspan="1">Intrahippocampal KA spontaneous seizures</td><td align="left" valign="top" rowspan="1" colspan="1">Reduces seizure duration and increase time to next seizure</td><td align="left" valign="top" rowspan="1" colspan="1">Krook&#x02010;Magnuson et al., <xref rid="jnr23767-bib-0042" ref-type="ref">2014</xref>
+</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Purkinje neurons in ipsilateral cerebellum</td><td align="left" valign="top" rowspan="1" colspan="1">Pcp2</td><td align="left" valign="top" rowspan="1" colspan="1">Purkinje (GABAergic)</td><td align="left" valign="top" rowspan="1" colspan="1">ChR2</td><td align="left" valign="top" rowspan="1" colspan="1">Intrahippocampal KA spontaneous seizures</td><td align="left" valign="top" rowspan="1" colspan="1">Reduces seizure duration</td><td align="left" valign="top" rowspan="1" colspan="1">Krook&#x02010;Magnuson et al., <xref rid="jnr23767-bib-0042" ref-type="ref">2014</xref>
+</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Hippocampus</td><td align="left" valign="top" rowspan="1" colspan="1">Thy1</td><td align="left" valign="top" rowspan="1" colspan="1">Panneuronal</td><td align="left" valign="top" rowspan="1" colspan="1">ChR2</td><td align="left" valign="top" rowspan="1" colspan="1">4&#x02010;AP intrahippocampal</td><td align="left" valign="top" rowspan="1" colspan="1">Seizure activity (signal power) during stimulation reduced by 80% but does not stop events</td><td align="left" valign="top" rowspan="1" colspan="1">Chiang et al., <xref rid="jnr23767-bib-0012" ref-type="ref">2014</xref>
+</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Hippocampus</td><td align="left" valign="top" rowspan="1" colspan="1">hSyn</td><td align="left" valign="top" rowspan="1" colspan="1">Panneuronal</td><td align="left" valign="top" rowspan="1" colspan="1">NpHR</td><td align="left" valign="top" rowspan="1" colspan="1">Intrahippocampal Bicuculline</td><td align="left" valign="top" rowspan="1" colspan="1">Reduced bursting frequency</td><td align="left" valign="top" rowspan="1" colspan="1">Berglind et al., 2014</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Ventrobasal thalamus</td><td align="left" valign="top" rowspan="1" colspan="1">CamKII</td><td align="left" valign="top" rowspan="1" colspan="1">Glutamatergic</td><td align="left" valign="top" rowspan="1" colspan="1">NpHR</td><td align="left" valign="top" rowspan="1" colspan="1">Penicillin in somatosensory cortex</td><td align="left" valign="top" rowspan="1" colspan="1">No effect</td><td align="left" valign="top" rowspan="1" colspan="1">Han et al., 2015</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Ipsilateral dentate gyrus</td><td align="left" valign="top" rowspan="1" colspan="1">Pomc</td><td align="left" valign="top" rowspan="1" colspan="1">Granule cell</td><td align="left" valign="top" rowspan="1" colspan="1">NpHR</td><td align="left" valign="top" rowspan="1" colspan="1">Intrahippocampal KA spontaneous seizures</td><td align="left" valign="top" rowspan="1" colspan="1">Reduces seizure duration</td><td align="left" valign="top" rowspan="1" colspan="1">Krook&#x02010;Magnuson et al., <xref rid="jnr23767-bib-0043" ref-type="ref">2015</xref>
+</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Contralateral dentate gyrus</td><td align="left" valign="top" rowspan="1" colspan="1">Pomc</td><td align="left" valign="top" rowspan="1" colspan="1">Granule cell</td><td align="left" valign="top" rowspan="1" colspan="1">NpHR</td><td align="left" valign="top" rowspan="1" colspan="1">Intrahippocampal KA spontaneous seizures</td><td align="left" valign="top" rowspan="1" colspan="1">No effect</td><td align="left" valign="top" rowspan="1" colspan="1">Krook&#x02010;Magnuson et al., <xref rid="jnr23767-bib-0043" ref-type="ref">2015</xref>
+</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Ipsi/contralateral dentate gyrus</td><td align="left" valign="top" rowspan="1" colspan="1">Pomc</td><td align="left" valign="top" rowspan="1" colspan="1">Granule cell</td><td align="left" valign="top" rowspan="1" colspan="1">ChR2</td><td align="left" valign="top" rowspan="1" colspan="1">Intrahippocampal KA spontaneous seizures</td><td align="left" valign="top" rowspan="1" colspan="1">Increased seizure severity</td><td align="left" valign="top" rowspan="1" colspan="1">Krook&#x02010;Magnuson et al., <xref rid="jnr23767-bib-0043" ref-type="ref">2015</xref>
+</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Superior colliculus</td><td align="left" valign="top" rowspan="1" colspan="1">hSyn</td><td align="left" valign="top" rowspan="1" colspan="1">Panneuronal</td><td align="left" valign="top" rowspan="1" colspan="1">ChR2</td><td align="left" valign="top" rowspan="1" colspan="1">Systemic PTZ</td><td align="left" valign="top" rowspan="1" colspan="1">Reduced seizure severity</td><td align="left" valign="top" rowspan="1" colspan="1">Soper et al., <xref rid="jnr23767-bib-0076" ref-type="ref">2015</xref>
+</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Superior colliculus</td><td align="left" valign="top" rowspan="1" colspan="1">hSyn</td><td align="left" valign="top" rowspan="1" colspan="1">Panneuronal</td><td align="left" valign="top" rowspan="1" colspan="1">ChR2</td><td align="left" valign="top" rowspan="1" colspan="1">Bicuculline in area tempestus</td><td align="left" valign="top" rowspan="1" colspan="1">Reduced seizure severity and frequency</td><td align="left" valign="top" rowspan="1" colspan="1">Soper et al., <xref rid="jnr23767-bib-0076" ref-type="ref">2015</xref>
+</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Superior colliculus</td><td align="left" valign="top" rowspan="1" colspan="1">hSyn</td><td align="left" valign="top" rowspan="1" colspan="1">Panneuronal</td><td align="left" valign="top" rowspan="1" colspan="1">ChR2</td><td align="left" valign="top" rowspan="1" colspan="1">GEPR&#x02010;3s (audiogenic seizure)</td><td align="left" valign="top" rowspan="1" colspan="1">Reduced seizure severity and increased latency to onset</td><td align="left" valign="top" rowspan="1" colspan="1">Soper et al., <xref rid="jnr23767-bib-0076" ref-type="ref">2015</xref>
+</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Superior colliculus</td><td align="left" valign="top" rowspan="1" colspan="1">hSyn</td><td align="left" valign="top" rowspan="1" colspan="1">Panneuronal</td><td align="left" valign="top" rowspan="1" colspan="1">ChR2</td><td align="left" valign="top" rowspan="1" colspan="1">Systemic &#x003b3;&#x02010;butyrolactone (absence seizures)</td><td align="left" valign="top" rowspan="1" colspan="1">Reduced seizure frequency and duration</td><td align="left" valign="top" rowspan="1" colspan="1">Soper et al., <xref rid="jnr23767-bib-0076" ref-type="ref">2015</xref>
+</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Hippocampus</td><td align="left" valign="top" rowspan="1" colspan="1">Thy1</td><td align="left" valign="top" rowspan="1" colspan="1">Panneuronal</td><td align="left" valign="top" rowspan="1" colspan="1">ChR2</td><td align="left" valign="top" rowspan="1" colspan="1">4&#x02010;AP intrahippocampal</td><td align="left" valign="top" rowspan="1" colspan="1">Seizure activity (signal power) during stimulation reduced but does not stop events</td><td align="left" valign="top" rowspan="1" colspan="1">Ladas et al., <xref rid="jnr23767-bib-0046" ref-type="ref">2015</xref>
+</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Cerebellar nuclei</td><td align="left" valign="top" rowspan="1" colspan="1">hSyn</td><td align="left" valign="top" rowspan="1" colspan="1">Panneuronal</td><td align="left" valign="top" rowspan="1" colspan="1">ChR2</td><td align="left" valign="top" rowspan="1" colspan="1">Tg mice spontaneous SWDs</td><td align="left" valign="top" rowspan="1" colspan="1">Reduced number of SWD events</td><td align="left" valign="top" rowspan="1" colspan="1">Kros et al., <xref rid="jnr23767-bib-0044" ref-type="ref">2015</xref>
+</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Cerebellar nuclei</td><td align="left" valign="top" rowspan="1" colspan="1">hSyn</td><td align="left" valign="top" rowspan="1" colspan="1">Panneuronal</td><td align="left" valign="top" rowspan="1" colspan="1">ChR2</td><td align="left" valign="top" rowspan="1" colspan="1">C3H/HeOuJ mice spontaneous SWDs</td><td align="left" valign="top" rowspan="1" colspan="1">Reduced number of SWD events</td><td align="left" valign="top" rowspan="1" colspan="1">Kros et al., <xref rid="jnr23767-bib-0044" ref-type="ref">2015</xref>
+</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Dentate gyrus</td><td align="left" valign="top" rowspan="1" colspan="1">Vgat</td><td align="left" valign="top" rowspan="1" colspan="1">Interneurons</td><td align="left" valign="top" rowspan="1" colspan="1">ChR2</td><td align="left" valign="top" rowspan="1" colspan="1">KA intrahippocampal SE</td><td align="left" valign="top" rowspan="1" colspan="1">Reduced seizure frequency post&#x02010;KA and stopped seizure propagation to MEC and motor cortex</td><td align="left" valign="top" rowspan="1" colspan="1">Lu et al., <xref rid="jnr23767-bib-0055" ref-type="ref">2016</xref>
+</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">MEC</td><td align="left" valign="top" rowspan="1" colspan="1">Vgat</td><td align="left" valign="top" rowspan="1" colspan="1">Interneurons</td><td align="left" valign="top" rowspan="1" colspan="1">ChR2</td><td align="left" valign="top" rowspan="1" colspan="1">KA intrahippocampal SE</td><td align="left" valign="top" rowspan="1" colspan="1">Stopped seizure activity in MEC but did not stop seizure activity in dentate gyrus and M1</td><td align="left" valign="top" rowspan="1" colspan="1">Lu et al., <xref rid="jnr23767-bib-0055" ref-type="ref">2016</xref>
+</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Dentate gyrus</td><td align="left" valign="top" rowspan="1" colspan="1">Gad</td><td align="left" valign="top" rowspan="1" colspan="1">Interneurons</td><td align="left" valign="top" rowspan="1" colspan="1">ChR2</td><td align="left" valign="top" rowspan="1" colspan="1">KA intrahippocampal SE</td><td align="left" valign="top" rowspan="1" colspan="1">Reduced seizure frequency post&#x02010;KA and stopped seizure propagation to MEC and motor cortex</td><td align="left" valign="top" rowspan="1" colspan="1">Lu et al., <xref rid="jnr23767-bib-0055" ref-type="ref">2016</xref>
+</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Dentate gyrus</td><td align="left" valign="top" rowspan="1" colspan="1">Gad</td><td align="left" valign="top" rowspan="1" colspan="1">Interneurons</td><td align="left" valign="top" rowspan="1" colspan="1">NpHR</td><td align="left" valign="top" rowspan="1" colspan="1">KA intrahippocampal SE</td><td align="left" valign="top" rowspan="1" colspan="1">No effect on seizures</td><td align="left" valign="top" rowspan="1" colspan="1">Lu et al., <xref rid="jnr23767-bib-0055" ref-type="ref">2016</xref>
+</td></tr></tbody></table><table-wrap-foot><fn id="jnr23767-note-0001"><label>a</label><p>GEPR, genetically epilepsy&#x02010;prone rat; hSYN, human synapsin; KA, kainic acid; NpHR, halorhodopsin; Pcp2, purkinje cell protein 2; Pomc, proopiomelanocortin; PTZ, pentylenetetrazol; PV, parvalbumin; SE, status epilepticus; SWD, spike&#x02010;wave discharge; Thy1, thymocyte differentiation antigen 1; Vgat, vesicular GABA transporter.</p></fn></table-wrap-foot></table-wrap><p>Another approach for suppressing seizures in vivo is to activate interneurons selectively with ChR2 (Krook&#x02010;Magnuson et al., <xref rid="jnr23767-bib-0041" ref-type="ref">2013</xref>; Lu et al., <xref rid="jnr23767-bib-0055" ref-type="ref">2016</xref>). For example, Krook&#x02010;Magnuson and colleagues (<xref rid="jnr23767-bib-0041" ref-type="ref">2013</xref>) reported that selectively stimulating PV interneurons reduced seizure duration by 43% compared with within&#x02010;animal nonstimulated control. However, stimulating larger populations of interneurons in vivo may further improve efficacy as suggested by Ledri and colleagues (<xref rid="jnr23767-bib-0047" ref-type="ref">2014</xref>); stimulating glutamate decarboxylase (Gad)&#x02010;2&#x02010;ChR2 neurons, which include PV, SOM, neuropeptide Y, and cholecystokinin interneuronal subpopulations, was more effective for suppressing epileptiform activity in slice preparations than either PV or SOM interneurons alone. Although a direct comparison between targeting mixed and specific interneuron populations for in vivo seizure control has yet to be performed, stimulating mixed interneuron cell types in vivo has been shown to be effective for controlling intrahippocampal KA&#x02010;induced acute seizures (Lu et al., <xref rid="jnr23767-bib-0055" ref-type="ref">2016</xref>). Also, both halorhodopsin and ChR may be less effective at the later stages of seizures because of the accumulation of intracellular chloride (Huberfeld et al., <xref rid="jnr23767-bib-0032" ref-type="ref">2007</xref>; Ellender et al., <xref rid="jnr23767-bib-0021" ref-type="ref">2014</xref>; Alfonsa et al., <xref rid="jnr23767-bib-0001" ref-type="ref">2015</xref>; Soper et al., <xref rid="jnr23767-bib-0076" ref-type="ref">2015</xref>). One potential means of suppressing activity without directly modulating intracellular chloride is the opsin archaeorhodopsin, an outward proton pump (Raimondo et al., <xref rid="jnr23767-bib-0070" ref-type="ref">2012</xref>; Pavlov et al., <xref rid="jnr23767-bib-0063" ref-type="ref">2013</xref>; Alfonsa et al., <xref rid="jnr23767-bib-0001" ref-type="ref">2015</xref>). However, although archaeorhodopsin has been effective for stopping epileptiform activity in vitro, there are no published reports of its effects on seizures in vivo at the time of writing.</p><p>For each form of epilepsy, multiple regions may be good targets for seizure control, and it is important to understand which are the most effective with the fewest side effects. For example, with a mouse model of temporal lobe epilepsy, Krook&#x02010;Magnuson and colleagues (<xref rid="jnr23767-bib-0042" ref-type="ref">2014</xref>) reported that spontaneous seizures could be controlled in regions including the ipsilateral and contralateral hippocampi, ipsilateral dentate gyrus, and the cerebellum. However, targeting PV neurons in the vermis of the cerebellum not only successfully stopped seizures on demand but also increased the time between seizures. Furthermore, targeting the cerebellum may also be effective for controlling absence seizures (Kros et al., <xref rid="jnr23767-bib-0044" ref-type="ref">2015</xref>). Whether the cerebellum or other regions, such as the superior colliculus (Soper et al., <xref rid="jnr23767-bib-0076" ref-type="ref">2015</xref>), can generally alleviate seizure activity clinically remains to be seen, but identifying regions with general antiseizure properties would be particularly useful for treating refractory epilepsies, such as multifocal epilepsies, in which surgery is not an option (Chen et al., <xref rid="jnr23767-bib-0011" ref-type="ref">2015</xref>; West et al., <xref rid="jnr23767-bib-0087" ref-type="ref">2015</xref>). Optogenetic seizure control has exciting potential for epilepsy therapy, but it is important to note that optogenetics is still in its infancy, and there will be significant hurdles before translation to the clinic becomes a reality. In contrast, deep brain stimulation (DBS) has a longer clinical history and has been recently approved for seizure control in the clinic (Morrell, <xref rid="jnr23767-bib-0059" ref-type="ref">2011</xref>; Fisher and Velasco, <xref rid="jnr23767-bib-0026" ref-type="ref">2014</xref>; Bergey et al., <xref rid="jnr23767-bib-0002" ref-type="ref">2015</xref>). Although the mechanisms that underlie DBS are not well understood, studies suggest that the regions chosen for stimulation and the choice of stimulation parameters determine its efficacy (Lozano and Lipsman, <xref rid="jnr23767-bib-0054" ref-type="ref">2013</xref>). Thus, in the short&#x02010;term, one promising application of optogenetics research may be to inform the location and stimulation parameters that will be most effective for seizure control with DBS (Chiang et al., <xref rid="jnr23767-bib-0012" ref-type="ref">2014</xref>; Fisher and Velasco, <xref rid="jnr23767-bib-0026" ref-type="ref">2014</xref>; Bergey et al., <xref rid="jnr23767-bib-0002" ref-type="ref">2015</xref>; Ladas et al., <xref rid="jnr23767-bib-0046" ref-type="ref">2015</xref>).</p></sec><sec id="jnr23767-sec-0006"><title>IMAGING SEIZURE NETWORKS</title><p>Optogenetic control of seizures holds much promise as a potential therapy, but little is known about the consequences that these focal interventions may have on seizure networks and underlying brain function. Evaluating seizure activity and its effects across the whole brain in vivo will help optimize treatments and limit potential off&#x02010;target effects (Faingold and Blumenfeld, <xref rid="jnr23767-bib-0025" ref-type="ref">2015</xref>). Combining optogenetics with imaging tools such as fMRI (Lee et al., <xref rid="jnr23767-bib-0048" ref-type="ref">2010</xref>; Desai et al., <xref rid="jnr23767-bib-0018" ref-type="ref">2011</xref>; Kahn et al., <xref rid="jnr23767-bib-0035" ref-type="ref">2011</xref>; Duffy et al., <xref rid="jnr23767-bib-0020" ref-type="ref">2015</xref>; Liu et al., <xref rid="jnr23767-bib-0052" ref-type="ref">2015</xref>; Weitz et al., <xref rid="jnr23767-bib-0086" ref-type="ref">2015</xref>) or positron emission tomography (Kolodziej et al., <xref rid="jnr23767-bib-0039" ref-type="ref">2014</xref>) has significant potential as a means of understanding these seizure networks in greater detail.</p><p>Visualizing activity over the whole brain can be achieved with fMRI as a readout and optogenetic stimulation to modulate activity (Lee et al., <xref rid="jnr23767-bib-0048" ref-type="ref">2010</xref>; Duffy et al., <xref rid="jnr23767-bib-0020" ref-type="ref">2015</xref>; Weitz et al., <xref rid="jnr23767-bib-0086" ref-type="ref">2015</xref>). For example, stimulating the intermediate and dorsal hippocampus has been shown to evoke activity in distinct networks (Weitz et al., <xref rid="jnr23767-bib-0086" ref-type="ref">2015</xref>). Although intermediate hippocampal stimulation resulted in widespread activity that included cortical and subcortical regions, stimulating the dorsal hippocampus resulted in activity restricted to the limbic system. Notably, dorsal hippocampal stimulation resulted in decreased fMRI signal in the contralateral dentate gyrus. This response may indicate the presence of seizure modulating activity attributed to the dentate gyrus. Because seizures are often detected and classified with physiology, simultaneous measurement of electrophysiological signatures allow confirmation of seizures by using well&#x02010;accepted measures (Logothetis, <xref rid="jnr23767-bib-0053" ref-type="ref">2002</xref>; Kim and Ogawa, <xref rid="jnr23767-bib-0038" ref-type="ref">2012</xref>). By developing MRI&#x02010;compatible optrodes for simultaneous LFP and fMRI in rats sedated with dexmedetomidine, we were able to show that stimulating hippocampal CamKII&#x02010;expressing neurons with ChR2 (using a subseizure threshold light intensity) results in activity restricted to the ipsilateral hippocampus and septum. However, when the light intensity delivered to the brain was increased, seizure&#x02010;like afterdischarges were generated and were confirmed with fMRI and electrophysiology together. The fMRI time series results in a prolonged hemodynamic response during afterdischarges, and simultaneously acquired LFP measurements allow a more informed analysis of the fMRI data. During afterdischarges, the activated network extended to the contralateral hemisphere, recruiting the hippocampus, septum and cerebellum as well as discrete cortical and thalamic regions (Duffy et al., <xref rid="jnr23767-bib-0020" ref-type="ref">2015</xref>; see Fig. <xref rid="jnr23767-fig-0001" ref-type="fig">1</xref>). These networks are similar but distinct from those reported following electrical hippocampal stimulation (Englot et al., <xref rid="jnr23767-bib-0023" ref-type="ref">2009</xref>). During electrically induced afterdischarges, fMRI signal changes are observed in the hippocampus and septal nuclei, whereas reduced neuronal activity results in the cingulate, retrosplenial, and orbital frontal cortices. Genetically targeting only neuronal cells has the advantage of being able to evoke a hemodynamic response that is more physiological and less affected by stimulation of nonneuronal cells. Notably, despite seizures being evoked under a nonepileptogenic background, the activated regions encompass those that have been shown to be effective targets for controlling temporal lobe seizures (Krook&#x02010;Magnuson et al., <xref rid="jnr23767-bib-0041" ref-type="ref">2013</xref>, <xref rid="jnr23767-bib-0042" ref-type="ref">2014</xref>, <xref rid="jnr23767-bib-0043" ref-type="ref">2015</xref>), demonstrating the potential that imaging seizure networks may have for identifying regions for seizure control. Nevertheless, the aforementioned studies imaged evoked seizures in a normal nonepileptogenic network. Because epilepsy is defined by significant alterations in the underlying networks, imaging seizures in a pathological setting may identify additional changes that may not be apparent in seizures evoked in a na&#x000ef;ve brain.</p><fig fig-type="Figure" xml:lang="en" id="jnr23767-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Single&#x02010;subject simultaneous LFP and optogenetic fMRI during seizure&#x02010;inducing (suprathreshold) stimulation of the hippocampus. <bold>a:</bold> GLM design matrix for the fMRI analysis. <bold>b:</bold> T&#x02010;statistic map showing regions of significant blood&#x02010;oxygen&#x02010;level&#x02010;dependent (BOLD) signal change during a seizure&#x02010;inducing stimulation (average of two trials). <bold>c:</bold> T&#x02010;statistic map showing regions of significant BOLD signal change during the first 20 sec of an epileptiform afterdischarge. Site of optical stimulation is marked by the arrowhead. <bold>d:</bold> Segmentation of four different regions of interest. <bold>e:</bold> fMRI time course for a single trial. <bold>f:</bold> Single trial simultaneously recorded LFP for the &#x003b2; band 13&#x02013;30 Hz. <bold>g:</bold> Spectrogram of the LFP recording during fMRI acquisition. <bold>h:</bold> fMRI time course for the single trial from the ipsilateral hippocampus, septum, and contralateral hippocampus. Duration of optical stimulations is marked by blue bar. T&#x02010;statistic maps are thresholded at a significance level of <italic>P</italic> &#x0003c; 0.01, voxel&#x02010;wise false discovery rate corrected. Acb, accumbens nucleus; CPu, caudate putamen; RS, retrosplenial cortex; Thal, thalamus; Cg, cingulate cortex; HF, hippocampal formation; S1, primary somatosensory cortex; Sep, septum. Figure is reproduced from Duffy et al., <xref rid="jnr23767-bib-0020" ref-type="ref">2015</xref>, with permission from Elsevier.</p></caption><graphic id="nlm-graphic-1" xlink:href="JNR-95-2325-g001"/></fig><p>Although many regions may be activated during a seizure, it is unlikely that all of these regions are equally efficacious for seizure control (see Table <xref rid="jnr23767-tbl-0001" ref-type="table-wrap">1</xref>). As a seizure starts and spreads through a network, targeting regions early in the propagation pathway may be more effective for abolishing the seizure than regions recruited later. Using a focal hippocampally evoked seizure mouse model and multiregional electrophysiological recordings, Lu and colleagues (<xref rid="jnr23767-bib-0055" ref-type="ref">2016</xref>) showed that seizures propagated from dentate gyrus to medial entorhinal cortex (MEC). When interneurons (by targeting vesicular GABA transporter or Gad2) in the dentate gyrus were stimulated, seizure activity in dentate gyrus, MEC, and motor cortex stopped. However, when interneurons in the MEC were stimulated, seizure activity was abolished in that region but persisted in the dentate gyrus and the motor cortex, demonstrating that successfully controlling seizure activity within a region does not necessarily indicate effective seizure control. Therefore imaging seizure networks and their interactions with proposed seizure control interventions can help identify critical nodes that are effective for completely stopping seizures.</p><p>Imaging seizure networks has also allowed researchers to identify a signature pattern in fMRI and electrophysiological recordings that is thought to be associated with the impaired consciousness that occurs during seizures (Blumenfeld, <xref rid="jnr23767-bib-0005" ref-type="ref">2012</xref>; Motelow et al., <xref rid="jnr23767-bib-0060" ref-type="ref">2015</xref>) or during stimulations that regulate arousal (Liu et al., <xref rid="jnr23767-bib-0052" ref-type="ref">2015</xref>). Impaired consciousness during seizures is known to be associated with prominent frontoparietal slow&#x02010;wave activity on electrophysiological recordings in humans (Englot et al., <xref rid="jnr23767-bib-0024" ref-type="ref">2010</xref>). Using fMRI in rats has allowed researchers to investigate the underlying circuit mechanisms of this phenomenon (Englot et al., <xref rid="jnr23767-bib-0023" ref-type="ref">2009</xref>; Motelow et al., <xref rid="jnr23767-bib-0060" ref-type="ref">2015</xref>). These data indicate a possible role for the lateral septum and anterior hypothalamus, which are activated during fMRI acquisitions and are known to have inhibitory connections with subcortical arousal systems. Using mice anesthetized with ketamine and xylazine, Furman and colleagues (<xref rid="jnr23767-bib-0027" ref-type="ref">2015</xref>) reduced this cortical slow&#x02010;wave activity during electrically evoked hippocampal seizures by optogenetically stimulating cholinergic brainstem neurons, suggesting that targeting these circuits may be effective for restoring consciousness. Thus, imaging seizure networks is important for allowing epilepsy researchers to go beyond stopping seizures to identifying regions that may not directly form part of the seizure network but have pathological implications for brain function.</p></sec><sec id="jnr23767-sec-0007"><title>SUMMARY</title><p>Optogenetics has proved to be a useful set of tools for epilepsy research, with powerful potential applications in the clinic. However, many questions remain. For example, little is known about many aspects of epilepsy circuits, including the role of subclasses of interneurons, glia, and G&#x02010;protein&#x02010;coupled receptors such as metabotropic glutamate or GABA<sub>B</sub> receptors (Craig and McBain, <xref rid="jnr23767-bib-0015" ref-type="ref">2014</xref>; Kubota, <xref rid="jnr23767-bib-0045" ref-type="ref">2014</xref>; Roux et al., <xref rid="jnr23767-bib-0071" ref-type="ref">2014</xref>). The breadth of optogenetic tools continues to expand rapidly, including opsins that can be excited with different wavelengths and that have improved kinetics or that can be switched on for extended periods with a single light pulse and switched off with another (Mattis et al., <xref rid="jnr23767-bib-0058" ref-type="ref">2012</xref>). Furthermore, engineered opsins now come as inhibitory chloride channels or G&#x02010;protein&#x02010;coupled receptors and can even directly modulate gene expression and epigenetic processes (Konermann et al., <xref rid="jnr23767-bib-0040" ref-type="ref">2013</xref>; Levitz et al., <xref rid="jnr23767-bib-0050" ref-type="ref">2013</xref>; Berndt et al., <xref rid="jnr23767-bib-0004" ref-type="ref">2014</xref>). Targeting specific cell populations with optogenetics can help us to understand the generation and propagation of seizures as well as the development of epilepsy. Modulation of circuits to interrupt seizure activity has exposed the possibility of highly specific antiepileptic strategies. Finally, these new techniques can be combined with whole&#x02010;brain imaging methods to observe seizure dynamics over the whole brain and during modulation of distinct neural circuits. Such imaging approaches can be used to identify specific nodes in networks as well as time points that might be crucial for seizure propagation or even the development of epilepsy. Optogenetics, in combination with the many other new technologies being developed, likely will pave the way for significant strides in our understanding and treatment of epilepsy in the near future.</p></sec><sec id="jnr23767-sec-0008"><title>CONFLICT OF INTEREST STATEMENT</title><p>The authors declare that they have no competing interests.</p></sec><sec id="jnr23767-sec-0009"><title>ROLE OF AUTHORS</title><p>MC, BAD, and JHL equally researched, wrote, and edited the Review.</p></sec></body><back><ref-list content-type="cited-references"><title>REFERENCES</title><ref id="jnr23767-bib-0001"><mixed-citation publication-type="journal" id="jnr23767-cit-0001">
+<string-name>
+<surname>Alfonsa</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Merricks</surname>
+<given-names>EM</given-names>
+</string-name>, 
+<string-name>
+<surname>Codadu</surname>
+<given-names>NK</given-names>
+</string-name>, 
+<string-name>
+<surname>Cunningham</surname>
+<given-names>MO</given-names>
+</string-name>, 
+<string-name>
+<surname>Deisseroth</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Racca</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Trevelyan</surname>
+<given-names>AJ</given-names>
+</string-name>. <year>2015</year>
+<article-title>The contribution of raised intraneuronal chloride to epileptic network activity</article-title>. <source>J Neurosci</source>
+<volume>35</volume>:<fpage>7715</fpage>&#x02013;<lpage>7726</lpage>.
+<pub-id pub-id-type="pmid">25995461</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0002"><mixed-citation publication-type="journal" id="jnr23767-cit-0002">
+<string-name>
+<surname>Bergey</surname>
+<given-names>GK</given-names>
+</string-name>, 
+<string-name>
+<surname>Morrell</surname>
+<given-names>MJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Mizrahi</surname>
+<given-names>EM</given-names>
+</string-name>, 
+<string-name>
+<surname>Goldman</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>King&#x02010;Stephens</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>Nair</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>Srinivasan</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Jobst</surname>
+<given-names>B</given-names>
+</string-name>, 
+<string-name>
+<surname>Gross</surname>
+<given-names>RE</given-names>
+</string-name>, 
+<string-name>
+<surname>Shields</surname>
+<given-names>DC</given-names>
+</string-name>, 
+<string-name>
+<surname>Barkley</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Salanova</surname>
+<given-names>V</given-names>
+</string-name>, 
+<string-name>
+<surname>Olejniczak</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Cole</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Cash</surname>
+<given-names>SS</given-names>
+</string-name>, 
+<string-name>
+<surname>Noe</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Wharen</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Worrell</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Murro</surname>
+<given-names>AM</given-names>
+</string-name>, 
+<string-name>
+<surname>Edwards</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Duchowny</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Spencer</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>Smith</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Geller</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Gwinn</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Skidmore</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Eisenschenk</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Berg</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Heck</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Van Ness</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Fountain</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Rutecki</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Massey</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>O'Donovan</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Labar</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>Duckrow</surname>
+<given-names>RB</given-names>
+</string-name>, 
+<string-name>
+<surname>Hirsch</surname>
+<given-names>LJ</given-names>
+</string-name>,
+<string-name>
+<surname>Courtney</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name>
+<surname>Sun</surname>
+<given-names>FT</given-names>
+</string-name>, 
+<string-name>
+<surname>Seale</surname>
+<given-names>CG</given-names>
+</string-name>. <year>2015</year>
+<article-title>Long&#x02010;term treatment with responsive brain stimulation in adults with refractory partial seizures</article-title>. <source>Neurology</source>
+<volume>84</volume>:<fpage>810</fpage>&#x02013;<lpage>817</lpage>.
+<pub-id pub-id-type="pmid">25616485</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0003"><mixed-citation publication-type="journal" id="jnr23767-cit-0003">
+<string-name>
+<surname>Bernard</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Cossart</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Hirsch</surname>
+<given-names>JC</given-names>
+</string-name>, 
+<string-name>
+<surname>Esclapez</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Ben&#x02010;Ari</surname>
+<given-names>Y</given-names>
+</string-name>. <year>2000</year>
+<article-title>What is GABAergic inhibition? How is it modified in epilepsy?</article-title>
+<source>Epilepsia</source>
+<volume>41</volume>:<fpage>S90</fpage>&#x02013;<lpage>S95</lpage>.
+<pub-id pub-id-type="pmid">10999527</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0004"><mixed-citation publication-type="journal" id="jnr23767-cit-0004">
+<string-name>
+<surname>Berndt</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Lee</surname>
+<given-names>SY</given-names>
+</string-name>, 
+<string-name>
+<surname>Ramakrishnan</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Deisseroth</surname>
+<given-names>K</given-names>
+</string-name>. <year>2014</year>
+<article-title>Structure&#x02010;guided transformation of channelrhodopsin into a light&#x02010;activated chloride channel</article-title>. <source>Science</source>
+<volume>344</volume>:<fpage>420</fpage>&#x02013;<lpage>424</lpage>.
+<pub-id pub-id-type="pmid">24763591</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0005"><mixed-citation publication-type="journal" id="jnr23767-cit-0005">
+<string-name>
+<surname>Blumenfeld</surname>
+<given-names>H</given-names>
+</string-name>. <year>2012</year>
+<article-title>Impaired consciousness in epilepsy</article-title>. <source>Lancet Neurol</source>
+<volume>11</volume>:<fpage>814</fpage>&#x02013;<lpage>826</lpage>.
+<pub-id pub-id-type="pmid">22898735</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0006"><mixed-citation publication-type="journal" id="jnr23767-cit-0006">
+<string-name>
+<surname>Boyden</surname>
+<given-names>ES</given-names>
+</string-name>, 
+<string-name>
+<surname>Zhang</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name>
+<surname>Bamberg</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Nagel</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Deisseroth</surname>
+<given-names>K</given-names>
+</string-name>. <year>2005</year>
+<article-title>Millisecond&#x02010;timescale, genetically targeted optical control of neural activity</article-title>. <source>Nat Neurosci</source>
+<volume>8</volume>:<fpage>1263</fpage>&#x02013;<lpage>1268</lpage>.
+<pub-id pub-id-type="pmid">16116447</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0007"><mixed-citation publication-type="journal" id="jnr23767-cit-0007">
+<string-name>
+<surname>Brodie</surname>
+<given-names>MJ</given-names>
+</string-name>. <year>2010</year>
+<article-title>Antiepileptic drug therapy: the story so far</article-title>. <source>Seizure</source>
+<volume>19</volume>:<fpage>650</fpage>&#x02013;<lpage>655</lpage>.
+<pub-id pub-id-type="pmid">21075011</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0008"><mixed-citation publication-type="journal" id="jnr23767-cit-0008">
+<string-name>
+<surname>Buckmaster</surname>
+<given-names>PS</given-names>
+</string-name>, 
+<string-name>
+<surname>Dudek</surname>
+<given-names>FE</given-names>
+</string-name>. <year>1997</year>
+<article-title>Neuron loss, granule cell axon reorganization, and functional changes in the dentate gyrus of epileptic kainate&#x02010;treated rats</article-title>. <source>J Comp Neurol</source>
+<volume>385</volume>:<fpage>385</fpage>&#x02013;<lpage>404</lpage>.
+<pub-id pub-id-type="pmid">9300766</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0009"><mixed-citation publication-type="journal" id="jnr23767-cit-0009">
+<string-name>
+<surname>Buckmaster</surname>
+<given-names>PS</given-names>
+</string-name>, 
+<string-name>
+<surname>Lew</surname>
+<given-names>FH</given-names>
+</string-name>. <year>2011</year>
+<article-title>Rapamycin suppresses mossy fiber sprouting but not seizure frequency in a mouse model of temporal lobe epilepsy</article-title>. <source>J Neurosci</source>
+<volume>31</volume>:<fpage>2337</fpage>&#x02013;<lpage>2347</lpage>.
+<pub-id pub-id-type="pmid">21307269</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0010"><mixed-citation publication-type="journal" id="jnr23767-cit-0010">
+<string-name>
+<surname>Cardin</surname>
+<given-names>JA</given-names>
+</string-name>, 
+<string-name>
+<surname>Carl&#x000e9;n</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Meletis</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Knoblich</surname>
+<given-names>U</given-names>
+</string-name>, 
+<string-name>
+<surname>Zhang</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name>
+<surname>Deisseroth</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Tsai</surname>
+<given-names>L&#x02010;H</given-names>
+</string-name>, 
+<string-name>
+<surname>Moore</surname>
+<given-names>CI</given-names>
+</string-name>. <year>2010</year>
+<article-title>Targeted optogenetic stimulation and recording of neurons in vivo using cell&#x02010;type&#x02010;specific expression of channelrhodopsin&#x02010;2</article-title>. <source>Nat Protoc</source>
+<volume>5</volume>:<fpage>247</fpage>&#x02013;<lpage>254</lpage>.
+<pub-id pub-id-type="pmid">20134425</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0011"><mixed-citation publication-type="journal" id="jnr23767-cit-0011">
+<string-name>
+<surname>Chen</surname>
+<given-names>PC</given-names>
+</string-name>, 
+<string-name>
+<surname>Baumgartner</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Seo</surname>
+<given-names>JH</given-names>
+</string-name>, 
+<string-name>
+<surname>Korostenskaja</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Lee</surname>
+<given-names>KH</given-names>
+</string-name>. <year>2015</year>
+<article-title>Bilateral intracranial EEG with corpus callosotomy may uncover seizure focus in nonlocalizing focal epilepsy</article-title>. <source>Seizure</source>
+<volume>24</volume>:<fpage>63</fpage>&#x02013;<lpage>69</lpage>.
+<pub-id pub-id-type="pmid">25218113</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0012"><mixed-citation publication-type="journal" id="jnr23767-cit-0012">
+<string-name>
+<surname>Chiang</surname>
+<given-names>C&#x02010;C</given-names>
+</string-name>, 
+<string-name>
+<surname>Ladas</surname>
+<given-names>TP</given-names>
+</string-name>, 
+<string-name>
+<surname>Gonzalez&#x02010;Reyes</surname>
+<given-names>LE</given-names>
+</string-name>, 
+<string-name>
+<surname>Durand</surname>
+<given-names>DM</given-names>
+</string-name>. <year>2014</year>
+<article-title>Seizure suppression by high&#x02010;frequency optogenetic stimulation using in vitro and in vivo animal models of epilepsy</article-title>. <source>Brain Stim</source>
+<volume>7</volume>:<fpage>890</fpage>&#x02013;<lpage>899</lpage>.
+</mixed-citation></ref><ref id="jnr23767-bib-0013"><mixed-citation publication-type="journal" id="jnr23767-cit-0013">
+<string-name>
+<surname>Choy</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Dub&#x000e9;</surname>
+<given-names>CM</given-names>
+</string-name>, 
+<string-name>
+<surname>Ehrengruber</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Baram</surname>
+<given-names>TZ</given-names>
+</string-name>. <year>2014a</year>
+<article-title>Inflammatory processes, febrile seizures, and subsequent epileptogenesis</article-title>. <source>Epilepsy Curr</source>
+<volume>14</volume>:<fpage>15</fpage>&#x02013;<lpage>22</lpage>.
+<pub-id pub-id-type="pmid">24955071</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0014"><mixed-citation publication-type="journal" id="jnr23767-cit-0014">
+<string-name>
+<surname>Choy</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Dub&#x000e9;</surname>
+<given-names>CM</given-names>
+</string-name>, 
+<string-name>
+<surname>Patterson</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Barnes</surname>
+<given-names>SR</given-names>
+</string-name>, 
+<string-name>
+<surname>Maras</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Blood</surname>
+<given-names>AB</given-names>
+</string-name>, 
+<string-name>
+<surname>Hasso</surname>
+<given-names>AN</given-names>
+</string-name>, 
+<string-name>
+<surname>Obenaus</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Baram</surname>
+<given-names>TZ</given-names>
+</string-name>. <year>2014b</year>
+<article-title>A novel, noninvasive, predictive epilepsy biomarker with clinical potential</article-title>. <source>J Neurosci</source>
+<volume>34</volume>:<fpage>8672</fpage>&#x02013;<lpage>8684</lpage>.
+<pub-id pub-id-type="pmid">24966369</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0015"><mixed-citation publication-type="journal" id="jnr23767-cit-0015">
+<string-name>
+<surname>Craig</surname>
+<given-names>MT</given-names>
+</string-name>, 
+<string-name>
+<surname>McBain</surname>
+<given-names>CJ</given-names>
+</string-name>. <year>2014</year>
+<article-title>The emerging role of GABA<sub>B</sub> receptors as regulators of network dynamics: fast actions from a &#x0201c;slow&#x0201d; receptor?</article-title>
+<source>Curr Opin Neurobiol</source>
+<volume>26</volume>:<fpage>15</fpage>&#x02013;<lpage>21</lpage>.
+<pub-id pub-id-type="pmid">24650499</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0016"><mixed-citation publication-type="journal" id="jnr23767-cit-0016">
+<string-name>
+<surname>Cunningham</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Cho</surname>
+<given-names>J&#x02010;H</given-names>
+</string-name>, 
+<string-name>
+<surname>Leung</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Savvidis</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Ahn</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Moon</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Lee</surname>
+<given-names>PKJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Han</surname>
+<given-names>JJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Azimi</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Kim</surname>
+<given-names>K&#x02010;S</given-names>
+</string-name>, 
+<string-name>
+<surname>Bolshakov</surname>
+<given-names>VY</given-names>
+</string-name>, 
+<string-name>
+<surname>Chung</surname>
+<given-names>S</given-names>
+</string-name>. <year>2014</year>
+<article-title>hPSC&#x02010;derived maturing GABAergic interneurons ameliorate seizures and abnormal behavior in epileptic mice</article-title>. <source>Cell Stem Cell</source>
+<volume>15</volume>:<fpage>559</fpage>&#x02013;<lpage>573</lpage>.
+<pub-id pub-id-type="pmid">25517465</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0017"><mixed-citation publication-type="journal" id="jnr23767-cit-0017">
+<string-name>
+<surname>Deisseroth</surname>
+<given-names>K</given-names>
+</string-name>. <year>2015</year>
+<article-title>Optogenetics: 10 years of microbial opsins in neuroscience</article-title>. <source>Nat Neurosci</source>
+<volume>18</volume>:<fpage>1213</fpage>&#x02013;<lpage>1225</lpage>.
+<pub-id pub-id-type="pmid">26308982</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0018"><mixed-citation publication-type="journal" id="jnr23767-cit-0018">
+<string-name>
+<surname>Desai</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Kahn</surname>
+<given-names>I</given-names>
+</string-name>, 
+<string-name>
+<surname>Knoblich</surname>
+<given-names>U</given-names>
+</string-name>, 
+<string-name>
+<surname>Bernstein</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Atallah</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Yang</surname>
+<given-names>a</given-names>
+</string-name>, 
+<string-name>
+<surname>Kopell</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Buckner</surname>
+<given-names>RL</given-names>
+</string-name>, 
+<string-name>
+<surname>Graybiel</surname>
+<given-names>AM</given-names>
+</string-name>, 
+<string-name>
+<surname>Moore</surname>
+<given-names>CI</given-names>
+</string-name>, 
+<string-name>
+<surname>Boyden</surname>
+<given-names>ES</given-names>
+</string-name>. <year>2011</year>
+<article-title>Mapping brain networks in awake mice using combined optical neural control and fMRI</article-title>. <source>J Neurophysiol</source>
+<volume>105</volume>:<fpage>1393</fpage>&#x02013;<lpage>1405</lpage>.
+<pub-id pub-id-type="pmid">21160013</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0019"><mixed-citation publication-type="journal" id="jnr23767-cit-0019">
+<string-name>
+<surname>Duffy</surname>
+<given-names>BA</given-names>
+</string-name>, 
+<string-name>
+<surname>Choy</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Riegler</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Wells</surname>
+<given-names>JA</given-names>
+</string-name>, 
+<string-name>
+<surname>Anthony</surname>
+<given-names>DC</given-names>
+</string-name>, 
+<string-name>
+<surname>Scott</surname>
+<given-names>RC</given-names>
+</string-name>, 
+<string-name>
+<surname>Lythgoe</surname>
+<given-names>MF</given-names>
+</string-name>. <year>2012</year>
+<article-title>Imaging seizure&#x02010;induced inflammation using an antibody targeted iron oxide contrast agent</article-title>. <source>Neuroimage</source>
+<volume>60</volume>:<fpage>1149</fpage>&#x02013;<lpage>1155</lpage>.
+<pub-id pub-id-type="pmid">22266177</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0020"><mixed-citation publication-type="journal" id="jnr23767-cit-0020">
+<string-name>
+<surname>Duffy</surname>
+<given-names>BA</given-names>
+</string-name>, 
+<string-name>
+<surname>Choy</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Chuapoco</surname>
+<given-names>MR</given-names>
+</string-name>, 
+<string-name>
+<surname>Madsen</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Lee</surname>
+<given-names>JH</given-names>
+</string-name>. <year>2015</year>
+<article-title>MRI compatible optrodes for simultaneous LFP and optogenetic fMRI investigation of seizure&#x02010;like afterdischarges</article-title>. <source>Neuroimage</source>
+<volume>123</volume>:<fpage>173</fpage>&#x02013;<lpage>184</lpage>.
+<pub-id pub-id-type="pmid">26208873</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0021"><mixed-citation publication-type="journal" id="jnr23767-cit-0021">
+<string-name>
+<surname>Ellender</surname>
+<given-names>TJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Raimondo</surname>
+<given-names>J</given-names>
+<suffix>V</suffix>
+</string-name>, 
+<string-name>
+<surname>Irkle</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Lamsa</surname>
+<given-names>KP</given-names>
+</string-name>, 
+<string-name>
+<surname>Akerman</surname>
+<given-names>CJ</given-names>
+</string-name>. <year>2014</year>
+<article-title>Excitatory effects of parvalbumin&#x02010;expressing interneurons maintain hippocampal epileptiform activity via synchronous afterdischarges</article-title>. <source>J Neurosci</source>
+<volume>34</volume>:<fpage>15208</fpage>&#x02013;<lpage>15222</lpage>.
+<pub-id pub-id-type="pmid">25392490</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0022"><mixed-citation publication-type="journal" id="jnr23767-cit-0022">
+<string-name>
+<surname>Englot</surname>
+<given-names>DJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Mishra</surname>
+<given-names>AM</given-names>
+</string-name>, 
+<string-name>
+<surname>Mansuripur</surname>
+<given-names>PK</given-names>
+</string-name>, 
+<string-name>
+<surname>Herman</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Hyder</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name>
+<surname>Blumenfeld</surname>
+<given-names>H</given-names>
+</string-name>. <year>2008</year>
+<article-title>Remote effects of focal hippocampal seizures on the rat neocortex</article-title>. <source>J Neurosci</source>
+<volume>28</volume>:<fpage>9066</fpage>&#x02013;<lpage>9081</lpage>.
+<pub-id pub-id-type="pmid">18768701</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0023"><mixed-citation publication-type="journal" id="jnr23767-cit-0023">
+<string-name>
+<surname>Englot</surname>
+<given-names>DJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Modi</surname>
+<given-names>B</given-names>
+</string-name>, 
+<string-name>
+<surname>Mishra</surname>
+<given-names>AM</given-names>
+</string-name>, 
+<string-name>
+<surname>DeSalvo</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Hyder</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name>
+<surname>Blumenfeld</surname>
+<given-names>H</given-names>
+</string-name>. <year>2009</year>
+<article-title>Cortical deactivation induced by subcortical network dysfunction in limbic seizures</article-title>. <source>J Neurosci</source>
+<volume>29</volume>:<fpage>13006</fpage>&#x02013;<lpage>13018</lpage>.
+<pub-id pub-id-type="pmid">19828814</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0024"><mixed-citation publication-type="journal" id="jnr23767-cit-0024">
+<string-name>
+<surname>Englot</surname>
+<given-names>DJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Yang</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Hamid</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Danielson</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Bai</surname>
+<given-names>X</given-names>
+</string-name>, 
+<string-name>
+<surname>Marfeo</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Yu</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Gordon</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Purcaro</surname>
+<given-names>MJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Motelow</surname>
+<given-names>JE</given-names>
+</string-name>, 
+<string-name>
+<surname>Agarwal</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Ellens</surname>
+<given-names>DJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Golomb</surname>
+<given-names>JD</given-names>
+</string-name>, 
+<string-name>
+<surname>Shamy</surname>
+<given-names>MC</given-names>
+</string-name>, 
+<string-name>
+<surname>Zhang</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Carlson</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Doyle</surname>
+<given-names>W</given-names>
+</string-name>, 
+<string-name>
+<surname>Devinsky</surname>
+<given-names>O</given-names>
+</string-name>, 
+<string-name>
+<surname>Vives</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Spencer</surname>
+<given-names>DD</given-names>
+</string-name>, 
+<string-name>
+<surname>Spencer</surname>
+<given-names>SS</given-names>
+</string-name>, 
+<string-name>
+<surname>Schevon</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Zaveri</surname>
+<given-names>HP</given-names>
+</string-name>, 
+<string-name>
+<surname>Blumenfeld</surname>
+<given-names>H</given-names>
+</string-name>. <year>2010</year>
+<article-title>Impaired consciousness in temporal lobe seizures: role of cortical slow activity</article-title>. <source>Brain</source>
+<volume>133</volume>:<fpage>3764</fpage>&#x02013;<lpage>3777</lpage>.
+<pub-id pub-id-type="pmid">21081551</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0025"><mixed-citation publication-type="journal" id="jnr23767-cit-0025">
+<string-name>
+<surname>Faingold</surname>
+<given-names>CL</given-names>
+</string-name>, 
+<string-name>
+<surname>Blumenfeld</surname>
+<given-names>H</given-names>
+</string-name>. <year>2015</year>
+<article-title>Targeting neuronal networks with combined drug and stimulation paradigms guided by neuroimaging to treat brain disorders</article-title>. <source>Neuroscientist</source>
+<volume>21</volume>:<fpage>460</fpage>&#x02013;<lpage>474</lpage>.
+<pub-id pub-id-type="pmid">26150315</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0026"><mixed-citation publication-type="journal" id="jnr23767-cit-0026">
+<string-name>
+<surname>Fisher</surname>
+<given-names>RS</given-names>
+</string-name>, 
+<string-name>
+<surname>Velasco</surname>
+<given-names>AL</given-names>
+</string-name>. <year>2014</year>
+<article-title>Electrical brain stimulation for epilepsy</article-title>. <source>Nat Rev Neurol</source>
+<volume>10</volume>:<fpage>261</fpage>&#x02013;<lpage>270</lpage>.
+<pub-id pub-id-type="pmid">24709892</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0027"><mixed-citation publication-type="journal" id="jnr23767-cit-0027">
+<string-name>
+<surname>Furman</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Zhan</surname>
+<given-names>Q</given-names>
+</string-name>, 
+<string-name>
+<surname>McCafferty</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Lerner</surname>
+<given-names>BA</given-names>
+</string-name>, 
+<string-name>
+<surname>Motelow</surname>
+<given-names>JE</given-names>
+</string-name>, 
+<string-name>
+<surname>Meng</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Ma</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Buchanan</surname>
+<given-names>GF</given-names>
+</string-name>, 
+<string-name>
+<surname>Witten</surname>
+<given-names>IB</given-names>
+</string-name>, 
+<string-name>
+<surname>Deisseroth</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Cardin</surname>
+<given-names>JA</given-names>
+</string-name>, 
+<string-name>
+<surname>Blumenfeld</surname>
+<given-names>H</given-names>
+</string-name>. <year>2015</year>
+<article-title>Optogenetic stimulation of cholinergic brainstem neurons during focal limbic seizures: effects on cortical physiology</article-title>. <source>Epilepsia</source>
+<volume>56</volume>:<fpage>e198</fpage>&#x02013;<lpage>e202</lpage>.
+<pub-id pub-id-type="pmid">26530287</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0028"><mixed-citation publication-type="journal" id="jnr23767-cit-0028">
+<string-name>
+<surname>Giachello</surname>
+<given-names>CNG</given-names>
+</string-name>, 
+<string-name>
+<surname>Baines</surname>
+<given-names>RA</given-names>
+</string-name>. <year>2015</year>
+<article-title>Inappropriate neural activity during a sensitive period in embryogenesis results in persistent seizure&#x02010;like behavior</article-title>. <source>Curr Biol</source>
+<volume>25</volume>:<fpage>2964</fpage>&#x02013;<lpage>2968</lpage>.
+<pub-id pub-id-type="pmid">26549258</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0029"><mixed-citation publication-type="journal" id="jnr23767-cit-0029">
+<string-name>
+<surname>Goddard</surname>
+<given-names>GV</given-names>
+</string-name>, 
+<string-name>
+<surname>McIntyre</surname>
+<given-names>DC</given-names>
+</string-name>, 
+<string-name>
+<surname>Leech</surname>
+<given-names>CK</given-names>
+</string-name>. <year>1969</year>
+<article-title>A permanent change in brain function resulting from daily electrical stimulation</article-title>. <source>Exp Neurol</source>
+<volume>25</volume>:<fpage>295</fpage>&#x02013;<lpage>330</lpage>.
+<pub-id pub-id-type="pmid">4981856</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0030"><mixed-citation publication-type="journal" id="jnr23767-cit-0030">
+<string-name>
+<surname>Henderson</surname>
+<given-names>KW</given-names>
+</string-name>, 
+<string-name>
+<surname>Gupta</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Tagliatela</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Litvina</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Zheng</surname>
+<given-names>X</given-names>
+</string-name>, 
+<string-name>
+<surname>Van Zandt</surname>
+<given-names>MA</given-names>
+</string-name>, 
+<string-name>
+<surname>Woods</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Grund</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Lin</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>Royston</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Yanagawa</surname>
+<given-names>Y</given-names>
+</string-name>, 
+<string-name>
+<surname>Aaron</surname>
+<given-names>GB</given-names>
+</string-name>, 
+<string-name>
+<surname>Naegele</surname>
+<given-names>JR</given-names>
+</string-name>. <year>2014</year>
+<article-title>Long&#x02010;term seizure suppression and optogenetic analyses of synaptic connectivity in epileptic mice with hippocampal grafts of GABAergic interneurons</article-title>. <source>J Neurosci</source>
+<volume>34</volume>:<fpage>13492</fpage>&#x02013;<lpage>13504</lpage>.
+<pub-id pub-id-type="pmid">25274826</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0031"><mixed-citation publication-type="journal" id="jnr23767-cit-0031">
+<string-name>
+<surname>Higashima</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Kinoshita</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Yamaguchi</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Koshino</surname>
+<given-names>Y</given-names>
+</string-name>. <year>1996</year>
+<article-title>Activation of GABAergic function necessary for afterdischarge generation in rat hippocampal slices</article-title>. <source>Neurosci Lett</source>
+<volume>207</volume>:<fpage>101</fpage>&#x02013;<lpage>104</lpage>.
+<pub-id pub-id-type="pmid">8731431</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0032"><mixed-citation publication-type="journal" id="jnr23767-cit-0032">
+<string-name>
+<surname>Huberfeld</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Wittner</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Clemenceau</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Baulac</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Kaila</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Miles</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Rivera</surname>
+<given-names>C</given-names>
+</string-name>. <year>2007</year>
+<article-title>Perturbed chloride homeostasis and GABAergic signaling in human temporal lobe epilepsy</article-title>. <source>J Neurosci</source>
+<volume>27</volume>:<fpage>9866</fpage>&#x02013;<lpage>9873</lpage>.
+<pub-id pub-id-type="pmid">17855601</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0033"><mixed-citation publication-type="journal" id="jnr23767-cit-0033">
+<string-name>
+<surname>Huberfeld</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Menendez de la Prida</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Pallud</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Cohen</surname>
+<given-names>I</given-names>
+</string-name>, 
+<string-name>
+<surname>Le Van Quyen</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Adam</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Clemenceau</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Baulac</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Miles</surname>
+<given-names>R</given-names>
+</string-name>. <year>2011</year>
+<article-title>Glutamatergic preictal discharges emerge at the transition to seizure in human epilepsy</article-title>. <source>Nat Neurosci</source>
+<volume>14</volume>:<fpage>627</fpage>&#x02013;<lpage>634</lpage>.
+<pub-id pub-id-type="pmid">21460834</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0034"><mixed-citation publication-type="journal" id="jnr23767-cit-0034">
+<string-name>
+<surname>Hunt</surname>
+<given-names>RF</given-names>
+</string-name>, 
+<string-name>
+<surname>Girskis</surname>
+<given-names>KM</given-names>
+</string-name>, 
+<string-name>
+<surname>Rubenstein</surname>
+<given-names>JL</given-names>
+</string-name>, 
+<string-name>
+<surname>Alvarez&#x02010;Buylla</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Baraban</surname>
+<given-names>SC</given-names>
+</string-name>. <year>2013</year>
+<article-title>GABA progenitors grafted into the adult epileptic brain control seizures and abnormal behavior</article-title>. <source>Nat Neurosci</source>
+<volume>16</volume>:<fpage>692</fpage>&#x02013;<lpage>697</lpage>.
+<pub-id pub-id-type="pmid">23644485</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0035"><mixed-citation publication-type="journal" id="jnr23767-cit-0035">
+<string-name>
+<surname>Kahn</surname>
+<given-names>I</given-names>
+</string-name>, 
+<string-name>
+<surname>Desai</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Knoblich</surname>
+<given-names>U</given-names>
+</string-name>, 
+<string-name>
+<surname>Bernstein</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Henninger</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Graybiel</surname>
+<given-names>AM</given-names>
+</string-name>, 
+<string-name>
+<surname>Boyden</surname>
+<given-names>ES</given-names>
+</string-name>, 
+<string-name>
+<surname>Buckner</surname>
+<given-names>RL</given-names>
+</string-name>, 
+<string-name>
+<surname>Moore</surname>
+<given-names>CI</given-names>
+</string-name>. <year>2011</year>
+<article-title>Characterization of the functional MRI response temporal linearity via optical control of neocortical pyramidal neurons</article-title>. <source>J Neurosci</source>
+<volume>31</volume>:<fpage>15086</fpage>&#x02013;<lpage>15091</lpage>.
+<pub-id pub-id-type="pmid">22016542</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0036"><mixed-citation publication-type="journal" id="jnr23767-cit-0036">
+<string-name>
+<surname>Kaila</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Lamsa</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Smirnov</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Taira</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name>
+<surname>Voipio</surname>
+<given-names>J</given-names>
+</string-name>. <year>1997</year>
+<article-title>Long&#x02010;lasting GABA&#x02010;mediated depolarization evoked by high&#x02010;frequency stimulation in pyramidal neurons of rat hippocampal slice is attributable to a network&#x02010;driven, bicarbonate&#x02010;dependent K<sup>+</sup> transient</article-title>. <source>J Neurosci</source>
+<volume>17</volume>:<fpage>7662</fpage>&#x02013;<lpage>7672</lpage>.
+<pub-id pub-id-type="pmid">9315888</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0037"><mixed-citation publication-type="journal" id="jnr23767-cit-0037">
+<string-name>
+<surname>Kelley</surname>
+<given-names>MS</given-names>
+</string-name>, 
+<string-name>
+<surname>Jacobs</surname>
+<given-names>MP</given-names>
+</string-name>, 
+<string-name>
+<surname>Lowenstein</surname>
+<given-names>DH</given-names>
+</string-name>. <year>2009</year>
+<article-title>The NINDS epilepsy research benchmarks</article-title>. <source>Epilepsia</source>
+<volume>50</volume>:<fpage>579</fpage>&#x02013;<lpage>582</lpage>.
+<pub-id pub-id-type="pmid">19317887</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0038"><mixed-citation publication-type="journal" id="jnr23767-cit-0038">
+<string-name>
+<surname>Kim</surname>
+<given-names>S&#x02010;G</given-names>
+</string-name>, 
+<string-name>
+<surname>Ogawa</surname>
+<given-names>S</given-names>
+</string-name>. <year>2012</year>
+<article-title>Biophysical and physiological origins of blood oxygenation level&#x02010;dependent fMRI signals</article-title>. <source>J Cereb Blood Flow Metab</source>
+<volume>32</volume>:<fpage>1188</fpage>&#x02013;<lpage>1206</lpage>.
+<pub-id pub-id-type="pmid">22395207</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0039"><mixed-citation publication-type="journal" id="jnr23767-cit-0039">
+<string-name>
+<surname>Kolodziej</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Lippert</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Angenstein</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name>
+<surname>Neubert</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Pethe</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Grosser</surname>
+<given-names>OS</given-names>
+</string-name>, 
+<string-name>
+<surname>Amthauer</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Schroeder</surname>
+<given-names>UH</given-names>
+</string-name>, 
+<string-name>
+<surname>Reymann</surname>
+<given-names>KG</given-names>
+</string-name>, 
+<string-name>
+<surname>Scheich</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Ohl</surname>
+<given-names>FW</given-names>
+</string-name>, 
+<string-name>
+<surname>Goldschmidt</surname>
+<given-names>J</given-names>
+</string-name>. <year>2014</year>
+<article-title>SPECT&#x02010;imaging of activity&#x02010;dependent changes in regional cerebral blood flow induced by electrical and optogenetic self&#x02010;stimulation in mice</article-title>. <source>Neuroimage</source>
+<volume>103</volume>:<fpage>171</fpage>&#x02013;<lpage>180</lpage>.
+<pub-id pub-id-type="pmid">25234116</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0040"><mixed-citation publication-type="journal" id="jnr23767-cit-0040">
+<string-name>
+<surname>Konermann</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Brigham</surname>
+<given-names>MD</given-names>
+</string-name>, 
+<string-name>
+<surname>Trevino</surname>
+<given-names>AE</given-names>
+</string-name>, 
+<string-name>
+<surname>Hsu</surname>
+<given-names>PD</given-names>
+</string-name>, 
+<string-name>
+<surname>Heidenreich</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Cong</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Platt</surname>
+<given-names>RJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Scott</surname>
+<given-names>DA</given-names>
+</string-name>, 
+<string-name>
+<surname>Church</surname>
+<given-names>GM</given-names>
+</string-name>, 
+<string-name>
+<surname>Zhang</surname>
+<given-names>F</given-names>
+</string-name>. <year>2013</year>
+<article-title>Optical control of mammalian endogenous transcription and epigenetic states</article-title>. <source>Nature</source>
+<volume>500</volume>:<fpage>472</fpage>&#x02013;<lpage>476</lpage>.
+<pub-id pub-id-type="pmid">23877069</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0041"><mixed-citation publication-type="journal" id="jnr23767-cit-0041">
+<string-name>
+<surname>Krook&#x02010;Magnuson</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Armstrong</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Oijala</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Soltesz</surname>
+<given-names>I</given-names>
+</string-name>. <year>2013</year>
+<article-title>On&#x02010;demand optogenetic control of spontaneous seizures in temporal lobe epilepsy</article-title>. <source>Nat Commun</source>
+<volume>4</volume>:<fpage>1376</fpage>.
+<pub-id pub-id-type="pmid">23340416</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0042"><mixed-citation publication-type="journal" id="jnr23767-cit-0042">
+<string-name>
+<surname>Krook&#x02010;Magnuson</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Szabo</surname>
+<given-names>GG</given-names>
+</string-name>, 
+<string-name>
+<surname>Armstrong</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Oijala</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Soltesz</surname>
+<given-names>I</given-names>
+</string-name>. <year>2014</year>
+<article-title>Cerebellar directed optogenetic intervention inhibits spontaneous hippocampal seizures in a mouse model of temporal lobe epilepsy</article-title>. <source>eNeuro</source>
+<volume>1</volume>:<fpage>e.2014</fpage>.
+<pub-id pub-id-type="pmid">25599088</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0043"><mixed-citation publication-type="journal" id="jnr23767-cit-0043">
+<string-name>
+<surname>Krook&#x02010;Magnuson</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Armstrong</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Bui</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Lew</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Oijala</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Soltesz</surname>
+<given-names>I</given-names>
+</string-name>. <year>2015</year>
+<article-title>In vivo evaluation of the dentate gate theory in epilepsy</article-title>. <source>J Physiol</source>
+<volume>593</volume>:<fpage>2379</fpage>&#x02013;<lpage>2388</lpage>.
+<pub-id pub-id-type="pmid">25752305</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0044"><mixed-citation publication-type="journal" id="jnr23767-cit-0044">
+<string-name>
+<surname>Kros</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Eelkman Rooda</surname>
+<given-names>OHJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Spanke</surname>
+<given-names>JK</given-names>
+</string-name>, 
+<string-name>
+<surname>Alva</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>van Dongen</surname>
+<given-names>MN</given-names>
+</string-name>, 
+<string-name>
+<surname>Karapatis</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Tolner</surname>
+<given-names>EA</given-names>
+</string-name>, 
+<string-name>
+<surname>Strydis</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Davey</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Winkelman</surname>
+<given-names>BHJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Negrello</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Serdijn</surname>
+<given-names>WA</given-names>
+</string-name>, 
+<string-name>
+<surname>Steuber</surname>
+<given-names>V</given-names>
+</string-name>, 
+<string-name>
+<surname>van den Maagdenberg</surname>
+<given-names>AMJM</given-names>
+</string-name>, 
+<string-name>
+<surname>De Zeeuw</surname>
+<given-names>CI</given-names>
+</string-name>, 
+<string-name>
+<surname>Hoebeek</surname>
+<given-names>FE</given-names>
+</string-name>. <year>2015</year>
+<article-title>Cerebellar output controls generalized spike&#x02010;and&#x02010;wave discharge occurrence</article-title>. <source>Ann Neurol</source>
+<volume>77</volume>:<fpage>1027</fpage>&#x02013;<lpage>1049</lpage>.
+<pub-id pub-id-type="pmid">25762286</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0045"><mixed-citation publication-type="journal" id="jnr23767-cit-0045">
+<string-name>
+<surname>Kubota</surname>
+<given-names>Y</given-names>
+</string-name>. <year>2014</year>
+<article-title>Untangling GABAergic wiring in the cortical microcircuit</article-title>. <source>Curr Opin Neurobiol</source>
+<volume>26</volume>:<fpage>7</fpage>&#x02013;<lpage>14</lpage>.
+<pub-id pub-id-type="pmid">24650498</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0046"><mixed-citation publication-type="journal" id="jnr23767-cit-0046">
+<string-name>
+<surname>Ladas</surname>
+<given-names>TP</given-names>
+</string-name>, 
+<string-name>
+<surname>Chiang</surname>
+<given-names>C&#x02010;C</given-names>
+</string-name>, 
+<string-name>
+<surname>Gonzalez&#x02010;Reyes</surname>
+<given-names>LE</given-names>
+</string-name>, 
+<string-name>
+<surname>Nowak</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name>
+<surname>Durand</surname>
+<given-names>DM</given-names>
+</string-name>. <year>2015</year>
+<article-title>Seizure reduction through interneuron&#x02010;mediated entrainment using low frequency optical stimulation</article-title>. <source>Exp Neurol</source>
+<volume>269</volume>:<fpage>120</fpage>&#x02013;<lpage>132</lpage>.
+<pub-id pub-id-type="pmid">25863022</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0047"><mixed-citation publication-type="journal" id="jnr23767-cit-0047">
+<string-name>
+<surname>Ledri</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Madsen</surname>
+<given-names>MG</given-names>
+</string-name>, 
+<string-name>
+<surname>Nikitidou</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Kirik</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>Kokaia</surname>
+<given-names>M</given-names>
+</string-name>. <year>2014</year>
+<article-title>Global optogenetic activation of inhibitory interneurons during epileptiform activity</article-title>. <source>J Neurosci</source>
+<volume>34</volume>:<fpage>3364</fpage>&#x02013;<lpage>3377</lpage>.
+<pub-id pub-id-type="pmid">24573293</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0048"><mixed-citation publication-type="journal" id="jnr23767-cit-0048">
+<string-name>
+<surname>Lee</surname>
+<given-names>JH</given-names>
+</string-name>, 
+<string-name>
+<surname>Durand</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Gradinaru</surname>
+<given-names>V</given-names>
+</string-name>, 
+<string-name>
+<surname>Zhang</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name>
+<surname>Goshen</surname>
+<given-names>I</given-names>
+</string-name>, 
+<string-name>
+<surname>Kim</surname>
+<given-names>D&#x02010;S</given-names>
+</string-name>, 
+<string-name>
+<surname>Fenno</surname>
+<given-names>LE</given-names>
+</string-name>, 
+<string-name>
+<surname>Ramakrishnan</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Deisseroth</surname>
+<given-names>K</given-names>
+</string-name>. <year>2010</year>
+<article-title>Global and local fMRI signals driven by neurons defined optogenetically by type and wiring</article-title>. <source>Nature</source>
+<volume>465</volume>:<fpage>788</fpage>&#x02013;<lpage>792</lpage>.
+<pub-id pub-id-type="pmid">20473285</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0049"><mixed-citation publication-type="journal" id="jnr23767-cit-0049">
+<string-name>
+<surname>Leung</surname>
+<given-names>L&#x02010;WS</given-names>
+</string-name>. <year>1987</year>
+<article-title>Hippocampal electrical activity following local tetanization. I. Afterdischarges</article-title>. <source>Brain Res</source>
+<volume>419</volume>:<fpage>173</fpage>&#x02013;<lpage>187</lpage>.
+<pub-id pub-id-type="pmid">3676723</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0050"><mixed-citation publication-type="journal" id="jnr23767-cit-0050">
+<string-name>
+<surname>Levitz</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Pantoja</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Gaub</surname>
+<given-names>B</given-names>
+</string-name>, 
+<string-name>
+<surname>Janovjak</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Reiner</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Hoagland</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Schoppik</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>Kane</surname>
+<given-names>B</given-names>
+</string-name>, 
+<string-name>
+<surname>Stawski</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Schier</surname>
+<given-names>AF</given-names>
+</string-name>, 
+<string-name>
+<surname>Trauner</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>Isacoff</surname>
+<given-names>EY</given-names>
+</string-name>. <year>2013</year>
+<article-title>Optical control of metabotropic glutamate receptors</article-title>. <source>Nat Neurosci</source>
+<volume>16</volume>:<fpage>507</fpage>&#x02013;<lpage>516</lpage>.
+<pub-id pub-id-type="pmid">23455609</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0051"><mixed-citation publication-type="journal" id="jnr23767-cit-0051">
+<string-name>
+<surname>Lillis</surname>
+<given-names>KP</given-names>
+</string-name>, 
+<string-name>
+<surname>Kramer</surname>
+<given-names>MA</given-names>
+</string-name>, 
+<string-name>
+<surname>Mertz</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Staley</surname>
+<given-names>KJ</given-names>
+</string-name>, 
+<string-name>
+<surname>White</surname>
+<given-names>JA</given-names>
+</string-name>. <year>2012</year>
+<article-title>Pyramidal cells accumulate chloride at seizure onset</article-title>. <source>Neurobiol Dis</source>
+<volume>47</volume>:<fpage>358</fpage>&#x02013;<lpage>366</lpage>.
+<pub-id pub-id-type="pmid">22677032</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0052"><mixed-citation publication-type="journal" id="jnr23767-cit-0052">
+<string-name>
+<surname>Liu</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Lee</surname>
+<given-names>HJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Weitz</surname>
+<given-names>AJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Fang</surname>
+<given-names>Z</given-names>
+</string-name>, 
+<string-name>
+<surname>Lin</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Choy</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Fisher</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Pinskiy</surname>
+<given-names>V</given-names>
+</string-name>, 
+<string-name>
+<surname>Tolpygo</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Mitra</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Schiff</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Lee</surname>
+<given-names>JH</given-names>
+</string-name>. <year>2015</year>
+<article-title>Frequency&#x02010;selective control of cortical and subcortical networks by central thalamus</article-title>. <source>Elife</source>
+<volume>4</volume>:<fpage>e09215</fpage>.
+<pub-id pub-id-type="pmid">26652162</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0053"><mixed-citation publication-type="journal" id="jnr23767-cit-0053">
+<string-name>
+<surname>Logothetis</surname>
+<given-names>NK</given-names>
+</string-name>. <year>2002</year>
+<article-title>The neural basis of the blood&#x02010;oxygen&#x02010;level&#x02010;dependent functional magnetic resonance imaging signal</article-title>. <source>Philos Trans R Soc Lond B Biol Sci</source>
+<volume>357</volume>:<fpage>1003</fpage>&#x02013;<lpage>1037</lpage>.
+<pub-id pub-id-type="pmid">12217171</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0054"><mixed-citation publication-type="journal" id="jnr23767-cit-0054">
+<string-name>
+<surname>Lozano</surname>
+<given-names>AM</given-names>
+</string-name>, 
+<string-name>
+<surname>Lipsman</surname>
+<given-names>N</given-names>
+</string-name>. <year>2013</year>
+<article-title>Probing and regulating dysfunctional circuits using deep brain stimulation</article-title>. <source>Neuron</source>
+<volume>77</volume>:<fpage>406</fpage>&#x02013;<lpage>424</lpage>.
+<pub-id pub-id-type="pmid">23395370</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0055"><mixed-citation publication-type="journal" id="jnr23767-cit-0055">
+<string-name>
+<surname>Lu</surname>
+<given-names>Y</given-names>
+</string-name>, 
+<string-name>
+<surname>Zhong</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Wang</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Wei</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>He</surname>
+<given-names>W</given-names>
+</string-name>, 
+<string-name>
+<surname>Huang</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, 
+<string-name>
+<surname>Zhan</surname>
+<given-names>Y</given-names>
+</string-name>, 
+<string-name>
+<surname>Feng</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Wang</surname>
+<given-names>L</given-names>
+</string-name>. <year>2016</year>
+<article-title>Optogenetic dissection of ictal propagation in the hippocampal&#x02013;entorhinal cortex structures</article-title>. <source>Nat Commun</source>
+<volume>7</volume>:<fpage>10962</fpage>.
+<pub-id pub-id-type="pmid">26997093</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0056"><mixed-citation publication-type="journal" id="jnr23767-cit-0056">
+<string-name>
+<surname>Lukasiuk</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Kontula</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Pitk&#x000e4;nen</surname>
+<given-names>A</given-names>
+</string-name>. <year>2003</year>
+<article-title>cDNA profiling of epileptogenesis in the rat brain</article-title>. <source>Eur J Neurosci</source>
+<volume>17</volume>:<fpage>271</fpage>&#x02013;<lpage>279</lpage>.
+<pub-id pub-id-type="pmid">12542663</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0057"><mixed-citation publication-type="journal" id="jnr23767-cit-0057">
+<string-name>
+<surname>Mathern</surname>
+<given-names>GW</given-names>
+</string-name>, 
+<string-name>
+<surname>Pretorius</surname>
+<given-names>JK</given-names>
+</string-name>, 
+<string-name>
+<surname>Babb</surname>
+<given-names>TL</given-names>
+</string-name>. <year>1995</year>
+<article-title>Influence of the type of initial precipitating injury and at what age it occurs on course and outcome in patients with temporal lobe seizures</article-title>. <source>J Neurosurg</source>
+<volume>82</volume>:<fpage>220</fpage>&#x02013;<lpage>227</lpage>.
+<pub-id pub-id-type="pmid">7815149</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0058"><mixed-citation publication-type="journal" id="jnr23767-cit-0058">
+<string-name>
+<surname>Mattis</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Tye</surname>
+<given-names>KM</given-names>
+</string-name>, 
+<string-name>
+<surname>Ferenczi</surname>
+<given-names>EA</given-names>
+</string-name>, 
+<string-name>
+<surname>Ramakrishnan</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>O'Shea</surname>
+<given-names>DJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Prakash</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Gunaydin</surname>
+<given-names>LA</given-names>
+</string-name>, 
+<string-name>
+<surname>Hyun</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Fenno</surname>
+<given-names>LE</given-names>
+</string-name>, 
+<string-name>
+<surname>Gradinaru</surname>
+<given-names>V</given-names>
+</string-name>, 
+<string-name>
+<surname>Yizhar</surname>
+<given-names>O</given-names>
+</string-name>, 
+<string-name>
+<surname>Deisseroth</surname>
+<given-names>K</given-names>
+</string-name>. <year>2012</year>
+<article-title>Principles for applying optogenetic tools derived from direct comparative analysis of microbial opsins</article-title>. <source>Nat Methods</source>
+<volume>9</volume>:<fpage>159</fpage>&#x02013;<lpage>172</lpage>.
+</mixed-citation></ref><ref id="jnr23767-bib-0059"><mixed-citation publication-type="journal" id="jnr23767-cit-0059">
+<string-name>
+<surname>Morrell</surname>
+<given-names>MJ</given-names>
+</string-name>. <year>2011</year>
+<article-title>Responsive cortical stimulation for the treatment of medically intractable partial epilepsy</article-title>. <source>Neurology</source>
+<volume>77</volume>:<fpage>1295</fpage>&#x02013;<lpage>1304</lpage>.
+<pub-id pub-id-type="pmid">21917777</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0060"><mixed-citation publication-type="journal" id="jnr23767-cit-0060">
+<string-name>
+<surname>Motelow</surname>
+<given-names>JE</given-names>
+</string-name>, 
+<string-name>
+<surname>Li</surname>
+<given-names>W</given-names>
+</string-name>, 
+<string-name>
+<surname>Zhan</surname>
+<given-names>Q</given-names>
+</string-name>, 
+<string-name>
+<surname>Mishra</surname>
+<given-names>AM</given-names>
+</string-name>, 
+<string-name>
+<surname>Sachdev</surname>
+<given-names>RNS</given-names>
+</string-name>, 
+<string-name>
+<surname>Liu</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Gummadavelli</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Zayyad</surname>
+<given-names>Z</given-names>
+</string-name>, 
+<string-name>
+<surname>Lee</surname>
+<given-names>HS</given-names>
+</string-name>, 
+<string-name>
+<surname>Chu</surname>
+<given-names>V</given-names>
+</string-name>, 
+<string-name>
+<surname>Andrews</surname>
+<given-names>JP</given-names>
+</string-name>, 
+<string-name>
+<surname>Englot</surname>
+<given-names>DJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Herman</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Sanganahalli</surname>
+<given-names>BG</given-names>
+</string-name>, 
+<string-name>
+<surname>Hyder</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name>
+<surname>Blumenfeld</surname>
+<given-names>H</given-names>
+</string-name>. <year>2015</year>
+<article-title>Decreased subcortical cholinergic arousal in focal seizures</article-title>. <source>Neuron</source>
+<volume>85</volume>:<fpage>561</fpage>&#x02013;<lpage>572</lpage>.
+<pub-id pub-id-type="pmid">25654258</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0061"><mixed-citation publication-type="journal" id="jnr23767-cit-0061">
+<string-name>
+<surname>Nissinen</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Halonen</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name>
+<surname>Koivisto</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Pitk&#x000e4;nen</surname>
+<given-names>A</given-names>
+</string-name>. <year>2000</year>
+<article-title>A new model of chronic temporal lobe epilepsy induced by electrical stimulation of the amygdala in rat</article-title>. <source>Epilepsy Res</source>
+<volume>38</volume>:<fpage>177</fpage>&#x02013;<lpage>205</lpage>.
+<pub-id pub-id-type="pmid">10642046</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0062"><mixed-citation publication-type="journal" id="jnr23767-cit-0062">
+<string-name>
+<surname>Osawa</surname>
+<given-names>S&#x02010;I</given-names>
+</string-name>, 
+<string-name>
+<surname>Iwasaki</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Hosaka</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Matsuzaka</surname>
+<given-names>Y</given-names>
+</string-name>, 
+<string-name>
+<surname>Tomita</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Ishizuka</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name>
+<surname>Sugano</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Okumura</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Yawo</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Nakasato</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Tominaga</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name>
+<surname>Mushiake</surname>
+<given-names>H</given-names>
+</string-name>. <year>2013</year>
+<article-title>Optogenetically induced seizure and the longitudinal hippocampal network dynamics</article-title>. <source>PLoS One</source>
+<volume>8</volume>:<fpage>e60928</fpage>.
+<pub-id pub-id-type="pmid">23593349</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0063"><mixed-citation publication-type="journal" id="jnr23767-cit-0063">
+<string-name>
+<surname>Pavlov</surname>
+<given-names>I</given-names>
+</string-name>, 
+<string-name>
+<surname>Kaila</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Kullmann</surname>
+<given-names>DM</given-names>
+</string-name>, 
+<string-name>
+<surname>Miles</surname>
+<given-names>R</given-names>
+</string-name>. <year>2013</year>
+<article-title>Cortical inhibition, pH, and cell excitability in epilepsy: what are optimal targets for antiepileptic interventions?</article-title>
+<source>J Physiol</source>
+<volume>591</volume>:<fpage>765</fpage>&#x02013;<lpage>774</lpage>.
+<pub-id pub-id-type="pmid">22890709</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0064"><mixed-citation publication-type="journal" id="jnr23767-cit-0064">
+<string-name>
+<surname>Paz</surname>
+<given-names>JT</given-names>
+</string-name>, 
+<string-name>
+<surname>Davidson</surname>
+<given-names>TJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Frechette</surname>
+<given-names>ES</given-names>
+</string-name>, 
+<string-name>
+<surname>Delord</surname>
+<given-names>B</given-names>
+</string-name>, 
+<string-name>
+<surname>Parada</surname>
+<given-names>I</given-names>
+</string-name>, 
+<string-name>
+<surname>Peng</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Deisseroth</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Huguenard</surname>
+<given-names>JR</given-names>
+</string-name>. <year>2013</year>
+<article-title>Closed&#x02010;loop optogenetic control of thalamus as a tool for interrupting seizures after cortical injury</article-title>. <source>Nat Neurosci</source>
+<volume>16</volume>:<fpage>64</fpage>&#x02013;<lpage>70</lpage>.
+<pub-id pub-id-type="pmid">23143518</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0065"><mixed-citation publication-type="journal" id="jnr23767-cit-0065">
+<string-name>
+<surname>Peng</surname>
+<given-names>Z</given-names>
+</string-name>, 
+<string-name>
+<surname>Zhang</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Wei</surname>
+<given-names>W</given-names>
+</string-name>, 
+<string-name>
+<surname>Huang</surname>
+<given-names>CS</given-names>
+</string-name>, 
+<string-name>
+<surname>Cetina</surname>
+<given-names>Y</given-names>
+</string-name>, 
+<string-name>
+<surname>Otis</surname>
+<given-names>TS</given-names>
+</string-name>, 
+<string-name>
+<surname>Houser</surname>
+<given-names>CR</given-names>
+</string-name>. <year>2013</year>
+<article-title>A reorganized GABAergic circuit in a model of epilepsy: evidence from optogenetic labeling and stimulation of somatostatin interneurons</article-title>. <source>J Neurosci</source>
+<volume>33</volume>:<fpage>14392</fpage>&#x02013;<lpage>14405</lpage>.
+<pub-id pub-id-type="pmid">24005292</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0066"><mixed-citation publication-type="journal" id="jnr23767-cit-0066">
+<string-name>
+<surname>Pinel</surname>
+<given-names>JP</given-names>
+</string-name>, 
+<string-name>
+<surname>Rovner</surname>
+<given-names>LI</given-names>
+</string-name>. <year>1978</year>
+<article-title>Electrode placement and kindling&#x02010;induced experimental epilepsy</article-title>. <source>Exp Neurol</source>
+<volume>58</volume>:<fpage>335</fpage>&#x02013;<lpage>346</lpage>.
+<pub-id pub-id-type="pmid">618751</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0067"><mixed-citation publication-type="book" id="jnr23767-cit-0067">
+<string-name>
+<surname>Pitk&#x000e4;nen</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Schwartzkroin</surname>
+<given-names>PA</given-names>
+</string-name>, 
+<string-name>
+<surname>Mosh&#x000e9;</surname>
+<given-names>SL</given-names>
+</string-name>, 
+<string-name>
+<surname>Mare&#x00161;</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Kubov&#x000e1;</surname>
+<given-names>H</given-names>
+</string-name>. <year>2006</year>
+<chapter-title>Electrical stimulation: induced models of seizures</chapter-title> In: <person-group person-group-type="editor"><name><surname>Pitk&#x000e4;nen</surname><given-names>A</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Schwartzkroin</surname><given-names>PA</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Mosh&#x000e9;</surname><given-names>SL</given-names></name></person-group>, editors. <source>Models of seizures and epilepsy</source>. <publisher-loc>Cambridge, MA</publisher-loc>: <publisher-name>Academic Press</publisher-name> p <fpage>153</fpage>&#x02013;<lpage>159</lpage>.
+</mixed-citation></ref><ref id="jnr23767-bib-0068"><mixed-citation publication-type="journal" id="jnr23767-cit-0068">
+<string-name>
+<surname>Putnam</surname>
+<given-names>TJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Merritt</surname>
+<given-names>HH</given-names>
+</string-name>. <year>1937</year>
+<article-title>Experimental determination of the anticonvulsant properties of some phenyl derivatives</article-title>. <source>Science</source>
+<volume>85</volume>:<fpage>525</fpage>&#x02013;<lpage>526</lpage>.
+<pub-id pub-id-type="pmid">17750072</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0069"><mixed-citation publication-type="journal" id="jnr23767-cit-0069">
+<string-name>
+<surname>Racine</surname>
+<given-names>RJ</given-names>
+</string-name>. <year>1972</year>
+<article-title>Modification of seizure activity by electrical stimulation: II. Motor seizure</article-title>. <source>Electroencephalogr Clin Neurophysiol</source>
+<volume>32</volume>:<fpage>281</fpage>&#x02013;<lpage>294</lpage>.
+<pub-id pub-id-type="pmid">4110397</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0070"><mixed-citation publication-type="journal" id="jnr23767-cit-0070">
+<string-name>
+<surname>Raimondo</surname>
+<given-names>J</given-names>
+<suffix>V</suffix>
+</string-name>, 
+<string-name>
+<surname>Kay</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Ellender</surname>
+<given-names>TJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Akerman</surname>
+<given-names>CJ</given-names>
+</string-name>. <year>2012</year>
+<article-title>Optogenetic silencing strategies differ in their effects on inhibitory synaptic transmission</article-title>. <source>Nat Neurosci</source>
+<volume>15</volume>:<fpage>1102</fpage>&#x02013;<lpage>1104</lpage>.
+<pub-id pub-id-type="pmid">22729174</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0071"><mixed-citation publication-type="journal" id="jnr23767-cit-0071">
+<string-name>
+<surname>Roux</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Stark</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Sjulson</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Buzs&#x000e1;ki</surname>
+<given-names>G</given-names>
+</string-name>. <year>2014</year>
+<article-title>In vivo optogenetic identification and manipulation of GABAergic interneuron subtypes</article-title>. <source>Curr Opin Neurobiol</source>
+<volume>26</volume>:<fpage>88</fpage>&#x02013;<lpage>95</lpage>.
+<pub-id pub-id-type="pmid">24440414</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0072"><mixed-citation publication-type="journal" id="jnr23767-cit-0072">
+<string-name>
+<surname>Sessolo</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Marcon</surname>
+<given-names>I</given-names>
+</string-name>, 
+<string-name>
+<surname>Bovetti</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Losi</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Cammarota</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Ratto</surname>
+<given-names>GM</given-names>
+</string-name>, 
+<string-name>
+<surname>Fellin</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name>
+<surname>Carmignoto</surname>
+<given-names>G</given-names>
+</string-name>. <year>2015</year>
+<article-title>Parvalbumin&#x02010;positive inhibitory interneurons oppose propagation but favor generation of focal epileptiform activity</article-title>. <source>J Neurosci</source>
+<volume>35</volume>:<fpage>9544</fpage>&#x02013;<lpage>9557</lpage>.
+<pub-id pub-id-type="pmid">26134638</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0073"><mixed-citation publication-type="journal" id="jnr23767-cit-0073">
+<string-name>
+<surname>Shiri</surname>
+<given-names>Z</given-names>
+</string-name>, 
+<string-name>
+<surname>Manseau</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name>
+<surname>L&#x000e9;vesque</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Williams</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Avoli</surname>
+<given-names>M</given-names>
+</string-name>. <year>2015</year>
+<article-title>Interneuron activity leads to initiation of low&#x02010;voltage fast&#x02010;onset seizures</article-title>. <source>Ann Neurol</source>
+<volume>77</volume>:<fpage>541</fpage>&#x02013;<lpage>546</lpage>.
+<pub-id pub-id-type="pmid">25546300</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0074"><mixed-citation publication-type="journal" id="jnr23767-cit-0074">
+<string-name>
+<surname>Shorvon</surname>
+<given-names>SD</given-names>
+</string-name>. <year>2009a</year>
+<article-title>Drug treatment of epilepsy in the century of the ILAE: the first 50 years, 1909&#x02013;1958</article-title>. <source>Epilepsia</source>
+<volume>50</volume>(<issue>Suppl 3</issue>):<fpage>69</fpage>&#x02013;<lpage>92</lpage>.
+</mixed-citation></ref><ref id="jnr23767-bib-0075"><mixed-citation publication-type="journal" id="jnr23767-cit-0075">
+<string-name>
+<surname>Shorvon</surname>
+<given-names>SD</given-names>
+</string-name>. <year>2009b</year>
+<article-title>Drug treatment of epilepsy in the century of the ILAE: the second 50 years, 1959&#x02013;2009</article-title>. <source>Epilepsia</source>
+<volume>50</volume>(<issue>Suppl 3</issue>):<fpage>93</fpage>&#x02013;<lpage>130</lpage>.
+<pub-id pub-id-type="pmid">19298435</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0076"><mixed-citation publication-type="journal" id="jnr23767-cit-0076">
+<string-name>
+<surname>Soper</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Wicker</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Kulick</surname>
+<given-names>CV</given-names>
+</string-name>, 
+<string-name>
+<surname>N'Gouemo</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Forcelli</surname>
+<given-names>PA</given-names>
+</string-name>. <year>2015</year>
+<article-title>Optogenetic activation of superior colliculus neurons suppresses seizures originating in diverse brain networks</article-title>. <source>Neurobiol Dis</source>
+<volume>87</volume>:<fpage>102</fpage>&#x02013;<lpage>115</lpage>.
+<pub-id pub-id-type="pmid">26721319</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0077"><mixed-citation publication-type="journal" id="jnr23767-cit-0077">
+<string-name>
+<surname>Spiegel</surname>
+<given-names>E</given-names>
+</string-name>. <year>1937</year>
+<article-title>Quantitative determination of reactivity by electric stimulation of the brain with the skull intact</article-title>. <source>J Lab Clin Med</source>
+<volume>22</volume>:<fpage>1274</fpage>&#x02013;<lpage>1276</lpage>.
+</mixed-citation></ref><ref id="jnr23767-bib-0078"><mixed-citation publication-type="journal" id="jnr23767-cit-0078">
+<string-name>
+<surname>Staley</surname>
+<given-names>KJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Soldo</surname>
+<given-names>BL</given-names>
+</string-name>, 
+<string-name>
+<surname>Proctor</surname>
+<given-names>WR</given-names>
+</string-name>. <year>1995</year>
+<article-title>Ionic mechanisms of neuronal excitation by inhibitory GABA<sub>A</sub> receptors</article-title>. <source>Science</source>
+<volume>269</volume>:<fpage>977</fpage>&#x02013;<lpage>981</lpage>.
+<pub-id pub-id-type="pmid">7638623</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0079"><mixed-citation publication-type="journal" id="jnr23767-cit-0079">
+<string-name>
+<surname>Sukhotinsky</surname>
+<given-names>I</given-names>
+</string-name>, 
+<string-name>
+<surname>Chan</surname>
+<given-names>AM</given-names>
+</string-name>, 
+<string-name>
+<surname>Ahmed</surname>
+<given-names>OJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Rao</surname>
+<given-names>VR</given-names>
+</string-name>, 
+<string-name>
+<surname>Gradinaru</surname>
+<given-names>V</given-names>
+</string-name>, 
+<string-name>
+<surname>Ramakrishnan</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Deisseroth</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Majewska</surname>
+<given-names>AK</given-names>
+</string-name>, 
+<string-name>
+<surname>Cash</surname>
+<given-names>SS</given-names>
+</string-name>. <year>2013</year>
+<article-title>Optogenetic delay of status epilepticus onset in an in vivo rodent epilepsy model</article-title>. <source>PLoS One</source>
+<volume>8</volume>:<fpage>e62013</fpage>.
+<pub-id pub-id-type="pmid">23637949</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0080"><mixed-citation publication-type="journal" id="jnr23767-cit-0080">
+<string-name>
+<surname>Thom</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Bertram</surname>
+<given-names>EH</given-names>
+</string-name>. <year>2012</year>
+<article-title>Temporal lobe epilepsy</article-title>. <source>Handb Clin Neurol</source>
+<volume>107</volume>:<fpage>225</fpage>&#x02013;<lpage>240</lpage>.
+<pub-id pub-id-type="pmid">22938974</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0081"><mixed-citation publication-type="journal" id="jnr23767-cit-0081">
+<string-name>
+<surname>T&#x000f8;nnesen</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>S&#x000f8;rensen</surname>
+<given-names>AT</given-names>
+</string-name>, 
+<string-name>
+<surname>Deisseroth</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Lundberg</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Kokaia</surname>
+<given-names>M</given-names>
+</string-name>. <year>2009</year>
+<article-title>Optogenetic control of epileptiform activity</article-title>. <source>Proc Natl Acad Sci U S A</source>
+<volume>106</volume>:<fpage>12162</fpage>&#x02013;<lpage>12167</lpage>.
+<pub-id pub-id-type="pmid">19581573</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0082"><mixed-citation publication-type="journal" id="jnr23767-cit-0082">
+<string-name>
+<surname>Toyoda</surname>
+<given-names>I</given-names>
+</string-name>, 
+<string-name>
+<surname>Fujita</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Thamattoor</surname>
+<given-names>AK</given-names>
+</string-name>, 
+<string-name>
+<surname>Buckmaster</surname>
+<given-names>PS</given-names>
+</string-name>. <year>2015</year>
+<article-title>Unit activity of hippocampal interneurons before spontaneous seizures in an animal model of temporal lobe epilepsy</article-title>. <source>J Neurosci</source>
+<volume>35</volume>:<fpage>6600</fpage>&#x02013;<lpage>6618</lpage>.
+<pub-id pub-id-type="pmid">25904809</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0083"><mixed-citation publication-type="journal" id="jnr23767-cit-0083">
+<string-name>
+<surname>Trevelyan</surname>
+<given-names>AJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Muldoon</surname>
+<given-names>SF</given-names>
+</string-name>, 
+<string-name>
+<surname>Merricks</surname>
+<given-names>EM</given-names>
+</string-name>, 
+<string-name>
+<surname>Racca</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Staley</surname>
+<given-names>KJ</given-names>
+</string-name>. <year>2015</year>
+<article-title>The role of inhibition in epileptic networks</article-title>. <source>J Clin Neurophysiol</source>
+<volume>32</volume>:<fpage>227</fpage>&#x02013;<lpage>234</lpage>.
+<pub-id pub-id-type="pmid">26035675</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0084"><mixed-citation publication-type="journal" id="jnr23767-cit-0084">
+<string-name>
+<surname>Viitanen</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name>
+<surname>Ruusuvuori</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Kaila</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Voipio</surname>
+<given-names>J</given-names>
+</string-name>. <year>2010</year>
+<article-title>The K<sup>+</sup>&#x02010;Cl cotransporter KCC2 promotes GABAergic excitation in the mature rat hippocampus</article-title>. <source>J Physiol</source>
+<volume>588</volume>:<fpage>1527</fpage>&#x02013;<lpage>1540</lpage>.
+<pub-id pub-id-type="pmid">20211979</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0085"><mixed-citation publication-type="journal" id="jnr23767-cit-0085">
+<string-name>
+<surname>Wagner</surname>
+<given-names>FB</given-names>
+</string-name>, 
+<string-name>
+<surname>Truccolo</surname>
+<given-names>W</given-names>
+</string-name>, 
+<string-name>
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Nurmikko</surname>
+<given-names>A</given-names>
+<suffix>V</suffix>
+</string-name>. <year>2015</year>
+<article-title>Spatiotemporal dynamics of optogenetically induced and spontaneous seizure transitions in primary generalized epilepsy</article-title>. <source>J Neurophysiol</source>
+<volume>113</volume>:<fpage>2321</fpage>&#x02013;<lpage>2341</lpage>.
+<pub-id pub-id-type="pmid">25552645</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0086"><mixed-citation publication-type="journal" id="jnr23767-cit-0086">
+<string-name>
+<surname>Weitz</surname>
+<given-names>AJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Fang</surname>
+<given-names>Z</given-names>
+</string-name>, 
+<string-name>
+<surname>Lee</surname>
+<given-names>HJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Fisher</surname>
+<given-names>RS</given-names>
+</string-name>, 
+<string-name>
+<surname>Smith</surname>
+<given-names>WC</given-names>
+</string-name>, 
+<string-name>
+<surname>Choy</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Liu</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Lin</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Rosenberg</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Lee</surname>
+<given-names>JH</given-names>
+</string-name>. <year>2015</year>
+<article-title>Optogenetic fMRI reveals distinct, frequency&#x02010;dependent networks recruited by dorsal and intermediate hippocampus stimulations</article-title>. <source>Neuroimage</source>
+<volume>107</volume>:<fpage>229</fpage>&#x02013;<lpage>241</lpage>.
+<pub-id pub-id-type="pmid">25462689</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0087"><mixed-citation publication-type="journal" id="jnr23767-cit-0087">
+<string-name>
+<surname>West</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Nolan</surname>
+<given-names>SJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Cotton</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Gandhi</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Weston</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Sudan</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Ramirez</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Newton</surname>
+<given-names>R</given-names>
+</string-name>. <year>2015</year>
+<article-title>Surgery for epilepsy</article-title>. <source>Cochrane Database Syst Rev</source>
+<volume>7</volume>:<fpage>CD010541</fpage>.
+</mixed-citation></ref><ref id="jnr23767-bib-0088"><mixed-citation publication-type="journal" id="jnr23767-cit-0088">
+<string-name>
+<surname>Wykes</surname>
+<given-names>RC</given-names>
+</string-name>, 
+<string-name>
+<surname>Heeroma</surname>
+<given-names>JH</given-names>
+</string-name>, 
+<string-name>
+<surname>Mantoan</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Zheng</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>MacDonald</surname>
+<given-names>DC</given-names>
+</string-name>, 
+<string-name>
+<surname>Deisseroth</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Hashemi</surname>
+<given-names>KS</given-names>
+</string-name>, 
+<string-name>
+<surname>Walker</surname>
+<given-names>MC</given-names>
+</string-name>, 
+<string-name>
+<surname>Schorge</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Kullmann</surname>
+<given-names>DM</given-names>
+</string-name>. <year>2012</year>
+<article-title>Optogenetic and potassium channel gene therapy in a rodent model of focal neocortical epilepsy</article-title>. <source>Sci Transl Med</source>
+<volume>4</volume>:<fpage>161ra152</fpage>.
+</mixed-citation></ref><ref id="jnr23767-bib-0089"><mixed-citation publication-type="journal" id="jnr23767-cit-0089">
+<string-name>
+<surname>Yekhlef</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Breschi</surname>
+<given-names>GL</given-names>
+</string-name>, 
+<string-name>
+<surname>Lagostena</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Russo</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Taverna</surname>
+<given-names>S</given-names>
+</string-name>. <year>2015</year>
+<article-title>Selective activation of parvalbumin&#x02010; or somatostatin&#x02010;expressing interneurons triggers epileptic seizure&#x02010;like activity in mouse medial entorhinal cortex</article-title>. <source>J Neurophysiol</source>
+<volume>113</volume>:<fpage>1616</fpage>&#x02013;<lpage>1630</lpage>.
+<pub-id pub-id-type="pmid">25505119</pub-id></mixed-citation></ref><ref id="jnr23767-bib-0090"><mixed-citation publication-type="journal" id="jnr23767-cit-0090">
+<string-name>
+<surname>Ziburkus</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Cressman</surname>
+<given-names>JR</given-names>
+</string-name>, 
+<string-name>
+<surname>Barreto</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Schiff</surname>
+<given-names>SJ</given-names>
+</string-name>. <year>2006</year>
+<article-title>Interneuron and pyramidal cell interplay during in vitro seizure&#x02010;like events</article-title>. <source>J Neurophysiol</source>
+<volume>95</volume>:<fpage>3948</fpage>&#x02013;<lpage>3954</lpage>.
+<pub-id pub-id-type="pmid">16554499</pub-id></mixed-citation></ref></ref-list></back></article>

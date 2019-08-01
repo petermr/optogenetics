@@ -1,0 +1,437 @@
+{
+  "id": [
+    "31024681"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31024681"
+  ],
+  "pmcid": [
+    "PMC6472158"
+  ],
+  "doi": [
+    "10.1177/2041731419841748"
+  ],
+  "title": [
+    "Chronic optical pacing conditioning of h-iPSC engineered cardiac tissues."
+  ],
+  "authorString": [
+    "Dwenger M, Kowalski WJ, Ye F, Yuan F, Tinney JP, Setozaki S, Nakane T, Masumoto H, Campbell P, Guido W, Keller BB."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Dwenger M"
+          ],
+          "firstName": [
+            "Marc"
+          ],
+          "lastName": [
+            "Dwenger"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Kosair Charities Pediatric Heart Research Program, Cardiovascular Innovation Institute, University of Louisville, Louisville, KY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kowalski WJ"
+          ],
+          "firstName": [
+            "William J"
+          ],
+          "lastName": [
+            "Kowalski"
+          ],
+          "initials": [
+            "WJ"
+          ],
+          "affiliation": [
+            "Kosair Charities Pediatric Heart Research Program, Cardiovascular Innovation Institute, University of Louisville, Louisville, KY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ye F"
+          ],
+          "firstName": [
+            "Fei"
+          ],
+          "lastName": [
+            "Ye"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Kosair Charities Pediatric Heart Research Program, Cardiovascular Innovation Institute, University of Louisville, Louisville, KY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Yuan F"
+          ],
+          "firstName": [
+            "Fangping"
+          ],
+          "lastName": [
+            "Yuan"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Kosair Charities Pediatric Heart Research Program, Cardiovascular Innovation Institute, University of Louisville, Louisville, KY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Tinney JP"
+          ],
+          "firstName": [
+            "Joseph P"
+          ],
+          "lastName": [
+            "Tinney"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "affiliation": [
+            "Kosair Charities Pediatric Heart Research Program, Cardiovascular Innovation Institute, University of Louisville, Louisville, KY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Setozaki S"
+          ],
+          "firstName": [
+            "Shuji"
+          ],
+          "lastName": [
+            "Setozaki"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Kosair Charities Pediatric Heart Research Program, Cardiovascular Innovation Institute, University of Louisville, Louisville, KY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Nakane T"
+          ],
+          "firstName": [
+            "Takeichiro"
+          ],
+          "lastName": [
+            "Nakane"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Kosair Charities Pediatric Heart Research Program, Cardiovascular Innovation Institute, University of Louisville, Louisville, KY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Masumoto H"
+          ],
+          "firstName": [
+            "Hidetoshi"
+          ],
+          "lastName": [
+            "Masumoto"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Cell Growth and Differentiation, Center for iPS Cell Research and Application (CiRA), Kyoto University, Kyoto, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Campbell P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "Campbell"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Anatomical Sciences and Neurobiology, School of Medicine, University of Louisville, Louisville, KY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Guido W"
+          ],
+          "firstName": [
+            "William"
+          ],
+          "lastName": [
+            "Guido"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Department of Anatomical Sciences and Neurobiology, School of Medicine, University of Louisville, Louisville, KY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Keller BB"
+          ],
+          "firstName": [
+            "Bradley B"
+          ],
+          "lastName": [
+            "Keller"
+          ],
+          "initials": [
+            "BB"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5476-6050",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Kosair Charities Pediatric Heart Research Program, Cardiovascular Innovation Institute, University of Louisville, Louisville, KY, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5476-6050",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2778697"
+      ],
+      "dateOfPublication": [
+        "2019 Jan-Dec"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of tissue engineering"
+          ],
+          "ISOAbbreviation": [
+            "J Tissue Eng"
+          ],
+          "medlineAbbreviation": [
+            "J Tissue Eng"
+          ],
+          "NLMid": [
+            "101550131"
+          ],
+          "ISSN": [
+            "2041-7314"
+          ],
+          "ESSN": [
+            "2041-7314"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2041731419841748"
+  ],
+  "abstractText": [
+    "The immaturity of human induced pluripotent stem cell derived engineered cardiac tissues limits their ability to regenerate damaged myocardium and to serve as robust in vitro models for human disease and drug toxicity studies. Several chronic biomimetic conditioning protocols, including mechanical stretch, perfusion, and/or electrical stimulation promote engineered cardiac tissue maturation but have significant technical limitations. Non-contacting chronic optical stimulation using heterologously expressed channelrhodopsin light-gated ion channels, termed optogenetics, may be an advantageous alternative to chronic invasive electrical stimulation for engineered cardiac tissue conditioning. We designed proof-of-principle experiments to successfully transfect human induced pluripotent stem cell derived engineered cardiac tissues with a desensitization resistant, chimeric channelrhodopsin protein, and then optically paced engineered cardiac tissues to accelerate maturation. We transfected human induced pluripotent stem cell engineered cardiac tissues using an adeno-associated virus packaged chimeric channelrhodopsin and then verified optically paced by whole cell patch clamp. Engineered cardiac tissues were then chronically optically paced above their intrinsic beat rates in vitro from day 7 to 14. Chronically optically paced resulted in improved engineered cardiac tissue electrophysiological properties and subtle changes in the expression of some cardiac relevant genes, though active force generation and histology were unchanged. These results validate the feasibility of a novel chronically optically paced paradigm to explore non-invasive and scalable optically paced-induced engineered cardiac tissue maturation strategies."
+  ],
+  "affiliation": [
+    "Kosair Charities Pediatric Heart Research Program, Cardiovascular Innovation Institute, University of Louisville, Louisville, KY, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Stem Cells",
+        "Optogenetics",
+        "Channelrhodopsin",
+        "Engineered Cardiac Tissues",
+        "Optical Pacing"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6472158?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6472158"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1177/2041731419841748"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-04-27"
+  ],
+  "firstIndexDate": [
+    "2019-04-27"
+  ],
+  "dateOfRevision": [
+    "2019-04-28"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-17"
+  ],
+  "firstPublicationDate": [
+    "2019-01-01"
+  ]
+}

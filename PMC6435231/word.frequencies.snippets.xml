@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6435231/results/word/frequencies/results.xml">
+  <result title="frequency" word="expression" count="64"/>
+  <result title="frequency" word="ChR-EYFP" count="34"/>
+  <result title="frequency" word="Fig" count="29"/>
+  <result title="frequency" word="mice" count="24"/>
+  <result title="frequency" word="Ai/Ai" count="22"/>
+ </snippets>
+</snippetsTree>

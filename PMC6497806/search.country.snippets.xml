@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6497806/results/search/country/results.xml">
+  <result pre="Clifford B. [], Department of Neurology, Program in Neuroscience, Beth" exact="Israel" post="Deaconess Medical Center and Harvard Medical School Boston, MA"/>
+  <result pre="Israel Deaconess Medical Center and Harvard Medical School Boston, MA" exact="United States" post="Edited by: Michael Lazarus, University of Tsukuba, Japan Reviewed"/>
+  <result pre="MA United States Edited by: Michael Lazarus, University of Tsukuba," exact="Japan" post="Reviewed by: Hiromasa Funato, Toho University, Japan; Zhi-Li Huang,"/>
+  <result pre="by: Hiromasa Funato, Toho University, Japan; Zhi-Li Huang, Fudan University," exact="China" post="*Correspondence: Satvinder Kaur, skaur@bidmc.harvard.edu This article was submitted to"/>
+  <result pre="Laboratory Animals, and all protocols were approved by the Beth" exact="Israel" post="Deaconess Medical Center Institutional Animal Care and Use Committee."/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6281227/results/word/frequencies/results.xml">
+  <result title="frequency" word="early" count="46"/>
+  <result title="frequency" word="control" count="45"/>
+  <result title="frequency" word="late" count="44"/>
+  <result title="frequency" word="LED" count="42"/>
+  <result title="frequency" word="Fig" count="41"/>
+  <result title="frequency" word="test" count="40"/>
+  <result title="frequency" word="rat" count="37"/>
+  <result title="frequency" word="time" count="37"/>
+  <result title="frequency" word="cue" count="32"/>
+  <result title="frequency" word="perceptual" count="32"/>
+  <result title="frequency" word="reaction" count="30"/>
+  <result title="frequency" word="threshold" count="30"/>
+  <result title="frequency" word="licking" count="27"/>
+  <result title="frequency" word="agility" count="25"/>
+  <result title="frequency" word="rats" count="25"/>
+  <result title="frequency" word="stimulus" count="25"/>
+  <result title="frequency" word="light" count="22"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6226288/results/search/country/results.xml">
+  <result pre="Centre de Recherche Paris Sciences et Lettres Research University Paris" exact="France" post="[2], ART Group, Inserm U830 Paris France [3], Department"/>
+  <result pre="Research University Paris France [2], ART Group, Inserm U830 Paris" exact="France" post="[3], Department of Pathology Institut Curie Paris France [4],"/>
+  <result pre="U830 Paris France [3], Department of Pathology Institut Curie Paris" exact="France" post="[4], LOCCO Group, UMR168 Paris France [5], Department of"/>
+  <result pre="Pathology Institut Curie Paris France [4], LOCCO Group, UMR168 Paris" exact="France" post="[5], Department of Biostatistics Institut Curie Paris France [6],"/>
+  <result pre="UMR168 Paris France [5], Department of Biostatistics Institut Curie Paris" exact="France" post="[6], Protein Expression and Purification Core Facility Paris France"/>
+  <result pre="Paris France [6], Protein Expression and Purification Core Facility Paris" exact="France" post="Musacchio Andrea Reviewing Editor [], Max Planck Institute of"/>
+  <result pre="Andrea Reviewing Editor [], Max Planck Institute of Molecular Physiology" exact="Germany" post="Musacchio Andrea Senior Editor [], Max Planck Institute of"/>
+  <result pre="Andrea Senior Editor [], Max Planck Institute of Molecular Physiology" exact="Germany" post=": 2018-10-10 collection: 2018 7 e40474 received: 2018-7-31 accepted:"/>
+  <result pre="R: A Language and environment for statistical computing 3.3.2 Vienna," exact="Austria" post="R Foundation for Statistical Computing https://www.R-project.org/ Rebhun JF Chen"/>
+ </snippets>
+</snippetsTree>

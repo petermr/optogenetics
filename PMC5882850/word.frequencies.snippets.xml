@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC5882850/results/word/frequencies/results.xml">
+  <result title="frequency" word="opto-GPR" count="91"/>
+  <result title="frequency" word="GPR" count="61"/>
+  <result title="frequency" word="light" count="55"/>
+  <result title="frequency" word="activation" count="45"/>
+  <result title="frequency" word="orphan" count="43"/>
+  <result title="frequency" word="signaling" count="39"/>
+  <result title="frequency" word="cells" count="25"/>
+  <result title="frequency" word="control" count="25"/>
+  <result title="frequency" word="mice" count="25"/>
+  <result title="frequency" word="stimulation" count="24"/>
+  <result title="frequency" word="receptor" count="23"/>
+  <result title="frequency" word="GPCR" count="22"/>
+  <result title="frequency" word="GPCRs" count="22"/>
+  <result title="frequency" word="striatum" count="22"/>
+  <result title="frequency" word="phosphorylation" count="21"/>
+ </snippets>
+</snippetsTree>

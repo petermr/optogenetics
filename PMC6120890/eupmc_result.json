@@ -1,0 +1,324 @@
+{
+  "id": [
+    "30177765"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30177765"
+  ],
+  "pmcid": [
+    "PMC6120890"
+  ],
+  "doi": [
+    "10.1038/s41598-018-31370-0"
+  ],
+  "title": [
+    "X-ray structure analysis of bacteriorhodopsin at 1.3 Å resolution."
+  ],
+  "authorString": [
+    "Hasegawa N, Jonotsuka H, Miki K, Takeda K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hasegawa N"
+          ],
+          "firstName": [
+            "Nagayuki"
+          ],
+          "lastName": [
+            "Hasegawa"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Chemistry, Graduate School of Science, Kyoto University, Sakyo-ku, Kyoto, 606-8502, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Jonotsuka H"
+          ],
+          "firstName": [
+            "Hideyuki"
+          ],
+          "lastName": [
+            "Jonotsuka"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Chemistry, Graduate School of Science, Kyoto University, Sakyo-ku, Kyoto, 606-8502, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Miki K"
+          ],
+          "firstName": [
+            "Kunio"
+          ],
+          "lastName": [
+            "Miki"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Chemistry, Graduate School of Science, Kyoto University, Sakyo-ku, Kyoto, 606-8502, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Takeda K"
+          ],
+          "firstName": [
+            "Kazuki"
+          ],
+          "lastName": [
+            "Takeda"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4094-6816",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Chemistry, Graduate School of Science, Kyoto University, Sakyo-ku, Kyoto, 606-8502, Japan. ktakeda@kuchem.kyoto-u.ac.jp."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4094-6816",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2722578"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "13123"
+  ],
+  "abstractText": [
+    "Bacteriorhodopsin (bR) of Halobacterium salinarum is a membrane protein that acts as a light-driven proton pump. bR and its homologues have recently been utilized in optogenetics and other applications. Although the structures of those have been reported so far, the resolutions are not sufficient for elucidation of the intrinsic structural features critical to the color tuning and ion pumping properties. Here we report the accurate crystallographic analysis of bR in the ground state. The influence of X-rays was suppressed by collecting the data under a low irradiation dose at 15 K. Consequently, individual atoms could be separately observed in the electron density map at better than 1.3 Å resolution. Residues from Thr5 to Ala233 were continuously constructed in the model. The twist of the retinal polyene was determined to be different from those in the previous models. Two conformations were observed for the proton release region. We discuss the meaning of these fine structural features."
+  ],
+  "affiliation": [
+    "Department of Chemistry, Graduate School of Science, Kyoto University, Sakyo-ku, Kyoto, 606-8502, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6120890?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6120890"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-018-31370-0"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "PDB"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "pdb"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-09-05"
+  ],
+  "firstIndexDate": [
+    "2018-09-04"
+  ],
+  "dateOfRevision": [
+    "2018-09-07"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-03"
+  ],
+  "firstPublicationDate": [
+    "2018-09-03"
+  ]
+}

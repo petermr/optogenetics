@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6240888/results/search/country/results.xml">
+  <result pre="Kennis John T. M. * † [†], Vrije Universiteit The" exact="Netherlands" post="[‡], Leiden University The Netherlands [#], ELI-Beamlines, Institute of"/>
+  <result pre="† [†], Vrije Universiteit The Netherlands [‡], Leiden University The" exact="Netherlands" post="[#], ELI-Beamlines, Institute of Physics Czech Republic [¶], Radboud"/>
+  <result pre="[‡], Leiden University The Netherlands [#], ELI-Beamlines, Institute of Physics" exact="Czech Republic" post="[¶], Radboud University Medical Center The Netherlands *E-mail: j.t.m.kennis@vu.nl."/>
+  <result pre="of Physics Czech Republic [¶], Radboud University Medical Center The" exact="Netherlands" post="*E-mail: j.t.m.kennis@vu.nl. epub: 2018-10-10 ppub: 2018-11-11 9 22 6469"/>
+  <result pre="J.T.M.K. were supported by the Chemical Sciences Council of The" exact="Netherlands" post="Organization for Scientific Research (NWO-CW) through a VICI grant"/>
+ </snippets>
+</snippetsTree>

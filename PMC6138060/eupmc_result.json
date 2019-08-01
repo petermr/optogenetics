@@ -1,0 +1,429 @@
+{
+  "id": [
+    "30225158"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30225158"
+  ],
+  "pmcid": [
+    "PMC6138060"
+  ],
+  "doi": [
+    "10.1167/tvst.7.5.8"
+  ],
+  "title": [
+    "Translational Retinal Research and Therapies."
+  ],
+  "authorString": [
+    "Hardcastle AJ, Sieving PA, Sahel JA, Jacobson SG, Cideciyan AV, Flannery JG, Beltran WA, Aguirre GD."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hardcastle AJ"
+          ],
+          "firstName": [
+            "Alison J"
+          ],
+          "lastName": [
+            "Hardcastle"
+          ],
+          "initials": [
+            "AJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0038-6770",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Professor of Molecular Genetics, UCL Institute of Ophthalmology, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Sieving PA"
+          ],
+          "firstName": [
+            "Paul A"
+          ],
+          "lastName": [
+            "Sieving"
+          ],
+          "initials": [
+            "PA"
+          ],
+          "affiliation": [
+            "Director, National Eye Institute, National Institutes of Health, Bethesda, MD, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Sahel JA"
+          ],
+          "firstName": [
+            "José-Alain"
+          ],
+          "lastName": [
+            "Sahel"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "affiliation": [
+            "Department of Ophthalmology, University of Pittsburgh School of Medicine, Director of the UPMC Eye Center, University of Pittsburgh Medical Center, Pittsburgh, PA, USA and Director, Institut de la Vision, Sorbonne Université-Inserm-CNRS, Centre Hospitalier National d'Ophtalmologie des Quinze-Vingts, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Jacobson SG"
+          ],
+          "firstName": [
+            "Samuel G"
+          ],
+          "lastName": [
+            "Jacobson"
+          ],
+          "initials": [
+            "SG"
+          ],
+          "affiliation": [
+            "Scheie Eye Institute, Department of Ophthalmology, University of Pennsylvania Perelman School of Medicine, Philadelphia, PA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Cideciyan AV"
+          ],
+          "firstName": [
+            "Artur V"
+          ],
+          "lastName": [
+            "Cideciyan"
+          ],
+          "initials": [
+            "AV"
+          ],
+          "affiliation": [
+            "Scheie Eye Institute, Department of Ophthalmology, University of Pennsylvania Perelman School of Medicine, Philadelphia, PA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Flannery JG"
+          ],
+          "firstName": [
+            "John G"
+          ],
+          "lastName": [
+            "Flannery"
+          ],
+          "initials": [
+            "JG"
+          ],
+          "affiliation": [
+            "Department of Molecular and Cell Biology, Helen Wills Neuroscience Institute, University of California, Berkeley, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Beltran WA"
+          ],
+          "firstName": [
+            "William A"
+          ],
+          "lastName": [
+            "Beltran"
+          ],
+          "initials": [
+            "WA"
+          ],
+          "affiliation": [
+            "Department of Clinical Sciences and Advanced Medicine, Division of Experimental Retinal Therapies, School of Veterinary Medicine, University of Pennsylvania, Philadelphia, PA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Aguirre GD"
+          ],
+          "firstName": [
+            "Gustavo D"
+          ],
+          "lastName": [
+            "Aguirre"
+          ],
+          "initials": [
+            "GD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5228-256X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Clinical Sciences and Advanced Medicine, Division of Experimental Retinal Therapies, School of Veterinary Medicine, University of Pennsylvania, Philadelphia, PA, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0038-6770",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5228-256X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2728017"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Translational Vision Science & Technology"
+          ],
+          "ISOAbbreviation": [
+            "Transl Vis Sci Technol"
+          ],
+          "medlineAbbreviation": [
+            "Transl Vis Sci Technol"
+          ],
+          "NLMid": [
+            "101595919"
+          ],
+          "ISSN": [
+            "2164-2591"
+          ],
+          "ESSN": [
+            "2164-2591"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "8"
+  ],
+  "abstractText": [
+    "The following review summarizes the state of the art in representative aspects of gene therapy/translational medicine and evolves from a symposium held at the School of Veterinary Medicine, University of Pennsylvania on November 16, 2017 honoring Dr. Gustavo Aguirre, recipient of ARVO's 2017 Proctor Medal. Focusing on the retina, speakers highlighted current work on moving therapies for inherited retinal degenerative diseases from the laboratory bench to the clinic."
+  ],
+  "affiliation": [
+    "Professor of Molecular Genetics, UCL Institute of Ophthalmology, London, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 EY006855"
+          ],
+          "agency": [
+            "NEI NIH HHS"
+          ],
+          "acronym": [
+            "EY"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Retinitis pigmentosa",
+        "Animal Models",
+        "Leber Congenital Amaurosis",
+        "X-linked Retinoschisis"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6138060?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6138060"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1167/tvst.7.5.8"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-09-19"
+  ],
+  "firstIndexDate": [
+    "2018-09-19"
+  ],
+  "dateOfRevision": [
+    "2019-06-27"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-13"
+  ],
+  "firstPublicationDate": [
+    "2018-09-13"
+  ]
+}

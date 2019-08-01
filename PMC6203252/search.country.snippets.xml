@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6203252/results/search/country/results.xml">
+  <result pre="1 [1], Salk Institute for Biological Studies, La Jolla, CA," exact="United States" post="of America [2], Inscopix, Palo Alto CA, United States"/>
+  <result pre="CA, United States of America [2], Inscopix, Palo Alto CA," exact="United States" post="of America Cymbalyuk Gennady Editor [], Georgia State University,"/>
+  <result pre="Alto CA, United States of America Cymbalyuk Gennady Editor []," exact="Georgia" post="State University, UNITED STATES Competing Interests: I have read"/>
+  <result pre=". Proceedings of the National Academy of Sciences of the" exact="United States" post="of America. 2012; 109( 27): 11031– 6. 10.1073/pnas.1119527109 ;"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6379388/results/word/frequencies/results.xml">
+  <result title="frequency" word="worms" count="68"/>
+  <result title="frequency" word="network" count="44"/>
+  <result title="frequency" word="elegans" count="39"/>
+  <result title="frequency" word="dynamical" count="28"/>
+  <result title="frequency" word="Supplementary" count="25"/>
+  <result title="frequency" word="collective" count="25"/>
+  <result title="frequency" word="model" count="25"/>
+  <result title="frequency" word="Movie" count="24"/>
+  <result title="frequency" word="size" count="24"/>
+  <result title="frequency" word="\documentclass[pt]{minimal}" count="22"/>
+  <result title="frequency" word="\setlength{\oddsidemargin}{-pt}" count="22"/>
+  <result title="frequency" word="\usepackage{amsbsy}" count="22"/>
+  <result title="frequency" word="\usepackage{amsfonts}" count="22"/>
+  <result title="frequency" word="\usepackage{amsmath}" count="22"/>
+  <result title="frequency" word="\usepackage{amssymb}" count="22"/>
+  <result title="frequency" word="\usepackage{mathrsfs}" count="22"/>
+  <result title="frequency" word="\usepackage{upgreek}" count="22"/>
+  <result title="frequency" word="\usepackage{wasysym}" count="22"/>
+ </snippets>
+</snippetsTree>

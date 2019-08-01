@@ -1,0 +1,804 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="EN"><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Synth Biol</journal-id><journal-id journal-id-type="iso-abbrev">ACS Synth Biol</journal-id><journal-id journal-id-type="publisher-id">sb</journal-id><journal-id journal-id-type="coden">asbcd6</journal-id><journal-title-group><journal-title>ACS Synthetic Biology</journal-title></journal-title-group><issn pub-type="epub">2161-5063</issn><publisher><publisher-name>American Chemical
+Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5820651</article-id><article-id pub-id-type="doi">10.1021/acssynbio.7b00413</article-id><article-categories><subj-group><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Biosynthesis of Orthogonal Molecules Using Ferredoxin
+and Ferredoxin-NADP<sup>+</sup> Reductase Systems Enables Genetically
+Encoded PhyB Optogenetics</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes" id="ath1"><name><surname>Kyriakakis</surname><given-names>Phillip</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="notes2" ref-type="notes">&#x000b6;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Catanho</surname><given-names>Marianne</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="notes2" ref-type="notes">&#x000b6;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Hoffner</surname><given-names>Nicole</given-names></name><xref rid="aff3" ref-type="aff">&#x000a7;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Thavarajah</surname><given-names>Walter</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>Hu</surname><given-names>Vincent J.</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath7"><name><surname>Chao</surname><given-names>Syh-Shiuan</given-names></name><xref rid="aff4" ref-type="aff">&#x02225;</xref></contrib><contrib contrib-type="author" id="ath8"><name><surname>Hsu</surname><given-names>Athena</given-names></name><xref rid="aff5" ref-type="aff">&#x022a5;</xref></contrib><contrib contrib-type="author" id="ath9"><name><surname>Pham</surname><given-names>Vivian</given-names></name><xref rid="aff6" ref-type="aff">#</xref></contrib><contrib contrib-type="author" id="ath10"><name><surname>Naghavian</surname><given-names>Ladan</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath11"><name><surname>Dozier</surname><given-names>Lara E.</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath12"><name><surname>Patrick</surname><given-names>Gentry N.</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath13"><name><surname>Coleman</surname><given-names>Todd P.</given-names></name><xref rid="cor2" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Department
+of Bioengineering, <institution>University of California,
+San Diego</institution>, 9500 Gilman
+Drive, La Jolla, California 92093-0412, <country>United States</country></aff><aff id="aff2"><label>&#x02021;</label>Section
+of Neurobiology, Division of Biological Sciences, <institution>University of California, San Diego</institution>, La Jolla, California 92093-0347, <country>United States</country></aff><aff id="aff3"><label>&#x000a7;</label>Neurosciences
+Graduate Program, <institution>University of California,
+San Diego</institution>, 9500 Gilman
+Drive, La Jolla, California 92093-0412, <country>United States</country></aff><aff id="aff4"><label>&#x02225;</label>Frank
+H. Better School of Medicine, <institution>Quinnipiac
+University</institution>, 370 Bassett Road, North Haven, Connecticut 06473, <country>United States</country></aff><aff id="aff5"><label>&#x022a5;</label>School
+of Medicine, <institution>University of California, San
+Diego</institution>, 9500 Gilman Drive, La Jolla, California 92093-0412, <country>United States</country></aff><aff id="aff6"><label>#</label>Roy J. and
+Lucille A. Carver College of Medicine, <institution>University
+of Iowa</institution>, 451 Newton Road, Iowa City, Iowa 52242, <country>United States</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>pkyriaka@ucsd.edu</email>.</corresp><corresp id="cor2"><label>*</label>E-mail: <email>tpcoleman@ucsd.edu</email>.</corresp></author-notes><pub-date pub-type="epub"><day>04</day><month>01</month><year>2018</year></pub-date><pub-date pub-type="ppub"><day>16</day><month>02</month><year>2018</year></pub-date><volume>7</volume><issue>2</issue><fpage>706</fpage><lpage>717</lpage><history><date date-type="received"><day>17</day><month>11</month><year>2017</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2018 American Chemical
+Society</copyright-statement><copyright-year>2018</copyright-year><copyright-holder>American Chemical
+Society</copyright-holder><license><license-p>This is an open access article published under an ACS AuthorChoice <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">License</ext-link>, which permits copying and redistribution of the article or any adaptations for non-commercial purposes.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sb-2017-00413t_0006" id="ab-tgr1"/></p><p>Transplanting metabolic reactions
+from one species into another
+has many uses as a research tool with applications ranging from optogenetics
+to crop production. Ferredoxin (Fd), the enzyme that most often supplies
+electrons to these reactions, is often overlooked when transplanting
+enzymes from one species to another because most cells already contain
+endogenous Fd. However, we have shown that the production of chromophores
+used in Phytochrome B (PhyB) optogenetics is greatly enhanced in mammalian
+cells by expressing bacterial and plant Fds with ferredoxin-NADP+
+reductases (FNR). We delineated the rate limiting factors and found
+that the main metabolic precursor, heme, was not the primary limiting
+factor for producing either the cyanobacterial or plant chromophores,
+phycocyanobilin or phytochromobilin, respectively. In fact, Fd is
+limiting, followed by Fd+FNR and finally heme. Using these findings,
+we optimized the PCB production system and combined it with a tissue
+penetrating red/far-red sensing PhyB optogenetic gene switch in animal
+cells. We further characterized this system in several mammalian cell
+lines using red and far-red light. Importantly, we found that the
+light-switchable gene system remains active for several hours upon
+illumination, even with a short light pulse, and requires very small
+amounts of light for maximal activation. Boosting chromophore production
+by matching metabolic pathways with specific ferredoxin systems will
+enable the unparalleled use of the many PhyB optogenetic tools and
+has broader implications for optimizing synthetic metabolic pathways.</p></abstract><kwd-group><kwd>optogenetics</kwd><kwd>phytochrome</kwd><kwd>phycocyanobilin</kwd><kwd>phytochromobilin</kwd><kwd>ferredoxin</kwd><kwd>FNR</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>sb7b00413</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>sb-2017-00413t</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><p id="sec1">An established
+research practice
+used in synthetic biology is the transplantation of metabolic reactions
+from one species to another, with wide-ranging potential applications
+including metabolic gene therapy,<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref2">2</xref></sup> production
+of crops without fertilizer,<sup><xref ref-type="bibr" rid="ref3">3</xref>,<xref ref-type="bibr" rid="ref4">4</xref></sup> and more fundamental
+applications in research, such as optogenetics. The exquisite temporal
+and spatial precision achieved through optogenetics have been used
+to develop an assortment of powerful analytical tools to control biological
+functions such as gene expression,<sup><xref ref-type="bibr" rid="ref5">5</xref>&#x02212;<xref ref-type="bibr" rid="ref10">10</xref></sup> neural activity,<sup><xref ref-type="bibr" rid="ref11">11</xref>,<xref ref-type="bibr" rid="ref12">12</xref></sup> cell signaling,<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> secretion,<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> peroxisomal trafficking,<sup><xref ref-type="bibr" rid="ref15">15</xref></sup> and protein activity.<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> Metabolically engineering cells to endogenously produce specific
+chromophores enables many optogenetic applications, including genetically
+encoded systems for optical control of genes.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> Many of the systems used and characterized for these applications
+utilize proteins that require red and far-red responsive phytobilin
+chromophores like phycocyanobilin (PCB) and phytochromobilin (P&#x003a6;B).
+These molecules originate from phytochrome systems in cyanobacteria,
+algae, and plants, but are not naturally made in many fungal species,
+bacteria, or animal cells.<sup><xref ref-type="bibr" rid="ref18">18</xref>&#x02212;<xref ref-type="bibr" rid="ref21">21</xref></sup> Production of these chromophores requires biliverdin
+IX-alpha (BV), a degradation product of heme, and the enzymes phycocyanobilin:ferredoxin
+oxidoreductase (PcyA) or phytochromobilin:ferredoxin oxidoreductase
+(HY2), respectively (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>A).<sup><xref ref-type="bibr" rid="ref22">22</xref>,<xref ref-type="bibr" rid="ref23">23</xref></sup> Several groups produced PCB and
+P&#x003a6;B in <italic>E.&#x000a0;coli</italic> by expressing PcyA or HY2
+along with heme oxygenase (HO1), without adding a ferredoxin (Fd)
+and ferredoxin-NADP<sup>+</sup>-reductase (FNR) reduction system from
+the same species as the PcyA or HY2 enzymes.<sup><xref ref-type="bibr" rid="ref24">24</xref>&#x02212;<xref ref-type="bibr" rid="ref29">29</xref></sup> Likewise, M&#x000fc;ller <italic>et al.</italic> tested PCB production
+in mammalian cells by expressing cyanobacterial PcyA and HO1 in the
+mitochondria but did not cointroduce a cyanobacterial Fd-FNR system.<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> M&#x000fc;ller <italic>et al.</italic> reasoned
+that localizing PcyA and HO1 in the same cellular compartment where
+the chromophore precursor (heme) is produced would enhance PCB production.<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> However, in addition to heme, HO1, PcyA, and
+HY2 also depend on Fd activity, leaving open the possibility that
+Fd and not heme was limiting.</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>PCB and P&#x003c6;B production is limited by Fd+FNR
+in mammalian
+cells. (A) The metabolic pathway forPCB synthesis including the NADPH/FNR/Fd
+redox cascade (Heme: ChemSpider ID 4802, Bv: ChemSpider ID10628548,
+PCB: ChemSpider ID 16736730). (B) HEK293 cells were analyzed for phytobilin
+production using the plasmids shown. Phytobilin production was measured
+by covalent linkage to PhyB followed by immunoprecipitation with anti-HA,
+Zn-PAGE and Western blots. sPCYA and tPCYA produce PCB and aHY2 produces
+P&#x003a6;B. Cells were either transfected with two ferredoxin-dependent
+enzymes (ho1 and pcyA or ho1 and HY2) alone (condition M2) or along
+with matching Fd+FNR (tpetF+tpetH) plasmids (condition M4). ho1 =
+heme oxygenase, pcyA = phycocyanobilin:ferredoxin oxidoreductase,
+HY2 = phytochromobilin:ferredoxin oxidoreductase, petF = ferredoxin,
+petH = ferredoxin:oxidoreductase/FNR, NE = No Enzymes, SYNP2 = Synechococcus
+PCC7002 and THEEB = <italic>Thermosynechococcus elongatus</italic>, ARATH = <italic>Arabidopsis thaliana</italic>, MTS = Mitochondrial
+Targeting Sequence, P2A = 2A self-cleaving peptide, IRES = Internal
+Ribosome Entry Site, NLS = Nuclear Localization Sequence, DBD = DNA
+Binding Domain.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sb-2017-00413t_0001" id="gr1" position="float"/></fig><p>Most cells already contain
+endogenous Fd; therefore, researchers
+have not typically considered it when transplanting enzymes from one
+species to another. However, Beale <italic>et al.</italic> and Frankenberg <italic>et al.</italic> demonstrated that Fd activity on PcyA from <italic>Anabaena</italic> sp. PCC 7120 varies greatly depending on the species
+Fd comes from.<sup><xref ref-type="bibr" rid="ref24">24</xref>,<xref ref-type="bibr" rid="ref30">30</xref></sup> Similarly, mammalian Fds have
+also been shown to be highly specific to their target enzymes, suggesting
+that Fd and/or FNR may be limiting for chromophore production in mammalian
+cells.<sup><xref ref-type="bibr" rid="ref31">31</xref>,<xref ref-type="bibr" rid="ref32">32</xref></sup> Consequently, to increase production of
+molecules like PCB for optogenetic uses in animal cells, we investigated
+the limiting factors for the PCB and P&#x003a6;B production in mammalian
+cells.</p><p>To evaluate the rate-limiting reactants for endogenous
+chromophore
+production, we systematically tested each component of the biosynthetic
+pathway, including Fd and FNR. We showed that Fd+FNR is the primary
+rate-limiting component, followed by heme. The increased PCB production
+found with the addition of Fd+FNR was further improved by testing
+different stoichiometric expression levels of each enzyme. Endogenous
+PCB production was greatly increased compared to previous approaches<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> that did not consider metabolic engineering
+with Fd+FNR systems.</p><p>To demonstrate the utility of increased
+chromophore production
+for optogenetic applications, we chose a PhyB-based optogenetic system,
+which utilizes PCB and has been used to control a wide array of biological
+processes. Since the light sensitivity of PhyB is proportional to
+the amount of chromophore in the cell, to apply PhyB optogenetic tools
+in transgenic animal models, it will be essential to genetically encode
+a high level of chromophore production. Able to produce significantly
+more chromophore than before,<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> we fully
+genetically encoded the red/far-red PhyB-PIF3 two-hybrid gene switch
+for the first time.</p><p>A genetically encoded PhyB-PIF3 system with
+PCB production is particularly
+significant because when bound to PhyB, chromophores such as PCB:
+(i) are extremely sensitive to light (high absorbance/extinction coefficient),
+(ii) have a long-lived activation state, ranging from tens of minutes
+to hours,<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> (iii) are reversible upon illumination
+with a specific wavelength of far-red light,<sup><xref ref-type="bibr" rid="ref14">14</xref></sup> and (iv) respond to wavelengths optimal for tissue penetration.
+The reversibility of this system with far-red light allows for additional
+spatial control by enabling suppression of gene activity with far-red
+light in specific locations.<sup><xref ref-type="bibr" rid="ref34">34</xref></sup> After adapting
+the PhyB-PIF3 system from Shimizu Sato <italic>et al.</italic>(<xref ref-type="bibr" rid="ref5">5</xref>) for mammalian cells, we found that it can induce
+gene expression by several hundred fold, it is reversible with a stable
+&#x0201c;on state&#x0201d; in the order of hours, and it requires very
+low amounts of red light for maximum activation (calculated to be
+below the equivalent of 40 nW/cm<sup>2</sup> of continuous light for
+full activation over 24 h). Since genetically encoding the system
+maintains a constant supply of chromophore, we were also able to find
+that the light intensity required for maximal gene activation depends
+on the duration of illumination.</p><p>More generally than optogenetics,
+there are numerous biomolecules
+produced in bacteria and plants that are Fd-dependent. Matching the
+Fd species to a biosynthetic production pathway makes possible the
+metabolism of many other classes of molecules such as lipids, sterols,
+luciferins, quinones, carotenoids, nitrates/nitrogen, and sulfites
+not normally produced in those cells.<sup><xref ref-type="bibr" rid="ref3">3</xref>,<xref ref-type="bibr" rid="ref35">35</xref>&#x02212;<xref ref-type="bibr" rid="ref40">40</xref></sup> Increasing production of these classes of molecules can improve
+agriculture, increase the production of pharmaceuticals, and enable
+other tools for synthetic biology.</p><sec id="sec2"><title>Results and Discussion</title><sec id="sec2-1"><title>Regulation
+of PCB Production in Mammalian Cells by Fd, FNR,
+and Heme</title><p>Given that previous studies have shown that PCB
+production can be limited by heme, Fd or FNR,<sup><xref ref-type="bibr" rid="ref25">25</xref>,<xref ref-type="bibr" rid="ref30">30</xref></sup> we tested limiting factors of PCB production in mammalian cells
+using combinations of these components in excess. Zinc-PAGE PhyB immunoprecipitation
+assays in Human Embryonic Kidney (HEK293) cells were used to test
+PCB production with metabolic enzymes from two species: <italic>Synechococcus
+sp. PCC 7002</italic> (SYNP2/sPcyA) or <italic>Thermosynechococcus
+elongatus</italic> (THEEB/tPcyA). We tested PCB production under two
+conditions, either mitochondrial-HO1+PcyA (<bold>M2</bold>) or mitochondrial-HO1+PcyA+Fd+FNR
+(<bold>M4</bold>), (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>B). When either species of HO1+PcyA enzymes were expressed,
+we detected low levels of PCB (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>B, <bold>M2</bold>). However, when all four enzymes
+HO1+PcyA+Fd+FNR (<bold>M4</bold>) were expressed, we observed a striking
+increase in PCB levels (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>B), which agrees with recent findings from Uda <italic>et
+al.</italic>(<xref ref-type="bibr" rid="ref41">41</xref>) To exclude the possibility
+that this was specific to cyanobacterial enzymes, we also produced
+the plant chromophore P&#x003a6;B, by replacing the cyanobacterial PcyA
+with a plant homologue <italic>Arabidopsis</italic> HY2. PcyA and
+HY2 showed the same Fd+FNR dependence (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>B, <bold>M2-asHY2</bold><italic>versus</italic><bold>M4-asHY2</bold>). It is noteworthy that the Fd+FNR-dependent
+increase in P&#x003a6;B production was still observed when plant HY2
+was used along with cyanobacterial HO1/Fd/FNR. We chose SYNP2 Fd+FNR
+for recycling HY2 because SYNP2 Fd was more similar than THEEB Fd
+in amino acid sequence identity to <italic>Arabidopsis</italic> Fds
+and specifically the major ferredoxin that recycles HY2 in <italic>Arabidopsis</italic> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.7b00413/suppl_file/sb7b00413_si_001.pdf">Table S1</ext-link>).<sup><xref ref-type="bibr" rid="ref42">42</xref></sup> However, P&#x003a6;B production may be further
+increased by employing <italic>Arabidopsis</italic> Fd+FNR enzymes.
+It may be possible to predict compatibility of a transplanted ferredoxin-dependent
+pathway to the host cells Fd based on sequence similarity as shown
+in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.7b00413/suppl_file/sb7b00413_si_001.pdf">Table S1</ext-link>. These findings show that excess
+Fd+FNR activity can increase PCB or P&#x003a6;B production in mammalian
+cells (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>B).</p><p>Next, we delineated the limiting factors for the endogenous production
+of chromophores in mammalian cells. We decided to test PCB production
+in both the cytoplasm and mitochondria because the endogenous ferredoxin
+system of mammalian cells is localized in the mitochondria; therefore,
+we considered the cytoplasmic enzyme localization as a condition with
+negligible endogenous Fd+FNR activity. We show in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>A that expression of cytoplasmic-PcyA+HO1
+(<bold>C2</bold>) is not sufficient to produce significant levels
+of PCB (lane 3 <italic>vs</italic> lane 2). When cytoplasmic-PcyA+HO1
+was cotransfected along with cytoplasmic Fd+FNR (<bold>C4</bold>)
+higher, but statistically nonsignificant levels of PCB were detected
+(lane 3 <italic>vs</italic> 4, <italic>p</italic> &#x0003e; 0.05). Similarly,
+when PcyA+HO1 were localized to the mitochondria (<bold>M2</bold>),
+very low levels of PCB were detected (lane 5). However, when PcyA+HO1
+and Fd+FNR were all localized to the mitochondria (<bold>M4</bold>), PCB production was significantly increased when compared to PcyA+HO1
+only (<bold>M2</bold>) (lane 5 <italic>vs</italic> 6, <italic>p</italic> &#x0003c; 0.001). These findings were corroborated by imaging PhyB-bound
+PCB using the Cy-5 channel (blue) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.7b00413/suppl_file/sb7b00413_si_001.pdf">Figure S1</ext-link>). These results demonstrate that the Fd+FNR system is the primary
+limiting factor of the PCB production pathway in mammalian mitochondria,
+but it is not sufficient for high levels of PCB production when expressed
+in the cytoplasm.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Order of rate limiting factors of PCB production in mammalian
+cells.
+(A,B) HEK293 cells were analyzed for PCB production using the plasmids
+shown. PCB production was measured by covalent linkage to PhyB followed
+by immunoprecipitation with anti-HA, Zn-PAGE and Western blots. (A)
+PCB production was compared with excess (+heme) and without (&#x02212;heme),
+using the cytoplasmic expression of pcyA+ho1 alone (condition C2)
+or with cytoplasmic pcyA+ho1+fd+fnr (condition C4); mitochondrial
+expression of pcyA+ho1 alone (condition M2) or with mitochondrial
+pcyA+ho1+fd+fnr (condition M4) (<italic>n</italic> = 4). (B) Cells
+were either transfected with two ferredoxin-dependent enzymes alone,
+ho1 and pcyA (condition M2), or along with a matching fd:tpetF (condition
+M3) or along with matching fd+fnr:tpetF + tpetH (condition M4) (<italic>n</italic> = 4). ho1 = heme oxygenase, pcyA = phycocyanobilin:ferredoxin
+oxidoreductase, HY2 = phytochromobilin:ferredoxin oxidoreductase,
+petF = ferredoxin/fd, petH = ferredoxin:oxidoreductase/fnr, NE = No
+Enzymes, SYNP2 = Synechococcus PCC7002 and THEEB = <italic>Thermosynechococcus
+elongatus</italic>, ARATH= <italic>Arabidopsis thaliana</italic>,
+IRES = Internal Ribosome Entry Site, NLS = Nuclear Localization Sequence,
+MTS = Mitochondrial Targeting Sequence, P2A = 2A self-cleaving peptide,
+DBD = DNA Binding Domain. One-way ANOVA with Bonferroni post-test
+was used to calculate <italic>p</italic> values using GraphPad Prism
+5.01. (*) = <italic>p</italic> &#x0003c; 0.05, (**) = <italic>p</italic> &#x0003c; 0.01, (***) = <italic>p</italic> &#x0003c; 0.001. Error bars = Standard
+Deviation. <italic>n</italic> = independent experiments.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sb-2017-00413t_0002" id="gr2" position="float"/></fig><p>Since heme is a metabolic precursor in the PCB
+production pathway,
+we systematically tested if it was limiting for PCB production in
+either the cytoplasm or in the mitochondria. We hypothesized that
+if heme was a limiting factor for PCB production in the cytoplasm,
+then the addition of excess heme would increase production. While
+a faint band was visible in <bold>C2</bold>+heme (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>A lane 9), it was indistinguishable
+from cells transfected with PhyB and no enzymes and given excess heme
+(<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>A lane 8).
+However, excess heme significantly increased levels of PCB production
+in the <bold>C4</bold> condition (lanes 4 and 10, <italic>p</italic> &#x0003c; 0.01). In addition, we found that Fd+FNR was limiting when
+comparing <bold>C2</bold>+heme to <bold>C4</bold>+heme (lanes 9 and
+10, <italic>p</italic> &#x0003c; 0.01). This demonstrates that heme is
+the limiting factor for PCB production when an excess of Fd+FNR is
+present in the cytoplasm. Importantly, PCB production was not influenced
+by excess heme when enzymes were localized to the mitochondria (<bold>M4</bold>&#x02013;heme and <bold>M4</bold>+heme, lanes 6 and 12).
+This confirms that Fd+FNR is primarily limiting in both the cytoplasm
+and the mitochondria and that heme is secondarily limiting only in
+the cytoplasm.</p><p>To further investigate the PCB production dependence
+on Fd, we
+transfected cells with two, three or all four enzymes in the pathway:
+PcyA-HO1 (<bold>M2</bold>), PcyA+HO1+Fd (<bold>M3</bold>), or PcyA+HO1+Fd+FNR
+(<bold>M4</bold>), along with PhyB for all conditions (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>B). We show in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>B that the addition of Fd to
+PcyA+HO1 (<bold>M3</bold>) significantly increased PCB production
+compared to PcyA+HO1 alone (<bold>M2</bold>) (<italic>p</italic> &#x0003c;
+0.05). Importantly, Fd+FNR (<bold>M4</bold>) produces significantly
+more PCB than adding Fd alone (<italic>p</italic> &#x0003c; 0.01), demonstrating
+that for maximum PCB production both Fd and FNR are required.</p><p>While we considered testing the overexpression of the host cell&#x02019;s
+Fd+FNR, there are noteworthy advantages to using orthogonal Fd+FNR
+matching the species of the transplanted metabolic pathway. The mammalian
+Fd+FNR may be able to reduce BV bound to PcyA but only at a fraction
+of the rate of the cyanobacterial Fd+FNR. The required overexpression
+needed for the host cell&#x02019;s system to perform at the same production
+rate would therefore more likely disturb the cell&#x02019;s metabolism.
+Using an orthogonal system would be more efficient and would also
+less likely interact with the host cell&#x02019;s metabolic proteins.
+Matching the orthogonal enzyme species thus allows for minimal perturbation
+of the normal host cell physiology and at the same time maximize production
+rates.</p></sec><sec id="sec2-2"><title>Effects of PcyA, HO1 and Fd+FNR Stoichiometry on PCB Production
+Levels</title><p>Okada <italic>et al.</italic>(<xref ref-type="bibr" rid="ref43">43</xref>) demonstrated that Fd forms stable complexes with both HO1 and PcyA.
+Therefore, we hypothesized that PCB production may be further optimized
+through enzyme stoichiometry. We transfected separate PcyA+HO1 and
+Fd+FNR plasmids at different ratios and observed that PCB production
+was highly dependent on the ratio between PcyA+HO1 and Fd+FNR (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>A). Considering this,
+to serve as a quantitative guide for optimizing PCB production, we
+developed computational models of this pathway using coupled ordinary
+differential equations (model details in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.7b00413/suppl_file/sb7b00413_si_001.pdf">Supporting Information</ext-link>). We tested the enzyme stoichiometry using a functional
+PhyB-PIF3 luciferase gene expression system adapted from Shimizu Sato <italic>et al.</italic>(<xref ref-type="bibr" rid="ref5">5</xref>) (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>B). First, we used optimized versions of
+the PhyB-PIF3 switch, including optimizing DNA binding domains (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.7b00413/suppl_file/sb7b00413_si_001.pdf">Figure S2</ext-link>), activation domains (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.7b00413/suppl_file/sb7b00413_si_001.pdf">Figure S3</ext-link>), and reporter constructs (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.7b00413/suppl_file/sb7b00413_si_001.pdf">Figure S4</ext-link>). Next, the stoichiometry was tested by transfecting different
+ratios of the PcyA+HO1 and Fd+FNR plasmids and illuminating the cells
+with red light for 24 h (timeline of illumination as shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.7b00413/suppl_file/sb7b00413_si_001.pdf">Figure S3A</ext-link>), followed by a luciferase assay to
+compare gene induction levels. We found that gene activation levels
+were also highly dependent on enzyme stoichiometry, with only the
+17:1 PcyA+HO1:Fd+FNR showing any measurable response to light (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>C and <xref rid="fig3" ref-type="fig">3</xref>D, <italic>p</italic> &#x0003c; 0.01). This demonstrates how chromophore
+levels influence the performance of PhyB optogenetic systems.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>Stoichiometry
+of PCB production constructs. (A) PCB production
+assay comparing plasmid ratios of pcyA+ho1 to fd+fnr using the plasmids
+shown. Transfection ratios are indicated in boxes below the Western
+blot. PCB production was measured by covalent linkage to PhyB followed
+by immunoprecipitation with anti-HA, Zn-PAGE and Western blots. (B)
+Schematic of the PhyB-PIF3 light switch. PhyB is fused to a DNA Binding
+Domain (DBD) and bound to a light-sensitive chromophore (PCB). The
+PhyB-DBD fusion remains bound to the UAS promoter. PIF3 is fused to
+an Activation Domain (AD). Upon absorption of a red photon (660 nm),
+PhyB changes conformation and recruits PIF3 to the promoter region.
+The AD fused to PIF3 then activates the gene downstream of the promoter.
+Upon absorption of a far-red photon (735 nm), PhyB changes conformation
+that leads to PIF3 unbinding, removing the AD from the promoter, shutting
+the downstream gene off. (C) Plasmid maps for endogenous PCB production
+and PhyB-PIF3 light switchable promoter. (D) Luciferase gene activation
+levels using endogenously produced PCB with several ratios of pcyA+ho1:petF+petH
+(<italic>n</italic> = 3). (E) Three construct designs consisting of
+all four biosynthetic enzymes on a single plasmid and a single plasmid
+for PIF3 and PhyB. (F) Testing gene activation comparing single plasmid
+biosynthetic plasmids (<italic>n</italic> = 7). ho1 = heme oxygenase,
+pcyA = Phycocyanobilin:ferredoxin oxidoreductase, petF = ferredoxin,
+petH = ferredoxin:oxidoreductase/FNR, MTS = Mitochondrial Targeting
+Sequence, P2A = 2A self-cleaving peptide, NLS = Nuclear Localization
+Sequence, IRES = Internal Ribosome Entry Site, AD = Activation Domain,
+DBD = DNA Binding Domain, R/FR = Red light/Far-red light. Error bars
+= Standard Deviation, (*) = <italic>p</italic> &#x0003c; 0.05, (**) = <italic>p</italic> &#x0003c; 0.01. Statistics were calculated using one-way ANOVA
+with Bonferroni post-test using GraphPad Prism 5.01. <italic>n</italic> = individual experiments.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sb-2017-00413t_0003" id="gr3" position="float"/></fig></sec><sec id="sec2-3"><title>Mammalian PhyB-PIF Gene Switch Using Endogenously Produced PCB</title><p>After identifying the requirements for high levels of endogenous
+PCB production, we sought to encode all four biosynthetic enzymes
+on a single plasmid. Our original four enzyme plasmid (pPKm-245) contained
+all PCB biosynthetic enzymes separated by P2A sequences to achieve
+a 1:1:1:1 expression level of each enzyme.<sup><xref ref-type="bibr" rid="ref44">44</xref></sup> However, the results in <xref rid="fig3" ref-type="fig">Figures <xref rid="fig3" ref-type="fig">3</xref></xref>A&#x02013;D suggested that PCB production could be further
+optimized by modifying the plasmid&#x02019;s expression stoichiometry.
+To this end, we replaced one of the P2A sequences with an Internal
+Ribosomal Entry Site (IRES), which typically gives 1 order of magnitude
+lower expression to the gene following the IRES sequence.<sup><xref ref-type="bibr" rid="ref45">45</xref>&#x02212;<xref ref-type="bibr" rid="ref47">47</xref></sup> The plasmid pPKm-244 was generated by placing an IRES between <italic>pcyA</italic> and <italic>Fd</italic>, leading to higher PcyA-HO1
+levels and lower Fd+FNR levels (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>E). We also constructed a plasmid, pPKm-248, containing <italic>HO1</italic>, <italic>Fd</italic>, and <italic>FNR</italic> all placed
+after the IRES sequence. This plasmid results in minimized heme oxygenase
+and Fd+FNR activity while keeping higher levels of PcyA (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>E). Using the experiment
+timeline in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.7b00413/suppl_file/sb7b00413_si_001.pdf">Figure S3A</ext-link>, we found that lowering
+HO1 and Fd+FNR levels with the pPKm-248 plasmid produced 1.8-fold
+(<italic>p</italic> &#x0003c; 0.05) and 2.2-fold (<italic>p</italic> &#x0003c;
+0.01) higher gene activation levels than pPKm-244 and pPKm-245 respectively
+(<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>F). In addition
+to producing more PCB, lower expression of HO1, Fd and FNR should
+provide maximal PCB levels with minimal interference in the host cells
+metabolism.</p></sec><sec id="sec2-4"><title>Light Sensitivity of the Mammalian PhyB-PIF3
+Gene Switch Using
+Endogenously Produced PCB</title><p>PhyB-PIF optogenetic systems in
+animal cells have mostly been characterized in conditions where PCB
+is added externally. However, PCB degrades rapidly in cell culture
+media,<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> which affects PhyB&#x02019;s light
+sensitivity over long time spans.<sup><xref ref-type="bibr" rid="ref48">48</xref></sup> Since
+our constructs enable constant endogenous production of PCB, we sought
+to test the light sensitivity of the PhyB-PIF3 switch (pPKm-230) with
+the endogenously produced chromophore. We illuminated transfected
+cells with the activating red light, at different intensities for
+24 h, and found that light intensities of 1.00 &#x003bc;mol/m<sup>2</sup>/s, 0.1 &#x003bc;mol/m<sup>2</sup>/s, and 0.01 &#x003bc;mol/m<sup>2</sup>/s achieved similar high levels of gene activation (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>B and <xref rid="fig4" ref-type="fig">4</xref>D). In contrast, transfected cells illuminated with a light intensity
+of 0.001 &#x003bc;mol/m<sup>2</sup>/s had a significantly lower gene
+response (<italic>p</italic> &#x0003c; 0.05). Since the system is bistable,<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> we reasoned that activating with intensities
+between 1.0 and 0.01 &#x003bc;mol/m<sup>2</sup>/s, which activate the
+system over a long time span (24 h), may not represent saturating
+amounts of light for shorter illumination times.<sup><xref ref-type="bibr" rid="ref49">49</xref></sup> To test this hypothesis, we characterized the gene switch
+using these same light intensities, but with a single 1 min pulse
+of red light (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>C and <xref rid="fig4" ref-type="fig">4</xref>E). Unlike the 24-h illumination experiment,
+we found that when we illuminated the cells with red light for 1 min,
+light intensities of 0.1 &#x003bc;mol/m<sup>2</sup>/s and 0.01 &#x003bc;mol/m<sup>2</sup>/s had a significantly lower gene response than an intensity
+of 1.0 &#x003bc;mol/m<sup>2</sup>/s (<italic>p</italic> &#x0003c; 0.001).
+This finding highlight that for characterizing these light responsive
+bistable proteins, we should consider both the light intensity and
+duration of illumination. For example, our results using 0.1 &#x003bc;mol/m<sup>2</sup>/s and 0.01 &#x003bc;mol/m<sup>2</sup>/s show that those intensities
+are not saturating with a 1 min pulse, but those same intensities
+induce saturating activation levels over 24 h (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>D and <xref rid="fig4" ref-type="fig">4</xref>E). This is
+expected from a system that is bistable with a long-lived activation
+state,<sup><xref ref-type="bibr" rid="ref49">49</xref></sup> inactive molecules not activated
+in the first minute will be activated later if light is continuously
+applied, eventually activating all of the light-sensitive molecules.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Light
+sensitivity of the genetically encoded PhyB-PIF3 switch.
+(A) Plasmids optimized for an endogenous PhyB-PIF3 light switchable
+promoter. (B) Pulsing program for 24-h illumination experiments. (C)
+Pulsing program for 1 min illumination experiments. (D) Gene response
+to a 24-h pulse with several light intensities (<italic>n</italic> = 4). (E) Gene response to a 1 min pulse with several light intensities
+(<italic>n</italic> = 4). (F) Gene activation responses using 1 &#x003bc;mol/m<sup>2</sup>/sec or 0.1 &#x003bc;mol/m<sup>2</sup>/sec of continuous light
+compared with using 0.1 &#x003bc;mol light at different pulse intervals
+for 24 h (<italic>n</italic> = 3). The blue stars indicate&#x000a0;the
+minimal light dose for saturating activation using 24-h illuminations.
+(G) Pulsing program for testing the duration of activation. Pulsing
+was done as in B. (H) Gene response to pulsing at increasing intervals.
+Cells were pulsed for 1 min using 1 &#x003bc;mol/m<sup>2</sup>/sec 660
+nm light, followed by darkness for the indicated times for a total
+of 24 h (<italic>n</italic> = 5). The blue arrows indicate the minimal
+light dose for saturating activation using 24 h illuminations. (I)
+Total light flux during 24 h period of illumination for experiments
+in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>D and <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>H. Cont. = continuous
+illumination, 1 min/4 min = 1 min red light, 4 min darkness, 1 min/9
+min = 1 min red light, 9 min darkness, 1 min/29 min = 1 min red light,
+29 min darkness. ho1 = heme oxygenase, pcyA = Phycocyanobilin:ferredoxin
+oxidoreductase, petF = ferredoxin, petH = ferredoxin:oxidoreductase/FNR
+IRES = Internal Ribosome Entry Site, MTS = Mitochondrial Targeting
+Sequence, NLS = Nuclear Localization Sequence, P2A = 2A self-cleaving
+peptide, AD = Activation Domain, DBD = DNA Binding Domain, R/FR =
+Red light/Far-red light. Error bars = Standard Deviation, (*) = <italic>p</italic> &#x0003c; 0.05, (***) = <italic>p</italic> &#x0003c; 0.001. Statistics
+were calculated using one-way ANOVA with Bonferroni post-test using
+GraphPad Prism 5.01. <italic>n</italic> = individual experiments.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sb-2017-00413t_0004" id="gr4" position="float"/></fig></sec><sec id="sec2-5"><title>Endogenous Mammalian PhyB-PIF3
+Gene Switch Bistability and Reversibility
+with Far-Red Light</title><p>We further tested the light sensitivity
+and bistability by shining activating red light at different pulse
+intervals (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>F). As controls, we illuminated HEK293 cells with continuous 1.0
+&#x003bc;mol/m<sup>2</sup>/s or 0.1 &#x003bc;mol/m<sup>2</sup>/s red light
+for 24 h and found they reach similar levels of gene activation. In
+addition to continuous illumination, we utilized alternating light/dark
+cycles composed of 1 min of red light and 4, 9, or 29 min of darkness
+(1 min/4 min, 1 min/9 min, 1 min/29 min respectively) for 24 h. Continuous
+red light at 0.1 &#x003bc;mol/m<sup>2</sup>/s, as well as the 1 min/4
+min and 1 min/9 min conditions, did not produce statistically different
+activation levels (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>F). In contrast, the condition with 0.1 &#x003bc;mol/m<sup>2</sup>/s of red light pulsed at 1 min/29 min had significantly lower activation
+levels than continuous light and pulsed light in the 1 min/4 min and
+1 min/9 min conditions (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>F, <italic>p</italic> &#x0003c; 0.05). Because the 1 min/9 min
+(blue star) condition has one-tenth the number of photons as 0.1 &#x003bc;mol/m<sup>2</sup>/s in total photon flux, it is equivalent in the number of
+photons to 0.01 &#x003bc;mol/m<sup>2</sup>/s of continuous illumination
+or 183 nW/cm<sup>2</sup> for 660 nm red light. This agrees with the
+result where the same total amount of light is applied continuously,
+suggesting that the activation state of PhyB is much longer than the
+9 min dark interval (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>D and <xref rid="fig4" ref-type="fig">4</xref>F).</p><p>Interestingly, we
+also found that cells containing the PhyB-PIF3 system had a slightly
+higher level of gene activation in the darkness than cells in the
+presence of far-red light, potentially due to the bistability of the
+protein (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>F).
+Thermodynamically, in darkness, a mixed population of species (Pf
+and Pfr forms) is the expected nature of a bistable molecule, since
+some PhyB molecules can spontaneously switch to the &#x0201c;activated
+state&#x0201d;. Therefore, the proportion of activated PhyB molecules
+should be higher in darkness than when PhyB is illuminated with a
+deactivating far-red light.</p><p>Since pulsing the light on a minute
+time scale achieved similar
+levels of activation as continuous light (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>F), we decided to test the duration of the
+activated state of PCB bound PhyB (PhyB&#x000b7;PCB) by increasing the
+spacing between red light pulses as shown in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>G. Our results show similar levels of gene
+activation for red light pulses delivered for 1 min every 8, 6, 4,
+2, 1 h, and a half hour at 1 &#x003bc;mol/m<sup>2</sup>/s (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>H). However, a pulse
+delivered every 12 h (a total of two pulses in the 24 h period) produced
+significantly lower gene activation than the pulses delivered in the
+shorter intervals (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>H). It is possible that those two pulses in the 24-h period
+delivered too little total amount of light to fully activate the system
+(<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>I). However,
+this data still supports that the switch effectively stays &#x0201c;on&#x0201d;
+for at least 8 h following a 1 min pulse of 1 &#x003bc;mol/m<sup>2</sup>/s of red light (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>H, blue arrow). In terms of total light delivery (&#x003bc;mol/m<sup>2</sup>), the 1 min pulses every 8 h using 1.0 &#x003bc;mol/m<sup>2</sup>/s is effectively equivalent to the number of photons with continuous
+light at 0.0021 &#x003bc;mol/m<sup>2</sup>/s or 38nW/cm<sup>2</sup> for
+660 nm light, which is a strikingly small amount of light and speaks
+to the high sensitivity of this system.</p><p>One hallmark of PhyB
+based optogenetic switches is their conformational
+reversibility upon absorption of another photon of a different wavelength.<sup><xref ref-type="bibr" rid="ref33">33</xref></sup> While the ability for PCB bound PhyB (PhyB&#x000b7;PCB)
+to isomerize upon red light absorption and reverse upon far-red light
+absorption has been previously shown,<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> whether
+the PhyB(1&#x02013;621)-DBD and PIF3(1&#x02013;524)-AD interaction was
+reversible by far-red light when expressed in mammalian cells has
+not been tested.<sup><xref ref-type="bibr" rid="ref13">13</xref>,<xref ref-type="bibr" rid="ref50">50</xref></sup> To test the reversibility of
+the switch, we exposed HEK293 cells, transfected with the PhyB-PIF3
+switch and endogenously producing PCB constructs (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>A), to either 24 h of red light,
+12 h of red light followed by 12 h of darkness, or 12 h of red light
+followed by 12 h of far-red light (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>B). Luciferase expression was significantly
+lower in cells shifted into darkness after 12 h of continuous red
+light than cells exposed to 24 h of light (<italic>p</italic> &#x0003c;
+0.05), indicating PhyB reversed to its inactive state once red-light
+illumination ended. Compared to switching from red light to darkness,
+switching from red to far-red light showed significantly lower luciferase
+expression, indicating that the far-red light inactivated the gene
+switch (red box, <italic>p</italic> &#x0003c; 0.05). This result indicates
+that after red light activation, the switch remains on for some time
+in the darkness and that it can be switched off with far-red light.
+This finding has important implications for the switch&#x02019;s ability
+to control genes since it shows that the gene expression levels can
+be titrated temporally by timing the duration of red light or by red
+light followed by far-red light. Thus, this system can be used for
+spatial control by patterning red and far-red light for targeted localization
+of gene activation.<sup><xref ref-type="bibr" rid="ref34">34</xref></sup></p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>PhyB-PIF3 light switch
+bistability and reversibility with far-red
+light and performance in several cell types. (A) Plasmids optimized
+for an endogenous PhyB-PIF3 light switchable promoter. (B) Testing
+the reversibility of the PhyB-PIF3 light-switchable promoter in mammalian
+cells. Cells were in darkness, illuminated with 735 nm far-red light,
+660 nm red light for 24 h, or with 12 h or red light followed by darkness
+or followed by far-red light (<italic>n</italic> = 3). (C) Testing
+the PhyB-PIF3 light switch in four different cell types. Cells were
+transfected, then illuminated with red light for 24 h as shown in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>C (<italic>n</italic> = 4). ho1 = heme oxygenase, pcyA = phycocyanobilin:ferredoxin oxidoreductase,
+petF = ferredoxin, petH = ferredoxin:oxidoreductase/fnr, IRES = Internal
+Ribosome Entry Site, MTS = Mitochondrial Targeting Sequence, NLS =
+Nuclear Localization Sequence, P2A = 2A self-cleaving peptide, AD
+= Activation Domain, DBD = DNA Binding Domain, R/FR = Red light/Far-red
+light. Error bars = s.d., (*) = <italic>p</italic> &#x0003c; 0.05, Statistics
+were calculated using one-way ANOVA with Bonferroni post-test using
+GraphPad Prism 5.01. <italic>n</italic> = individual experiments.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sb-2017-00413t_0005" id="gr5" position="float"/></fig></sec><sec id="sec2-6"><title>Genetically Encoded PhyB-PIF3
+Gene Switch in Several Mammalian
+Cell Lines</title><p>We also tested the PhyB-PIF3 gene switch performance
+in different cell types containing endogenously produced PCB. We transfected
+HEK293, hepatocellular carcinoma (HUH-7), HeLa, and mouse fibroblasts
+(3T3) cells with the PhyB-PIF3 gene switch and HO1+PcyA+Fd+FNR plasmids
+(pPKm-230 and pPKm-248, respectively). We used 1 &#x003bc;mol/m<sup>2</sup>/s of red light illumination in a cycle composed of 1 min
+pulses of red light followed by 4 min of darkness, for a duration
+of 24 h (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>C).
+The PhyB-PIF3 switch with endogenously produced PCB activated luciferase
+about 280-fold in HEK293 cells, 70-fold in HUH-7 cells, 300-fold in
+HeLa cells and 440-fold in 3T3 cells. These findings show that the
+system is effective in producing PCB and activating different mammalian
+cell types. While we have highly optimized the PhyB-PIF3 light switch
+with endogenously produced PCB, there are several ways to customize
+the levels of activation or leakiness to tailor it to specific cell
+types and applications. For example, different activation or repression
+domains could be used (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.7b00413/suppl_file/sb7b00413_si_001.pdf">Figure S3</ext-link>). In addition,
+there are still other permutations of gene fusions that can be tested
+in future studies that may further enhance this system, such as using
+a DBD on the N-terminus of PhyB or optimizing linker sequences. Using
+a stronger or tissue-specific promoter to drive expression of PCB
+or P&#x003a6;B biosynthetic enzymes may also lead to higher activation
+levels or can restrict light sensitivity to specific cell types.<sup><xref ref-type="bibr" rid="ref51">51</xref></sup> As presented in this research, using wavelengths
+that are optimal for tissue penetration,<sup><xref ref-type="bibr" rid="ref10">10</xref>,<xref ref-type="bibr" rid="ref12">12</xref></sup> the PhyB(1&#x02013;621)-PIF3 gene switch with endogenously produced
+PCB is among the most light-sensitive optogenetic switches.</p></sec></sec><sec id="sec3"><title>Summary</title><p>We have shown that the Fd+FNR system is the rate-limiting factor
+for the production of the chromophores PCB and P&#x003a6;B in the mitochondria
+of mammalian cells, and is limited by the Fd+FNR system followed by
+heme in the cytoplasm. The ability to produce PCB and P&#x003a6;B with
+PcyA and HY2, respectively, suggests that matching reduction systems
+that efficiently supply electrons to a metabolic pathway can also
+enhance the production of other bilins and other classes of molecules.
+This finding creates new opportunities for engineering synthetic systems
+to produce these chromophores, along with many other molecules. This
+has potential industrial applications in decreasing costs of crop
+production, producing plant molecules in microbes, or delivering therapeutic
+molecules <italic>via</italic> genetically encoded pathways.</p><p>Genetically encoding endogenous production of chromophores like
+PCB also enables the use of several existing and compatible optogenetic
+tools to regulate cell signaling,<sup><xref ref-type="bibr" rid="ref13">13</xref>,<xref ref-type="bibr" rid="ref52">52</xref></sup> cell migration,<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> or protein localization<sup><xref ref-type="bibr" rid="ref13">13</xref></sup> without the addition of exogenous chemicals. This makes possible
+the use of PhyB when constant levels of PCB are required, facilitating
+potential <italic>in vivo</italic> applications, or when the addition
+of PCB to samples is not practical (such as when samples are in a
+sealed container or for long illumination times). This study achieves
+the long-sought goals in optogenetics of enabling high-level production
+of the chromophores PCB and P&#x003a6;B in mammalian cells and demonstrates
+a more general method for efficiently producing molecules from one
+species in another.</p></sec><sec id="sec4"><title>Methods</title><sec id="sec4-1"><title>Zinc-PAGE-Immunoprecipitation
+Assays</title><p>Protein G PLUS-Agarose
+(ThermoFisher, 22851) beads were prepared by adding 200 &#x003bc;g anti-HA
+(clone HA-7, Sigma H9658) into 2 mL 25% agarose. After overnight binding
+at 4 &#x000b0;C, unbound anti-HA was washed off four times with 1&#x000d7;
+Phosphate-buffered Saline (PBS, pH 7.4, ThermoFisher, 10010023). For
+each 6-well plate, 500&#x0202f;000 HEK293 cells (ATCC, CRL-1573) were
+transfected using 2.5 &#x003bc;g DNA and 6 &#x003bc;L of Lipofectamine
+2000 per well (ThermoFisher Scientific, 11668019). For heme experiments,
+media or media containing 10 &#x003bc;M heme (Frontier Scientific, H651&#x02013;9),
+was exchanged 18 h after transfection and again 43 h after transfection.
+Heme was dissolved at 10 mM in 100 mM NaOH and sterile filtered with
+a 0.22 &#x003bc;M filter (Millipore, SLGP033RS). Cells were then harvested
+with RIPA buffer (1% Triton X-100, 0.5% Sodium Deoxycholate, 25 mM
+Tris pH 8.0, 150 mM NaCl, 0.10% SDS and 2.5 mM EDTA, and 2&#x000d7; protease
+inhibitors (Sigma, P8340&#x02013;1 ML)), immediately placed on ice,
+sonicated briefly and then centrifuged for 30 min at 21&#x0202f;000<italic>g</italic>. BCA assays (ThermoFisher Scientific, 23225) were used
+to determine the protein concentration of resulting supernatant/lysates.
+Equal masses for each protein sample were diluted with two parts of
+cold PBS, then loaded onto Protein G PLUS-Agarose beads containing
+anti-HA (preparation above), for overnight binding while mixing at
+4 &#x000b0;C. Next beads were washed and boiled in sample buffer (30%
+glycerol, 10% SDS, 300 mM Tris pH 6.8, 0.03% Bromophenol Blue, 179
+mM 2-Mercaptoethanol). After loading and running the samples in a
+SDS-PAGE gel, the gels were incubated in SDS-PAGE Running Buffer (25
+mM Tris, 192 mM glycine, 0.1% SDS) containing 10 mM Zinc Acetate for
+10 min prior to imaging in a Fluorochem E (Protein Simple). Gels were
+then transferred onto nitrocellulose and probed with the primary antibody
+anti-HA 1:5000 (Sigma, clone HA-7, H9658), and by Goat anti-Mouse
+secondary antibody 1:5000 (ThermoFisher, 32230). Western blots were
+imaged in a Fluorochem E (Protein Simple). Gel bands were quantified
+using the FIJI (ImageJ) gel analysis tool.<sup><xref ref-type="bibr" rid="ref53">53</xref></sup></p></sec><sec id="sec4-2"><title>Imaging PCB Production</title><p>HEK293 cells (ATCC, CRL-1573),
+plated at 100&#x0202f;000 cells per well in a 24-well plate, were transfected
+24 h after plating on polylysine (Sigma P6407&#x02013;5 mg) coated
+coverslips in each well. 43 h later, the media was exchanged with
+fresh media or media+5 &#x003bc;M PCB (Frontier Scientific, P14137)
+for the NE+PCB control. One hour later, cells were rinsed in 1&#x000d7;
+PBS and then fixed in 4% Paraformaldehyde in 1&#x000d7; PBS for 10 min.
+Cells were then washed with 1&#x000d7; PBS before incubating in permeabilization
+buffer (5% BSA + 0.3% TritonX-100 in PBS) for 30 min, followed by
+incubating with primary antibodies, anti-FLAG mouse monoclonal 1:1000
+(Sigma, F3165) and polyclonal anti-HA rabbit 1:500 (Santa Cruz, Y-11)
+in antibody buffer (2% BSA + 0.2% TritonX-100 in PBS) at 4 &#x000b0;C
+overnight. Next coverslips were rinsed twice and washed three times
+in 1&#x000d7; PBS and then incubated in antibody buffer containing goat
+anti-mouse AlexaFluor 488 1:1000 (ThermoFisher, A11001), and goat
+anti-rabbit AlexaFluor 568 1:1000 (ThermoFisher, A11011). Coverslips
+were rinsed and washed again, then mounted with Fluoromount-G (SouthernBiotech,
+0100&#x02013;20). Images were taken using a DeltaVision RT Deconvolution
+Microscope.</p></sec><sec id="sec4-3"><title>Cell Culture, Transfection, Light Induction
+and Reporter Gene
+Assays</title><p>Human Embryonic Kidney 293 cells (HEK293, ATCC CRL-1573)
+were cultivated in Dulbecco&#x02019;s Modified Eagle Medium (DMEM,
+Gibco, 11965&#x02013;092) supplemented with 10% fetal bovine serum
+(FBS, Omega Scientific, FB-02) and 100 U/mL of penicillin and 0.1
+mg/mL of streptomycin (Gibco, 11548876). All cells were cultured under
+5% CO<sub>2</sub> at 37 &#x000b0;C. Cells were seeded at 100&#x0202f;000
+HEK293 cells per well in 24-well plates, 24 h before transfection.
+Transfection of plasmids was achieved through lipofection following
+the manufacturer&#x02019;s instructions and protocol (Lipofectamine
+2000, ThermoFisher, 11668019). For each transfection reaction, a total
+of 0.5 &#x003bc;g of plasmid DNA was combined with specific plasmid
+ratios for each experiment as detailed in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.7b00413/suppl_file/sb7b00413_si_001.pdf">Table S2</ext-link>. A construct with Renilla luciferase reporter plasmid DNA
+was included as an internal transfection control in all transfections.
+The culture medium was replaced with fresh medium 24 h after transfection
+and the plates were placed inside black boxes (Hammond Manufacturing
+Company, 1591ESBK) for the remainder of the experimental procedure.
+For conditions where external PCB is added, 15 &#x003bc;M of PCB (Frontier
+Scientific, P14137) from a 20 mM stock dissolved in DMSO (Santa Cruz
+Biotechnology, sc-202581) was supplemented in fresh medium 24 h after
+transfection (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.7b00413/suppl_file/sb7b00413_si_001.pdf">Figure S2A</ext-link>).</p><p>Light
+induction was programmed to start 12 h after medium replacement. Each
+black box was equipped with a circuit consisting of six red LEDs (660
+nm, Thorlabs, M660L3), except for the dark boxes and far-red boxes
+which had no LEDs or a single far-red LED (735 nm, Thorlabs, M735L2),
+respectively. In addition, each black box circuit was designed to
+allow for fine adjustment of light intensity (circuitry is shown <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.7b00413/suppl_file/sb7b00413_si_001.pdf">Figure S5</ext-link>), from 0.0008 to 200 &#x003bc;mol/m<sup>2</sup>/s. Light intensity was measured in &#x003bc;W at the cell level,
+converted to &#x003bc;mol/m<sup>2</sup>/s (light sensor area = 63.6
+mm<sup>2</sup>), and adjusted for each experiment design using Sper
+Scientific Direct&#x02019;s Laser Power Meter (SSD, 8400). Detailed
+information on wavelengths, illumination intensity, and duration used
+for each experimental procedure and data shown are detailed in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.7b00413/suppl_file/sb7b00413_si_001.pdf">Table S6</ext-link>. Pulse duration and total illumination
+times were electronically controlled <italic>via</italic> a LabVIEW
+computer driving an Arduino microprocessor and custom-made circuits
+(see <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.7b00413/suppl_file/sb7b00413_si_001.pdf">Supporting Information</ext-link>).</p></sec><sec id="sec4-4"><title>Luciferase
+Activity Assay</title><p>Luciferase assays were carried
+out using the Dual-Luciferase Assay system (Promega, PRE1960), and
+following the manufacturer&#x02019;s protocol. Cells were lysed immediately
+after removing from the incubator using the manufacturer&#x02019;s
+instructions. Firefly and Renilla Luciferase activities were measured
+from cell lysates using the luminometer module of the Infinite 200
+PRO multimode reader (Tecan). Results of luciferase activity assays
+are expressed as a ratio of firefly luciferase (Fluc) activity to
+Renilla luciferase (Rluc) activity.</p></sec><sec id="sec4-5"><title>Illumination Circuits and
+Software</title><p>The light control
+system employs an Arduino Uno and a light intensity control circuit
+(<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.7b00413/suppl_file/sb7b00413_si_001.pdf">Figure S6</ext-link>) driven by a user interface
+developed in LabVIEW (National Instruments) to control each box&#x02019;s
+LED intensity (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.7b00413/suppl_file/sb7b00413_si_001.pdf">Figure S5</ext-link>). This system
+is ideal for precise timing and light-intensity control of each experimental
+box while allowing for user-determined experimental start delay, illumination
+frequencies, and control of the total duration of the experiment. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.7b00413/suppl_file/sb7b00413_si_001.pdf">Supporting Information</ext-link> contains a full description
+of the illumination apparatus, user interface, and circuitry.</p></sec><sec id="sec4-6"><title>Kinetic
+Model</title><p>Using PySB,<sup><xref ref-type="bibr" rid="ref54">54</xref></sup> we generated
+an <italic>in silico</italic> model to describe the
+biochemical interactions among the enzymes that compose the hypothesized
+PCB-production pathway, as seen in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>A. The quantitative mathematical model was
+parametrized (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.7b00413/suppl_file/sb7b00413_si_001.pdf">Table S4</ext-link>) by experimental
+data and uses ordinary differential equations to describe the changes
+in the concentration of the molecular components of the reaction.
+We probed the proposed model directly as proposed in the literature
+and similar pathways published.<sup><xref ref-type="bibr" rid="ref17">17</xref>,<xref ref-type="bibr" rid="ref25">25</xref>,<xref ref-type="bibr" rid="ref43">43</xref></sup> We complement this work showing the model&#x02019;s agreement with
+the tested pathway, demonstrating how heme, Fd, and FNR are rate limiting
+factors for the production of PCB, as confirmed experimentally in <xref rid="fig1" ref-type="fig">Figures <xref rid="fig1" ref-type="fig">1</xref></xref>, <xref rid="fig2" ref-type="fig">2</xref> and <xref rid="fig3" ref-type="fig">3</xref>. A full description of the kinetic
+model can be found in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.7b00413/suppl_file/sb7b00413_si_001.pdf">Supporting Information</ext-link>.</p></sec><sec id="sec4-7"><title>Marvin</title><p>Marvin was used for drawing and displaying chemical
+structures in <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>A and Graphical Abstract, Marvin 17.28.0, 2017, ChemAxon (<uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.chemaxon.com">http://www.chemaxon.com</uri>).</p></sec></sec></body><back><notes id="notes1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information
+is
+available free of charge on the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org">ACS Publications website</ext-link> at DOI: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/abs/10.1021/acssynbio.7b00413">10.1021/acssynbio.7b00413</ext-link>.<list id="silist" list-type="simple"><list-item><p>Illumination circuits
+and software; Kinetic model development
+and parametrization; Table S1: Similarity tables for ferredoxin and
+ferredoxin-dependent bilin reductases; Table S2: Plasmids used in
+this study; Table S3: Transfection and illumination details for of
+the study&#x02019;s figures; Table S4: Parameters for the model; Figure
+S1: Imaging PCB production in mammalian cells; Figure S2: Optimizing
+PhyB and PIF light switches for mammalian cells; Figure S3: Optimizing
+PhyB and PIF gene switch; Figure S4: Comparing reporter constructs;
+Figure S5: Illumination setup; Figure S6: Circuit design for LED illumination;
+Figure S7: Model results (Initial Heme and Fd activation levels);
+Figure S8: Model results (Fd dependence and Heme dependence) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acssynbio.7b00413/suppl_file/sb7b00413_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="sb7b00413_si_001.pdf"><caption><p>sb7b00413_si_001.pdf</p></caption></media></supplementary-material></sec><notes id="notes2"><title>Author Contributions</title><p><sup>&#x000b6;</sup> P.K. and M.C. contributed equally to this work. P.K. conceived
+the original concept of mitochondrial targeting for connecting PCYA-HO1
+for Fd-FNR and using it to genetically encode the PhyB-PIF3 gene switch.
+P.K., M.C., N.H., and T.P.C. initiated this project. M.C., W.T., L.N.,
+and V.J.H. performed light induction experiments. P.K., M.C., N.H.,
+V.P., C.S., L.E.D., A.H., and L.N., cloned the plasmids. M.C. modeled
+the metabolic pathways. M.C. and V.J.H. designed and built illumination
+apparatus and software. P.K. ran Zn-PAGE experiments; P.K. and L.E.D.
+imaged PCB in cells. G.P. provided expertise on experimental design
+and critical feedback. P.K., M.C., W.T., T.P.C., N.H., and G.P. wrote
+the manuscript with input from other authors.</p></notes><notes id="notes4" notes-type="COI-statement"><p>The authors
+declare no competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>We acknowledge Wilfried Weber
+for his kind gift
+of plasmids (pKM-087, pKM-022, and pMZ-802), William McGinnis for
+his kind gift of the Fluc minimal promoter, Steven P. Briggs for the
+MTAD construct, Peter Quail for PhyB and PIF3 genes, and Alexey Veraksa
+for helping initiate this project with P.K. Supported by the Kavli
+Institute for Brain and Mind at UC San Diego and the Salk Institute,
+National Science Foundation through the NSF Center for Science of
+Information under Grant CCF-0939370, NIH Grant NS060847, UCSD School
+of Medicine Microscopy Core Grant P30 NS047101. P.K. was supported
+by Training in Multiscale Analysis of Biological Structure and Function,
+Training Grant: NIH grant T32 EB009380 and by the UCSD Cellular and
+Molecular Genetics Training Program through an institutional grant
+from the National Institute of General Medicine (T32 GM007240). M.C.
+was a fellow of the AAUW (American Association of University Women)
+2015 International Fellowship.</p></ack><glossary id="dl1"><def-list><title>Abbreviations</title><def-item><term>PCB</term><def><p>phycocyanobilin</p></def></def-item><def-item><term>P&#x003a6;B</term><def><p>phytochromobilin</p></def></def-item><def-item><term>Fd</term><def><p>ferredoxin</p></def></def-item><def-item><term>FNR</term><def><p>ferredoxin-NADP+-reductase</p></def></def-item><def-item><term>Fd+FNR</term><def><p>endogenous oxidation&#x02013;reduction
+system containing Fd and FNR</p></def></def-item><def-item><term>PcyA</term><def><p>PcyAphycocyanobilin:phycocyanobilin:ferredoxin oxidoreductase</p></def></def-item><def-item><term>HY2</term><def><p>phytochromobilin:ferredoxin
+oxidoreductase</p></def></def-item><def-item><term>BV</term><def><p>biliverdin IX-alpha</p></def></def-item><def-item><term>HO1</term><def><p>heme oxygenase</p></def></def-item><def-item><term>PhyB</term><def><p>phytochrome B</p></def></def-item><def-item><term>PIF</term><def><p>phytochrome-interacting factor</p></def></def-item><def-item><term>PhyB&#x000b7;PCB</term><def><p>PCB-bound PhyB</p></def></def-item></def-list></glossary><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Gaspar</surname><given-names>H. B.</given-names></name>; <name><surname>Cooray</surname><given-names>S.</given-names></name>; <name><surname>Gilmour</surname><given-names>K. C.</given-names></name>; <name><surname>Parsley</surname><given-names>K. L.</given-names></name>; <name><surname>Zhang</surname><given-names>F.</given-names></name>; <name><surname>Adams</surname><given-names>S.</given-names></name>; <name><surname>Bjorkegren</surname><given-names>E.</given-names></name>; <name><surname>Bayford</surname><given-names>J.</given-names></name>; <name><surname>Brown</surname><given-names>L.</given-names></name>; <name><surname>Davies</surname><given-names>E. G.</given-names></name>; <name><surname>Veys</surname><given-names>P.</given-names></name>; <name><surname>Fairbanks</surname><given-names>L.</given-names></name>; <name><surname>Bordon</surname><given-names>V.</given-names></name>; <name><surname>Petropoulou</surname><given-names>T.</given-names></name>; <name><surname>Kinnon</surname><given-names>C.</given-names></name>; <name><surname>Thrasher</surname><given-names>A. J.</given-names></name> (<year>2011</year>) <article-title>Hematopoietic
+stem cell gene therapy for adenosine deaminase-deficient severe combined
+immunodeficiency leads to long-term immunological recovery and metabolic
+correction</article-title>. <source>Sci. Transl. Med.</source>
+<volume>3</volume>, <fpage>97ra80</fpage><pub-id pub-id-type="doi">10.1126/scitranslmed.3002716</pub-id>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Zhou</surname><given-names>X. Y.</given-names></name>; <name><surname>Morreau</surname><given-names>H.</given-names></name>; <name><surname>Rottier</surname><given-names>R.</given-names></name>; <name><surname>Davis</surname><given-names>D.</given-names></name>; <name><surname>Bonten</surname><given-names>E.</given-names></name>; <name><surname>Gillemans</surname><given-names>N.</given-names></name>; <name><surname>Wenger</surname><given-names>D.</given-names></name>; <name><surname>Grosveld</surname><given-names>F. G.</given-names></name>; <name><surname>Doherty</surname><given-names>P.</given-names></name>; <name><surname>Suzuki</surname><given-names>K.</given-names></name>; <name><surname>Grosveld</surname><given-names>G. C.</given-names></name>; <name><surname>d Azzo</surname><given-names>A.</given-names></name> (<year>1995</year>) <article-title>Mouse model for the
+lysosomal disorder galactosialidosis and correction of the phenotype
+with overexpressing erythroid precursor cells</article-title>. <source>Genes Dev.</source>
+<volume>9</volume>, <fpage>2623</fpage>&#x02013;<lpage>2634</lpage><pub-id pub-id-type="doi">10.1101/gad.9.21.2623</pub-id>.<pub-id pub-id-type="pmid">7590240</pub-id></mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Bur&#x000e9;n</surname><given-names>S.</given-names></name>; <name><surname>Young</surname><given-names>E. M.</given-names></name>; <name><surname>Sweeny</surname><given-names>E. A.</given-names></name>; <name><surname>Lopez-Torrej&#x000f3;n</surname><given-names>G.</given-names></name>; <name><surname>Veldhuizen</surname><given-names>M.</given-names></name>; <name><surname>Voigt</surname><given-names>C. A.</given-names></name>; <name><surname>Rubio</surname><given-names>L. M.</given-names></name> (<year>2017</year>) <article-title>Formation of Nitrogenase
+NifDK Tetramers in the Mitochondria of Saccharomyces cerevisiae</article-title>. <source>ACS Synth. Biol.</source>
+<volume>6</volume>, <fpage>1043</fpage>&#x02013;<lpage>1055</lpage><pub-id pub-id-type="doi">10.1021/acssynbio.6b00371</pub-id>.<pub-id pub-id-type="pmid">28221768</pub-id></mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Shintani</surname><given-names>D.</given-names></name>; <name><surname>DellaPenna</surname><given-names>D.</given-names></name> (<year>1998</year>) <article-title>Elevating the vitamin E content of
+plants through metabolic
+engineering</article-title>. <source>Science</source>
+<volume>282</volume>, <fpage>2098</fpage>&#x02013;<lpage>2100</lpage><pub-id pub-id-type="doi">10.1126/science.282.5396.2098</pub-id>.<pub-id pub-id-type="pmid">9851934</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Shimizu-Sato</surname><given-names>S.</given-names></name>; <name><surname>Huq</surname><given-names>E.</given-names></name>; <name><surname>Tepperman</surname><given-names>J. M.</given-names></name>; <name><surname>Quail</surname><given-names>P. H.</given-names></name> (<year>2002</year>) <article-title>A light-switchable gene promoter
+system</article-title>. <source>Nat. Biotechnol.</source>
+<volume>20</volume>, <fpage>1041</fpage>&#x02013;<lpage>1044</lpage><pub-id pub-id-type="doi">10.1038/nbt734</pub-id>.<pub-id pub-id-type="pmid">12219076</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Wang</surname><given-names>X.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Yang</surname><given-names>Y.</given-names></name> (<year>2012</year>) <article-title>Spatiotemporal
+control of gene expression
+by a light-switchable transgene system</article-title>. <source>Nat.
+Methods</source>
+<volume>9</volume>, <fpage>266</fpage>&#x02013;<lpage>269</lpage><pub-id pub-id-type="doi">10.1038/nmeth.1892</pub-id>.<pub-id pub-id-type="pmid">22327833</pub-id></mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>M&#x000fc;ller</surname><given-names>K.</given-names></name>; <name><surname>Engesser</surname><given-names>R.</given-names></name>; <name><surname>Metzger</surname><given-names>S.</given-names></name>; <name><surname>Schulz</surname><given-names>S.</given-names></name>; <name><surname>K&#x000e4;mpf</surname><given-names>M. M.</given-names></name>; <name><surname>Busacker</surname><given-names>M.</given-names></name>; <name><surname>Steinberg</surname><given-names>T.</given-names></name>; <name><surname>Tomakidi</surname><given-names>P.</given-names></name>; <name><surname>Ehrbar</surname><given-names>M.</given-names></name>; <name><surname>Nagy</surname><given-names>F.</given-names></name>; <name><surname>Timmer</surname><given-names>J.</given-names></name>; <name><surname>Zubriggen</surname><given-names>M. D.</given-names></name>; <name><surname>Weber</surname><given-names>W.</given-names></name> (<year>2013</year>) <article-title>A red/far-red light-responsive bi-stable toggle switch to control
+gene expression in mammalian cells</article-title>. <source>Nucleic
+Acids Res.</source>
+<volume>41</volume>, <fpage>e77</fpage><pub-id pub-id-type="doi">10.1093/nar/gkt002</pub-id>.<pub-id pub-id-type="pmid">23355611</pub-id></mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Pathak</surname><given-names>G. P.</given-names></name>; <name><surname>Strickland</surname><given-names>D.</given-names></name>; <name><surname>Vrana</surname><given-names>J. D.</given-names></name>; <name><surname>Tucker</surname><given-names>C. L.</given-names></name> (<year>2014</year>) <article-title>Benchmarking of
+optical dimerizer systems</article-title>. <source>ACS Synth. Biol.</source>
+<volume>3</volume>, <fpage>832</fpage>&#x02013;<lpage>838</lpage><pub-id pub-id-type="doi">10.1021/sb500291r</pub-id>.<pub-id pub-id-type="pmid">25350266</pub-id></mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Folcher</surname><given-names>M.</given-names></name>; <name><surname>Oesterle</surname><given-names>S.</given-names></name>; <name><surname>Zwicky</surname><given-names>K.</given-names></name>; <name><surname>Thekkottil</surname><given-names>T.</given-names></name>; <name><surname>Heymoz</surname><given-names>J.</given-names></name>; <name><surname>Hohmann</surname><given-names>M.</given-names></name>; <name><surname>Christen</surname><given-names>M.</given-names></name>; <name><surname>Daoud El-Baba</surname><given-names>M.</given-names></name>; <name><surname>Buchmann</surname><given-names>P.</given-names></name>; <name><surname>Fussenegger</surname><given-names>M.</given-names></name> (<year>2014</year>) <article-title>Mind-controlled
+transgene expression
+by a wireless-powered optogenetic designer cell implant</article-title>. <source>Nat. Commun.</source>
+<volume>5</volume>, <fpage>5392</fpage><pub-id pub-id-type="doi">10.1038/ncomms6392</pub-id>.<pub-id pub-id-type="pmid">25386727</pub-id></mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Kaberniuk</surname><given-names>A. A.</given-names></name>; <name><surname>Shemetov</surname><given-names>A. A.</given-names></name>; <name><surname>Verkhusha</surname><given-names>V. V.</given-names></name> (<year>2016</year>) <article-title>A bacterial
+phytochrome-based optogenetic
+system controllable with near-infrared light</article-title>. <source>Nat. Methods</source>
+<volume>13</volume>, <fpage>591</fpage>&#x02013;<lpage>597</lpage><pub-id pub-id-type="doi">10.1038/nmeth.3864</pub-id>.<pub-id pub-id-type="pmid">27159085</pub-id></mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Boyden</surname><given-names>E.
+S.</given-names></name>; <name><surname>Zhang</surname><given-names>F.</given-names></name>; <name><surname>Bamberg</surname><given-names>E.</given-names></name>; <name><surname>Nagel</surname><given-names>G.</given-names></name>; <name><surname>Deisseroth</surname><given-names>K.</given-names></name> (<year>2005</year>) <article-title>Millisecond-timescale,
+genetically targeted optical control of neural activity</article-title>. <source>Nat. Neurosci.</source>
+<volume>8</volume>, <fpage>1263</fpage>&#x02013;<lpage>1268</lpage><pub-id pub-id-type="doi">10.1038/nn1525</pub-id>.<pub-id pub-id-type="pmid">16116447</pub-id></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Lin</surname><given-names>J. Y.</given-names></name>; <name><surname>Knutsen</surname><given-names>P. M.</given-names></name>; <name><surname>Muller</surname><given-names>A.</given-names></name>; <name><surname>Kleinfeld</surname><given-names>D.</given-names></name>; <name><surname>Tsien</surname><given-names>R. Y.</given-names></name> (<year>2013</year>) <article-title>ReaChR: a red-shifted variant of channelrhodopsin enables
+deep transcranial optogenetic excitation</article-title>. <source>Nat.
+Neurosci.</source>
+<volume>16</volume>, <fpage>1499</fpage>&#x02013;<lpage>1508</lpage><pub-id pub-id-type="doi">10.1038/nn.3502</pub-id>.<pub-id pub-id-type="pmid">23995068</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Levskaya</surname><given-names>A.</given-names></name>; <name><surname>Weiner</surname><given-names>O. D.</given-names></name>; <name><surname>Lim</surname><given-names>W. A.</given-names></name>; <name><surname>Voigt</surname><given-names>C. A.</given-names></name> (<year>2009</year>) <article-title>Spatiotemporal control
+of cell signalling using a light-switchable protein interaction</article-title>. <source>Nature</source>
+<volume>461</volume>, <fpage>997</fpage>&#x02013;<lpage>1001</lpage><pub-id pub-id-type="doi">10.1038/nature08446</pub-id>.<pub-id pub-id-type="pmid">19749742</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Chen</surname><given-names>D.</given-names></name>; <name><surname>Gibson</surname><given-names>E. S.</given-names></name>; <name><surname>Kennedy</surname><given-names>M. J.</given-names></name> (<year>2013</year>) <article-title>A light-triggered protein secretion
+system</article-title>. <source>J. Cell Biol.</source>
+<volume>201</volume>, <fpage>631</fpage>&#x02013;<lpage>640</lpage><pub-id pub-id-type="doi">10.1083/jcb.201210119</pub-id>.<pub-id pub-id-type="pmid">23671313</pub-id></mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Spiltoir</surname><given-names>J. I.</given-names></name>; <name><surname>Strickland</surname><given-names>D.</given-names></name>; <name><surname>Glotzer</surname><given-names>M.</given-names></name>; <name><surname>Tucker</surname><given-names>C. L.</given-names></name> (<year>2016</year>) <article-title>Optical control
+of peroxisomal trafficking</article-title>. <source>ACS Synth. Biol.</source>
+<volume>5</volume>, <fpage>554</fpage>&#x02013;<lpage>560</lpage><pub-id pub-id-type="doi">10.1021/acssynbio.5b00144</pub-id>.<pub-id pub-id-type="pmid">26513473</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Zhou</surname><given-names>X. X.</given-names></name>; <name><surname>Chung</surname><given-names>H. K.</given-names></name>; <name><surname>Lam</surname><given-names>A. J.</given-names></name>; <name><surname>Lin</surname><given-names>M. Z.</given-names></name> (<year>2012</year>) <article-title>Optical control
+of protein activity by fluorescent protein domains</article-title>. <source>Science</source>
+<volume>338</volume>, <fpage>810</fpage>&#x02013;<lpage>814</lpage><pub-id pub-id-type="doi">10.1126/science.1226854</pub-id>.<pub-id pub-id-type="pmid">23139335</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>M&#x000fc;ller</surname><given-names>K.</given-names></name>; <name><surname>Engesser</surname><given-names>R.</given-names></name>; <name><surname>Timmer</surname><given-names>J.</given-names></name>; <name><surname>Nagy</surname><given-names>F.</given-names></name>; <name><surname>Zurbriggen</surname><given-names>M. D.</given-names></name>; <name><surname>Weber</surname><given-names>W.</given-names></name> (<year>2013</year>) <article-title>Synthesis of phycocyanobilin in mammalian cells</article-title>. <source>Chem. Commun. (Cambridge, U. K.)</source>
+<volume>49</volume>, <fpage>8970</fpage>&#x02013;<lpage>8972</lpage><pub-id pub-id-type="doi">10.1039/c3cc45065a</pub-id>.</mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Rodriguez-Romero</surname><given-names>J.</given-names></name>; <name><surname>Hedtke</surname><given-names>M.</given-names></name>; <name><surname>Kastner</surname><given-names>C.</given-names></name>; <name><surname>M&#x000fc;ller</surname><given-names>S.</given-names></name>; <name><surname>Fischer</surname><given-names>R.</given-names></name> (<year>2010</year>) <article-title>Fungi, hidden in soil or up in the
+air: light makes
+a difference</article-title>. <source>Annu. Rev. Microbiol.</source>
+<volume>64</volume>, <fpage>585</fpage>&#x02013;<lpage>610</lpage><pub-id pub-id-type="doi">10.1146/annurev.micro.112408.134000</pub-id>.<pub-id pub-id-type="pmid">20533875</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Karniol</surname><given-names>B.</given-names></name>; <name><surname>Wagner</surname><given-names>J. R.</given-names></name>; <name><surname>Walker</surname><given-names>J. M.</given-names></name>; <name><surname>Vierstra</surname><given-names>R. D.</given-names></name> (<year>2005</year>) <article-title>Phylogenetic analysis
+of the phytochrome superfamily reveals distinct microbial subfamilies
+of photoreceptors</article-title>. <source>Biochem. J.</source>
+<volume>392</volume>, <fpage>103</fpage>&#x02013;<lpage>116</lpage><pub-id pub-id-type="doi">10.1042/BJ20050826</pub-id>.<pub-id pub-id-type="pmid">16004604</pub-id></mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Auldridge</surname><given-names>M. E.</given-names></name>; <name><surname>Forest</surname><given-names>K. T.</given-names></name> (<year>2011</year>) <article-title>Bacterial phytochromes:
+more than meets the light</article-title>. <source>Crit. Rev. Biochem.
+Mol. Biol.</source>
+<volume>46</volume>, <fpage>67</fpage>&#x02013;<lpage>88</lpage><pub-id pub-id-type="doi">10.3109/10409238.2010.546389</pub-id>.<pub-id pub-id-type="pmid">21250783</pub-id></mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Rockwell</surname><given-names>N. C.</given-names></name>; <name><surname>Su</surname><given-names>Y. S.</given-names></name>; <name><surname>Lagarias</surname><given-names>J. C.</given-names></name> (<year>2006</year>) <article-title>Phytochrome structure and signaling
+mechanisms</article-title>. <source>Annu. Rev. Plant Biol.</source>
+<volume>57</volume>, <fpage>837</fpage>&#x02013;<lpage>858</lpage><pub-id pub-id-type="doi">10.1146/annurev.arplant.56.032604.144208</pub-id>.<pub-id pub-id-type="pmid">16669784</pub-id></mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Frankenberg</surname><given-names>N.</given-names></name>; <name><surname>Mukougawa</surname><given-names>K.</given-names></name>; <name><surname>Kohchi</surname><given-names>T.</given-names></name>; <name><surname>Lagarias</surname><given-names>J. C.</given-names></name> (<year>2001</year>) <article-title>Functional genomic
+analysis of the HY2 family of ferredoxin-dependent bilin reductases
+from oxygenic photosynthetic organisms</article-title>. <source>Plant
+Cell</source>
+<volume>13</volume>, <fpage>965</fpage>&#x02013;<lpage>978</lpage><pub-id pub-id-type="doi">10.2307/3871353</pub-id>.<pub-id pub-id-type="pmid">11283349</pub-id></mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Kohchi</surname><given-names>T.</given-names></name>; <name><surname>Mukougawa</surname><given-names>K.</given-names></name>; <name><surname>Frankenberg</surname><given-names>N.</given-names></name>; <name><surname>Masuda</surname><given-names>M.</given-names></name>; <name><surname>Yokota</surname><given-names>A.</given-names></name>; <name><surname>Lagarias</surname><given-names>J. C.</given-names></name> (<year>2001</year>) <article-title>The Arabidopsis
+HY2 gene encodes phytochromobilin synthase,
+a ferredoxin-dependent biliverdin reductase</article-title>. <source>Plant Cell</source>
+<volume>13</volume>, <fpage>425</fpage>&#x02013;<lpage>436</lpage><pub-id pub-id-type="doi">10.2307/3871286</pub-id>.<pub-id pub-id-type="pmid">11226195</pub-id></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Beale</surname><given-names>S. I.</given-names></name> (<year>1993</year>) <article-title>Biosynthesis
+of phycobilins</article-title>. <source>Chem. Rev.</source>
+<volume>93</volume>, <fpage>785</fpage>&#x02013;<lpage>802</lpage><pub-id pub-id-type="doi">10.1021/cr00018a008</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Gambetta</surname><given-names>G. A.</given-names></name>; <name><surname>Lagarias</surname><given-names>J. C.</given-names></name> (<year>2001</year>) <article-title>Genetic engineering
+of phytochrome biosynthesis in
+bacteria</article-title>. <source>Proc. Natl. Acad. Sci. U. S. A.</source>
+<volume>98</volume>, <fpage>10566</fpage>&#x02013;<lpage>10571</lpage><pub-id pub-id-type="doi">10.1073/pnas.191375198</pub-id>.<pub-id pub-id-type="pmid">11553807</pub-id></mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Tooley</surname><given-names>A. J.</given-names></name>; <name><surname>Cai</surname><given-names>Y. A.</given-names></name>; <name><surname>Glazer</surname><given-names>A. N.</given-names></name> (<year>2001</year>) <article-title>Biosynthesis
+of a fluorescent cyanobacterial
+C-phycocyanin holo-alpha subunit in a heterologous host</article-title>. <source>Proc. Natl. Acad. Sci. U. S. A.</source>
+<volume>98</volume>, <fpage>10560</fpage>&#x02013;<lpage>10565</lpage><pub-id pub-id-type="doi">10.1073/pnas.181340998</pub-id>.<pub-id pub-id-type="pmid">11553806</pub-id></mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Mukougawa</surname><given-names>K.</given-names></name>; <name><surname>Kanamoto</surname><given-names>H.</given-names></name>; <name><surname>Kobayashi</surname><given-names>T.</given-names></name>; <name><surname>Yokota</surname><given-names>A.</given-names></name>; <name><surname>Kohchi</surname><given-names>T.</given-names></name> (<year>2006</year>) <article-title>Metabolic
+engineering to produce phytochromes with phytochromobilin, phycocyanobilin,
+or phycoerythrobilin chromophore in Escherichia coli</article-title>. <source>FEBS Lett.</source>
+<volume>580</volume>, <fpage>1333</fpage>&#x02013;<lpage>1338</lpage><pub-id pub-id-type="doi">10.1016/j.febslet.2006.01.051</pub-id>.<pub-id pub-id-type="pmid">16458890</pub-id></mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Landgraf</surname><given-names>F. T.</given-names></name>; <name><surname>Forreiter</surname><given-names>C.</given-names></name>; <name><surname>Hurtado Pic&#x000f3;</surname><given-names>A.</given-names></name>; <name><surname>Lamparter</surname><given-names>T.</given-names></name>; <name><surname>Hughes</surname><given-names>J.</given-names></name> (<year>2001</year>) <article-title>Recombinant holophytochrome inEscherichia
+coli</article-title>. <source>FEBS Lett.</source>
+<volume>508</volume>, <fpage>459</fpage>&#x02013;<lpage>462</lpage><pub-id pub-id-type="doi">10.1016/S0014-5793(01)02988-X</pub-id>.<pub-id pub-id-type="pmid">11728472</pub-id></mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Shin</surname><given-names>A. Y.</given-names></name>; <name><surname>Han</surname><given-names>Y. J.</given-names></name>; <name><surname>Song</surname><given-names>P. S.</given-names></name>; <name><surname>Kim</surname><given-names>J. I.</given-names></name> (<year>2014</year>) <article-title>Expression of recombinant
+full-length plant phytochromes assembled with phytochromobilin in
+Pichia pastoris</article-title>. <source>FEBS Lett.</source>
+<volume>588</volume>, <fpage>2964</fpage>&#x02013;<lpage>2970</lpage><pub-id pub-id-type="doi">10.1016/j.febslet.2014.05.050</pub-id>.<pub-id pub-id-type="pmid">24911206</pub-id></mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Frankenberg</surname><given-names>N.</given-names></name>; <name><surname>Lagarias</surname><given-names>J. C.</given-names></name> (<year>2003</year>) <article-title>Phycocyanobilin:ferredoxin
+oxidoreductase of Anabaena
+sp. PCC 7120. Biochemical and spectroscopic</article-title>. <source>J. Biol. Chem.</source>
+<volume>278</volume>, <fpage>9219</fpage>&#x02013;<lpage>9226</lpage><pub-id pub-id-type="doi">10.1074/jbc.M211643200</pub-id>.<pub-id pub-id-type="pmid">12514179</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Sheftel</surname><given-names>A. D.</given-names></name>; <name><surname>Stehling</surname><given-names>O.</given-names></name>; <name><surname>Pierik</surname><given-names>A. J.</given-names></name>; <name><surname>Els&#x000e4;sser</surname><given-names>H. P.</given-names></name>; <name><surname>M&#x000fc;hlenhoff</surname><given-names>U.</given-names></name>; <name><surname>Webert</surname><given-names>H.</given-names></name>; <name><surname>Hobler</surname><given-names>A.</given-names></name>; <name><surname>Hannemann</surname><given-names>F.</given-names></name>; <name><surname>Bernhardt</surname><given-names>R.</given-names></name>; <name><surname>Lill</surname><given-names>R.</given-names></name> (<year>2010</year>) <article-title>Humans possess two mitochondrial
+ferredoxins, Fdx1 and Fdx2, with distinct roles in steroidogenesis,
+heme, and Fe/S cluster biosynthesis</article-title>. <source>Proc. Natl.
+Acad. Sci. U. S. A.</source>
+<volume>107</volume>, <fpage>11775</fpage>&#x02013;<lpage>11780</lpage><pub-id pub-id-type="doi">10.1073/pnas.1004250107</pub-id>.<pub-id pub-id-type="pmid">20547883</pub-id></mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Aliverti</surname><given-names>A.</given-names></name>; <name><surname>Pandini</surname><given-names>V.</given-names></name>; <name><surname>Pennati</surname><given-names>A.</given-names></name>; <name><surname>de Rosa</surname><given-names>M.</given-names></name>; <name><surname>Zanetti</surname><given-names>G.</given-names></name> (<year>2008</year>) <article-title>Structural
+and functional diversity of ferredoxin-NADP(+) reductases</article-title>. <source>Arch. Biochem. Biophys.</source>
+<volume>474</volume>, <fpage>283</fpage>&#x02013;<lpage>291</lpage><pub-id pub-id-type="doi">10.1016/j.abb.2008.02.014</pub-id>.<pub-id pub-id-type="pmid">18307973</pub-id></mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Smith</surname><given-names>R. W.</given-names></name>; <name><surname>Helwig</surname><given-names>B.</given-names></name>; <name><surname>Westphal</surname><given-names>A. H.</given-names></name>; <name><surname>Pel</surname><given-names>E.</given-names></name>; <name><surname>H&#x000f6;rner</surname><given-names>M.</given-names></name>; <name><surname>Beyer</surname><given-names>H. M.</given-names></name>; <name><surname>Samodelov</surname><given-names>S. L.</given-names></name>; <name><surname>Weber</surname><given-names>W.</given-names></name>; <name><surname>Zurbriggen</surname><given-names>M. D.</given-names></name>; <name><surname>Borst</surname><given-names>J. W.</given-names></name>; <name><surname>Fleck</surname><given-names>C.</given-names></name> (<year>2016</year>) <article-title>Unearthing
+the transition rates between
+photoreceptor conformers</article-title>. <source>BMC Syst. Biol.</source>
+<volume>10</volume>, <fpage>110</fpage><pub-id pub-id-type="doi">10.1186/s12918-016-0368-y</pub-id>.<pub-id pub-id-type="pmid">27884151</pub-id></mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Adrian</surname><given-names>M.</given-names></name>; <name><surname>Nijenhuis</surname><given-names>W.</given-names></name>; <name><surname>Hoogstraaten</surname><given-names>R. I.</given-names></name>; <name><surname>Willems</surname><given-names>J.</given-names></name>; <name><surname>Kapitein</surname><given-names>L. C.</given-names></name> (<year>2017</year>) <article-title>A Phytochrome-Derived
+Photoswitch for Intracellular Transport</article-title>. <source>ACS
+Synth. Biol.</source>
+<volume>6</volume>, <fpage>1248</fpage>&#x02013;<lpage>1256</lpage><pub-id pub-id-type="doi">10.1021/acssynbio.6b00333</pub-id>.<pub-id pub-id-type="pmid">28340532</pub-id></mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Hanke</surname><given-names>G.</given-names></name>; <name><surname>Mulo</surname><given-names>P.</given-names></name> (<year>2013</year>) <article-title>Plant type ferredoxins and ferredoxin-dependent metabolism</article-title>. <source>Plant, Cell Environ.</source>
+<volume>36</volume>, <fpage>1071</fpage>&#x02013;<lpage>1084</lpage><pub-id pub-id-type="doi">10.1111/pce.12046</pub-id>.<pub-id pub-id-type="pmid">23190083</pub-id></mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Cahoon</surname><given-names>E. B.</given-names></name>; <name><surname>Shanklin</surname><given-names>J.</given-names></name> (<year>2000</year>) <article-title>Substrate-dependent mutant complementation to select
+fatty acid desaturase variants for metabolic engineering of plant
+seed oils</article-title>. <source>Proc. Natl. Acad. Sci. U. S. A.</source>
+<volume>97</volume>, <fpage>12350</fpage>&#x02013;<lpage>12355</lpage><pub-id pub-id-type="doi">10.1073/pnas.210276297</pub-id>.<pub-id pub-id-type="pmid">11027301</pub-id></mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Curatti</surname><given-names>L.</given-names></name>; <name><surname>Rubio</surname><given-names>L. M.</given-names></name> (<year>2014</year>) <article-title>Challenges to develop
+nitrogen-fixing cereals by direct
+nif-gene transfer</article-title>. <source>Plant Sci.</source>
+<volume>225</volume>, <fpage>130</fpage>&#x02013;<lpage>137</lpage><pub-id pub-id-type="doi">10.1016/j.plantsci.2014.06.003</pub-id>.<pub-id pub-id-type="pmid">25017168</pub-id></mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Rekittke</surname><given-names>I.</given-names></name>; <name><surname>Olkhova</surname><given-names>E.</given-names></name>; <name><surname>Wiesner</surname><given-names>J.</given-names></name>; <name><surname>Demmer</surname><given-names>U.</given-names></name>; <name><surname>Warkentin</surname><given-names>E.</given-names></name>; <name><surname>Jomaa</surname><given-names>H.</given-names></name>; <name><surname>Ermler</surname><given-names>U.</given-names></name> (<year>2013</year>) <article-title>Structure
+of the (E)-4-hydroxy-3-methyl-but-2-enyl-diphosphate
+reductase from Plasmodium falciparum</article-title>. <source>FEBS Lett.</source>
+<volume>587</volume>, <fpage>3968</fpage>&#x02013;<lpage>3972</lpage><pub-id pub-id-type="doi">10.1016/j.febslet.2013.10.029</pub-id>.<pub-id pub-id-type="pmid">24188825</pub-id></mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Pinto</surname><given-names>R.</given-names></name>; <name><surname>Harrison</surname><given-names>J. S.</given-names></name>; <name><surname>Hsu</surname><given-names>T.</given-names></name>; <name><surname>Jacobs</surname><given-names>W. R.</given-names></name>; <name><surname>Leyh</surname><given-names>T. S.</given-names></name> (<year>2007</year>) <article-title>Sulfite
+reduction in mycobacteria</article-title>. <source>J. Bacteriol.</source>
+<volume>189</volume>, <fpage>6714</fpage>&#x02013;<lpage>6722</lpage><pub-id pub-id-type="doi">10.1128/JB.00487-07</pub-id>.<pub-id pub-id-type="pmid">17644602</pub-id></mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Yonekura-Sakakibara</surname><given-names>K.</given-names></name>; <name><surname>Onda</surname><given-names>Y.</given-names></name>; <name><surname>Ashikari</surname><given-names>T.</given-names></name>; <name><surname>Tanaka</surname><given-names>Y.</given-names></name>; <name><surname>Kusumi</surname><given-names>T.</given-names></name>; <name><surname>Hase</surname><given-names>T.</given-names></name> (<year>2000</year>) <article-title>Analysis of reductant
+supply systems for ferredoxin-dependent sulfite
+reductase in photosynthetic and nonphotosynthetic organs of maize</article-title>. <source>Plant Physiol.</source>
+<volume>122</volume>, <fpage>887</fpage>&#x02013;<lpage>894</lpage><pub-id pub-id-type="doi">10.1104/pp.122.3.887</pub-id>.<pub-id pub-id-type="pmid">10712553</pub-id></mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Uda</surname><given-names>Y.</given-names></name>; <name><surname>Goto</surname><given-names>Y.</given-names></name>; <name><surname>Oda</surname><given-names>S.</given-names></name>; <name><surname>Kohchi</surname><given-names>T.</given-names></name>; <name><surname>Matsuda</surname><given-names>M.</given-names></name>; <name><surname>Aoki</surname><given-names>K.</given-names></name> (<year>2017</year>) <article-title>Efficient synthesis of phycocyanobilin in mammalian cells for optogenetic
+control of cell signaling</article-title>. <source>Proc. Natl. Acad.
+Sci. U. S. A.</source>
+<volume>114</volume>, <fpage>11962</fpage>&#x02013;<lpage>11967</lpage><pub-id pub-id-type="doi">10.1073/pnas.1707190114</pub-id>.<pub-id pub-id-type="pmid">29078307</pub-id></mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Chiu</surname><given-names>F. Y.</given-names></name>; <name><surname>Chen</surname><given-names>Y. R.</given-names></name>; <name><surname>Tu</surname><given-names>S. L.</given-names></name> (<year>2010</year>) <article-title>Electrostatic interaction of phytochromobilin
+synthase and ferredoxin for biosynthesis of phytochrome chromophore</article-title>. <source>J. Biol. Chem.</source>
+<volume>285</volume>, <fpage>5056</fpage>&#x02013;<lpage>5065</lpage><pub-id pub-id-type="doi">10.1074/jbc.M109.075747</pub-id>.<pub-id pub-id-type="pmid">19996315</pub-id></mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Okada</surname><given-names>K.</given-names></name> (<year>2009</year>) <article-title>HO1 and PcyA
+proteins involved in phycobilin biosynthesis form a 1:2 complex with
+ferredoxin-1 required for photosynthesis</article-title>. <source>FEBS
+Lett.</source>
+<volume>583</volume>, <fpage>1251</fpage>&#x02013;<lpage>1256</lpage><pub-id pub-id-type="doi">10.1016/j.febslet.2009.03.052</pub-id>.<pub-id pub-id-type="pmid">19328793</pub-id></mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Szymczak</surname><given-names>A. L.</given-names></name>; <name><surname>Workman</surname><given-names>C. J.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Vignali</surname><given-names>K. M.</given-names></name>; <name><surname>Dilioglou</surname><given-names>S.</given-names></name>; <name><surname>Vanin</surname><given-names>E. F.</given-names></name>; <name><surname>Vignali</surname><given-names>D. A.</given-names></name> (<year>2004</year>) <article-title>Correction of multi-gene deficiency
+in vivo using a single &#x0201c;self-cleaving&#x0201d; 2A peptide-based
+retroviral vector</article-title>. <source>Nat. Biotechnol.</source>
+<volume>22</volume>, <fpage>589</fpage>&#x02013;<lpage>594</lpage><pub-id pub-id-type="doi">10.1038/nbt957</pub-id>.<pub-id pub-id-type="pmid">15064769</pub-id></mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Licursi</surname><given-names>M.</given-names></name>; <name><surname>Christian</surname><given-names>S. L.</given-names></name>; <name><surname>Pongnopparat</surname><given-names>T.</given-names></name>; <name><surname>Hirasawa</surname><given-names>K.</given-names></name> (<year>2011</year>) <article-title>In vitro and in vivo
+comparison of viral and cellular internal ribosome entry sites for
+bicistronic vector expression</article-title>. <source>Gene Ther.</source>
+<volume>18</volume>, <fpage>631</fpage>&#x02013;<lpage>636</lpage><pub-id pub-id-type="doi">10.1038/gt.2011.11</pub-id>.<pub-id pub-id-type="pmid">21368899</pub-id></mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Bochkov</surname><given-names>Y.</given-names></name>; <name><surname>Palmenberg</surname><given-names>A.</given-names></name> (<year>2006</year>) <article-title>Translational
+efficiency of EMCV IRES in bicistronic
+vectors is dependent upon IRES sequence and gene location</article-title>. <source>BioTechniques</source>
+<volume>41</volume>, <fpage>283</fpage>&#x02013;<lpage>292</lpage><pub-id pub-id-type="doi">10.2144/000112243</pub-id>.<pub-id pub-id-type="pmid">16989088</pub-id></mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Mizuguchi</surname><given-names>H.</given-names></name>; <name><surname>Xu</surname><given-names>Z.</given-names></name>; <name><surname>Ishii-Watabe</surname><given-names>A.</given-names></name>; <name><surname>Uchida</surname><given-names>E.</given-names></name>; <name><surname>Hayakawa</surname><given-names>T.</given-names></name> (<year>2000</year>) <article-title>IRES-dependent second
+gene expression is significantly lower than cap-dependent first gene
+expression in a bicistronic vector</article-title>. <source>Mol. Ther.</source>
+<volume>1</volume>, <fpage>376</fpage>&#x02013;<lpage>382</lpage><pub-id pub-id-type="doi">10.1006/mthe.2000.0050</pub-id>.<pub-id pub-id-type="pmid">10933956</pub-id></mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Li</surname><given-names>J.</given-names></name>; <name><surname>Li</surname><given-names>G.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Wang Deng</surname><given-names>X.</given-names></name> (<year>2011</year>) <article-title>Phytochrome signaling mechanisms</article-title>. <source>Arabidopsis Book</source>
+<volume>9</volume>, <fpage>e0148</fpage><pub-id pub-id-type="doi">10.1199/tab.0148</pub-id>.<pub-id pub-id-type="pmid">22303272</pub-id></mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>Mattis</surname><given-names>J.</given-names></name>; <name><surname>Tye</surname><given-names>K. M.</given-names></name>; <name><surname>Ferenczi</surname><given-names>E. A.</given-names></name>; <name><surname>Ramakrishnan</surname><given-names>C.</given-names></name>; <name><surname>O&#x02019;Shea</surname><given-names>D. J.</given-names></name>; <name><surname>Prakash</surname><given-names>R.</given-names></name>; <name><surname>Gunaydin</surname><given-names>L. A.</given-names></name>; <name><surname>Hyun</surname><given-names>M.</given-names></name>; <name><surname>Fenno</surname><given-names>L. E.</given-names></name>; <name><surname>Gradinaru</surname><given-names>V.</given-names></name>; <name><surname>Yizhar</surname><given-names>O.</given-names></name>; <name><surname>Deisseroth</surname><given-names>K.</given-names></name> (<year>2011</year>) <article-title>Principles
+for applying optogenetic tools derived from direct comparative analysis
+of microbial opsins</article-title>. <source>Nat. Methods</source>
+<volume>9</volume>, <fpage>159</fpage>&#x02013;<lpage>172</lpage><pub-id pub-id-type="doi">10.1038/nmeth.1808</pub-id>.<pub-id pub-id-type="pmid">22179551</pub-id></mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name><surname>Beyer</surname><given-names>H. M.</given-names></name>; <name><surname>Juillot</surname><given-names>S.</given-names></name>; <name><surname>Herbst</surname><given-names>K.</given-names></name>; <name><surname>Samodelov</surname><given-names>S. L.</given-names></name>; <name><surname>M&#x000fc;ller</surname><given-names>K.</given-names></name>; <name><surname>Schamel</surname><given-names>W. W.</given-names></name>; <name><surname>R&#x000f6;mer</surname><given-names>W.</given-names></name>; <name><surname>Sch&#x000e4;fer</surname><given-names>E.</given-names></name>; <name><surname>Nagy</surname><given-names>F.</given-names></name>; <name><surname>Str&#x000e4;hle</surname><given-names>U.</given-names></name>; <name><surname>Weber</surname><given-names>W.</given-names></name>; <name><surname>Zurbriggen</surname><given-names>M. D.</given-names></name> (<year>2015</year>) <article-title>Red Light-Regulated Reversible Nuclear
+Localization of Proteins in Mammalian Cells and Zebrafish</article-title>. <source>ACS Synth. Biol.</source>
+<volume>4</volume>, <fpage>951</fpage>&#x02013;<lpage>958</lpage><pub-id pub-id-type="doi">10.1021/acssynbio.5b00004</pub-id>.<pub-id pub-id-type="pmid">25803699</pub-id></mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name><surname>Qin</surname><given-names>J. Y.</given-names></name>; <name><surname>Zhang</surname><given-names>L.</given-names></name>; <name><surname>Clift</surname><given-names>K. L.</given-names></name>; <name><surname>Hulur</surname><given-names>I.</given-names></name>; <name><surname>Xiang</surname><given-names>A. P.</given-names></name>; <name><surname>Ren</surname><given-names>B. Z.</given-names></name>; <name><surname>Lahn</surname><given-names>B. T.</given-names></name> (<year>2010</year>) <article-title>Systematic comparison
+of constitutive
+promoters and the doxycycline-inducible promoter</article-title>. <source>PLoS One</source>
+<volume>5</volume>, <fpage>e10611</fpage><pub-id pub-id-type="doi">10.1371/journal.pone.0010611</pub-id>.<pub-id pub-id-type="pmid">20485554</pub-id></mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="journal" id="cit52"><name><surname>Toettcher</surname><given-names>J. E.</given-names></name>; <name><surname>Gong</surname><given-names>D.</given-names></name>; <name><surname>Lim</surname><given-names>W. A.</given-names></name>; <name><surname>Weiner</surname><given-names>O. D.</given-names></name> (<year>2011</year>) <article-title>Light-based feedback
+for controlling intracellular signaling dynamics</article-title>. <source>Nat. Methods</source>
+<volume>8</volume>, <fpage>837</fpage>&#x02013;<lpage>839</lpage><pub-id pub-id-type="doi">10.1038/nmeth.1700</pub-id>.<pub-id pub-id-type="pmid">21909100</pub-id></mixed-citation></ref><ref id="ref53"><mixed-citation publication-type="journal" id="cit53"><name><surname>Schindelin</surname><given-names>J.</given-names></name>; <name><surname>Arganda-Carreras</surname><given-names>I.</given-names></name>; <name><surname>Frise</surname><given-names>E.</given-names></name>; <name><surname>Kaynig</surname><given-names>V.</given-names></name>; <name><surname>Longair</surname><given-names>M.</given-names></name>; <name><surname>Pietzsch</surname><given-names>T.</given-names></name>; <name><surname>Preibisch</surname><given-names>S.</given-names></name>; <name><surname>Rueden</surname><given-names>C.</given-names></name>; <name><surname>Saalfeld</surname><given-names>S.</given-names></name>; <name><surname>Schmid</surname><given-names>B.</given-names></name>; <name><surname>Tinevez</surname><given-names>J. Y.</given-names></name>; <name><surname>White</surname><given-names>D. J.</given-names></name>; <name><surname>Hartenstein</surname><given-names>V.</given-names></name>; <name><surname>Eliceiri</surname><given-names>K.</given-names></name>; <name><surname>Tomancak</surname><given-names>P.</given-names></name>; <name><surname>Cardona</surname><given-names>A.</given-names></name> (<year>2012</year>) <article-title>Fiji: an open-source
+platform for biological-image analysis</article-title>. <source>Nat.
+Methods</source>
+<volume>9</volume>, <fpage>676</fpage>&#x02013;<lpage>682</lpage><pub-id pub-id-type="doi">10.1038/nmeth.2019</pub-id>.<pub-id pub-id-type="pmid">22743772</pub-id></mixed-citation></ref><ref id="ref54"><mixed-citation publication-type="journal" id="cit54"><name><surname>Lopez</surname><given-names>C. F.</given-names></name>; <name><surname>Muhlich</surname><given-names>J. L.</given-names></name>; <name><surname>Bachman</surname><given-names>J. A.</given-names></name>; <name><surname>Sorger</surname><given-names>P. K.</given-names></name> (<year>2013</year>) <article-title>Programming biological
+models in Python using PySB</article-title>. <source>Mol. Syst. Biol.</source>
+<volume>9</volume>, <fpage>646</fpage><pub-id pub-id-type="doi">10.1038/msb.2013.1</pub-id>.<pub-id pub-id-type="pmid">23423320</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6536681/results/search/funders/results.xml">
+  <result pre="Yuki sudo@okayama-u.ac.jp 1 [1], 0000 0001 1302 4472 grid.261356.5 Graduate" exact="School of Medicine," post="Dentistry and Pharmaceutical Sciences, Okayama University, [2], 0000 0001"/>
+  <result pre="grid.27476.30 Department of Neuroscience II, Research Institute of Environmental Medicine," exact="Nagoya University," post="[3], 0000 0001 0943 978X grid.27476.30 Division of Biological"/>
+  <result pre="978X grid.27476.30 Division of Biological Science, Graduate School of Science," exact="Nagoya University," post="[4], 0000 0001 2173 7691 grid.39158.36 Present Address: Faculty"/>
+  <result pre="for Soft Matter, Global Institution for Collaborative Research and Education," exact="Hokkaido University," post="epub: 2019-5-5 pmc-release: 2019-5-5 collection: 2019 9 7863 received:"/>
+  <result pre="Subject terms Membrane biophysics Molecular biophysics Funding https://doi.org/10.13039/501100001691 MEXT |" exact="Japan Society for the Promotion of Science" post="(JSPS) JP18H06051 JP15K18519 JP18H02523 JP15H04363, JP15H00878, JP25104005 and JP17H05726"/>
+  <result pre="Yamanaka Akihiro Sudo Yuki Funding https://doi.org/10.13039/100009619 Japan Agency for Medical" exact="Research and Development" post="(AMED) 17933570 Sudo Yuki Introduction In environments on the"/>
+  <result pre="Animal Care and Use Committees, Research Institute of Environmental Medicine," exact="Nagoya University," post="Japan. All experiments in this study involving the use"/>
+  <result pre="Animal Care and Use Committees, Research Institute of Environmental Medicine," exact="Nagoya University," post="Japan. All efforts were made to reduce the number"/>
+  <result pre="lines, respectively. The pCAGGS vector was kindly provided by the" exact="RIKEN" post="BRC through the National BioResource Project of the MEXT,"/>
+ </snippets>
+</snippetsTree>

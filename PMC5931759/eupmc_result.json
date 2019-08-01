@@ -1,0 +1,516 @@
+{
+  "id": [
+    "29608168"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29608168"
+  ],
+  "pmcid": [
+    "PMC5931759"
+  ],
+  "doi": [
+    "10.3791/57223"
+  ],
+  "title": [
+    "Combining Optogenetics with Artificial microRNAs to Characterize the Effects of Gene Knockdown on Presynaptic Function within Intact Neuronal Circuits."
+  ],
+  "authorString": [
+    "Thalhammer A, Jaudon F, Cingolani LA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Thalhammer A"
+          ],
+          "firstName": [
+            "Agnes"
+          ],
+          "lastName": [
+            "Thalhammer"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4658-4174",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Synaptic Neuroscience and Technology, Istituto Italiano di Tecnologia."
+          ]
+        },
+        {
+          "fullName": [
+            "Jaudon F"
+          ],
+          "firstName": [
+            "Fanny"
+          ],
+          "lastName": [
+            "Jaudon"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Center for Synaptic Neuroscience and Technology, Istituto Italiano di Tecnologia."
+          ]
+        },
+        {
+          "fullName": [
+            "Cingolani LA"
+          ],
+          "firstName": [
+            "Lorenzo A"
+          ],
+          "lastName": [
+            "Cingolani"
+          ],
+          "initials": [
+            "LA"
+          ],
+          "affiliation": [
+            "Center for Synaptic Neuroscience and Technology, Istituto Italiano di Tecnologia; lorenzo.cingolani@iit.it."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4658-4174",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "133"
+      ],
+      "journalIssueId": [
+        "2663003"
+      ],
+      "dateOfPublication": [
+        "2018 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of visualized experiments : JoVE"
+          ],
+          "ISOAbbreviation": [
+            "J Vis Exp"
+          ],
+          "medlineAbbreviation": [
+            "J Vis Exp"
+          ],
+          "NLMid": [
+            "101313252"
+          ],
+          "ISSN": [
+            "1940-087X"
+          ],
+          "ESSN": [
+            "1940-087X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "The purpose of this protocol is to characterize the effect of gene knockdown on presynaptic function within intact neuronal circuits. We describe a workflow on how to combine artificial microRNA (miR)-mediated RNA interference with optogenetics to achieve selective stimulation of manipulated presynaptic boutons in acute brain slices. The experimental approach involves the use of a single viral construct and a single neuron-specific promoter to drive the expression of both an optogenetic probe and artificial miR(s) against presynaptic gene(s). When stereotactically injected in the brain region of interest, the expressed construct makes it possible to stimulate with light exclusively the neurons with reduced expression of the gene(s) under investigation. This strategy does not require the development and maintenance of genetically modified mouse lines and can in principle be applied to other organisms and to any neuronal gene of choice. We have recently applied it to investigate how the knockdown of alternative splice isoforms of presynaptic P/Q-type voltage-gated calcium channels (VGCCs) regulates short-term synaptic plasticity at CA3 to CA1 excitatory synapses in acute hippocampal slices. A similar approach could also be used to manipulate and probe the neuronal circuitry in vivo."
+  ],
+  "affiliation": [
+    "Center for Synaptic Neuroscience and Technology, Istituto Italiano di Tecnologia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Video-Audio Media",
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neurons"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Presynaptic Terminals"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rats"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Calcium Channels, N-Type"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "MicroRNAs"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Knockdown Techniques"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Optogenetics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "voltage-dependent calcium channel (P-Q type)"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Calcium Channels, N-Type"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "MicroRNAs"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5931759?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5931759"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3791/57223"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-07-13"
+  ],
+  "dateOfCreation": [
+    "2018-04-03"
+  ],
+  "firstIndexDate": [
+    "2018-04-02"
+  ],
+  "dateOfRevision": [
+    "2018-07-13"
+  ],
+  "electronicPublicationDate": [
+    "2018-03-14"
+  ],
+  "firstPublicationDate": [
+    "2018-03-14"
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "id": [
+    "30105008"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30105008"
+  ],
+  "pmcid": [
+    "PMC6077191"
+  ],
+  "doi": [
+    "10.3389/fmicb.2018.01666"
+  ],
+  "title": [
+    "\"Do It Yourself\" Microbial Cultivation Techniques for Synthetic and Systems Biology: Cheap, Fun, and Flexible."
+  ],
+  "authorString": [
+    "Pilizota T, Yang YT."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pilizota T"
+          ],
+          "firstName": [
+            "Teuta"
+          ],
+          "lastName": [
+            "Pilizota"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Centre for Synthetic and Systems Biology, School of Biological Sciences, University of Edinburgh, Edinburgh, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang YT"
+          ],
+          "firstName": [
+            "Ya-Tang"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "YT"
+          ],
+          "affiliation": [
+            "Department of Electrical Engineering, National Tsing Hua University, Hsinchu, Taiwan."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2645049"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in microbiology"
+          ],
+          "ISOAbbreviation": [
+            "Front Microbiol"
+          ],
+          "medlineAbbreviation": [
+            "Front Microbiol"
+          ],
+          "NLMid": [
+            "101548977"
+          ],
+          "ISSN": [
+            "1664-302X"
+          ],
+          "ESSN": [
+            "1664-302X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "1666"
+  ],
+  "abstractText": [
+    "With the emergence of inexpensive 3D printing technology, open-source platforms for electronic prototyping and single-board computers, \"Do it Yourself\" (DIY) approaches to the cultivation of microbial cultures are becoming more feasible, user-friendly, and thus wider spread. In this perspective, we survey some of these approaches, as well as add-on solutions to commercial instruments for synthetic and system biology applications. We discuss different cultivation designs, including capabilities and limitations. Our intention is to encourage the reader to consider the DIY solutions. Overall, custom cultivation devices offer controlled growth environments with in-line monitoring of, for example, optical density, fluorescence, pH, and dissolved oxygen, all at affordable prices. Moreover, they offer a great degree of flexibility for different applications and requirements and are fun to design and construct. We include several illustrative examples, such as gaining optogenetic control and adaptive laboratory evolution experiments."
+  ],
+  "affiliation": [
+    "Centre for Synthetic and Systems Biology, School of Biological Sciences, University of Edinburgh, Edinburgh, United Kingdom."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Evolution",
+        "Bioreactor",
+        "systems biology",
+        "Optogenetics",
+        "Synthetic Biology",
+        "Microbial Cultivation"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6077191?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6077191"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fmicb.2018.01666"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-08-15"
+  ],
+  "firstIndexDate": [
+    "2018-08-15"
+  ],
+  "dateOfRevision": [
+    "2018-08-16"
+  ],
+  "electronicPublicationDate": [
+    "2018-07-30"
+  ],
+  "firstPublicationDate": [
+    "2018-07-30"
+  ]
+}

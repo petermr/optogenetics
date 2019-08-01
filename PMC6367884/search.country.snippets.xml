@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6367884/results/search/country/results.xml">
+  <result pre="Brain and Cognitive Sciences, Massachusetts Institute of Technology Cambridge, MA" exact="United States" post="[], 2 Stanley Center for Psychiatric Research, Broad Institute"/>
+  <result pre="of Massachusetts Institute of Technology (MIT) and Harvard Cambridge, MA" exact="United States" post="[], 3 Institute of Cellular Physiology, Department of Neurodevelopment"/>
+  <result pre="Physiology, Department of Neurodevelopment and Physiology, National Autonomous University of" exact="Mexico" post="Mexico City Mexico [], 4 Department of Bioengineering, Stanford"/>
+  <result pre="Department of Neurodevelopment and Physiology, National Autonomous University of Mexico" exact="Mexico" post="City Mexico [], 4 Department of Bioengineering, Stanford University"/>
+  <result pre="Neurodevelopment and Physiology, National Autonomous University of Mexico Mexico City" exact="Mexico" post="[], 4 Department of Bioengineering, Stanford University Stanford, CA"/>
+  <result pre="Mexico [], 4 Department of Bioengineering, Stanford University Stanford, CA" exact="United States" post="[], 5 Department of Psychiatry and Behavioral Sciences, Stanford"/>
+  <result pre="Department of Psychiatry and Behavioral Sciences, Stanford University Stanford, CA" exact="United States" post="[], 6 Howard Hughes Medical Institute, Stanford University Stanford,"/>
+  <result pre="[], 6 Howard Hughes Medical Institute, Stanford University Stanford, CA" exact="United States" post="[], 7 Human Cell Types, Allen Institute for Brain"/>
+  <result pre="Human Cell Types, Allen Institute for Brain Science Seattle, WA" exact="United States" post="Edited by: Seung-Hee Lee, Korea Advanced Institute of Science"/>
+  <result pre="Berretta, Fondazione Santa Lucia (IRCCS), Italy; Stephen Rayport, Columbia University," exact="United States" post="*Correspondence: Jonathan T. Ting jonathant@alleninstitute.org Guoping Feng fengg@mit.edu †Co-first"/>
+ </snippets>
+</snippetsTree>

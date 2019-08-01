@@ -1,0 +1,301 @@
+{
+  "id": [
+    "31168501"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31168501"
+  ],
+  "pmcid": [
+    "PMC6546010"
+  ],
+  "doi": [
+    "10.1002/epi4.12316"
+  ],
+  "title": [
+    "Enhanced responses to somatostatin interneuron activation in developmentally malformed cortex."
+  ],
+  "authorString": [
+    "Ekanem NB, Reed LK, Weston N, Jacobs KM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ekanem NB"
+          ],
+          "firstName": [
+            "Nicole B"
+          ],
+          "lastName": [
+            "Ekanem"
+          ],
+          "initials": [
+            "NB"
+          ],
+          "affiliation": [
+            "Department of Anatomy and Neurobiology Virginia Commonwealth University Richmond Virginia."
+          ]
+        },
+        {
+          "fullName": [
+            "Reed LK"
+          ],
+          "firstName": [
+            "Laura K"
+          ],
+          "lastName": [
+            "Reed"
+          ],
+          "initials": [
+            "LK"
+          ],
+          "affiliation": [
+            "Department of Anatomy and Neurobiology Virginia Commonwealth University Richmond Virginia."
+          ]
+        },
+        {
+          "fullName": [
+            "Weston N"
+          ],
+          "firstName": [
+            "Nicole"
+          ],
+          "lastName": [
+            "Weston"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Anatomy and Neurobiology Virginia Commonwealth University Richmond Virginia."
+          ]
+        },
+        {
+          "fullName": [
+            "Jacobs KM"
+          ],
+          "firstName": [
+            "Kimberle M"
+          ],
+          "lastName": [
+            "Jacobs"
+          ],
+          "initials": [
+            "KM"
+          ],
+          "affiliation": [
+            "Department of Anatomy and Neurobiology Virginia Commonwealth University Richmond Virginia."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2825057"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Epilepsia open"
+          ],
+          "ISOAbbreviation": [
+            "Epilepsia Open"
+          ],
+          "medlineAbbreviation": [
+            "Epilepsia Open"
+          ],
+          "NLMid": [
+            "101692036"
+          ],
+          "ISSN": [
+            "2470-9239"
+          ],
+          "ESSN": [
+            "2470-9239"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "334-338"
+  ],
+  "abstractText": [
+    "Intractable epilepsy is commonly associated with developmental cortical malformations. Using the rodent freeze lesion model, we have sought the underlying circuit abnormalities contributing to the epileptiform activity that occurs in association with the structural pathology of four-layered microgyria. We showed previously that within the epileptogenic paramicrogyral region (PMR) surrounding the malformation, non-fast-spiking neurons commonly containing somatostatin (SSt) exhibit alterations, including having a greater maximum firing rate. Here we examined the output of SSt interneurons with optogenetics, using SSt-Cre mice mated to mice with floxed channelrhodopsin-2. Voltage clamp recordings from layer V pyramidal neurons in ex vivo slices had significantly enhanced SSt-evoked inhibitory postsynaptic currents in PMR cortex compared to control. In addition, under conditions of low-Mg2+ artificial cerebral spinal fluid (aCSF), light activation of the SSt neurons evoked field potential epileptiform activity in the PMR cortex, but not in control. These data suggest that within the PMR cortex, SSts have a significantly larger effect on excitatory neurons. Surprisingly, the network effect of this enhanced inhibition is hyperexcitability with propagating epileptiform activity, perhaps due to disinhibition of other interneuron cell types or to enhanced synchrony of excitatory cortical elements. This identification creates a new locus for potential modulation of epileptiform activity associated with cortical malformation."
+  ],
+  "affiliation": [
+    "Department of Anatomy and Neurobiology Virginia Commonwealth University Richmond Virginia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Malformation",
+        "Optogenetics",
+        "Cortical Inhibition",
+        "Microgyria",
+        "Freeze Lesion"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6546010?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6546010"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/epi4.12316"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-07"
+  ],
+  "firstIndexDate": [
+    "2019-06-12"
+  ],
+  "dateOfRevision": [
+    "2019-06-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-18"
+  ],
+  "firstPublicationDate": [
+    "2019-03-18"
+  ]
+}

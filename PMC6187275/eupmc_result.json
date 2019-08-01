@@ -1,0 +1,356 @@
+{
+  "id": [
+    "30424378"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30424378"
+  ],
+  "pmcid": [
+    "PMC6187275"
+  ],
+  "doi": [
+    "10.3390/mi9090445"
+  ],
+  "title": [
+    "The History and Horizons of Microscale Neural Interfaces."
+  ],
+  "authorString": [
+    "Kozai TDY."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kozai TDY"
+          ],
+          "firstName": [
+            "Takashi D Y"
+          ],
+          "lastName": [
+            "Kozai"
+          ],
+          "initials": [
+            "TDY"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2507-3295",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Bioengineering, University of Pittsburgh, Pittsburgh, PA 15261, USA. tdk18@pitt.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2507-3295",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2744789"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Micromachines"
+          ],
+          "ISOAbbreviation": [
+            "Micromachines (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Micromachines (Basel)"
+          ],
+          "NLMid": [
+            "101640903"
+          ],
+          "ISSN": [
+            "2072-666X"
+          ],
+          "ESSN": [
+            "2072-666X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Microscale neural technologies interface with the nervous system to record and stimulate brain tissue with high spatial and temporal resolution. These devices are being developed to understand the mechanisms that govern brain function, plasticity and cognitive learning, treat neurological diseases, or monitor and restore functions over the lifetime of the patient. Despite decades of use in basic research over days to months, and the growing prevalence of neuromodulation therapies, in many cases the lack of knowledge regarding the fundamental mechanisms driving activation has dramatically limited our ability to interpret data or fine-tune design parameters to improve long-term performance. While advances in materials, microfabrication techniques, packaging, and understanding of the nervous system has enabled tremendous innovation in the field of neural engineering, many challenges and opportunities remain at the frontiers of the neural interface in terms of both neurobiology and engineering. In this short-communication, we explore critical needs in the neural engineering field to overcome these challenges. Disentangling the complexities involved in the chronic neural interface problem requires simultaneous proficiency in multiple scientific and engineering disciplines. The critical component of advancing neural interface knowledge is to prepare the next wave of investigators who have simultaneous multi-disciplinary proficiencies with a diverse set of perspectives necessary to solve the chronic neural interface challenge."
+  ],
+  "affiliation": [
+    "Department of Bioengineering, University of Pittsburgh, Pittsburgh, PA 15261, USA. tdk18@pitt.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "other",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "DARPA-BAA-16-09-NESD-FP-001"
+          ],
+          "agency": [
+            "Defense Sciences Office, DARPA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 NS062019"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R21 NS108098"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 NS094396"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01NS062019, R01NS094396, R01NS089688, R21NS108098"
+          ],
+          "agency": [
+            "National Institutes of Health"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 NS089688"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Diversity",
+        "Biocompatibility",
+        "Neuroscience",
+        "Training",
+        "Micromachine",
+        "Bias",
+        "Education",
+        "Multi-disciplinary",
+        "Brain Initiative",
+        "Micro-electromechanical Systems (Mems)"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6187275?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6187275"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/mi9090445"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-11-15"
+  ],
+  "firstIndexDate": [
+    "2018-11-14"
+  ],
+  "dateOfRevision": [
+    "2019-06-10"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-06"
+  ],
+  "firstPublicationDate": [
+    "2018-09-06"
+  ]
+}

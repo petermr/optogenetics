@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="country">
+ <result pre="Biomedical Physics, Max Planck Institute for Dynamics and Self-Organization Göttingen" exact="Germany" post="[], 2 Institute for Nonlinear Dynamics, Georg-August University Göttingen"/>
+ <result pre="Germany [], 2 Institute for Nonlinear Dynamics, Georg-August University Göttingen" exact="Germany" post="[], 3 Department of Pharmacology and Toxicology, University Medical"/>
+ <result pre="3 Department of Pharmacology and Toxicology, University Medical Center Göttingen" exact="Germany" post="[], 4 German Center for Cardiovascular Research (DZHK e.V.),"/>
+ <result pre="Center for Cardiovascular Research (DZHK e.V.), Partner Site Göttingen Göttingen" exact="Germany" post="[], 5 Department of Cardiology and Pneumology, University Medical"/>
+ <result pre="5 Department of Cardiology and Pneumology, University Medical Center Göttingen" exact="Germany" post="Edited by: Ming Lei, University of Oxford, United Kingdom"/>
+ <result pre="Center Göttingen Germany Edited by: Ming Lei, University of Oxford," exact="United Kingdom" post="Reviewed by: Alexey V. Glukhov, University of Wisconsin System,"/>
+ <result pre="Kingdom Reviewed by: Alexey V. Glukhov, University of Wisconsin System," exact="United States;" post="Jason D. Bayer, Université de Bordeaux, France *Correspondence: Claudia"/>
+ <result pre="Wisconsin System, United States; Jason D. Bayer, Université de Bordeaux," exact="France" post="*Correspondence: Claudia Richter claudia.richter@ds.mpg.de This article was submitted to"/>
+</results>

@@ -1,0 +1,237 @@
+{
+  "id": [
+    "PMC6430163"
+  ],
+  "source": [
+    "PMC"
+  ],
+  "pmcid": [
+    "PMC6430163"
+  ],
+  "title": [
+    "Attention!."
+  ],
+  "authorString": [
+    "Israni-Winger K, Suen P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Israni-Winger K"
+          ],
+          "firstName": [
+            "Kavita"
+          ],
+          "lastName": [
+            "Israni-Winger"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "aDeputy Editor, Department of Immunobiology, Yale University, New Haven, CT"
+          ]
+        },
+        {
+          "fullName": [
+            "Suen P"
+          ],
+          "firstName": [
+            "Patreece"
+          ],
+          "lastName": [
+            "Suen"
+          ],
+          "initials": [
+            "P"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "92"
+      ],
+      "journalIssueId": [
+        "2798555"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The Yale journal of biology and medicine"
+          ],
+          "ISOAbbreviation": [
+            "Yale J Biol Med"
+          ],
+          "medlineAbbreviation": [
+            "Yale J Biol Med"
+          ],
+          "NLMid": [
+            "0417414"
+          ],
+          "ISSN": [
+            "0044-0086"
+          ],
+          "ESSN": [
+            "1551-4056"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1-2"
+  ],
+  "affiliation": [
+    "aDeputy Editor, Department of Immunobiology, Yale University, New Haven, CT"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Undetermined"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Introduction"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Alzheimer's disease",
+        "Neuroscience",
+        "Optogenetics",
+        "Attention Deficit Disorder",
+        "Attention Science"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6430163"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6430163/?tool=EBI"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-04-04"
+  ],
+  "firstIndexDate": [
+    "2019-04-04"
+  ],
+  "dateOfRevision": [
+    "2019-04-04"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-25"
+  ],
+  "firstPublicationDate": [
+    "2019-03-25"
+  ]
+}

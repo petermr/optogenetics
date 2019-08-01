@@ -1,0 +1,398 @@
+{
+  "id": [
+    "30539900"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30539900"
+  ],
+  "pmcid": [
+    "PMC6302656"
+  ],
+  "doi": [
+    "10.4103/0366-6999.247217"
+  ],
+  "title": [
+    "Status of Noninvasive Brain Stimulation in the Therapy of Alzheimer's Disease."
+  ],
+  "authorString": [
+    "Lin YC, Wang YP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lin YC"
+          ],
+          "firstName": [
+            "Yi-Cong"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "YC"
+          ],
+          "affiliation": [
+            "Department of Neurology, Xuanwu Hospital, Capital Medical University; Beijing Key Laboratory of Neuromodulation, Beijing 100053, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang YP"
+          ],
+          "firstName": [
+            "Yu-Ping"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "YP"
+          ],
+          "affiliation": [
+            "Department of Neurology, Xuanwu Hospital, Capital Medical University; Beijing Key Laboratory of Neuromodulation, Beijing 100053; Center of Epilepsy, Beijing Institute for Brain Disorders, Capital Medical University, Beijing 100069, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "24"
+      ],
+      "volume": [
+        "131"
+      ],
+      "journalIssueId": [
+        "2760114"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Chinese medical journal"
+          ],
+          "ISOAbbreviation": [
+            "Chin. Med. J."
+          ],
+          "medlineAbbreviation": [
+            "Chin Med J (Engl)"
+          ],
+          "NLMid": [
+            "7513795"
+          ],
+          "ISSN": [
+            "0366-6999"
+          ],
+          "ESSN": [
+            "2542-5641"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "2899-2903"
+  ],
+  "affiliation": [
+    "Department of Neurology, Xuanwu Hospital, Capital Medical University; Beijing Key Laboratory of Neuromodulation, Beijing 100053, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Editorial"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Alzheimer Disease"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Transcranial Magnetic Stimulation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Transcranial Direct Current Stimulation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Alzheimer's disease",
+        "Repetitive transcranial magnetic stimulation",
+        "Transcranial Direct Current Stimulation",
+        "Noninvasive Brain Stimulation"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6302656?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6302656"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/0366-6999.247217"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-03-25"
+  ],
+  "dateOfCreation": [
+    "2018-12-13"
+  ],
+  "firstIndexDate": [
+    "2018-12-13"
+  ],
+  "dateOfRevision": [
+    "2019-03-25"
+  ],
+  "firstPublicationDate": [
+    "2018-12-01"
+  ]
+}

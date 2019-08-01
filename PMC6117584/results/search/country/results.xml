@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="country">
+ <result pre="1 2 [1], European Laboratory for Non‐Linear Spectroscopy Florence 50019" exact="Italy" post="[2], National Institute of Optics National Research Council Florence"/>
+ <result pre="[2], National Institute of Optics National Research Council Florence 50125" exact="Italy" post="[3], Department of Physics University of Pisa Pisa 56127"/>
+ <result pre="Italy [3], Department of Physics University of Pisa Pisa 56127" exact="Italy" post="[4], Division of Physiology, Department of Experimental and Clinical"/>
+ <result pre="of Experimental and Clinical Medicine University of Florence Florence 50134" exact="Italy" post="[5], Division of Pharmacology, Department ‘NeuroFarBa’ University of Florence"/>
+ <result pre="Division of Pharmacology, Department ‘NeuroFarBa’ University of Florence Florence 50139" exact="Italy" post="[6], R. D. Berlin Center for Cell Analysis and"/>
+ <result pre="06030 USA [7], Neuroscience Institute National Research Council Padova 35121" exact="Italy" post="[8], Department of Biomedical Sciences Univercity ot Padua Padua"/>
+ <result pre="[8], Department of Biomedical Sciences Univercity ot Padua Padua 35121" exact="Italy" post="[9], Department of Information Engineering University of Florence Via"/>
+ <result pre="Engineering University of Florence Via S. Marta 3 Florence 50139" exact="Italy" post="[10], Department of Physiology McGill University Montreal Quebec Canada"/>
+ <result pre="50139 Italy [10], Department of Physiology McGill University Montreal Quebec" exact="Canada" post="[11], Department of Physics and Astronomy University of Florence"/>
+ <result pre="of Physics and Astronomy University of Florence Sesto Fiorentino 50019" exact="Italy" post="* Corresponding author L. Sacconi: European Laboratory for Non‐linear"/>
+ <result pre="WD, 100 mm EFL (sample and light crafter) Zeiss, Oberkochen," exact="Germany" post="421350‐9970‐000 ×20, 0.4 NA, 7.9 mm WD, 8.25 mm"/>
+ <result pre="coverslip correction for 0.75 mm (camera) Camera Hamamatsu Photonics, Shizuoka," exact="Japan" post="OrcaFlash4.0 v2.0 sCMOS sensor, 2048 × 2048, pixel size:"/>
+</results>

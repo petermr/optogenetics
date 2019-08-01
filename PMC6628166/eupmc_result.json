@@ -1,0 +1,409 @@
+{
+  "id": [
+    "31208089"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31208089"
+  ],
+  "pmcid": [
+    "PMC6628166"
+  ],
+  "doi": [
+    "10.3390/ijms20122935"
+  ],
+  "title": [
+    "Protein Engineering of Dual-Cys Cyanobacteriochrome AM1_1186g2 for Biliverdin Incorporation and Far-Red/Blue Reversible Photoconversion."
+  ],
+  "authorString": [
+    "Kuwasaki Y, Miyake K, Fushimi K, Takeda Y, Ueda Y, Nakajima T, Ikeuchi M, Sato M, Narikawa R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kuwasaki Y"
+          ],
+          "firstName": [
+            "Yuto"
+          ],
+          "lastName": [
+            "Kuwasaki"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Graduate School of Arts and Sciences, University of Tokyo, Komaba, Meguro, Tokyo 153-8902, Japan. kuwasakiyuto@g.ecc.u-tokyo.ac.jp."
+          ]
+        },
+        {
+          "fullName": [
+            "Miyake K"
+          ],
+          "firstName": [
+            "Keita"
+          ],
+          "lastName": [
+            "Miyake"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Graduate School of Science and Technology, Shizuoka University, Ohya, Suruga-ku, Shizuoka 422-8529, Japan. miyake.keita.17@shizuoka.ac.jp."
+          ]
+        },
+        {
+          "fullName": [
+            "Fushimi K"
+          ],
+          "firstName": [
+            "Keiji"
+          ],
+          "lastName": [
+            "Fushimi"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Graduate School of Science and Technology, Shizuoka University, Ohya, Suruga-ku, Shizuoka 422-8529, Japan. fushimi.keiji@shizuoka.ac.jp."
+          ]
+        },
+        {
+          "fullName": [
+            "Takeda Y"
+          ],
+          "firstName": [
+            "Yuka"
+          ],
+          "lastName": [
+            "Takeda"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Graduate School of Science and Technology, Shizuoka University, Ohya, Suruga-ku, Shizuoka 422-8529, Japan. takeda.yuka.14@shizuoka.ac.jp."
+          ]
+        },
+        {
+          "fullName": [
+            "Ueda Y"
+          ],
+          "firstName": [
+            "Yoshibumi"
+          ],
+          "lastName": [
+            "Ueda"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Graduate School of Arts and Sciences, University of Tokyo, Komaba, Meguro, Tokyo 153-8902, Japan. yoshibumiueda@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Nakajima T"
+          ],
+          "firstName": [
+            "Takahiro"
+          ],
+          "lastName": [
+            "Nakajima"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Graduate School of Arts and Sciences, University of Tokyo, Komaba, Meguro, Tokyo 153-8902, Japan. ctnaka@mail.ecc.u-tokyo.ac.jp."
+          ]
+        },
+        {
+          "fullName": [
+            "Ikeuchi M"
+          ],
+          "firstName": [
+            "Masahiko"
+          ],
+          "lastName": [
+            "Ikeuchi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Graduate School of Arts and Sciences, University of Tokyo, Komaba, Meguro, Tokyo 153-8902, Japan. mikeuchi@bio.c.u-tokyo.ac.jp."
+          ]
+        },
+        {
+          "fullName": [
+            "Sato M"
+          ],
+          "firstName": [
+            "Moritoshi"
+          ],
+          "lastName": [
+            "Sato"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Graduate School of Arts and Sciences, University of Tokyo, Komaba, Meguro, Tokyo 153-8902, Japan. cmsato@mail.ecc.u-tokyo.ac.jp."
+          ]
+        },
+        {
+          "fullName": [
+            "Narikawa R"
+          ],
+          "firstName": [
+            "Rei"
+          ],
+          "lastName": [
+            "Narikawa"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Graduate School of Science and Technology, Shizuoka University, Ohya, Suruga-ku, Shizuoka 422-8529, Japan. narikawa.rei@shizuoka.ac.jp."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2828208"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of molecular sciences"
+          ],
+          "ISOAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "medlineAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "NLMid": [
+            "101092791"
+          ],
+          "ISSN": [
+            "1422-0067"
+          ],
+          "ESSN": [
+            "1422-0067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Cyanobacteria have cyanobacteriochromes (CBCRs), which are photoreceptors that bind to a linear tetrapyrrole chromophore and sense UV-to-visible light. A recent study revealed that the dual-Cys CBCR AM1_1186g2 covalently attaches to phycocyanobilin and exhibits unique photoconversion between a Pr form (red-absorbing dark state, λmax = 641 nm) and Pb form (blue-absorbing photoproduct, λmax = 416 nm). This wavelength separation is larger than those of the other CBCRs, which is advantageous for optical tools. Nowadays, bioimaging and optogenetics technologies are powerful tools for biological research. In particular, the utilization of far-red and near-infrared light sources is required for noninvasive applications to mammals because of their high potential to penetrate into deep tissues. Biliverdin (BV) is an intrinsic chromophore and absorbs the longest wavelength among natural linear tetrapyrrole chromophores. Although the BV-binding photoreceptors are promising platforms for developing optical tools, AM1_1186g2 cannot efficiently attach BV. Herein, by rationally introducing several replacements, we developed a BV-binding AM1_1186g2 variant, KCAP_QV, that exhibited reversible photoconversion between a Pfr form (far-red-absorbing dark state, λmax = 691 nm) and Pb form (λmax = 398 nm). This wavelength separation reached 293 nm, which is the largest among the known phytochrome and CBCR photoreceptors. In conclusion, the KCAP_QV molecule developed in this study can offer an alternative platform for the development of unique optical tools."
+  ],
+  "affiliation": [
+    "Graduate School of Arts and Sciences, University of Tokyo, Komaba, Meguro, Tokyo 153-8902, Japan. kuwasakiyuto@g.ecc.u-tokyo.ac.jp."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "JPMJCR1653"
+          ],
+          "agency": [
+            "Japan Science and Technology Agency"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "26702036"
+          ],
+          "agency": [
+            "Japan Society for the Promotion of Science"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Site-directed mutagenesis",
+        "Bilin",
+        "Reversible Cys Adduct Formation"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6628166?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6628166"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijms20122935"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-19"
+  ],
+  "firstIndexDate": [
+    "2019-06-19"
+  ],
+  "dateOfRevision": [
+    "2019-07-24"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-15"
+  ],
+  "firstPublicationDate": [
+    "2019-06-15"
+  ]
+}

@@ -1,0 +1,725 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="iso-abbrev">Adv Sci (Weinh)</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2198-3844</journal-id><journal-id journal-id-type="publisher-id">ADVS</journal-id><journal-title-group><journal-title>Advanced Science</journal-title></journal-title-group><issn pub-type="epub">2198-3844</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6097140</article-id><article-id pub-id-type="doi">10.1002/advs.201800383</article-id><article-id pub-id-type="publisher-id">ADVS709</article-id><article-categories><subj-group subj-group-type="overline"><subject>Communication</subject></subj-group><subj-group subj-group-type="heading"><subject>Communications</subject></subj-group></article-categories><title-group><article-title>Toward Light&#x02010;Regulated Living Biomaterials</article-title></title-group><contrib-group><contrib id="advs709-cr-0001" contrib-type="author" corresp="yes"><name><surname>Sankaran</surname><given-names>Shrikrishnan</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-6251-585X</contrib-id><address><email>shrikrishnan.sankaran@leibniz-inm.de</email></address><xref ref-type="aff" rid="advs709-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs709-cr-0002" contrib-type="author"><name><surname>Zhao</surname><given-names>Shifang</given-names></name><xref ref-type="aff" rid="advs709-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="advs709-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="advs709-cr-0003" contrib-type="author"><name><surname>Muth</surname><given-names>Christina</given-names></name><xref ref-type="aff" rid="advs709-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs709-cr-0004" contrib-type="author"><name><surname>Paez</surname><given-names>Julieta</given-names></name><xref ref-type="aff" rid="advs709-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="advs709-cr-0005" contrib-type="author" corresp="yes"><name><surname>del Campo</surname><given-names>Ar&#x000e1;nzazu</given-names></name><address><email>aranzazu.delcampo@leibniz-inm.de</email></address><xref ref-type="aff" rid="advs709-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="advs709-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="advs709-aff-0001">
+<label><sup>1</sup></label>
+<institution>INM &#x02013; Leibniz Institute for New Materials</institution>
+<named-content content-type="street">Campus D2 2</named-content>
+<named-content content-type="post-code">66123</named-content>
+<named-content content-type="city">Saarbr&#x000fc;cken</named-content>
+<country country="DE">Germany</country>
+</aff><aff id="advs709-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Chemistry Department</named-content>
+<institution>Saarland University</institution>
+<named-content content-type="post-code">66123</named-content>
+<named-content content-type="city">Saarbr&#x000fc;cken</named-content>
+<country country="DE">Germany</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>E&#x02010;mail: <email>shrikrishnan.sankaran@leibniz-inm.de</email>, <email>aranzazu.delcampo@leibniz-inm.de</email></corresp></author-notes><pub-date pub-type="epub"><day>29</day><month>6</month><year>2018</year></pub-date><pub-date pub-type="collection"><month>8</month><year>2018</year></pub-date><volume>5</volume><issue>8</issue><issue-id pub-id-type="doi">10.1002/advs.v5.8</issue-id><elocation-id>1800383</elocation-id><history><date date-type="received"><day>09</day><month>3</month><year>2018</year></date><date date-type="rev-recd"><day>09</day><month>5</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 WILEY&#x02010;VCH Verlag GmbH & Co. KGaA, Weinheim <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. Published by WILEY&#x02010;VCH Verlag GmbH &#x00026; Co. KGaA, Weinheim</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:ADVS-5-1800383.pdf"/><abstract><title>Abstract</title><p>Living materials are an emergent material class, infused with the productive, adaptive, and regenerative properties of living organisms. Property regulation in living materials requires encoding responsive units in the living components to allow external manipulation of their function. Here, an optoregulated <italic>Escherichia coli (E. coli)</italic>&#x02010;based living biomaterial that can be externally addressed using light to interact with mammalian cells is demonstrated. This is achieved by using a photoactivatable inducer of gene expression and bacterial surface display technology to present an integrin&#x02010;specific miniprotein on the outer membrane of an endotoxin&#x02010;free <italic>E. coli</italic> strain. Hydrogel surfaces functionalized with the bacteria can expose cell adhesive molecules upon in situ light&#x02010;activation, and trigger cell adhesion. Surface immobilized bacteria are able to deliver a fluorescent protein to the mammalian cells with which they are interacting, indicating the potential of such a bacterial material to deliver molecules to cells in a targeted manner.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="advs709-kwd-0001">dynamic biomaterials</kwd><kwd id="advs709-kwd-0002">endotoxin&#x02010;free <italic>E. coli</italic></kwd><kwd id="advs709-kwd-0003">living biointerfaces</kwd><kwd id="advs709-kwd-0004">optogenetics</kwd></kwd-group><funding-group><award-group><funding-source>China Scholarship Council</funding-source></award-group><award-group><funding-source>European Union's Horizon 2020 research and innovation programme under the FET PROACTIVE</funding-source><award-id>731957</award-id></award-group><award-group><funding-source>Deutsche Forschungsgemeinschaft</funding-source><award-id>SFB1027</award-id></award-group></funding-group><counts><fig-count count="5"/><table-count count="0"/><page-count count="6"/><word-count count="3892"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>advs709</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>August 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.4.4 mode:remove_FC converted:17.08.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="advs709-cit-0036">
+<string-name>
+<given-names>S.</given-names>
+<surname>Sankaran</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Muth</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Paez</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>del Campo</surname>
+</string-name>, <source xml:lang="en">Adv. Sci.</source>
+<year>2018</year>, <volume>5</volume>, <elocation-id>1800383</elocation-id>
+<pub-id pub-id-type="doi">10.1002/advs.201800383</pub-id>
+</mixed-citation>
+</p></notes></front><body><p>The development of biomaterials able to provide signals to living cells and support basic cellular functions is an active area of research with potential for industrial and medical translation.<xref rid="advs709-bib-0001" ref-type="ref">1</xref> Research efforts nowadays are particularly dedicated toward creating dynamic biomaterials enabling active regulation of signaling molecules (adhesive ligands or growth factors) or matrix mechanics upon application of external stimuli.<xref rid="advs709-bib-0002" ref-type="ref">2</xref> Light has emerged as an advantageous stimulus in this context. It allows non&#x02010;invasive, spatiotemporally resolved activation, tunable regulation by varying exposure dose, and multiplexing by using different wavelengths. Light&#x02010;regulated ligand availability,<xref rid="advs709-bib-0003" ref-type="ref">3</xref>, <xref rid="advs709-bib-0004" ref-type="ref">4</xref> material stiffness,<xref rid="advs709-bib-0005" ref-type="ref">5</xref>, <xref rid="advs709-bib-0006" ref-type="ref">6</xref> topography,<xref rid="advs709-bib-0007" ref-type="ref">7</xref>, <xref rid="advs709-bib-0008" ref-type="ref">8</xref> and degradation<xref rid="advs709-bib-0006" ref-type="ref">6</xref>, <xref rid="advs709-bib-0009" ref-type="ref">9</xref> have been achieved in biomaterials through the introduction of synthetic chromophores either in the material or the ligand structure. However, most of these approaches are irreversible, cannot be reactivated, and require specific chemical design and extensive synthesis for each individual ligand or polymeric chain.<xref rid="advs709-bib-0002" ref-type="ref">2</xref> We do not have strategies to remodel biomaterials in a truly dynamic manner and involving complex molecules, as it happens in living tissues.<xref rid="advs709-bib-0010" ref-type="ref">10</xref> The first steps to circumvent some of these limitations is presented in this work. It is based on the incorporation of a photoregulated living component, such as optogenetically engineered bacteria, to a biomaterial (hydrogel) to form a light&#x02010;regulated living biomaterial. Upon light exposure, the bacteria are induced to produce proteins of interest in situ, and actively remodel the composition of the microenvironment. This article describes the biomaterial design and demonstration of the working principle using bacteria producing a simple cell&#x02010;adhesive miniprotein to tune cellular attachment to the living hybrid with light (<bold>Figure</bold>
+<xref rid="advs709-fig-0001" ref-type="fig">
+<bold>1</bold>
+</xref>a). While reversibility and spatial confinement of light&#x02010;responsive gene regulation could not be easily demonstrated in the current design, the flexibility of this approach allows easy reengineering with alternative optogenetic strategies and all kind of relevant biological factors to guide cellular processes in the future.</p><fig fig-type="Figure" xml:lang="en" id="advs709-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Molecular design of the light&#x02010;inducible <italic>E. coli&#x02010;</italic>biomaterial system. PA&#x02010;IPTG used along with an IPTG&#x02010;inducible dual expression vector enables light&#x02010;controlled protein expression. Upon light irradiation, PA&#x02010;IPTG gets converts to an ester intermediate that is enzymatically hydrolyzed into active IPTG within <italic>E. coli</italic>. The free IPTG inhibits the lac repressor and starts production of the genetically encoded proteins, mRGD&#x02010;eCPX and RFP. The transmembrane carrier protein eCPX allows surface display of the mRGD at the bacterial membrane. RFP acts as a reporter to identify the activated bacterial cells. Integrins at the surface of mammalian cells interact with mRGD displayed on the bacterial surface and mediate cellular attachment to the bacterial biomaterial.</p></caption><graphic id="nlm-graphic-3" xlink:href="ADVS-5-1800383-g001"/></fig><p>Salmeron&#x02010;Sanchez and co&#x02010;workers have pioneered the concept of bacterial biointerfaces, based on <italic>Lactococcus lactis</italic>.<xref rid="advs709-bib-0011" ref-type="ref">11</xref>, <xref rid="advs709-bib-0012" ref-type="ref">12</xref>, <xref rid="advs709-bib-0013" ref-type="ref">13</xref> Poly(ethyl acrylate) substrates coated with <italic>L. lactis</italic> displayed a fibronectin fragment on their outer surfaces and were used to guide stem cell differentiation. This fascinating approach opened a new window for dynamic biomaterials design. However, inducible protein expression in <italic>L. lactis</italic> is relatively complex and there are no available light&#x02010;induced gene expression strategies in this system. Being the workhorse of genetic engineering, innumerable systems have successfully engineered <italic>Escherichia coli (E. coli)</italic> for bacterial ligand display,<xref rid="advs709-bib-0014" ref-type="ref">14</xref>, <xref rid="advs709-bib-0015" ref-type="ref">15</xref>, <xref rid="advs709-bib-0016" ref-type="ref">16</xref> secretory protein expression,<xref rid="advs709-bib-0017" ref-type="ref">17</xref>, <xref rid="advs709-bib-0018" ref-type="ref">18</xref>, <xref rid="advs709-bib-0019" ref-type="ref">19</xref> metabolic engineering,<xref rid="advs709-bib-0020" ref-type="ref">20</xref>, <xref rid="advs709-bib-0021" ref-type="ref">21</xref>, <xref rid="advs709-bib-0022" ref-type="ref">22</xref> non&#x02010;natural amino acid incorporation,<xref rid="advs709-bib-0023" ref-type="ref">23</xref> etc. Optogenetic strategies to regulate these processes by light are also available.<xref rid="advs709-bib-0024" ref-type="ref">24</xref>, <xref rid="advs709-bib-0025" ref-type="ref">25</xref>, <xref rid="advs709-bib-0026" ref-type="ref">26</xref>, <xref rid="advs709-bib-0027" ref-type="ref">27</xref> Here we demonstrate the use of bacterial surface&#x02010;display in combination with optogenetics in <italic>E. coli</italic> to dynamically regulate the interaction of living materials with mammalian cells using light. The commonly used <italic>E. coli</italic> lab strains neither form biofilms nor are known to secrete endogenous proteins. They can grow rapidly but do not form spores or dormant morphologies and they can be eliminated using common antibiotics. For these reasons, <italic>E. coli</italic> is an ideal living component in biomaterials to be engineered to provide multiple intricate functions.</p><p>A commercially available genetically engineered endotoxin&#x02010;free strain named ClearColi BL21(DE3), in which gene expression can be activated by the widely used inducer, isopropyl &#x003b2;&#x02010;d&#x02010;1&#x02010;thiogalactopyranoside (IPTG), was used in this study.<xref rid="advs709-bib-0028" ref-type="ref">28</xref> In order to introduce light response, a photoactivatable version of IPTG (PA&#x02010;IPTG) was synthesized.<xref rid="advs709-bib-0024" ref-type="ref">24</xref>, <xref rid="advs709-bib-0025" ref-type="ref">25</xref> The <italic>E. coli</italic> strain was engineered to display an RGD&#x02010;containing miniprotein (mRGD)<xref rid="advs709-bib-0029" ref-type="ref">29</xref> on its surface using an enhanced circularly&#x02010;permutated outer membrane protein X (eCPX).<xref rid="advs709-bib-0014" ref-type="ref">14</xref>, <xref rid="advs709-bib-0015" ref-type="ref">15</xref> This mRGD&#x02010;eCPX fusion protein was introduced in the bicistrionic vector, pET&#x02010;Duet1, along with the red fluorescent protein, TagRFP (RFP), as a reporter to visualize activation of protein expression in the bacterial cells (Figure <xref rid="advs709-fig-0001" ref-type="fig">1</xref>). The expression of both genes is simultaneously induced in the presence of IPTG. A negative control strain was also engineered in which mRGD was replaced by the scrambled version, mRDG.<xref rid="advs709-bib-0029" ref-type="ref">29</xref> The bacterial strain expressing mRGD&#x02010;eCPX will be referred to as <italic>E. coli</italic>+, and the one expressing the scrambled mRDG&#x02010;eCPX as <italic>E. coli</italic>&#x02212;. To verify whether mRGD was being displayed on the bacterial surface, the cells were lysed and fractionated to isolate the outer membrane from the rest of the cell. Western blotting allowed us to clearly identify the presence of mRGD&#x02010;eCPX&#x02010;His6 only in the outermembrane fraction (<bold>Figure</bold>
+<xref rid="advs709-fig-0002" ref-type="fig">
+<bold>2</bold>
+</xref>a). The TagRFP construct also carried a His6 tag and was visualized in both fractions, in agreement with a recent finding that shows auto&#x02010;secretion of fluorescent proteins overexpressed in <italic>E. coli</italic>.<xref rid="advs709-bib-0019" ref-type="ref">19</xref>
+</p><fig fig-type="Figure" xml:lang="en" id="advs709-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>a) SDS&#x02010;PAGE and western blot analyses performed on bacterial lysates fractionated into soluble and outermembrane fractions. RFP carries an N&#x02010;terminal His6 tag, while mRGD&#x02010;eCPX was His6&#x02010;tagged on its C&#x02010;terminal. Anti&#x02010;His6 primary antibody was used for western blot analysis and protein detection. The dashed circle represents His6&#x02010;eCPX&#x02010;mRGD. b) RFP expression of <italic>E. coli +</italic> cells immobilized on PDL&#x02010;coated surfaces. Expression was induced with IPTG and images were made 2 h after induction. In the absence of IPTG, red fluorescence is not observed in the bacteria. c) Surface coverage of bacterial cells in the presence of increasing tetracycline concentrations over time. Beyond 90% surface coverage, multilayers started to form but their bacterial content was not quantifiable in the current microscopy&#x02010;based assay and is represented as a saturation phase. d) Expression of RFP in surface&#x02010;immobilized <italic>E. coli+</italic> bacterial cells induced using either IPTG or PA&#x02010;IPTG that was pre&#x02010;irradiated or in situ irradiated with 360 nm light for 2 min. The gray bands in all plots represent standard deviation obtained from three individual samples in each case.</p></caption><graphic id="nlm-graphic-5" xlink:href="ADVS-5-1800383-g002"/></fig><p>Poly&#x02010;<sc>d</sc>&#x02010;lysine (PDL) coated Nexterion slides were used for immobilizing bacteria and construct the light&#x02010;regulated living biointerface. <italic>E. coli</italic> surface is negatively charged due to its outermembrane phospholipids and lipopolysaccharides, and the bacteria adhered within a few minutes to the positively charged PDL surface with high surface coverage. Attached bacteria induced with IPTG were able to express the proteins on their surface, as indicated by the red fluorescence in the microscopy images (Figure <xref rid="advs709-fig-0002" ref-type="fig">2</xref>b). Initially, we observed rapid bacterial growth on the surface, resulting in the formation of multilayers within 6 h. Retardation of bacterial metabolism was achieved by addition of tetracycline antibiotic.<xref rid="advs709-bib-0012" ref-type="ref">12</xref> Bacterial growth and protein expression were followed over the span of a day in the presence of tetracycline at concentrations spanning 1&#x02013;10 &#x000b5;g mL<sup>&#x02212;1</sup> (Figure S1a, Supporting Information). Increasing concentrations of tetracycline gradually slowed bacterial growth and completely arrested it at 10 &#x000b5;g mL<sup>&#x02212;1</sup> (Figure <xref rid="advs709-fig-0002" ref-type="fig">2</xref>c). After removal of the antibiotic, protein expression occurred at a normal rate (Figure S1c, Supporting Information), indicating that the antibiotic did not leave any permanent damage to the bacterial protein expression machinery. It was also observed that tetracycline reduced protein expression, while the presence of IPTG partially retarded bacterial growth. Hence in further experiments, 10 &#x000b5;g mL<sup>&#x02212;1</sup> tetracycline was used before induction of gene expression and either 2 or 0 &#x000b5;g mL<sup>&#x02212;1</sup> was used after induction when the duration of the experiment was longer or shorter than 10 h, respectively. It is important to note that growth arrest switches can also be incorporated to the bacterial genome to avoid the use of antibiotics and develop more advanced versions of this approach.<xref rid="advs709-bib-0030" ref-type="ref">30</xref>
+</p><p>The ability of the surface&#x02010;immobilized bacteria to express the protein upon addition of the photoactivatable inducer PA&#x02010;IPTG and light exposure was tested. PA&#x02010;IPTG was added to the medium and, based on previously reported analysis of photoactivation of PA&#x02010;IPTG in the presence of bacteria,<xref rid="advs709-bib-0025" ref-type="ref">25</xref> the bacterial biointerface was exposed for 2 min at 360 nm light using the microscope's DAPI&#x02010;channel LED light source. This extent of light exposure has been shown to elicit maximum protein expression in <italic>E. coli</italic>.<xref rid="advs709-bib-0025" ref-type="ref">25</xref> Red fluorescence corresponding to expression of RFP, indicating simultaneous expression of mRGD&#x02010;eCPX was observed 3 h after exposure, indicating that <italic>E. coli</italic>+ retained metabolic activity and protein expression capability after the light exposure step (Figure <xref rid="advs709-fig-0002" ref-type="fig">2</xref>d). Control experiments with IPTG and preirradiated PA&#x02010;IPTG solutions at equivalent concentrations were also performed. Whereas red fluorescence was observed 1.5 h after induction with soluble IPTG, in agreement with RFPs maturation half time of 100 min,<xref rid="advs709-bib-0031" ref-type="ref">31</xref> the irradiated PA&#x02010;IPTG samples took &#x02248;1.5 h longer to display visible levels of red fluorescence (<bold>Figure</bold>
+<xref rid="advs709-fig-0003" ref-type="fig">
+<bold>3</bold>
+</xref>a). The time between induction with PA&#x02010;IPTG and protein expression is intrinsic to this system and has been associated to the formation of photolysis intermediates that get hydrolyzed to active IPTG by machinery within the <italic>E. coli</italic> (Figure <xref rid="advs709-fig-0001" ref-type="fig">1</xref>; Figure S2, Supporting Information).<xref rid="advs709-bib-0024" ref-type="ref">24</xref>, <xref rid="advs709-bib-0025" ref-type="ref">25</xref>
+</p><fig fig-type="Figure" xml:lang="en" id="advs709-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Optoregulated interactions between cells and bacterial material. a) Microscopy images (merged phase contrast and red fluorescence channels) of <italic>E. coli +</italic> surfaces seeded with MEF&#x02010;vincGFP cells in the presence of PA&#x02010;IPTG in the dark (left) and 3 h (right) after light exposure. b,c) Epifluorescence images of MEF&#x02010;vincGFP cells on <italic>E. coli+</italic> (b) and <italic>E. coli</italic>&#x02212; (c) surfaces at 7 h after light activation. Images were taken after fixation. d,e) Laser scanning confocal <italic>Z</italic>&#x02010;stack orthogonal projection images of focal adhesions wrapped around <italic>E. coli+</italic> (d) and not around <italic>E. coli</italic>&#x02212; (e). Images correspond to fixed samples 10 h after IPTG induction. Red: bacteria, Green: vincGFP in MEF&#x02010;vincGFP cells, Blue: DAPI. The white arrows indicate particular bacterial cells in both the XY plane image and the XZ and YZ orthogonal projections on the top and right, respectively. Arrows pointing in the same direction correspond to the same bacterial cell.</p></caption><graphic id="nlm-graphic-7" xlink:href="ADVS-5-1800383-g003"/></fig><p>Once control of bacterial growth and light&#x02010;driven protein expression on the living biointerface were demonstrated, we tested the possibility to light&#x02010;control mammalian cell response on the light&#x02010;regulated biointerface. Mouse embryonic fibroblasts expressing vinculin&#x02010;GFP (MEF&#x02010;vincGFP) were used for these experiments in order to visualize the formation of focal adhesions in response to the light&#x02010;induced display of mRGD adhesive miniprotein on the surface of the bacteria. After addition of PA&#x02010;IPTG and cell seeding, the substrate was irradiated at one corner in order to prevent photodamage on the MEFs. Initially, MEF&#x02010;vincGFP cells did not show interaction with the bacterial biomaterial. Cells remained predominantly round and migrated very little (Figure <xref rid="advs709-fig-0003" ref-type="fig">3</xref>a). Approximately 3 h after irradiation, bacteria started exhibiting red fluorescence. Shortly before that, the MEF&#x02010;vincGFP cells started to extend protrusions and pull on the bacteria around them (Video S1, Supporting Information). This observation indicates that the mRGD displayed at the bacterial surface was recognized by integrins at MEFs membrane even before fluorescence was detected by the microscope. This was most likely due to the different rates of expression of mRGD&#x02010;eCPX and RFP and due to RFPs maturation time.<xref rid="advs709-bib-0031" ref-type="ref">31</xref> As time progressed, MEF&#x02010;vincGFP cells migrated across the substrate and bacteria were accumulated around and under them (Figure <xref rid="advs709-fig-0003" ref-type="fig">3</xref>a,b). On surfaces with light&#x02010;activated <italic>E. coli</italic>&#x02212;, the mammalian cells were also seen to migrate slowly, but they did not accumulate any bacteria. The accumulation of bacteria is a consequence of the traction forces applied by cells at the adhesion points, which seem to be larger than the adhesion force of the bacteria with the underlying substrate. Note that previous studies had shown that <italic>E. coli</italic> can strongly adhere to poly&#x02010;<sc>l</sc>&#x02010;lysine surfaces with rupture forces around 5 nN.<xref rid="advs709-bib-0032" ref-type="ref">32</xref> Similar results were observed when the bacterial surfaces were chemically induced by adding IPTG to the medium (Figure S3, Supporting Information). MEF&#x02010;vincGFP cells seeded on control surfaces coated with <italic>E. coli</italic>&#x02212; did not interact with the bacteria (Figure <xref rid="advs709-fig-0003" ref-type="fig">3</xref>c). <italic>Z</italic>&#x02010;stack confocal imaging revealed that focal adhesions formed around <italic>E. coli+</italic> bacterial cells (Figure <xref rid="advs709-fig-0003" ref-type="fig">3</xref>d), and not around <italic>E. coli</italic>&#x02212; (Figure <xref rid="advs709-fig-0003" ref-type="fig">3</xref>e). Scanning electron microscopy (SEM) imaging of MEF&#x02010;vincGFP with <italic>E. coli+</italic> revealed close contact between the mammalian and the bacterial cells, with cell protrusions completely covering the bacteria (Figure S4, Supporting Information). Despite the fact that <italic>E. coli</italic> has a complex outer surface with flagella, pili, carbohydrates, etc. the mammalian cells only interacted with them when they displayed mRGD, suggesting that <italic>E. coli</italic> provides an interface for establishing highly specific cellular interactions. These results demonstrate the possibility to in situ regulate cell&#x02013;materials interactions using light exposure and optogenetically engineered bacteria as active components of the artificial microenvironment.</p><p>After 3 h of interaction between MEF&#x02010;vincGFP cells and induced <italic>E. coli+</italic> bacteria, faint red fluorescence was also observed in the intracellular space (Figure S5a, Supporting Information). Such red fluorescence was not observed in cells on the <italic>E. coli</italic>&#x02212; bacterial surface, even after 20 h (Figure S5b, Supporting Information). No indication of bacterial lysis or endocytosis was observed by phase contrast, epifluorescence and SEM imaging of the surface. Based on the recent discovery that <italic>E. coli</italic> can secrete negatively charged &#x003b2;&#x02010;barrel&#x02010;shaped fluorescent proteins,<xref rid="advs709-bib-0019" ref-type="ref">19</xref> we hypothesized that the RFP used as a protein&#x02010;expression indicator was secreted from the bacteria. To test this theory, <italic>E. coli+</italic> was grown and induced using IPTG at a high density in a shaking culture. SDS&#x02010;PAGE analysis of the culture medium after 16 h of protein expression revealed the presence of RFP (<bold>Figure</bold>
+<xref rid="advs709-fig-0004" ref-type="fig">
+<bold>4</bold>
+</xref>a). When Ni&#x02010;NTA coated agarose beads were incubated with small extracts of the culture media, the agarose beads became fluorescent already 3 h after induction, indicating the secretion of RFP (Figure <xref rid="advs709-fig-0004" ref-type="fig">4</xref>a). Furthermore, <italic>Z</italic>&#x02010;stack confocal images of membrane&#x02010;stained fibroblasts that were allowed to interact with <italic>E. coli+</italic> for 18 h after IPTG induction revealed red fluorescence within their membranes, while those that interacted with <italic>E. coli</italic>&#x02212; did not exhibit such fluorescence (Figure <xref rid="advs709-fig-0004" ref-type="fig">4</xref>b). Due to the slow secretion of RFP, it is quite possible that very close membrane contact is necessary for RFP to cross the bacterial outer membrane and enter the cell through its cell membrane. In the absence of such close contacts, it is expected that RFP crossing the bacterial outer membrane simply diffuses into the culture medium at a very low concentration. This observation, even if it was unintended in our study, opens interesting possibilities for using bacterial biomaterials for light&#x02010;controlled targeted delivery of proteins from <italic>E. coli</italic> to mammalian cells.</p><fig fig-type="Figure" xml:lang="en" id="advs709-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>a) Analysis of RFP secretion into medium by SDS&#x02010;PAGE reveals RFP secretion (bands in white box) in <italic>E. coli</italic>+ culture after 16 h in the presence and absence of IPTG inducer. Experiments were performed in bacterial LB medium and in cell culture DMEM medium. Microscopy images (merged phase contrast and epifluorescence red channels) of Ni&#x02010;NTA agarose beads incubated with culture media of <italic>E. coli+</italic> grown in the presence and absence of IPTG indicates the presence of RFP in DMEM medium after 3 h. b) Laser scanning confocal <italic>Z</italic>&#x02010;stack orthogonal projection images of membrane&#x02010;stained fibroblasts interacting with <italic>E. coli+</italic> and <italic>E. coli</italic>&#x02212;. Images correspond to fixed samples 18 h after IPTG induction. Red: RFP, Green: Cell membrane stain. The bright green area within the cells corresponds to the nuclear membrane. The plots below the microscopy images correspond to the intensity profile of red and green fluorescence along the dashed&#x02010;white line.</p></caption><graphic id="nlm-graphic-9" xlink:href="ADVS-5-1800383-g004"/></fig><p>In summary, we have shown that a specially engineered endotoxin&#x02010;free <italic>E. coli</italic> strain can be integrated into a biomaterial and mediate specific interaction with mammalian cells, and this interaction can be temporally regulated by light. Bacterial surface display and optogenetic strategies have been combined to set up this system. We showed that bacterial surfaces can be easily prepared using PDL, bacterial growth can be controlled using tetracycline and light&#x02010;induced activation of surface immobilized bacteria can be achieved using PA&#x02010;IPTG. Specific adhesive interactions between integrins at the cell membrane and immobilized bacteria were observed through mRGD displayed on the bacterial surface. Due to the traction forces applied by cells, bacteria were pulled across the surface and accumulated around cells as they migrated. Finally, the unexpected observation that cells on <italic>E. coli+</italic> containing surfaces developed red fluorescence within their intracellular space provides an indication that this method can be used to deliver proteins from bacterial materials to cells.</p><p>Even though the light&#x02010;activatable chemical inducer, PA&#x02010;IPTG, used in this proof&#x02010;of&#x02010;concept study is an ideal tool to introduce light&#x02010;regulated protein expression in <italic>E. coli</italic> using commonly available vectors, it also imposes certain limitations on the system. Most <italic>E. coli</italic> strains express lactose&#x02010;permease in the presence of IPTG that actively transports the inducer within the cell. As a consequence, inhomogeneous protein induction occurs in a bacterial population with nonsaturating quantities of IPTG. This in&#x02010;turn limits the possibility of establishing precise dosing of protein expression by varying light&#x02010;activation intensities using PA&#x02010;IPTG.<xref rid="advs709-bib-0025" ref-type="ref">25</xref> Furthermore, due to diffusion of the inducer, spatially confined activation cannot be easily achieved. However, the flexibility allowed by <italic>E. coli</italic> in terms of protein expression, together with the impressive evolution of tools in optogenetics allows light activatable protein induction systems to be genetically encoded directly within the bacterium.<xref rid="advs709-bib-0033" ref-type="ref">33</xref>, <xref rid="advs709-bib-0034" ref-type="ref">34</xref> In further studies, such systems will employed to elicit cellular responses to proteins that can be expressed in a precisely dosed, spatially confined, and possibly repeatable manner. Combined with the ability to incorporate activation at multiple visible wavelengths, such a system will open enormous possibilities for disruptive innovations in biomaterials science, within the emerging field of engineered living biomaterials.<xref rid="advs709-bib-0035" ref-type="ref">35</xref>
+</p><sec id="advs709-sec-0030"><title>Conflict of Interest</title><p>The authors declare no conflict of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="ADVS-5-1800383-s002.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supplementary</p></caption><media xlink:href="ADVS-5-1800383-s001.avi"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="advs709-sec-0020"><title>Acknowledgements</title><p>S.S. and S.Z. contributed equally to this work. The authors thank Rebecca Ludwig for her aid in the synthesis of PA&#x02010;IPTG, Dr. Marcus Koch for his help with the SEM imaging and Prof. Andres Garcia for providing the MEF&#x02010;vincGFP cells and constructive suggestions. A.d.C. and S.S. are grateful for funding from the SFB1027 collective research center for this project. China Scholarship Council (CSC) is acknowledged for its financial support to S.Z. A.d.C. and J.P. acknowledge funding from the European Union's Horizon 2020 research and innovation programme under the FET PROACTIVE Grant Agreement No. 731957 (MECHANO&#x02010;CONTROL).</p></ack><ref-list id="advs709-bibl-0001"><ref id="advs709-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="advs709-cit-0001">
+<string-name>
+<given-names>J. J.</given-names>
+<surname>Green</surname>
+</string-name>, <string-name>
+<given-names>J. H.</given-names>
+<surname>Elisseeff</surname>
+</string-name>, <source xml:lang="en">Nature</source>
+<year>2016</year>, <volume>540</volume>, <fpage>386</fpage>.<pub-id pub-id-type="pmid">27974772</pub-id></mixed-citation></ref><ref id="advs709-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="advs709-cit-0002">
+<string-name>
+<given-names>J.</given-names>
+<surname>Leijten</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Seo</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Yue</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Trujillo&#x02010;de Santiago</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Tamayol</surname>
+</string-name>, <string-name>
+<given-names>G. U.</given-names>
+<surname>Ruiz&#x02010;Esparza</surname>
+</string-name>, <string-name>
+<given-names>S. R.</given-names>
+<surname>Shin</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Sharifi</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Noshadi</surname>
+</string-name>, <string-name>
+<given-names>M. M.</given-names>
+<surname>&#x000c1;lvarez</surname>
+</string-name>, <string-name>
+<given-names>Y. S.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Khademhosseini</surname>
+</string-name>, <source xml:lang="en">Mater. Sci. Eng., R</source>
+<year>2017</year>, <volume>119</volume>, <fpage>1</fpage>.</mixed-citation></ref><ref id="advs709-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="advs709-cit-0003">
+<string-name>
+<given-names>T. T.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>J. R.</given-names>
+<surname>Garc&#x000ed;a</surname>
+</string-name>, <string-name>
+<given-names>J. I.</given-names>
+<surname>Paez</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Singh</surname>
+</string-name>, <string-name>
+<given-names>E. A.</given-names>
+<surname>Phelps</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Weis</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Shafiq</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Shekaran</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>del Campo</surname>
+</string-name>, <string-name>
+<given-names>A. J.</given-names>
+<surname>Garc&#x000ed;a</surname>
+</string-name>, <source xml:lang="en">Nat. Mater.</source>
+<year>2015</year>, <volume>14</volume>, <fpage>352</fpage>.<pub-id pub-id-type="pmid">25502097</pub-id></mixed-citation></ref><ref id="advs709-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="advs709-cit-0004">
+<string-name>
+<given-names>T. E.</given-names>
+<surname>Brown</surname>
+</string-name>, <string-name>
+<given-names>K. S.</given-names>
+<surname>Anseth</surname>
+</string-name>, <source xml:lang="en">Chem. Soc. Rev.</source>
+<year>2017</year>, <volume>46</volume>, <fpage>6532</fpage>.<pub-id pub-id-type="pmid">28820527</pub-id></mixed-citation></ref><ref id="advs709-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="advs709-cit-0005">
+<string-name>
+<given-names>A. M.</given-names>
+<surname>Rosales</surname>
+</string-name>, <string-name>
+<given-names>S. L.</given-names>
+<surname>Vega</surname>
+</string-name>, <string-name>
+<given-names>F. W.</given-names>
+<surname>DelRio</surname>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Burdick</surname>
+</string-name>, <string-name>
+<given-names>K. S.</given-names>
+<surname>Anseth</surname>
+</string-name>, <source xml:lang="en">Angew. Chem., Int. Ed.</source>
+<year>2017</year>, <volume>56</volume>, <fpage>12132</fpage>.</mixed-citation></ref><ref id="advs709-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="advs709-cit-0006">
+<string-name>
+<given-names>E. R.</given-names>
+<surname>Ruskowitz</surname>
+</string-name>, <string-name>
+<given-names>C. A.</given-names>
+<surname>DeForest</surname>
+</string-name>, <source xml:lang="en">Nat. Rev. Mater.</source>
+<year>2018</year>, <volume>3</volume>, <fpage>17087</fpage>.</mixed-citation></ref><ref id="advs709-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="advs709-cit-0007">
+<string-name>
+<given-names>G.</given-names>
+<surname>Ko&#x000e7;er</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>ter Schiphorst</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Hendrikx</surname>
+</string-name>, <string-name>
+<given-names>H. G.</given-names>
+<surname>Kassa</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Lecl&#x000e8;re</surname>
+</string-name>, <string-name>
+<given-names>A. P. H. J.</given-names>
+<surname>Schenning</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Jonkheijm</surname>
+</string-name>, <source xml:lang="en">Adv. Mater.</source>
+<year>2017</year>, <volume>29</volume>, <fpage>1606407</fpage>.</mixed-citation></ref><ref id="advs709-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="advs709-cit-0008">
+<string-name>
+<given-names>M. J.</given-names>
+<surname>Salierno</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Garc&#x000ed;a&#x02010;Fernandez</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Carabelos</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Kiefer</surname>
+</string-name>, <string-name>
+<given-names>A. J.</given-names>
+<surname>Garc&#x000ed;a</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>del Campo</surname>
+</string-name>, <source xml:lang="en">Biomaterials</source>
+<year>2016</year>, <volume>82</volume>, <fpage>113</fpage>.<pub-id pub-id-type="pmid">26757258</pub-id></mixed-citation></ref><ref id="advs709-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="advs709-cit-0009">
+<string-name>
+<given-names>M.</given-names>
+<surname>Tamura</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Yanagawa</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Sugiura</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Takagi</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Sumaru</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Kanamori</surname>
+</string-name>, <source xml:lang="en">Sci. Rep.</source>
+<year>2015</year>, <volume>5</volume>, <fpage>15060</fpage>.<pub-id pub-id-type="pmid">26450015</pub-id></mixed-citation></ref><ref id="advs709-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="advs709-cit-0010">
+<string-name>
+<given-names>A. B. W.</given-names>
+<surname>Brochu</surname>
+</string-name>, <string-name>
+<given-names>S. L.</given-names>
+<surname>Craig</surname>
+</string-name>, <string-name>
+<given-names>W. M.</given-names>
+<surname>Reichert</surname>
+</string-name>, <source xml:lang="en">J. Biomed. Mater. Res., Part A</source>
+<year>2011</year>, <volume>96</volume>, <fpage>492</fpage>.</mixed-citation></ref><ref id="advs709-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="advs709-cit-0011">
+<string-name>
+<given-names>A.</given-names>
+<surname>Saadeddin</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Rodrigo&#x02010;Navarro</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Monedero</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Rico</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Moratal</surname>
+</string-name>, <string-name>
+<given-names>M. L.</given-names>
+<surname>Gonz&#x000e1;lez&#x02010;Mart&#x000ed;n</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Navarro</surname>
+</string-name>, <string-name>
+<given-names>A. J.</given-names>
+<surname>Garc&#x000ed;a</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Salmer&#x000f3;n&#x02010;S&#x000e1;nchez</surname>
+</string-name>, <source xml:lang="en">Adv. Healthcare Mater.</source>
+<year>2013</year>, <volume>2</volume>, <fpage>1213</fpage>.</mixed-citation></ref><ref id="advs709-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="advs709-cit-0012">
+<string-name>
+<given-names>A.</given-names>
+<surname>Rodrigo&#x02010;Navarro</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Rico</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Saadeddin</surname>
+</string-name>, <string-name>
+<given-names>A. J.</given-names>
+<surname>Garcia</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Salmeron&#x02010;Sanchez</surname>
+</string-name>, <source xml:lang="en">Sci. Rep.</source>
+<year>2014</year>, <volume>4</volume>, <fpage>5849</fpage>.<pub-id pub-id-type="pmid">25068919</pub-id></mixed-citation></ref><ref id="advs709-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="advs709-cit-0013">
+<string-name>
+<given-names>J. J.</given-names>
+<surname>Hay</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Rodrigo&#x02010;Navarro</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Hassi</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Moulisova</surname>
+</string-name>, <string-name>
+<given-names>M. J.</given-names>
+<surname>Dalby</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Salmeron&#x02010;Sanchez</surname>
+</string-name>, <source xml:lang="en">Sci. Rep.</source>
+<year>2016</year>, <volume>6</volume>, <fpage>21809</fpage>.<pub-id pub-id-type="pmid">26902619</pub-id></mixed-citation></ref><ref id="advs709-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="advs709-cit-0014">
+<string-name>
+<given-names>J. J.</given-names>
+<surname>Rice</surname>
+</string-name>, <string-name>
+<given-names>P. S.</given-names>
+<surname>Daugherty</surname>
+</string-name>, <source xml:lang="en">Protein Eng., Des. Sel.</source>
+<year>2008</year>, <volume>21</volume>, <fpage>435</fpage>.<pub-id pub-id-type="pmid">18480093</pub-id></mixed-citation></ref><ref id="advs709-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="advs709-cit-0015">
+<string-name>
+<given-names>J. A.</given-names>
+<surname>Getz</surname>
+</string-name>, <string-name>
+<given-names>J. J.</given-names>
+<surname>Rice</surname>
+</string-name>, <string-name>
+<given-names>P. S.</given-names>
+<surname>Daugherty</surname>
+</string-name>, <source xml:lang="en">ACS Chem. Biol.</source>
+<year>2011</year>, <volume>6</volume>, <fpage>837</fpage>.<pub-id pub-id-type="pmid">21615106</pub-id></mixed-citation></ref><ref id="advs709-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="advs709-cit-0016">
+<string-name>
+<given-names>M.</given-names>
+<surname>Gustavsson</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>B&#x000e4;cklund</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Larsson</surname>
+</string-name>, <source xml:lang="en">Microb. Cell Fact.</source>
+<year>2011</year>, <volume>10</volume>, <fpage>72</fpage>.<pub-id pub-id-type="pmid">21917130</pub-id></mixed-citation></ref><ref id="advs709-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="advs709-cit-0017">
+<string-name>
+<given-names>I.</given-names>
+<surname>Gentschev</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Dietrich</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Goebel</surname>
+</string-name>, <source xml:lang="en">Trends Microbiol.</source>
+<year>2002</year>, <volume>10</volume>, <fpage>39</fpage>.<pub-id pub-id-type="pmid">11755084</pub-id></mixed-citation></ref><ref id="advs709-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="advs709-cit-0018">
+<string-name>
+<given-names>G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Brokx</surname>
+</string-name>, <string-name>
+<given-names>J. H.</given-names>
+<surname>Weiner</surname>
+</string-name>, <source xml:lang="en">Nat. Biotechnol.</source>
+<year>2006</year>, <volume>24</volume>, <fpage>100</fpage>.<pub-id pub-id-type="pmid">16369539</pub-id></mixed-citation></ref><ref id="advs709-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="advs709-cit-0019">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Tang</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Yi</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Ma</surname>
+</string-name>, <source xml:lang="en">Sci. Rep.</source>
+<year>2017</year>, <volume>7</volume>, <fpage>6990</fpage>.<pub-id pub-id-type="pmid">28765554</pub-id></mixed-citation></ref><ref id="advs709-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="advs709-cit-0020">
+<string-name>
+<given-names>C.</given-names>
+<surname>Khosla</surname>
+</string-name>, <string-name>
+<given-names>J. D.</given-names>
+<surname>Keasling</surname>
+</string-name>, <source xml:lang="en">Nat. Rev. Drug Discovery</source>
+<year>2003</year>, <volume>2</volume>, <fpage>1019</fpage>.<pub-id pub-id-type="pmid">14654799</pub-id></mixed-citation></ref><ref id="advs709-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="advs709-cit-0021">
+<string-name>
+<given-names>A. L.</given-names>
+<surname>Rodrigues</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Trachtmann</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Becker</surname>
+</string-name>, <string-name>
+<given-names>A. F.</given-names>
+<surname>Lohanatha</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Blotenberg</surname>
+</string-name>, <string-name>
+<given-names>C. J.</given-names>
+<surname>Bolten</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Korneli</surname>
+</string-name>, <string-name>
+<given-names>A. O.</given-names>
+<surname>de Souza Lima</surname>
+</string-name>, <string-name>
+<given-names>L. M.</given-names>
+<surname>Porto</surname>
+</string-name>, <string-name>
+<given-names>G. A.</given-names>
+<surname>Sprenger</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Wittmann</surname>
+</string-name>, <source xml:lang="en">Metab. Eng.</source>
+<year>2013</year>, <volume>20</volume>, <fpage>29</fpage>.<pub-id pub-id-type="pmid">23994489</pub-id></mixed-citation></ref><ref id="advs709-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="advs709-cit-0022">
+<string-name>
+<given-names>G.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Fang</surname>
+</string-name>, <string-name>
+<given-names>B. A.</given-names>
+<surname>Pfeifer</surname>
+</string-name>, <source xml:lang="en">Sci. Adv.</source>
+<year>2015</year>, <volume>1</volume>, <fpage>e1500077</fpage>.<pub-id pub-id-type="pmid">26601183</pub-id></mixed-citation></ref><ref id="advs709-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="advs709-cit-0023">
+<string-name>
+<given-names>T. S.</given-names>
+<surname>Young</surname>
+</string-name>, <string-name>
+<given-names>P. G.</given-names>
+<surname>Schultz</surname>
+</string-name>, <source xml:lang="en">J. Biol. Chem.</source>
+<year>2010</year>, <volume>285</volume>, <fpage>11039</fpage>.<pub-id pub-id-type="pmid">20147747</pub-id></mixed-citation></ref><ref id="advs709-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="advs709-cit-0024">
+<string-name>
+<given-names>D. D.</given-names>
+<surname>Young</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Deiters</surname>
+</string-name>, <source xml:lang="en">Angew. Chem., Int. Ed.</source>
+<year>2007</year>, <volume>46</volume>, <fpage>4290</fpage>.</mixed-citation></ref><ref id="advs709-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="advs709-cit-0025">
+<string-name>
+<given-names>D.</given-names>
+<surname>Binder</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Gr&#x000fc;nberger</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Loeschcke</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Probst</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Bier</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Pietruszka</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Wiechert</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Kohlheyer</surname>
+</string-name>, <string-name>
+<given-names>K.&#x02010;E.</given-names>
+<surname>Jaeger</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Drepper</surname>
+</string-name>, <source xml:lang="en">Integr. Biol.</source>
+<year>2014</year>, <volume>6</volume>, <fpage>755</fpage>.</mixed-citation></ref><ref id="advs709-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="advs709-cit-0026">
+<string-name>
+<given-names>D.</given-names>
+<surname>Binder</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Bier</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Gr&#x000fc;nberger</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Drobietz</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Hage&#x02010;H&#x000fc;lsmann</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Wandrey</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>B&#x000fc;chs</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Kohlheyer</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Loeschcke</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Wiechert</surname>
+</string-name>, <string-name>
+<given-names>K.&#x02010;E.</given-names>
+<surname>Jaeger</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Pietruszka</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Drepper</surname>
+</string-name>, <source xml:lang="en">ChemBioChem</source>
+<year>2016</year>, <volume>17</volume>, <fpage>296</fpage>.<pub-id pub-id-type="pmid">26677142</pub-id></mixed-citation></ref><ref id="advs709-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="advs709-cit-0027">
+<string-name>
+<given-names>J.</given-names>
+<surname>Fernandez&#x02010;Rodriguez</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Moser</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>C. A.</given-names>
+<surname>Voigt</surname>
+</string-name>, <source xml:lang="en">Nat. Chem. Biol.</source>
+<year>2017</year>, <volume>13</volume>, <fpage>706</fpage>.<pub-id pub-id-type="pmid">28530708</pub-id></mixed-citation></ref><ref id="advs709-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="advs709-cit-0028">
+<string-name>
+<given-names>U.</given-names>
+<surname>Mamat</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Wilke</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Bramhill</surname>
+</string-name>, <string-name>
+<given-names>A. B.</given-names>
+<surname>Schromm</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Lindner</surname>
+</string-name>, <string-name>
+<given-names>T. A.</given-names>
+<surname>Kohl</surname>
+</string-name>, <string-name>
+<given-names>J. L.</given-names>
+<surname>Corchero</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Villaverde</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Schaffer</surname>
+</string-name>, <string-name>
+<given-names>S. R.</given-names>
+<surname>Head</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Souvignier</surname>
+</string-name>, <string-name>
+<given-names>T. C.</given-names>
+<surname>Meredith</surname>
+</string-name>, <string-name>
+<given-names>R. W.</given-names>
+<surname>Woodard</surname>
+</string-name>, <source xml:lang="en">Microb. Cell Fact.</source>
+<year>2015</year>, <volume>14</volume>, <fpage>57</fpage>.<pub-id pub-id-type="pmid">25890161</pub-id></mixed-citation></ref><ref id="advs709-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="advs709-cit-0029">
+<string-name>
+<given-names>S. J.</given-names>
+<surname>Moore</surname>
+</string-name>, <string-name>
+<given-names>M. G.</given-names>
+<surname>Hayden Gephart</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Bergen</surname>
+</string-name>, <string-name>
+<given-names>Y. S.</given-names>
+<surname>Su</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Rayburn</surname>
+</string-name>, <string-name>
+<given-names>M. P.</given-names>
+<surname>Scott</surname>
+</string-name>, <string-name>
+<given-names>J. R.</given-names>
+<surname>Cochran</surname>
+</string-name>, <source xml:lang="en">Proc. Natl. Acad. Sci. USA</source>
+<year>2013</year>, <volume>110</volume>, <fpage>14598</fpage>.<pub-id pub-id-type="pmid">23950221</pub-id></mixed-citation></ref><ref id="advs709-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="advs709-cit-0030">
+<string-name>
+<given-names>J.</given-names>
+<surname>Izard</surname>
+</string-name>, <string-name>
+<given-names>C. D.</given-names>
+<surname>Gomez Balderas</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Ropers</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Lacour</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Song</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yang</surname>
+</string-name>, <string-name>
+<given-names>A. B.</given-names>
+<surname>Lindner</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Geiselmann</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>de Jong</surname>
+</string-name>, <source xml:lang="en">Mol. Syst. Biol.</source>
+<year>2015</year>, <volume>11</volume>, <fpage>840</fpage>.<pub-id pub-id-type="pmid">26596932</pub-id></mixed-citation></ref><ref id="advs709-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="advs709-cit-0031">
+<string-name>
+<given-names>N. C.</given-names>
+<surname>Shaner</surname>
+</string-name>, <string-name>
+<given-names>M. Z.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>M. R.</given-names>
+<surname>McKeown</surname>
+</string-name>, <string-name>
+<given-names>P. A.</given-names>
+<surname>Steinbach</surname>
+</string-name>, <string-name>
+<given-names>K. L.</given-names>
+<surname>Hazelwood</surname>
+</string-name>, <string-name>
+<given-names>M. W.</given-names>
+<surname>Davidson</surname>
+</string-name>, <string-name>
+<given-names>R. Y.</given-names>
+<surname>Tsien</surname>
+</string-name>, <source xml:lang="en">Nat. Methods</source>
+<year>2008</year>, <volume>5</volume>, <fpage>545</fpage>.<pub-id pub-id-type="pmid">18454154</pub-id></mixed-citation></ref><ref id="advs709-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="advs709-cit-0032">
+<string-name>
+<given-names>E.</given-names>
+<surname>Potthoff</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Ossola</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Zambelli</surname>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Vorholt</surname>
+</string-name>, <source xml:lang="en">Nanoscale</source>
+<year>2015</year>, <volume>7</volume>, <fpage>4070</fpage>.<pub-id pub-id-type="pmid">25660231</pub-id></mixed-citation></ref><ref id="advs709-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="advs709-cit-0033">
+<string-name>
+<given-names>A.</given-names>
+<surname>Baumschlager</surname>
+</string-name>, <string-name>
+<given-names>S. K.</given-names>
+<surname>Aoki</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Khammash</surname>
+</string-name>, <source xml:lang="en">ACS Synth. Biol.</source>
+<year>2017</year>, <volume>6</volume>, <fpage>2157</fpage>.<pub-id pub-id-type="pmid">29045151</pub-id></mixed-citation></ref><ref id="advs709-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="advs709-cit-0034">
+<string-name>
+<given-names>R.</given-names>
+<surname>Ohlendorf</surname>
+</string-name>, <string-name>
+<given-names>R. R.</given-names>
+<surname>Vidavski</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Eldar</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Moffat</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>M&#x000f6;glich</surname>
+</string-name>, <source xml:lang="en">J. Mol. Biol.</source>
+<year>2012</year>, <volume>416</volume>, <fpage>534</fpage>.<pub-id pub-id-type="pmid">22245580</pub-id></mixed-citation></ref><ref id="advs709-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="advs709-cit-0035">
+<string-name>
+<given-names>P. Q.</given-names>
+<surname>Nguyen</surname>
+</string-name>, <string-name>
+<given-names>N.&#x02010;M. D.</given-names>
+<surname>Courchesne</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Duraj&#x02010;Thatte</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Praveschotinunt</surname>
+</string-name>, <string-name>
+<given-names>N. S.</given-names>
+<surname>Joshi</surname>
+</string-name>, <source xml:lang="en">Adv. Mater.</source>
+<volume>30</volume>, <fpage>1704847</fpage>.</mixed-citation></ref></ref-list></back></article>

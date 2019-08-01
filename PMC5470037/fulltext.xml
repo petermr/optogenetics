@@ -1,0 +1,269 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="article-commentary"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">EMBO J</journal-id><journal-id journal-id-type="iso-abbrev">EMBO J</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1460-2075</journal-id><journal-id journal-id-type="publisher-id">EMBJ</journal-id><journal-id journal-id-type="hwp">embojnl</journal-id><journal-title-group><journal-title>The EMBO Journal</journal-title></journal-title-group><issn pub-type="ppub">0261-4189</issn><issn pub-type="epub">1460-2075</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5470037</article-id><article-id pub-id-type="doi">10.15252/embj.201797177</article-id><article-id pub-id-type="publisher-id">EMBJ201797177</article-id><article-categories><subj-group subj-group-type="overline"><subject>Commentary</subject></subj-group><subj-group subj-group-type="heading"><subject>Commentary</subject></subj-group></article-categories><title-group><article-title>Is magnetogenetics the new optogenetics?</article-title><alt-title alt-title-type="left-running-head">Simon Nimpf &#x00026; David A Keays</alt-title></title-group><contrib-group><contrib id="embj201797177-cr-0001" contrib-type="author"><name><surname>Nimpf</surname><given-names>Simon</given-names></name><xref ref-type="aff" rid="embj201797177-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="embj201797177-cr-0002" contrib-type="author"><name><surname>Keays</surname><given-names>David A</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-8343-8002</contrib-id><address><email>keays@imp.ac.at</email></address><xref ref-type="aff" rid="embj201797177-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="embj201797177-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Research Institute of Molecular Pathology (IMP)</named-content><institution>Vienna Biocenter (VBC)</institution><named-content content-type="city">Vienna</named-content><country country="AT">Austria</country></aff><pub-date pub-type="epub"><day>23</day><month>5</month><year>2017</year></pub-date><pub-date pub-type="ppub"><day>14</day><month>6</month><year>2017</year></pub-date><pub-date pub-type="pmc-release"><day>23</day><month>5</month><year>2017</year></pub-date><!-- PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>. --><volume>36</volume><issue>12</issue><issue-id pub-id-type="doi">10.1002/embj.v36.12</issue-id><fpage>1643</fpage><lpage>1646</lpage><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2017 EMBO <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors. Published under the terms of the CC BY 4.0 license</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:EMBJ-36-1643.pdf"/><abstract abstract-type="executive-summary"><p>Optogenetics has revolutionised neuroscience as it enables investigators to establish causal relationships between neuronal activity and a behavioural outcome in a temporally precise manner. It is a powerful technology, but limited by the necessity to deliver light to the cells of interest, which often requires invasive surgery and a tethered light source. Magnetogenetics aims to overcome these issues by manipulating neurons with magnetic stimuli. As magnetic fields can pass freely through organic tissue, it requires no surgery or tethering the animals to an energy source. In this commentary, we assess the utility of&#x000a0;magnetogenetics based on three different approaches: magneto&#x02010;thermo&#x02010;genetics; force/torque&#x02010;based methods; and expression of the iron chaperone <styled-content style="fixed-case">ISCA</styled-content>1. Despite some progress, many hurdles need to be overcome if magnetogenetics is to take the helm from optogenetics.</p></abstract><kwd-group kwd-group-type="subject-categories"><title>Subject Categories</title><kwd>Neuroscience</kwd></kwd-group><funding-group><award-group><funding-source>European Research Council</funding-source><award-id>339724</award-id></award-group></funding-group><funding-group><award-group><funding-source>Austrian Science Fund</funding-source><award-id>Y726</award-id></award-group></funding-group><funding-group><award-group><funding-source>Boehringer Ingelheim</funding-source></award-group></funding-group><counts><fig-count count="1"/><table-count count="0"/><page-count count="4"/><word-count count="2883"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>embj201797177</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>14 June 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.1.1 mode:remove_FC converted:14.06.2017</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="embj201797177-sec-0001"><title>Introduction</title><p>The pre&#x02010;eminent goal in neuroscience is to understand how the brain functions at the anatomical, physiological and molecular level. This aim has been greatly advanced by the development of optogenetics, which enables the manipulation of neuronal activity via light&#x02010;sensitive microbial membrane opsins such as channelrhodopsin and halorhodopsin. While this technology has provided unique insights into the circuitry that underlie complex behavioural responses, it has some limitations. Specifically, the necessity to deliver light to the cells of interest often requires invasive surgery; tethering of the animal is frequently necessary; and the heat generated by light&#x02010;emitting diodes can cause tissue damage. Magnetogenetics could resolve these issues by activating neurons with a magnetic stimulus as magnetic fields pass freely through organic tissue and could therefore activate any neuronal population no matter its anatomical location without the need for invasive surgery. Ideally, one would exploit the exquisite sensitivity of nature's magnetoreceptors for this purpose.</p><p>There are two dominant theories to explain how animals transduce magnetic information into a neuronal stimulus. The first, known as the magnetite theory of magnetosensation, assumes the existence of&#x000a0;an intracellular compass composed of magnetite (Fe<sub>3</sub>O<sub>4</sub>) crystals that are coupled to a mechanosensitive channel. Depending on the intensity and/or the polarity of the local magnetic field, the magnetite crystals would exert force on the channel protein, thereby eliciting calcium influx. This contrasts with the light&#x02010;dependent hypothesis, which argues that the local magnetic environment influences the spin state of radical pairs in photosensitive molecules, which then alters their biochemical properties.</p><p>While co&#x02010;opting light&#x02010;sensitive molecules for magnetogenetics is likely to be a fruitless exercise, components of a magnetite&#x02010;based magnetoreceptor would be valuable. To date, however, the cells and molecules that enable cells to detect magnetic fields remain unknown, and the validity of the magnetite&#x02010;based hypothesis is indeed uncertain. A number of groups have therefore tried to engineer artificial magnetosensors. These systems fall broadly into three categories: magneto&#x02010;thermo&#x02010;receptors which exploit radio frequency fields to activate heat&#x02010;sensitive channels; force/torque&#x02010;based methods that rely on endogenously generated nanoparticles; and the expression of the iron chaperone ISCA1.</p></sec><sec id="embj201797177-sec-0002"><title>Magneto&#x02010;thermo&#x02010;genetics</title><p>Magneto&#x02010;thermo&#x02010;genetics relies on a principle known as thermal relaxation, whereby an alternating magnetic field, such as a radiofrequency field, is able to heat up small magnetic nanoparticles. The concept has been widely exploited for cancer therapeutics and more recently adapted for neuronal activation. The key elements are the specific frequency of the magnetic field and the size and composition of the nanoparticles. Pralle and colleagues used manganese oxide nanoparticles (MnFe<sub>2</sub>O<sub>4</sub>) targeted to the cell membrane of human embryonic kidney (HEK) cells to activate the heat&#x02010;sensitive TRPV1 channel (Huang <italic>et&#x000a0;al</italic>, <xref rid="embj201797177-bib-0002" ref-type="ref">2010</xref>). A RF stimulus of 40&#x000a0;MHz and 0.84 mT induced thermal relaxation of the nanoparticles, which increased the temperature at the plasma membrane and triggered calcium influx through TRPV1 (Fig&#x000a0;<xref rid="embj201797177-fig-0001" ref-type="fig">1</xref>A). The authors reported that this method evoked action potentials in cultured hippocampal neurons expressing TRPV1.</p><fig fig-type="Figure" xml:lang="en" id="embj201797177-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><title>Methods to control the nervous system using magnetogenetics</title><p>(A) Schematic of the magnetogenetic method developed by Pralle and colleagues (Huang <italic>et&#x000a0;al</italic>, <xref rid="embj201797177-bib-0002" ref-type="ref">2010</xref>). Streptavidin&#x02010;conjugated magnetic nanoparticles (MnFe<sub>2</sub>O<sub>4</sub>) are targeted to the cell membrane by a genetically encoded transmembrane domain with a biotinylated biotin acceptor site. Application of an RF magnetic field (40&#x000a0;MHz, 0.84 mT) generates local heating of the nanoparticles, which triggers opening of heterologously expressed thermosensitive ion channels (TRPV1). (B) Schematic of the method developed by Stanley and colleagues, which relies on a genetically encoded ferritin nanoparticle coupled to TRPV1 via a GFP nanobody. It is thought that application of an RF magnetic field (465&#x000a0;kHz, 23&#x02013;32 mT) leads to thermal relaxation of the central iron core of ferritin and cation influx through the thermosensitive channel (Stanley <italic>et al</italic>, <xref rid="embj201797177-bib-0010" ref-type="ref">2016</xref>). (C) Schematic of the single&#x02010;component magnetogenetic system developed by Wheeler and colleagues. It consists of a chimeric ferritin protein directly coupled to the mechanosensitive cation channel TRPV4. Application of a strong static magnetic field (~50 mT), using an electromagnet, results in calcium transients possibly through a force&#x02010;based mechanism (Wheeler <italic>et al</italic>, <xref rid="embj201797177-bib-0810" ref-type="ref">2016</xref>).</p></caption><graphic id="nlm-graphic-3" xlink:href="EMBJ-36-1643-g001"/></fig><p>A similar approach has subsequently been applied to vertebrate systems by the Anikeeva laboratory (Chen <italic>et&#x000a0;al</italic>, <xref rid="embj201797177-bib-0001" ref-type="ref">2015</xref>). They used untargeted polyethylene glycol&#x02010;coated synthetic magnetite nanoparticles (Fe<sub>3</sub>O<sub>4</sub>, 22&#x000a0;nm in diameter), a RF stimulus (500&#x000a0;kHz, 15 kA/m) and a TRPV1 transgene to induce calcium influx in HEK cells, action potentials in primary hippocampal neurons and neuronal activation in deep brain areas <italic>in&#x000a0;vivo</italic> in mice. The latter, which was assessed by quantitating c&#x02010;Fos&#x02010;positive cells, was only apparent when both TRPV1 and magnetite nanoparticles were delivered to the brain. While the size and elemental composition of artificial nanoparticles permit the generation of heat with greater precision, the nanoparticles must still be delivered by injection, which risks tissue damage, and their dispersion over time. The ideal system would therefore require genetically encoded nanoparticles.</p><p>Stanley and colleagues sought to address this challenge by ectopically expressing chimeric ferritin tethered to TRPV1 via a GFP nanobody (Fig&#x000a0;<xref rid="embj201797177-fig-0001" ref-type="fig">1</xref>B) (Stanley <italic>et&#x000a0;al</italic>, <xref rid="embj201797177-bib-0009" ref-type="ref">2012</xref>, <xref rid="embj201797177-bib-0010" ref-type="ref">2016</xref>). In vertebrates, the ferritin supercomplex is made of 24 subunits of both light and heavy chains that enclose an iron oxide nanoparticle. This particle, which is ~6&#x000a0;nm in size, is predominantly composed of ferrihydrite (Fe<sup>3+</sup>
+<sub>10</sub>O<sub>14</sub>(OH)<sub>2</sub>) but may also contain magnetite (Fe<sub>3</sub>O<sub>4</sub>) and maghemite (Fe<sub>2</sub>O<sub>3</sub>) phases (Quintana <italic>et&#x000a0;al</italic>, <xref rid="embj201797177-bib-0008" ref-type="ref">2004</xref>). After validating their construct in cell culture, Stanley <italic>et&#x000a0;al</italic> exploited it to manipulate neuronal activity <italic>in&#x000a0;vivo</italic>, using an adenovirus to deliver the construct to glucose&#x02010;sensing neurons in the ventromedial hypothalamus of mice (Stanley <italic>et al</italic>, <xref rid="embj201797177-bib-0010" ref-type="ref">2016</xref>). They reported that the application of RF fields (465&#x000a0;kHz, 23&#x02013;32 mT) increased blood glucose levels dramatically, akin to optogenetic activation. They also showed that this physiological response correlated with c&#x02010;Fos activation in hypothalamic neurons expressing the TPRV1&#x02010;ferritin construct.</p><p>The utility of this technology was expanded further by the creation of an inhibitory TRPV1 channel with a preference for Cl<sup>&#x02212;</sup> ions. Delivery of this channel to the hypothalamus of fasted mice resulted in a significant reduction in blood glucose that was only apparent in the presence of RF fields. Intriguingly, Stanley and colleagues have also shown that the application of strong static fields (280 mT to 1 T) induces calcium influx in a hypothalamic cell line, alters the membrane potential and firing rate in slice culture and can influence feeding behaviour of mice if the GFP&#x02013;TRPV1/GFP&#x02013;ferritin transgene is present (Stanley <italic>et al</italic>, <xref rid="embj201797177-bib-0010" ref-type="ref">2016</xref>). This unexpected result raises the prospect that the system actually acts by a force&#x02010;based mechanism as TRPV1 is also known to be sensitive to mechanical stimuli.</p></sec><sec id="embj201797177-sec-0003"><title>Torque&#x02010;based magnetogenetics</title><p>An alternative to the generation of heat by an oscillating RF field is using a strong magnetic gradient that exerts a force on a magnetic particle. Wheeler and colleagues (2016) developed such a construct by coupling the polymodal cation channel TRPV4 to a fusion of the light and heavy chains of ferritin (Fig&#x000a0;<xref rid="embj201797177-fig-0001" ref-type="fig">1</xref>C). The generation of this construct, which they termed &#x0201c;Magneto2.0&#x0201d;, required some engineering. Most variants were ineffective in a cell culture system, and a plasma membrane trafficking signal was found to enhance its membranous localisation. They report that introduction of this construct into HEK cells results in robust magnetic sensitivity when applying a 50&#x000a0;mT static field, that is blocked by the TRP antagonist ruthenium red (Wheeler <italic>et al</italic>, <xref rid="embj201797177-bib-0810" ref-type="ref">2016</xref>). They further showed that adenovirus&#x02010;mediated delivery of their construct into dopaminergic neurons in the striatum of mice increases the cells&#x02019; firing rate when applying a strong static magnetic stimulus (50&#x000a0;mT), which allowed them to manipulate reward&#x02010;seeking behaviour in freely moving mice. The mice were placed in a behavioural maze and presented with a choice between two arms; one lined with strong neodymium magnets (50&#x02013;250 mT) and the other unmagnetised. Animals expressing the Magneto2 construct driven by a dopamine receptor 1 promoter significantly preferred the magnetised arm, in contrast to control animals that exhibited no preference.</p></sec><sec id="embj201797177-sec-0004"><title>ISCA1 and magnetogenetics</title><p>The third magnetogenetic system purports to use the iron chaperone protein ISCA1, but these claims should be viewed with caution (Long <italic>et&#x000a0;al</italic>, <xref rid="embj201797177-bib-0003" ref-type="ref">2015</xref>). This work originated from a recent manuscript that attempted to unite elements of the light&#x02010;dependent hypothesis of magnetosensation with an iron&#x02010;based mechanism. Based on <italic>in silico</italic> and biochemical methods, Xie and colleagues claim to have discovered a magnetic protein biocompass composed of the light&#x02010;sensitive molecule cryptochrome (CRY4) and ISCA1 (Qin <italic>et&#x000a0;al</italic>, <xref rid="embj201797177-bib-0007" ref-type="ref">2016</xref>). It is, however, manifestly unlikely that this complex&#x02014;if it actually exists in nature&#x02014;underlies the magnetic sense. ISCA1 is an iron chaperone associated with the biogenesis of iron&#x02013;sulphur clusters, it binds few iron atoms, has been associated with mitochondrial dysfunction syndrome in humans and is ubiquitously expressed in all cell types in eukaryotes. Nonetheless, Long and colleagues overexpressed pigeon ISCA1 protein in HEK cells, primary hippocampal neurons and <italic>C.&#x000a0;elegans</italic> muscle cells (Long <italic>et&#x000a0;al</italic>, <xref rid="embj201797177-bib-0003" ref-type="ref">2015</xref>). They claim that ectopic ISCA1 expression confers sensitivity to a strong static magnetic field (1&#x02013;2.5 mT) in all cell lines tested. However, these results seem improbable given that all the cells studied already express ISCA1 homologues&#x02014;as did the control cells&#x02014;and there is no reasonable mechanistic explanation for ISCA1&#x02010;mediated calcium influx. Moreover, a carefully controlled study that employed numerous cell types, calcium indicators and multiple magnetic stimuli failed to replicate any of these findings (Pang <italic>et&#x000a0;al</italic>, <xref rid="embj201797177-bib-0006" ref-type="ref">2017</xref>). Similar attempts to reproduce these results in our laboratory have likewise been unsuccessful. Given the lack of reproducibility and absence of a potential mechanism, ISCA1 does not seem a suitable actuator for magnetogenetics.</p></sec><sec id="embj201797177-sec-0005"><title>Issues with magnetogenetics (and how we can solve them)</title><p>It might appear that optogenetics is on the brink of extinction, about to succumb to human ingenuity and advances in technology. Unfortunately, the current incarnations of magnetogenetics have a number of major issues. First, it is unclear how those that rely on genetically encoded ferritin nanoparticles, actually work. Whether it is a mechanical force or thermal induction, our current knowledge of the ferritin moiety indicates that it lacks the magnetic properties to activate either a mechanical or temperature&#x02010;sensitive channel. For instance, the force generated by a single ferritin nano&#x02010;particle, which contains about 4,500 iron atoms, in a 50 mT field with a gradient of 6.6 T/m is just 7&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;23</sup> N, well below the 2&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;13</sup> N required to open known mechanoreceptors (Meister, <xref rid="embj201797177-bib-0005" ref-type="ref">2016</xref>). It is therefore important that the studies by Stanley <italic>et&#x000a0;al</italic> (<xref rid="embj201797177-bib-0009" ref-type="ref">2012</xref>, <xref rid="embj201797177-bib-0010" ref-type="ref">2016</xref>) and Wheeler <italic>et&#x000a0;al</italic> (<xref rid="embj201797177-bib-0810" ref-type="ref">2016</xref>), both of which were well controlled, are independently replicated. If this confirms that their results are not artefacts, the expertise of biologists and physicists alike will be needed to ascertain the underlying biophysical mechanisms. This will involve studies on the localisation, shape and magnetic properties of the nanoparticle within the ferritin supercomplex, the effects of ferritin clustering around receptors, the elemental composition of the superstructure, the thresholds for receptor activation and whether any electrical induction might be possible.</p><p>The second limitation of magnetogenetics in its current form is the infrastructure required for an experiment. The main investment for an optogenetics experiment is the light source, which is inexpensive and simple to apply. A magnetogenetics experiment requires powerful magnetic fields, which are not easy to produce and often risk introducing artefacts. RF generators are expensive, there are few commercially available options, and the coils used to generate the fields produce considerable heat. Similarly, electrophysiological experiments are perilous, because oscillating magnetic fields, by their very nature, induce an electromotive force in conducting electrodes. Static neodymium magnets avoid many of the aforementioned issues, but their application invariably lacks precision, and they can interfere with ferromagnetic components of microscopes. There is still much room for improving coil systems for magnetogenetics, ideally incorporating double wrapping to control for heat and steeper magnetic gradients for torque&#x02010;based systems.</p><p>The third and less&#x02010;publicised issue with magnetogenetics is that it just does not work very well. Current approaches are far less effective than their counterparts in optogenetics, and setting up an experiment, and getting it to work, is an extremely frustrating endeavour. Moreover, activation by magneto&#x02010;thermal methods in primary neuronal cell culture is also much slower. Magneto&#x02010;thermo&#x02010;genetics requires seconds to induce action potentials, whereas optogenetics achieves this within milliseconds.</p><p>Efficiency and speed could be improved in a number of ways. To date, most genetically encoded systems use a fusion protein of human light and heavy&#x02010;chain ferritin. It is apparent, however, that various mutant forms of ferritin are able to load more iron and consequently have a greater magnetic susceptibility. Jasanoff and colleagues have recently conducted a mutagenesis screen on heavy&#x02010;chain ferritin from the thermophilic bacterium <italic>Pyrococcus furiosus</italic>, and identified a mutant (L55P) that triples iron loading, which dramatically improves the capture of cells by high&#x02010;gradient magnetic cell separation (Matsumoto <italic>et&#x000a0;al</italic>, <xref rid="embj201797177-bib-0004" ref-type="ref">2015</xref>). There is also scope to co&#x02010;opt ferritins from species known to generate magnetite, such as chitons, to further enhance the magnetic properties of the system. Similarly, future incarnations of magnetogenetic sensors may incorporate temperature&#x02010; or mechano&#x02010;sensitive channels with lower thresholds of activation, such as TRP channels from infrared&#x02010;sensing snakes or vampire bats.</p></sec><sec id="embj201797177-sec-0006"><title>Concluding remarks</title><p>An ideal magnetogenetic system would rely on an inducible, genetically encoded molecule that enables temporally precise and robust activation of neurons wherever they are located and in any species. Such a system might eventually rival optogenetics as the pre&#x02010;eminent tool in neuroscience; at present, however, there are many technical obstacles in the way. Deciphering how animals detect magnetic fields could be a critical game changer, but that too remains a daunting challenge. Either way, it is clear that developing robust and reliable sensors for magnetogenetics is not an easy task. Like the early days of optogenetics, magnetogenetics is an arena for ambitious scientists, whose perseverance is destined to be tested as they strive to develop a tool that is both simple and potent. Is magnetogenetics the new optogenetics? The short answer is no, but it might be some day.</p></sec><sec id="embj201797177-sec-0008"><title>Conflict of interest</title><p>The authors declare that they have no conflict of interest.</p></sec></body><back><ack id="embj201797177-sec-0007"><title>Acknowledgements</title><p>We wish to acknowledge the support of the European Research Council (339724), the Austrian Science Fund (Y726) and Boehringer Ingelheim who fund basic biological research. We are indebted to the members of the Keays laboratory for their comments on this manuscript.</p></ack><ref-list content-type="cited-references" id="embj201797177-bibl-0001"><title>References</title><ref id="embj201797177-bib-0001"><mixed-citation publication-type="journal" id="embj201797177-cit-0001">
+<string-name>
+<surname>Chen</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Romero</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Christiansen</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Mohr</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Anikeeva</surname>
+<given-names>P</given-names>
+</string-name> (<year>2015</year>) <article-title>Wireless magnetothermal deep brain stimulation</article-title>. <source>Science</source>
+<volume>347</volume>: <fpage>1477</fpage>&#x02013;<lpage>1480</lpage>
+<pub-id pub-id-type="pmid">25765068</pub-id></mixed-citation></ref><ref id="embj201797177-bib-0002"><mixed-citation publication-type="journal" id="embj201797177-cit-0002">
+<string-name>
+<surname>Huang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Delikanli</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Zeng</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Ferkey</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Pralle</surname>
+<given-names>A</given-names>
+</string-name> (<year>2010</year>) <article-title>Remote control of ion channels and neurons through magnetic&#x02010;field heating of nanoparticles</article-title>. <source>Nat Nanotechnol</source>
+<volume>5</volume>: <fpage>602</fpage>&#x02013;<lpage>606</lpage>
+<pub-id pub-id-type="pmid">20581833</pub-id></mixed-citation></ref><ref id="embj201797177-bib-0003"><mixed-citation publication-type="journal" id="embj201797177-cit-0003">
+<string-name>
+<surname>Long</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Ye</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>SJ</given-names>
+</string-name> (<year>2015</year>) <article-title>Magnetogenetics: remote non&#x02010;invasive magnetic activation of neuronal activity with a magnetoreceptor</article-title>. <source>Sci Bull</source>
+<volume>60</volume>: <fpage>2107</fpage>&#x02013;<lpage>2119</lpage>
+</mixed-citation></ref><ref id="embj201797177-bib-0004"><mixed-citation publication-type="journal" id="embj201797177-cit-0004">
+<string-name>
+<surname>Matsumoto</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Anikeeva</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Jasanoff</surname>
+<given-names>A</given-names>
+</string-name> (<year>2015</year>) <article-title>Engineering intracellular biomineralization and biosensing by a magnetic protein</article-title>. <source>Nat Commun</source>
+<volume>6</volume>: <fpage>8721</fpage>
+<pub-id pub-id-type="pmid">26522873</pub-id></mixed-citation></ref><ref id="embj201797177-bib-0005"><mixed-citation publication-type="journal" id="embj201797177-cit-0005">
+<string-name>
+<surname>Meister</surname>
+<given-names>M</given-names>
+</string-name> (<year>2016</year>) <article-title>Physical limits to magnetogenetics</article-title>. <source>eLife</source>
+<volume>5</volume>: <fpage>e17210</fpage>
+<pub-id pub-id-type="pmid">27529126</pub-id></mixed-citation></ref><ref id="embj201797177-bib-0006"><mixed-citation publication-type="journal" id="embj201797177-cit-0006">
+<string-name>
+<surname>Pang</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>You</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Chu</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>
+<given-names>B</given-names>
+</string-name> (<year>2017</year>) <article-title>MagR alone is insufficient to confer cellular calcium responses to magnetic stimulation</article-title>. <source>Front Neural Circuits</source>
+<volume>11</volume>: <fpage>11</fpage>
+<pub-id pub-id-type="pmid">28360843</pub-id></mixed-citation></ref><ref id="embj201797177-bib-0007"><mixed-citation publication-type="journal" id="embj201797177-cit-0007">
+<string-name>
+<surname>Qin</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Yin</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Dou</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Feng</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Hao</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Hao</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Dong</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>HW</given-names>
+</string-name>, <string-name>
+<surname>Luo</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>
+<given-names>C</given-names>
+</string-name> (<year>2016</year>) <article-title>A magnetic protein biocompass</article-title>. <source>Nat Mater</source>
+<volume>15</volume>: <fpage>217</fpage>&#x02013;<lpage>226</lpage>
+<pub-id pub-id-type="pmid">26569474</pub-id></mixed-citation></ref><ref id="embj201797177-bib-0008"><mixed-citation publication-type="journal" id="embj201797177-cit-0008">
+<string-name>
+<surname>Quintana</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Cowley</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Marhic</surname>
+<given-names>C</given-names>
+</string-name> (<year>2004</year>) <article-title>Electron nanodiffraction and high&#x02010;resolution electron microscopy studies of the structure and composition of physiological and pathological ferritin</article-title>. <source>J Struct Biol</source>
+<volume>147</volume>: <fpage>166</fpage>&#x02013;<lpage>178</lpage>
+<pub-id pub-id-type="pmid">15193645</pub-id></mixed-citation></ref><ref id="embj201797177-bib-0009"><mixed-citation publication-type="journal" id="embj201797177-cit-0009">
+<string-name>
+<surname>Stanley</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Gagner</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Damanpour</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Yoshida</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Dordick</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Friedman</surname>
+<given-names>JM</given-names>
+</string-name> (<year>2012</year>) <article-title>Radio&#x02010;wave heating of iron oxide nanoparticles can regulate plasma glucose in mice</article-title>. <source>Science</source>
+<volume>336</volume>: <fpage>604</fpage>&#x02013;<lpage>608</lpage>
+<pub-id pub-id-type="pmid">22556257</pub-id></mixed-citation></ref><ref id="embj201797177-bib-0010"><mixed-citation publication-type="journal" id="embj201797177-cit-0010">
+<string-name>
+<surname>Stanley</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Kelly</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Latcha</surname>
+<given-names>KN</given-names>
+</string-name>, <string-name>
+<surname>Schmidt</surname>
+<given-names>SF</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Nectow</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Sauer</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Dyke</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Dordick</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Friedman</surname>
+<given-names>JM</given-names>
+</string-name> (<year>2016</year>) <article-title>Bidirectional electromagnetic control of the hypothalamus regulates feeding and metabolism</article-title>. <source>Nature</source>
+<volume>531</volume>: <fpage>647</fpage>&#x02013;<lpage>650</lpage>
+<pub-id pub-id-type="pmid">27007848</pub-id></mixed-citation></ref><ref id="embj201797177-bib-0810"><mixed-citation publication-type="journal" id="embj201797177-cit-0810">
+<string-name>
+<surname>Wheeler</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Ottolini</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Barker</surname>
+<given-names>BS</given-names>
+</string-name>, <string-name>
+<surname>Purohit</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Grippo</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Gaykema</surname>
+<given-names>RP</given-names>
+</string-name>, <string-name>
+<surname>Spano</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Beenhakker</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name>
+<surname>Kucenas</surname>
+<given-names>S</given-names>
+</string-name>
+<italic>et al</italic> (<year>2016</year>) <article-title>Genetically targeted magnetic control of the nervous system</article-title>. <source>Nature Neuroscience</source>
+<volume>19</volume>: <fpage>756</fpage>&#x02013;<lpage>761</lpage>
+<pub-id pub-id-type="pmid">26950006</pub-id></mixed-citation></ref></ref-list></back></article>

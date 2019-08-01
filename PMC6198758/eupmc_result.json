@@ -1,0 +1,307 @@
+{
+  "id": [
+    "30364814"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30364814"
+  ],
+  "pmcid": [
+    "PMC6198758"
+  ],
+  "doi": [
+    "10.3389/fncom.2018.00087"
+  ],
+  "title": [
+    "Corrigendum: Recording Neural Activity Based on Surface Plasmon Resonance by Optical Fibers-A Computational Analysis."
+  ],
+  "authorString": [
+    "Abedini M, Tekieh T, Sasanpour P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Abedini M"
+          ],
+          "firstName": [
+            "Mitra"
+          ],
+          "lastName": [
+            "Abedini"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Medical Physics and Biomedical Engineering, School of Medicine, Shahid Beheshti University of Medical Sciences, Tehran, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Tekieh T"
+          ],
+          "firstName": [
+            "Tahereh"
+          ],
+          "lastName": [
+            "Tekieh"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Complex System Group, Department of Physics, Sydney University, Sydney, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Sasanpour P"
+          ],
+          "firstName": [
+            "Pezhman"
+          ],
+          "lastName": [
+            "Sasanpour"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Medical Physics and Biomedical Engineering, School of Medicine, Shahid Beheshti University of Medical Sciences, Tehran, Iran."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2647768"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in computational neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Comput Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Comput Neurosci"
+          ],
+          "NLMid": [
+            "101477956"
+          ],
+          "ISSN": [
+            "1662-5188"
+          ],
+          "ESSN": [
+            "1662-5188"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "87"
+  ],
+  "abstractText": [
+    "[This corrects the article DOI: 10.3389/fncom.2018.00061.]."
+  ],
+  "affiliation": [
+    "Department of Medical Physics and Biomedical Engineering, School of Medicine, Shahid Beheshti University of Medical Sciences, Tehran, Iran."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Published Erratum",
+        "correction",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Action potential",
+        "Surface plasmon resonance",
+        "optical recording",
+        "Optogenetics",
+        "Fiber Optics",
+        "Comsol",
+        "Neural Activity Recording"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6198758?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6198758"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fncom.2018.00087"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "30123119"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Front Comput Neurosci. 2018 Aug 03;12:61"
+          ],
+          "type": [
+            "Erratum for"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-10-27"
+  ],
+  "firstIndexDate": [
+    "2018-10-27"
+  ],
+  "dateOfRevision": [
+    "2019-07-09"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-16"
+  ],
+  "firstPublicationDate": [
+    "2018-10-16"
+  ]
+}

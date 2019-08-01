@@ -1,0 +1,497 @@
+{
+  "id": [
+    "31221985"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31221985"
+  ],
+  "pmcid": [
+    "PMC6586873"
+  ],
+  "doi": [
+    "10.1038/s41598-019-44964-z"
+  ],
+  "title": [
+    "Frequency-dependent exacerbation of Alzheimer's disease neuropathophysiology."
+  ],
+  "authorString": [
+    "Kastanenka KV, Calvo-Rodriguez M, Hou SS, Zhou H, Takeda S, Arbel-Ornath M, Lariviere A, Lee YF, Kim A, Hawkes JM, Logan R, Feng D, Chen X, Gomperts SN, Bacskai BJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kastanenka KV"
+          ],
+          "firstName": [
+            "Ksenia V"
+          ],
+          "lastName": [
+            "Kastanenka"
+          ],
+          "initials": [
+            "KV"
+          ],
+          "affiliation": [
+            "Department of Neurology, MassGeneral Institute of Neurodegenerative Diseases, Massachusetts General Hospital and Harvard Medical School, 114 Sixteenth St., Charlestown, MA, 02129, USA. kkastanenka@mgh.harvard.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Calvo-Rodriguez M"
+          ],
+          "firstName": [
+            "Maria"
+          ],
+          "lastName": [
+            "Calvo-Rodriguez"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6947-5547",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neurology, MassGeneral Institute of Neurodegenerative Diseases, Massachusetts General Hospital and Harvard Medical School, 114 Sixteenth St., Charlestown, MA, 02129, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hou SS"
+          ],
+          "firstName": [
+            "Steven S"
+          ],
+          "lastName": [
+            "Hou"
+          ],
+          "initials": [
+            "SS"
+          ],
+          "affiliation": [
+            "Department of Neurology, MassGeneral Institute of Neurodegenerative Diseases, Massachusetts General Hospital and Harvard Medical School, 114 Sixteenth St., Charlestown, MA, 02129, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou H"
+          ],
+          "firstName": [
+            "Heng"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Neurology, MassGeneral Institute of Neurodegenerative Diseases, Massachusetts General Hospital and Harvard Medical School, 114 Sixteenth St., Charlestown, MA, 02129, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Takeda S"
+          ],
+          "firstName": [
+            "Shuko"
+          ],
+          "lastName": [
+            "Takeda"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Neurology, MassGeneral Institute of Neurodegenerative Diseases, Massachusetts General Hospital and Harvard Medical School, 114 Sixteenth St., Charlestown, MA, 02129, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Arbel-Ornath M"
+          ],
+          "firstName": [
+            "Michal"
+          ],
+          "lastName": [
+            "Arbel-Ornath"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Neurology, MassGeneral Institute of Neurodegenerative Diseases, Massachusetts General Hospital and Harvard Medical School, 114 Sixteenth St., Charlestown, MA, 02129, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lariviere A"
+          ],
+          "firstName": [
+            "Amanda"
+          ],
+          "lastName": [
+            "Lariviere"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Neurology, MassGeneral Institute of Neurodegenerative Diseases, Massachusetts General Hospital and Harvard Medical School, 114 Sixteenth St., Charlestown, MA, 02129, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee YF"
+          ],
+          "firstName": [
+            "Yee Fun"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "YF"
+          ],
+          "affiliation": [
+            "Department of Neurology, MassGeneral Institute of Neurodegenerative Diseases, Massachusetts General Hospital and Harvard Medical School, 114 Sixteenth St., Charlestown, MA, 02129, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim A"
+          ],
+          "firstName": [
+            "Alex"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Neurology, MassGeneral Institute of Neurodegenerative Diseases, Massachusetts General Hospital and Harvard Medical School, 114 Sixteenth St., Charlestown, MA, 02129, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hawkes JM"
+          ],
+          "firstName": [
+            "Jonathan M"
+          ],
+          "lastName": [
+            "Hawkes"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Department of Neurology, MassGeneral Institute of Neurodegenerative Diseases, Massachusetts General Hospital and Harvard Medical School, 114 Sixteenth St., Charlestown, MA, 02129, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Logan R"
+          ],
+          "firstName": [
+            "Robert"
+          ],
+          "lastName": [
+            "Logan"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Neurology, MassGeneral Institute of Neurodegenerative Diseases, Massachusetts General Hospital and Harvard Medical School, 114 Sixteenth St., Charlestown, MA, 02129, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Feng D"
+          ],
+          "firstName": [
+            "Danielle"
+          ],
+          "lastName": [
+            "Feng"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Neurology, MassGeneral Institute of Neurodegenerative Diseases, Massachusetts General Hospital and Harvard Medical School, 114 Sixteenth St., Charlestown, MA, 02129, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen X"
+          ],
+          "firstName": [
+            "Xiqun"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Neurology, MassGeneral Institute of Neurodegenerative Diseases, Massachusetts General Hospital and Harvard Medical School, 114 Sixteenth St., Charlestown, MA, 02129, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gomperts SN"
+          ],
+          "firstName": [
+            "Stephen N"
+          ],
+          "lastName": [
+            "Gomperts"
+          ],
+          "initials": [
+            "SN"
+          ],
+          "affiliation": [
+            "Department of Neurology, MassGeneral Institute of Neurodegenerative Diseases, Massachusetts General Hospital and Harvard Medical School, 114 Sixteenth St., Charlestown, MA, 02129, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bacskai BJ"
+          ],
+          "firstName": [
+            "Brian J"
+          ],
+          "lastName": [
+            "Bacskai"
+          ],
+          "initials": [
+            "BJ"
+          ],
+          "affiliation": [
+            "Department of Neurology, MassGeneral Institute of Neurodegenerative Diseases, Massachusetts General Hospital and Harvard Medical School, 114 Sixteenth St., Charlestown, MA, 02129, USA. bbacskai@mgh.harvard.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6947-5547",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2823394"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "8964"
+  ],
+  "abstractText": [
+    "Neuronal activity patterns are disrupted in neurodegenerative disorders, including Alzheimer's disease (AD). One example is disruption of corticothalamic slow oscillations responsible for sleep-dependent memory consolidation. Slow waves are periodic oscillations in neuronal activity occurring at frequencies of <1 Hz. The power, but not the frequency of slow oscillations is altered in a mouse model of AD. Optogenetic rescue of slow oscillations by increasing activity in cortical pyramidal neurons at the frequency of slow waves restores slow wave power, halts deposition of amyloid plaques and prevents neuronal calcium dysregulation. Here we determined whether driving this circuit at an increased rate would exacerbate the amyloid-dependent calcium dyshomeostasis in transgenic mice. Doubling the frequency of slow waves for one month with optogenetics resulted in increased amyloid beta - dependent disruptions in neuronal calcium homeostasis and loss of synaptic spines. Therefore, while restoration of physiological circuit dynamics is sufficient to abrogate the progression of Alzheimer's disease pathology and should be considered an avenue for clinical treatment of AD patients with sleep disorders, pathophysiological stimulation of neuronal circuits leads to activity - dependent acceleration of amyloid production, aggregation and downstream neuronal dysfunction."
+  ],
+  "affiliation": [
+    "Department of Neurology, MassGeneral Institute of Neurodegenerative Diseases, Massachusetts General Hospital and Harvard Medical School, 114 Sixteenth St., Charlestown, MA, 02129, USA. kkastanenka@mgh.harvard.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6586873?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6586873"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-44964-z"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-22"
+  ],
+  "firstIndexDate": [
+    "2019-06-24"
+  ],
+  "dateOfRevision": [
+    "2019-06-21"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-20"
+  ],
+  "firstPublicationDate": [
+    "2019-06-20"
+  ]
+}

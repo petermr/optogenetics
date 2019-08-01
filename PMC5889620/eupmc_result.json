@@ -1,0 +1,529 @@
+{
+  "id": [
+    "29555736"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29555736"
+  ],
+  "pmcid": [
+    "PMC5889620"
+  ],
+  "doi": [
+    "10.1073/pnas.1700091115"
+  ],
+  "title": [
+    "Retinal isomerization and water-pore formation in channelrhodopsin-2."
+  ],
+  "authorString": [
+    "Ardevol A, Hummer G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ardevol A"
+          ],
+          "firstName": [
+            "Albert"
+          ],
+          "lastName": [
+            "Ardevol"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Theoretical Biophysics, Max Planck Institute of Biophysics, 60438 Frankfurt am Main, Germany; albert.ardevol@biophys.mpg.de gerhard.hummer@biophys.mpg.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Hummer G"
+          ],
+          "firstName": [
+            "Gerhard"
+          ],
+          "lastName": [
+            "Hummer"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7768-746X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Theoretical Biophysics, Max Planck Institute of Biophysics, 60438 Frankfurt am Main, Germany; albert.ardevol@biophys.mpg.de gerhard.hummer@biophys.mpg.de."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7768-746X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "14"
+      ],
+      "volume": [
+        "115"
+      ],
+      "journalIssueId": [
+        "2668258"
+      ],
+      "dateOfPublication": [
+        "2018 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Proceedings of the National Academy of Sciences of the United States of America"
+          ],
+          "ISOAbbreviation": [
+            "Proc. Natl. Acad. Sci. U.S.A."
+          ],
+          "medlineAbbreviation": [
+            "Proc Natl Acad Sci U S A"
+          ],
+          "NLMid": [
+            "7505876"
+          ],
+          "ISSN": [
+            "0027-8424"
+          ],
+          "ESSN": [
+            "1091-6490"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "3557-3562"
+  ],
+  "abstractText": [
+    "Channelrhodopsin-2 (ChR2) is a light-sensitive ion channel widely used in optogenetics. Photoactivation triggers a trans-to-cis isomerization of a covalently bound retinal. Ensuing conformational changes open a cation-selective channel. We explore the structural dynamics in the early photocycle leading to channel opening by classical (MM) and quantum mechanical (QM) molecular simulations. With QM/MM simulations, we generated a protein-adapted force field for the retinal chromophore, which we validated against absorption spectra. In a 4-µs MM simulation of a dark-adapted ChR2 dimer, water entered the vestibules of the closed channel. Retinal all-trans to 13-cis isomerization, simulated with metadynamics, triggered a major restructuring of the charge cluster forming the channel gate. On a microsecond time scale, water penetrated the gate to form a membrane-spanning preopen pore between helices H1, H2, H3, and H7. This influx of water into an ion-impermeable preopen pore is consistent with time-resolved infrared spectroscopy and electrophysiology experiments. In the retinal 13-cis state, D253 emerged as the proton acceptor of the Schiff base. Upon proton transfer from the Schiff base to D253, modeled by QM/MM simulations, we obtained an early-M/P2390-like intermediate. Rapid rotation of the unprotonated Schiff base toward the cytosolic side effectively prevents its reprotonation from the extracellular side. From MM and QM simulations, we gained detailed insight into the mechanism of ChR2 photoactivation and early events in pore formation. By rearranging the network of charges and hydrogen bonds forming the gate, water emerges as a key player in light-driven ChR2 channel opening."
+  ],
+  "affiliation": [
+    "Department of Theoretical Biophysics, Max Planck Institute of Biophysics, 60438 Frankfurt am Main, Germany; albert.ardevol@biophys.mpg.de gerhard.hummer@biophys.mpg.de."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chlamydomonas reinhardtii"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Water"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Retinaldehyde"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Protein Conformation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Isomerism"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hydrogen Bonding"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Light"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Models, Molecular"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Channelrhodopsins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Molecular dynamics",
+        "Optogenetics",
+        "Channelrhodopsin-2",
+        "Chr2",
+        "Qm/mm Protein Modeling"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "13-cis-retinal"
+          ],
+          "registryNumber": [
+            "472-86-6"
+          ]
+        },
+        {
+          "name": [
+            "Water"
+          ],
+          "registryNumber": [
+            "059QF0KO0R"
+          ]
+        },
+        {
+          "name": [
+            "Retinaldehyde"
+          ],
+          "registryNumber": [
+            "RR725D715M"
+          ]
+        },
+        {
+          "name": [
+            "Channelrhodopsins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5889620?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5889620"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1073/pnas.1700091115"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "pdb"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-08-10"
+  ],
+  "dateOfCreation": [
+    "2018-03-21"
+  ],
+  "firstIndexDate": [
+    "2018-03-21"
+  ],
+  "dateOfRevision": [
+    "2018-08-10"
+  ],
+  "electronicPublicationDate": [
+    "2018-03-19"
+  ],
+  "firstPublicationDate": [
+    "2018-03-19"
+  ]
+}

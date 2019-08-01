@@ -1,0 +1,404 @@
+{
+  "id": [
+    "31217439"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31217439"
+  ],
+  "pmcid": [
+    "PMC6584535"
+  ],
+  "doi": [
+    "10.1038/s41598-019-45262-4"
+  ],
+  "title": [
+    "Sniffer cells for the detection of neural Angiotensin II in vitro."
+  ],
+  "authorString": [
+    "Farmer GE, Amune A, Bachelor ME, Duong P, Yuan JP, Cunningham JT."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Farmer GE"
+          ],
+          "firstName": [
+            "George E"
+          ],
+          "lastName": [
+            "Farmer"
+          ],
+          "initials": [
+            "GE"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6099-0080",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Physiology and Anatomy, University of North Texas Health Science Center at Fort Worth, Fort Worth, TX, 76107, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Amune A"
+          ],
+          "firstName": [
+            "Anna"
+          ],
+          "lastName": [
+            "Amune"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Texas A&M University, College Station, TX, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Bachelor ME"
+          ],
+          "firstName": [
+            "Martha E"
+          ],
+          "lastName": [
+            "Bachelor"
+          ],
+          "initials": [
+            "ME"
+          ],
+          "affiliation": [
+            "Department of Physiology and Anatomy, University of North Texas Health Science Center at Fort Worth, Fort Worth, TX, 76107, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Duong P"
+          ],
+          "firstName": [
+            "Phong"
+          ],
+          "lastName": [
+            "Duong"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Physiology and Anatomy, University of North Texas Health Science Center at Fort Worth, Fort Worth, TX, 76107, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Yuan JP"
+          ],
+          "firstName": [
+            "Joseph P"
+          ],
+          "lastName": [
+            "Yuan"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "affiliation": [
+            "Department of Physiology and Anatomy, University of North Texas Health Science Center at Fort Worth, Fort Worth, TX, 76107, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Cunningham JT"
+          ],
+          "firstName": [
+            "J Thomas"
+          ],
+          "lastName": [
+            "Cunningham"
+          ],
+          "initials": [
+            "JT"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8859-9481",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Physiology and Anatomy, University of North Texas Health Science Center at Fort Worth, Fort Worth, TX, 76107, United States. Tom.Cunningham@unthsc.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8859-9481",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6099-0080",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2823394"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "8820"
+  ],
+  "abstractText": [
+    "Neuropeptide release in the brain has traditionally been difficult to observe. Existing methods lack temporal and spatial resolution that is consistent with the function and size of neurons. We use cultured \"sniffer cells\" to improve the temporal and spatial resolution of observing neuropeptide release. Sniffer cells were created by stably transfecting Chinese Hamster Ovary (CHO) cells with plasmids encoding the rat angiotensin type 1a receptor and a genetically encoded Ca2+ sensor. Isolated, cultured sniffer cells showed dose-dependent increases in fluorescence in response to exogenously applied angiotensin II and III, but not other common neurotransmitters. Sniffer cells placed on the median preoptic nucleus (a presumptive site of angiotensin release) displayed spontaneous activity and evoked responses to either electrical or optogenetic stimulation of the subfornical organ. Stable sniffer cell lines could be a viable method for detecting neuropeptide release in vitro, while still being able to distinguish differences in neuropeptide concentration."
+  ],
+  "affiliation": [
+    "Department of Physiology and Anatomy, University of North Texas Health Science Center at Fort Worth, Fort Worth, TX, 76107, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "5R25HL007706"
+          ],
+          "agency": [
+            "U.S. Department of Health &amp; Human Services | NIH | National Heart, Lung, and Blood Institute (NHLBI)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 HL142341"
+          ],
+          "agency": [
+            "U.S. Department of Health &amp; Human Services | NIH | National Heart, Lung, and Blood Institute (NHLBI)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P01 HL088052"
+          ],
+          "agency": [
+            "U.S. Department of Health &amp; Human Services | NIH | National Heart, Lung, and Blood Institute (NHLBI)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6584535?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6584535"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-45262-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refseq"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-06-21"
+  ],
+  "firstIndexDate": [
+    "2019-06-24"
+  ],
+  "dateOfRevision": [
+    "2019-06-27"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-19"
+  ],
+  "firstPublicationDate": [
+    "2019-06-19"
+  ]
+}

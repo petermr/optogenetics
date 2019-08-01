@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6123622/results/word/frequencies/results.xml">
+  <result title="frequency" word="memory" count="47"/>
+  <result title="frequency" word="neurons" count="45"/>
+  <result title="frequency" word="mice" count="42"/>
+  <result title="frequency" word="polyphenols" count="34"/>
+  <result title="frequency" word="ChR-mCherry" count="33"/>
+  <result title="frequency" word="dietary" count="30"/>
+  <result title="frequency" word="expression" count="29"/>
+  <result title="frequency" word="fear" count="26"/>
+  <result title="frequency" word="freezing" count="23"/>
+  <result title="frequency" word="hippocampal" count="23"/>
+  <result title="frequency" word="stimulation" count="22"/>
+ </snippets>
+</snippetsTree>

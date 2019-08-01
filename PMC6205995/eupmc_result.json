@@ -1,0 +1,298 @@
+{
+  "id": [
+    "30405343"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30405343"
+  ],
+  "pmcid": [
+    "PMC6205995"
+  ],
+  "doi": [
+    "10.3389/fnins.2018.00764"
+  ],
+  "title": [
+    "Microscale Inorganic LED Based Wireless Neural Systems for Chronic in vivo Optogenetics."
+  ],
+  "authorString": [
+    "Qazi R, Kim CY, Byun SH, Jeong JW."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Qazi R"
+          ],
+          "firstName": [
+            "Raza"
+          ],
+          "lastName": [
+            "Qazi"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "School of Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim CY"
+          ],
+          "firstName": [
+            "Choong Yeon"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "CY"
+          ],
+          "affiliation": [
+            "School of Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Byun SH"
+          ],
+          "firstName": [
+            "Sang-Hyuk"
+          ],
+          "lastName": [
+            "Byun"
+          ],
+          "initials": [
+            "SH"
+          ],
+          "affiliation": [
+            "School of Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Jeong JW"
+          ],
+          "firstName": [
+            "Jae-Woong"
+          ],
+          "lastName": [
+            "Jeong"
+          ],
+          "initials": [
+            "JW"
+          ],
+          "affiliation": [
+            "School of Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2647764"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Neurosci"
+          ],
+          "NLMid": [
+            "101478481"
+          ],
+          "ISSN": [
+            "1662-4548"
+          ],
+          "ESSN": [
+            "1662-453X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "764"
+  ],
+  "abstractText": [
+    "Billions of neurons in the brain coordinate together to control trillions of highly convoluted synaptic pathways for neural signal processing. Optogenetics is an emerging technique that can dissect such complex neural circuitry with high spatiotemporal precision using light. However, conventional approaches relying on rigid and tethered optical probes cause significant tissue damage as well as disturbance with natural behavior of animals, thus preventing chronic in vivo optogenetics. A microscale inorganic LED (μ-ILED) is an enabling optical component that can solve these problems by facilitating direct discrete spatial targeting of neural tissue, integration with soft, ultrathin probes as well as low power wireless operation. Here we review recent state-of-the art μ-ILED integrated soft wireless optogenetic tools suitable for use in freely moving animals and discuss opportunities for future developments."
+  ],
+  "affiliation": [
+    "School of Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Chronic",
+        "Optogenetics",
+        "Wireless",
+        "Soft",
+        "Microscale Led"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6205995?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6205995"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnins.2018.00764"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-11-09"
+  ],
+  "firstIndexDate": [
+    "2018-11-09"
+  ],
+  "dateOfRevision": [
+    "2018-11-11"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-23"
+  ],
+  "firstPublicationDate": [
+    "2018-10-23"
+  ]
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC5887132/results/word/frequencies/results.xml">
+  <result title="frequency" word="imaging" count="84"/>
+  <result title="frequency" word="neurons" count="82"/>
+  <result title="frequency" word="activity" count="68"/>
+  <result title="frequency" word="neural" count="64"/>
+  <result title="frequency" word="Drosophila" count="62"/>
+  <result title="frequency" word="calcium" count="54"/>
+  <result title="frequency" word="functional" count="48"/>
+  <result title="frequency" word="light" count="47"/>
+  <result title="frequency" word="GCaMP" count="41"/>
+  <result title="frequency" word="activation" count="35"/>
+  <result title="frequency" word="Nat." count="34"/>
+  <result title="frequency" word="fly" count="31"/>
+  <result title="frequency" word="fluorescence" count="29"/>
+  <result title="frequency" word="used" count="28"/>
+  <result title="frequency" word="optogenetic" count="27"/>
+  <result title="frequency" word="neuronal" count="25"/>
+  <result title="frequency" word="using" count="25"/>
+  <result title="frequency" word="voltage" count="25"/>
+  <result title="frequency" word="Neurosci." count="24"/>
+  <result title="frequency" word="excitation" count="24"/>
+  <result title="frequency" word="specific" count="24"/>
+  <result title="frequency" word="cell" count="23"/>
+  <result title="frequency" word="genetically" count="23"/>
+  <result title="frequency" word="control" count="22"/>
+  <result title="frequency" word="encoded" count="22"/>
+  <result title="frequency" word="two-photon" count="22"/>
+  <result title="frequency" word="cells" count="21"/>
+  <result title="frequency" word="neuron" count="21"/>
+ </snippets>
+</snippetsTree>

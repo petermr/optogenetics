@@ -1,0 +1,315 @@
+{
+  "id": [
+    "29495320"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29495320"
+  ],
+  "pmcid": [
+    "PMC5874587"
+  ],
+  "doi": [
+    "10.3390/medicines5010022"
+  ],
+  "title": [
+    "Understanding the Pathological Basis of Neurological Diseases Through Diagnostic Platforms Based on Innovations in Biomedical Engineering: New Concepts and Theranostics Perspectives."
+  ],
+  "authorString": [
+    "Ganau L, Prisco L, Ligarotti GKI, Ambu R, Ganau M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ganau L"
+          ],
+          "firstName": [
+            "Laura"
+          ],
+          "lastName": [
+            "Ganau"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "School of Medicine, University of Cagliari, 09124 Cagliari, Italy. lolly26it@yahoo.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Prisco L"
+          ],
+          "firstName": [
+            "Lara"
+          ],
+          "lastName": [
+            "Prisco"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "John Radcliffe Hospital, Oxford University, Oxford OX3 9DU, UK. lara.prisco@ndcn.ox.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Ligarotti GKI"
+          ],
+          "firstName": [
+            "Gianfranco K I"
+          ],
+          "lastName": [
+            "Ligarotti"
+          ],
+          "initials": [
+            "GKI"
+          ],
+          "affiliation": [
+            "Fondazione IRCCS Istituto Neurologico \"Carlo Besta\", 20133 Milano, Italy. gianfrancokiligarotti@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Ambu R"
+          ],
+          "firstName": [
+            "Rossano"
+          ],
+          "lastName": [
+            "Ambu"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "School of Medicine, University of Cagliari, 09124 Cagliari, Italy. amburo@unica.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Ganau M"
+          ],
+          "firstName": [
+            "Mario"
+          ],
+          "lastName": [
+            "Ganau"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "School of Medicine, University of Cagliari, 09124 Cagliari, Italy. mario.ganau@alumni.harvard.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2645499"
+      ],
+      "dateOfPublication": [
+        "2018 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Medicines (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Medicines (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Medicines (Basel)"
+          ],
+          "NLMid": [
+            "101671069"
+          ],
+          "ISSN": [
+            "2305-6320"
+          ],
+          "ESSN": [
+            "2305-6320"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "The pace of advancement of genomics and proteomics together with the recent understanding of the molecular basis behind rare diseases could lead in the near future to significant advances in the diagnosing and treating of many pathological conditions. Innovative diagnostic platforms based on biomedical engineering (microdialysis and proteomics, biochip analysis, non-invasive impedance spectroscopy, etc.) are introduced at a rapid speed in clinical practice: this article primarily aims to highlight how such platforms will advance our understanding of the pathological basis of neurological diseases. An overview of the clinical challenges and regulatory hurdles facing the introduction of such platforms in clinical practice, as well as their potential impact on patient management, will complement the discussion on foreseeable theranostic perspectives. Indeed, the techniques outlined in this article are revolutionizing how we (1) identify biomarkers that better define the diagnostic criteria of any given disease, (2) develop research models, and (3) exploit the externalities coming from innovative pharmacological protocols (i.e., those based on monoclonal antibodies, nanodrugs, etc.) meant to tackle the molecular cascade so far identified."
+  ],
+  "affiliation": [
+    "School of Medicine, University of Cagliari, 09124 Cagliari, Italy. lolly26it@yahoo.it."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "other",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Proteomics",
+        "Biomarkers",
+        "Nanotechnology",
+        "Neurosurgery",
+        "Precision Medicine"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5874587?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5874587"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/medicines5010022"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-03-03"
+  ],
+  "firstIndexDate": [
+    "2018-03-02"
+  ],
+  "dateOfRevision": [
+    "2018-04-01"
+  ],
+  "electronicPublicationDate": [
+    "2018-02-25"
+  ],
+  "firstPublicationDate": [
+    "2018-02-25"
+  ]
+}

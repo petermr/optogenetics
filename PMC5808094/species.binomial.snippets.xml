@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC5808094/results/species/binomial/results.xml">
+  <result pre="a href=&quot;#CR1&quot;&gt;1]. Nociception has been described in a variety of organisms, from the nematode worm " exact="Caenorhabditis elegans" xpath="/html[1]/body[1]/div[2]/div[1]/p[1]" match="Caenorhabditis elegans" post=" through to humans, but the case for pain is less clear. Although humans and likely all mammals exp" name="binomial"/>
+  <result pre="Although humans and likely all mammals experience negative emotion, this is considered unlikely in " exact="C. elegans" match="Caenorhabditis elegans" post=", but the case for certain organisms, especially fish, is more contentious [ 2– &lt;a h" name="binomial"/>
+ </snippets>
+</snippetsTree>

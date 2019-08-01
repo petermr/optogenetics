@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="country">
+ <result pre="INSERM U894, Institute of Psychiatry and Neuroscience of Paris Paris" exact="France" post="[], 2 INSERM U1128 Paris France [], 3 mechanisms"/>
+ <result pre="Neuroscience of Paris Paris France [], 2 INSERM U1128 Paris" exact="France" post="[], 3 mechanisms of Myelin Formation and Repair Lab,"/>
+ <result pre="Biomédicas, Facultad de Ciencias de la Salud, Universidad Autónoma de" exact="Chile" post="Santiago Chile Edited by: Dirk Feldmeyer, Forschungszentrum Jülich, Helmholtz-Gemeinschaft"/>
+ <result pre="de Ciencias de la Salud, Universidad Autónoma de Chile Santiago" exact="Chile" post="Edited by: Dirk Feldmeyer, Forschungszentrum Jülich, Helmholtz-Gemeinschaft Deutscher Forschungszentren"/>
+ <result pre="Edited by: Dirk Feldmeyer, Forschungszentrum Jülich, Helmholtz-Gemeinschaft Deutscher Forschungszentren (HZ)," exact="Germany" post="Reviewed by: Markus Rothermel, RWTH Aachen University, Germany; Elias"/>
+ <result pre="Rothermel, RWTH Aachen University, Germany; Elias Leiva-Salcedo, University of Santiago," exact="Chile" post="*Correspondence: Fernando C. Ortiz, fernando.ortiz@uautonoma.cl Maria Cecilia Angulo, maria-cecilia.angulo@parisdescartes.fr"/>
+</results>

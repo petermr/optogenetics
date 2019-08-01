@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC5889620/results/word/frequencies/results.xml">
+  <result title="frequency" word="water" count="59"/>
+  <result title="frequency" word="channel" count="48"/>
+  <result title="frequency" word="state" count="42"/>
+  <result title="frequency" word="ChR" count="34"/>
+  <result title="frequency" word="proton" count="33"/>
+  <result title="frequency" word="retinal" count="31"/>
+  <result title="frequency" word="Fig." count="30"/>
+  <result title="frequency" word="structure" count="28"/>
+  <result title="frequency" word="simulations" count="23"/>
+  <result title="frequency" word="Chem" count="21"/>
+  <result title="frequency" word="QM/MM" count="21"/>
+  <result title="frequency" word="RSB" count="21"/>
+  <result title="frequency" word="force" count="21"/>
+ </snippets>
+</snippetsTree>

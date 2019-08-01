@@ -1,0 +1,344 @@
+{
+  "id": [
+    "31164593"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31164593"
+  ],
+  "pmcid": [
+    "PMC6481064"
+  ],
+  "doi": [
+    "10.3390/mps2010011"
+  ],
+  "title": [
+    "Large Scale Double-Path Illumination System with Split Field of View for the All-Optical Study of Inter-and Intra-Hemispheric Functional Connectivity on Mice."
+  ],
+  "authorString": [
+    "Conti E, Allegra Mascaro AL, Pavone FS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Conti E"
+          ],
+          "firstName": [
+            "Emilia"
+          ],
+          "lastName": [
+            "Conti"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2163-0258",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "European Laboratory for Non-Linear Spectroscopy, University of Florence, 50019 Sesto Fiorentino, Italy. conti@lens.unifi.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Allegra Mascaro AL"
+          ],
+          "firstName": [
+            "Anna Letizia"
+          ],
+          "lastName": [
+            "Allegra Mascaro"
+          ],
+          "initials": [
+            "AL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8489-0076",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "European Laboratory for Non-Linear Spectroscopy, University of Florence, 50019 Sesto Fiorentino, Italy. allegra@lens.unifi.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Pavone FS"
+          ],
+          "firstName": [
+            "Francesco Saverio"
+          ],
+          "lastName": [
+            "Pavone"
+          ],
+          "initials": [
+            "FS"
+          ],
+          "affiliation": [
+            "European Laboratory for Non-Linear Spectroscopy, University of Florence, 50019 Sesto Fiorentino, Italy. pavone@lens.unifi.it."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2163-0258",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8489-0076",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "2825009"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Methods and protocols"
+          ],
+          "ISOAbbreviation": [
+            "Methods Protoc"
+          ],
+          "medlineAbbreviation": [
+            "Methods Protoc"
+          ],
+          "NLMid": [
+            "101720073"
+          ],
+          "ISSN": [
+            "2409-9279"
+          ],
+          "ESSN": [
+            "2409-9279"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Recent improvements in optical tools that can perturb brain activity and simultaneously reveal the elicited alterations in the associated regions offer an exceptional means to understand and map the connectivity of the brain. In this work, we exploit a combination of recently developed optical tools to monitor neural population at the meso-scale level and to mould the cortical patterns of targeted neuronal population. Our goal was to investigate the propagation of neuronal activity over the mouse cortex that is triggered by optogenetic stimulation in the contralateral hemisphere. Towards this aim, we developed a wide-field fluorescence microscope that is characterized by a double illumination path allowing for the optogenetic stimulation of the transfected area in the left hemisphere and the simultaneous recording of cortical activity in the right hemisphere. The microscope was further implemented with a custom shutter in order to split the LED illumination path, resulting in a half-obscured field of view. By avoiding the spectral crosstalk between GCaMP6f and channelrhodopsin 2 (ChR2), this system offered the possibility of simultaneous \"pumping and probing\" of inter-hemispheric functional connectivity on Thy1-GCaMP6f mice."
+  ],
+  "affiliation": [
+    "European Laboratory for Non-Linear Spectroscopy, University of Florence, 50019 Sesto Fiorentino, Italy. conti@lens.unifi.it."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Letter"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "720270"
+          ],
+          "agency": [
+            "Human Brain Project"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "654148"
+          ],
+          "agency": [
+            "Laserlab-Europe"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Calcium imaging",
+        "Functional Connectivity",
+        "Optogenetics",
+        "Cortical Mapping",
+        "Channel Rhodopsin",
+        "Wide-field Microscopy",
+        "All-optical"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6481064?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6481064"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/mps2010011"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-06"
+  ],
+  "firstIndexDate": [
+    "2019-06-12"
+  ],
+  "dateOfRevision": [
+    "2019-06-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-29"
+  ],
+  "firstPublicationDate": [
+    "2019-01-29"
+  ]
+}

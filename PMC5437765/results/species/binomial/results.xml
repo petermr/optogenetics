@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="binomial">
+ <result pre="rhodopsin (HR).[ 24] As the primary microbial opsin, channelrhodopsin-2 (ChR2) of " exact="Chlamydomonas reinhardtii" xpath="/html[1]/body[1]/div[2]/div[1]/div[2]/p[8]" match="Chlamydomonas reinhardtii" post=" is sensitive to blue light and controls the action potentials with millisecond resolution.[ &lt;a hre" name="binomial"/>
+ <result pre="However, halorhodopsin obtained from the halophilic bacterium " exact="Natronobacterium pharaonis" match="Natronobacterium pharaonis" post=" (NpHR) is the principal rhodopsin that inhibits the neuronal activity. NpHR acts as a chloride pum" name="binomial"/>
+</results>

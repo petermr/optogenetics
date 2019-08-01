@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="country">
+ <result pre="[], 1 Institute of Cardiovascular Sciences, University of Birmingham Birmingham" exact="United Kingdom" post="[], 2 School of Computer Science, University of Birmingham"/>
+ <result pre="[], 2 School of Computer Science, University of Birmingham Birmingham" exact="United Kingdom" post="[], 3 EPSRC Centre for Doctoral Training in Physical"/>
+ <result pre="Sciences for Health, School of Chemistry, University of Birmingham Birmingham" exact="United Kingdom" post="[], 4 Institute of Clinical Sciences, University of Birmingham"/>
+ <result pre="[], 4 Institute of Clinical Sciences, University of Birmingham Birmingham" exact="United Kingdom" post="[], 5 Institute of Microbiology and Infection, School of"/>
+ <result pre="Microbiology and Infection, School of Biosciences, University of Birmingham Birmingham" exact="United Kingdom" post="[], 6 Key Laboratory of Medical Electrophysiology of Ministry"/>
+ <result pre="of Cardiovascular Disease/Institute of Cardiovascular Research, Southwest Medical University Luzhou" exact="China" post="[], 7 Department of Cardiology, UHB NHS Trust Birmingham"/>
+ <result pre="China [], 7 Department of Cardiology, UHB NHS Trust Birmingham" exact="United Kingdom" post="Edited by: Christopher Huang, University of Cambridge, United Kingdom"/>
+ <result pre="Birmingham United Kingdom Edited by: Christopher Huang, University of Cambridge," exact="United Kingdom" post="Reviewed by: Gil Bub, McGill University, Canada; Arkady M."/>
+ <result pre="Bub, McGill University, Canada; Arkady M. Pertsov, Upstate Medical University," exact="United States;" post="Crystal M. Ripplinger, University of California, Davis, United States"/>
+ <result pre="University, United States; Crystal M. Ripplinger, University of California, Davis," exact="United States" post="*Correspondence: Kashif Rajpoot, k.m.rajpoot@bham.ac.uk Davor Pavlovic, d.pavlovic@bham.ac.uk †These authors"/>
+</results>

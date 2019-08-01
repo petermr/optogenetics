@@ -1,0 +1,465 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="rapid-communication" xml:lang="EN"><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Phys Chem Lett</journal-id><journal-id journal-id-type="iso-abbrev">J Phys Chem Lett</journal-id><journal-id journal-id-type="publisher-id">jz</journal-id><journal-id journal-id-type="coden">jpclcd</journal-id><journal-title-group><journal-title>The Journal of Physical Chemistry Letters</journal-title></journal-title-group><issn pub-type="epub">1948-7185</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6240888</article-id><article-id pub-id-type="doi">10.1021/acs.jpclett.8b02780</article-id><article-categories><subj-group><subject>Letter</subject></subj-group></article-categories><title-group><article-title>Strong pH-Dependent Near-Infrared Fluorescence in
+a Microbial Rhodopsin Reconstituted with a Red-Shifting Retinal Analogue</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Hontani</surname><given-names>Yusaku</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Ganapathy</surname><given-names>Srividya</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Frehan</surname><given-names>Sean</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath4"><name><surname>Kloz</surname><given-names>Miroslav</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff3" ref-type="aff">#</xref></contrib><contrib contrib-type="author" id="ath5"><name><surname>de Grip</surname><given-names>Willem J.</given-names></name><xref rid="aff2" ref-type="aff">&#x02021;</xref><xref rid="aff4" ref-type="aff">&#x000b6;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath6"><name><surname>Kennis</surname><given-names>John T. M.</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Department
+of Physics and Astronomy, <institution>Vrije Universiteit</institution>, Amsterdam 1081 HV, <country>The Netherlands</country></aff><aff id="aff2"><label>&#x02021;</label>Department
+of Biophysical Organic Chemistry, Leiden Institute of
+Chemistry, Gorlaeus Laboratories, <institution>Leiden University</institution>, Leiden 2300 RA, <country>The Netherlands</country></aff><aff id="aff3"><label>#</label><institution>ELI-Beamlines,
+Institute of Physics</institution>, Na Slovance 2, 182 21 Praha 8, <country>Czech Republic</country></aff><aff id="aff4"><label>&#x000b6;</label>Department
+of Biochemistry, <institution>Radboud University Medical
+Center</institution>, Nijmegen 6500 HB, <country>The Netherlands</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>j.t.m.kennis@vu.nl</email>.</corresp></author-notes><pub-date pub-type="epub"><day>30</day><month>10</month><year>2018</year></pub-date><pub-date pub-type="ppub"><day>15</day><month>11</month><year>2018</year></pub-date><volume>9</volume><issue>22</issue><fpage>6469</fpage><lpage>6474</lpage><history><date date-type="received"><day>10</day><month>09</month><year>2018</year></date><date date-type="accepted"><day>30</day><month>10</month><year>2018</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2018 American Chemical Society</copyright-statement><copyright-year>2018</copyright-year><copyright-holder>American Chemical Society</copyright-holder><license><license-p>This is an open access article published under a Creative Commons Non-Commercial No Derivative Works (CC-BY-NC-ND) Attribution <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_ccbyncnd_termsofuse.html">License</ext-link>, which permits copying and redistribution of the article, and creation of adaptations, all for non-commercial purposes.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz-2018-02780p_0005" id="ab-tgr1"/></p><p>Near-infrared (NIR)-driven
+rhodopsins are of great interest in
+optogenetics and other optobiotechnological developments such as artificial
+photosynthesis and deep-tissue voltage imaging. Here we report that
+the proton pump proteorhodopsin (PR) containing a NIR-active retinal
+analogue (PR:MMAR) exhibits intense NIR fluorescence at a quantum
+yield of 3.3%. This is 130 times higher than native PR (<mixed-citation id="bodycit1" publication-type="journal"><person-group><name><surname>Lenz</surname><given-names>M. O.</given-names></name></person-group>; <etal/><source>Biophys J.</source><year>2006</year>, <volume>91</volume>, <fpage>255</fpage>&#x02212;<lpage>262</lpage><pub-id pub-id-type="pmid">16603495</pub-id></mixed-citation>) and 3&#x02013;8
+times higher than the QuasAr and PROPS voltage sensors (<mixed-citation id="bodycit2" publication-type="journal"><person-group><name><surname>Kralj</surname><given-names>J.</given-names></name></person-group>; <etal/><source>Science</source><year>2011</year>, <volume>333</volume>, <fpage>345</fpage>&#x02212;<lpage>348</lpage><pub-id pub-id-type="pmid">21764748</pub-id></mixed-citation>; <mixed-citation id="bodycit3" publication-type="journal"><person-group><name><surname>Hochbaum</surname><given-names>D. R.</given-names></name></person-group>; <etal/><source>Nat. Methods</source><year>2014</year>, <volume>11</volume>, <fpage>825</fpage>&#x02013;<lpage>833</lpage><pub-id pub-id-type="pmid">24952910</pub-id></mixed-citation>). The NIR
+fluorescence strongly depends on the pH in the range of 6&#x02013;8.5,
+suggesting potential application of MMAR-binding proteins as ultrasensitive
+NIR-driven pH and/or voltage sensors. Femtosecond transient absorption
+spectroscopy showed that upon near-IR excitation, PR:MMAR features
+an unusually long fluorescence lifetime of 310 ps and the absence
+of isomerized photoproducts, consistent with the high fluorescence
+quantum yield. Stimulated Raman analysis indicates that the NIR-absorbing
+species develops upon protonation of a conserved aspartate, which
+promotes charge delocalization and bond length leveling due to an
+additional methylamino group in MMAR, in essence providing a secondary
+protonated Schiff base. This results in much smaller bond length alteration
+along the conjugated backbone, thereby conferring significant single-bond
+character to the C13=C14 bond and structural deformation of
+the chromophore, which interferes with photoinduced isomerization
+and extends the lifetime for fluorescence. Hence, our studies allow
+for a molecular understanding of the relation between absorption/emission
+wavelength, isomerization, and fluorescence in PR:MMAR. As acidification
+enhances the resonance state, this explains the strong pH dependence
+of the NIR emission.</p></abstract><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>jz8b02780</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>jz-2018-02780p</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><p>Rhodopsins are retinal-binding
+photoactivatable proteins<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref2">2</xref></sup> with great impact as
+modular tools in optogenetics,<sup><xref ref-type="bibr" rid="ref2">2</xref>,<xref ref-type="bibr" rid="ref3">3</xref></sup> voltage sensing,<sup><xref ref-type="bibr" rid="ref4">4</xref>&#x02212;<xref ref-type="bibr" rid="ref6">6</xref></sup> and artificial or engineered photosynthesis.<sup><xref ref-type="bibr" rid="ref7">7</xref>,<xref ref-type="bibr" rid="ref8">8</xref></sup> A
+major challenge is designing microbial rhodopsins that can be activated
+by near-infrared light (NIR) for deep-tissue <italic>in vivo</italic> application or spectral window extension in oxygenic photosynthesis.
+There are several strategies for accessing red-shifted absorbance
+bands, e.g., by directed or random mutagenesis techniques,<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> designing chimaeric proteins,<sup><xref ref-type="bibr" rid="ref10">10</xref></sup> and screening algal genomes.<sup><xref ref-type="bibr" rid="ref11">11</xref></sup> However, NIR-absorbing species that sufficiently maintain their
+desired activity have not yet been achieved with those approaches.
+Recently, NIR-driven proton-pumping and fluorescent rhodopsins were
+engineered using retinal analogues. Even though the retinal analogues
+need to be supplied to activate their function, <italic>in vivo</italic> applications have proved feasible.<sup><xref ref-type="bibr" rid="ref8">8</xref>,<xref ref-type="bibr" rid="ref12">12</xref>,<xref ref-type="bibr" rid="ref13">13</xref></sup></p><p>Native rhodopsins have a very low fluorescence
+quantum yield on
+the order of 10<sup>&#x02013;4</sup>&#x02013;10<sup>&#x02013;5</sup>;<sup><xref ref-type="bibr" rid="ref14">14</xref>,<xref ref-type="bibr" rid="ref15">15</xref></sup> in fact, it is 2.6 &#x000d7; 10<sup>&#x02013;4</sup> in proteorhodopsin
+(PR).<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> The D97N mutant of PR (PR-D97N,
+also known as PROPS), which cannot sustain outward proton-pumping
+activity, has a relatively high fluorescence yield (&#x003a6;<sub>FL</sub> &#x02248; 0.01) and constitutes a suitable membrane voltage sensor
+in <italic>E. coli</italic>.<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> Since then, various voltage sensors were designed based on microbial
+rhodopsins for visualization of action potentials of neurons, in particular,
+QuasArs<sup><xref ref-type="bibr" rid="ref5">5</xref>,<xref ref-type="bibr" rid="ref6">6</xref>,<xref ref-type="bibr" rid="ref13">13</xref></sup> and Archons.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> For an ideal pH or voltage sensor, a high fluorescence
+quantum yield and strong pH dependence of the emission intensity around
+physiological pH are required. Moreover, NIR absorption/emission will
+be beneficial for deeper tissue imaging where NIR has low absorbance
+and scattering.<sup><xref ref-type="bibr" rid="ref13">13</xref>,<xref ref-type="bibr" rid="ref18">18</xref></sup> We previously reported that PR
+reconstituted with the retinal analogue 3-methylamino-16-nor-1,2,3,4-didehydroretinal
+(PR:MMAR, <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>a)
+shows far red-shifted absorbance and retains pump activity under illumination.<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> Similar long-wavelength absorption bands were
+observed in bacteriorhodopsin reconstituted with azulenic or merocyanine
+dyes, but these proteins were photochemically inactive.<sup><xref ref-type="bibr" rid="ref19">19</xref>,<xref ref-type="bibr" rid="ref20">20</xref></sup></p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Chemical
+structure of MMAR and absorption/fluorescence spectra
+of PR:MMAR. (a) Structure of native retinal and its analogue MMAR.
+(b) Absorption spectra of native PR (PR:A1) and PR:MMAR at pH 7.0.
+(c) pH-dependent emission spectra of PR:MMAR at pH 6.0&#x02013;8.5,
+at 760 nm excitation.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz-2018-02780p_0001" id="gr1" position="float"/></fig><p><xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>b
+shows
+the PR:MMAR absorbance spectrum at pH 7.0, reproduced from ref (<xref ref-type="bibr" rid="ref12">12</xref>), exhibiting a broad, heterogeneous
+absorption with bands and shoulders at around 570, 690, and 760 nm.
+The NIR absorption band near 760 nm has a low amplitude at this pH
+but increases dramatically upon acidification (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.8b02780/suppl_file/jz8b02780_si_001.pdf">Figure S1</ext-link>). We recorded the fluorescence properties of PR:MMAR
+to investigate potential application of MMAR-based microbial rhodopsins
+as a pH and/or voltage sensor. <xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>c shows pH-dependent emission spectra of PR:MMAR at
+pH 6.0&#x02013;8.5 with 760 nm excitation. Independent of the pH value,
+the emission peak was centered at 820 nm, which is about 120 nm red-shifted
+from native PR.<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> The excitation spectrum
+of the 820 nm emission at pH 7.0 overlaps with the 1-transmittance
+spectrum as shown in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.8b02780/suppl_file/jz8b02780_si_001.pdf">Figure S2</ext-link>, clearly
+indicating that the NIR (&#x0003e;750 nm) absorbing form is the major emissive
+species. A fluorescence quantum yield of 3.3% was measured with 760
+nm excitation at pH 7.0, which is 130-fold higher than that of native
+PR<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> and 3&#x02013;8 -fold higher than that
+of PROPS<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> and QuasArs.<sup><xref ref-type="bibr" rid="ref5">5</xref></sup> Importantly, a strong pH dependence for the fluorescence
+intensity was observed over the pH range of 6.0&#x02013;8.5 (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>c), which clearly
+corresponds with the pH-dependent absorbance band near 760 nm (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.8b02780/suppl_file/jz8b02780_si_001.pdf">Figure S1</ext-link>). Considering this combination of properties,
+i.e., high fluorescence quantum yield, NIR absorption/emission, and
+strong pH dependence in the pH range of 6.0&#x02013;8.5, we would advocate
+MMAR-binding retinal proteins as very promising candidates for ultrasensitive
+NIR pH and/or voltage sensors.</p><p>To elucidate the molecular origin
+of the intense fluorescence of
+PR:MMAR and its relation to the broad absorption profile, we applied
+broad-band femtosecond transient absorption spectroscopy up to the
+submillisecond time scale.<sup><xref ref-type="bibr" rid="ref21">21</xref>&#x02212;<xref ref-type="bibr" rid="ref24">24</xref></sup><xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a shows a kinetic trace at 750 nm upon excitation at 730 nm at pH
+7.0 (blue symbols), where the NIR-absorbing state is selectively excited. <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>b shows the results
+of global analysis in terms of a sequential model (evolution-associated
+difference spectra, EADS, top panel) and a parallel, sum-of-exponentials
+model (decay-associated difference spectra, DADS, bottom panel). Kinetic
+traces and fits are presented in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.8b02780/suppl_file/jz8b02780_si_001.pdf">Figure S3</ext-link>. Three time constants are required to fit the data: 90 fs, 44 ps,
+and 310 ps. The gray EADS, which is created instantaneously after
+application of the pump pulse, has a negative signal from 620 to 720
+nm that is assigned to ground-state bleach and a positive absorption
+at 580 nm that is assigned to excited-state absorption. This state
+evolves to the red EADS in 90 fs, which represents a further rise
+of the excited-state absorption band at 580 nm, with the ground state
+bleach at &#x0003e;650 nm remaining constant. The 90 fs time constant is
+assigned
+to ultrafast propagation out of the Franck&#x02013;Condon region. The
+red EADS evolves to the blue EADS in 44 ps and involves only minor
+spectral changes. It is assigned to a minor population (&#x0003c;5%) that
+has an excited-state lifetime of 44 ps. Finally, the blue EADS has
+a lifetime of 310 ps and decays to zero amplitude.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>(a) Time traces of transient
+absorption experiments of PR:MMAR
+at pH 7 detected at 750 nm, upon 620 nm excitation (red circles) or
+730 nm excitation (blue circles). The solid lines show fitting curves.
+(b) Evolution-associated difference spectra (EADS) (top) and decay-associated
+difference spectra (DADS) (bottom) upon excitation at 730 nm with
+fitted lifetimes indicated. The reader is referred to the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.8b02780/suppl_file/jz8b02780_si_001.pdf">Methods</ext-link> section for the interpretation of EADS
+and DADS.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz-2018-02780p_0002" id="gr2" position="float"/></fig><p>We conclude that upon excitation
+at 730 nm, the excited state decays
+almost single-exponentially to zero in 310 ps. In addition, no photoproduct
+is detected, which implies that isomerization of the MMAR chromophore
+is largely suppressed. The excited-state lifetime (i.e., fluorescence
+lifetime) of 310 ps is unusually long for retinal proteins, which
+generally feature subpicosecond and picosecond lifetimes,<sup><xref ref-type="bibr" rid="ref1">1</xref>,<xref ref-type="bibr" rid="ref16">16</xref>,<xref ref-type="bibr" rid="ref21">21</xref>,<xref ref-type="bibr" rid="ref25">25</xref>&#x02212;<xref ref-type="bibr" rid="ref30">30</xref></sup> and is consistent with the high fluorescence quantum yield.</p><p>The absorption spectrum of PR:MMAR is very broad, suggesting the
+presence of multiple spectral species (<xref rid="fig1" ref-type="fig">Figures <xref rid="fig1" ref-type="fig">1</xref></xref>b and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.8b02780/suppl_file/jz8b02780_si_001.pdf">S1</ext-link>). Upon
+excitation at shorter wavelengths, dynamics quite distinct from that
+at 730 nm excitation are observed. Upon 620 nm excitation, a multiexponential
+excited-state decay was observed with lifetimes of 6.4, 34, and 290
+ps (<xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>a, red
+symbols), along with formation of a photoproduct that resembles the
+well-known C13=C14 isomerized K-intermediate in microbial rhodopsins.
+Excitation at 510 and 670 nm gave similar results, albeit with different
+relative amplitudes of the lifetimes. A detailed account and global
+analysis of the excited-state dynamics at 620, 510, and 670 nm excitation
+wavelengths is presented in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.8b02780/suppl_file/jz8b02780_si_001.pdf">Figures S4&#x02013;S6</ext-link>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.8b02780/suppl_file/jz8b02780_si_001.pdf">Figure S7</ext-link> shows that the 34 ps component
+is related to formation of the K-like isomerized photoproduct and
+that the 6.4 and 310 ps components represent nonproductive excited-state
+decay pathways to the initial ground state. In addition, in the cases
+that K was observed, the photocycle proceeded by formation of an M-like
+intermediate on submicrosecond and microsecond time scales, indicative
+of proton transfer from the MMAR Schiff base to Asp-97. We conclude
+that the broad absorption that spans the green to the NIR wavelengths
+is caused by three distinct electronic substates that have particular
+lifetimes and photochemical reactivity. Yet, the NIR absorption band
+near 760 nm is the only one presenting a single long-living excited-state
+component and significant fluorescence.</p><p>Proton-pumping activity
+in starved <italic>E. coli</italic> cells expressing
+PR:MMAR was observed at pH 7 with 617, 660, and
+730 nm continuous LED illumination,<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> which
+appears to be at odds with the present observation that for the NIR-absorbing
+species identified above the K- and M-like photoproducts were not
+detected. We first note that proton transfer from the protonated RSB
+may not be absolutely essential for proton-pumping in PR.<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> Alternatively, PR:MMAR may behave slightly differently
+in DDM micelles (this study) as compared to the <italic>E.
+coli</italic> membrane environment (ref (<xref ref-type="bibr" rid="ref12">12</xref>)), although no such differences
+were observed for native PR.<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> It must
+be noted, however, that the proton-pumping rate of PR:MMAR is significantly
+smaller than that of native PR (PR:A1),<sup><xref ref-type="bibr" rid="ref12">12</xref></sup> indicating that this process is less robust in PR:MMAR and that
+the observed small difference between detergent-isolated PR:MMAR (no
+M-like state formation detected upon NIR excitation) and membrane-bound
+PR:MMAR (low proton-pumping activity under NIR illumination) may indeed
+relate to the microenvironment. It should also be noted that fluorescence
+and proton-pumping are not mutually exclusive for microbial rhodopsins.<sup><xref ref-type="bibr" rid="ref6">6</xref></sup></p><p>To investigate the ground-state configuration
+of the MMAR chromophore
+and its electronic structure, we applied preresonance watermarked
+stimulated Raman spectroscopy.<sup><xref ref-type="bibr" rid="ref33">33</xref>&#x02212;<xref ref-type="bibr" rid="ref35">35</xref></sup><xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a shows the ground-state stimulated Raman
+spectrum of PR:MMAR from 750 to 1300 cm<sup>&#x02013;1</sup> at pH
+7.0. Various modes (1169, 1191, and 1216 cm<sup>&#x02013;1</sup>) comply
+with C&#x02013;C stretching modes in the native all-trans retinal chromophore
+in bacteriorhodopsin and PR.<sup><xref ref-type="bibr" rid="ref36">36</xref>,<xref ref-type="bibr" rid="ref37">37</xref></sup> We furthermore identify
+isolated hydrogen-out-of-plane (HOOP) modes (856 cm<sup>&#x02013;1</sup>), coupled HOOPs (947, 957 cm<sup>&#x02013;1</sup>), and methyl rock
+(1004 cm<sup>&#x02013;1</sup>).<sup><xref ref-type="bibr" rid="ref36">36</xref></sup> The 1250
+cm<sup>&#x02013;1</sup> band is assigned to the aromatic amine C&#x02013;N
+stretch that is particular to the MMAR chromophore.<sup><xref ref-type="bibr" rid="ref38">38</xref></sup><xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>c shows stimulated Raman spectra over the same vibrational range
+between pH 6.0 and 9.0. The spectra were normalized at the 1004 cm<sup>&#x02013;1</sup> band. The ethylenic isolated (=C&#x02013;H)
+and coupled (H&#x02013;C=C&#x02013;H) wags or HOOP vibrations
+are very sensitive to skeletal deformation: the strong increase of
+bands near 860 (isolated wags) and 950 cm<sup>&#x02013;1</sup> (coupled
+wags) upon lowering the pH is indicative of increasing distortion
+of the chromophore. The overall band distribution in the region of
+1100&#x02013;1220 cm<sup>&#x02013;1</sup> hardly varies over this pH
+range, except for a slight shift in frequencies, an increase in the
+intensity of the 1191 cm<sup>&#x02013;1</sup> mode (C14&#x02013;C15
+stretch<sup><xref ref-type="bibr" rid="ref39">39</xref></sup>) with increasing pH, and concomitantly
+a more pronounced shoulder at ca. 1150 cm<sup>&#x02013;1</sup>, possibly
+reflecting deprotonation of the Asp97 counterion.<sup><xref ref-type="bibr" rid="ref32">32</xref></sup> It should be noted that the C&#x02013;C stretching modes
+are largely insensitive to electron delocalization,<sup><xref ref-type="bibr" rid="ref36">36</xref>,<xref ref-type="bibr" rid="ref40">40</xref></sup> consistent with the very small frequency shifts at pH values between
+6.0 and 9.0. The decrease of the 1191 cm<sup>&#x02013;1</sup> mode
+upon lowering the pH remains currently unexplained.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>pH-dependent ground-state
+stimulated Raman spectra of PR:MMAR.
+(a,b) Raman spectra at pH 7.0 at 750&#x02013;1300 and 1450&#x02013;1700
+cm<sup>&#x02013;1</sup>, respectively; (c,d) pH-dependent Raman spectra
+over the same vibrational ranges. The spectra were normalized at the
+1004 cm<sup>&#x02013;1</sup> band.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz-2018-02780p_0003" id="gr3" position="float"/></fig><p>In the C=C stretching region (&#x0223c;1500&#x02013;1600
+cm<sup>&#x02013;1</sup>) at pH 7.0 (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b,d), several Raman bands can be observed
+at 1482,
+1501, 1528, 1580, and 1605 cm<sup>&#x02013;1</sup>, which are strongly
+pH-dependent. Those at 1482, 1501, 1580, and 1605 cm<sup>&#x02013;1</sup> are very small at pH 8.5 and 9.0 and strongly increase upon acidification,
+while the single very strong band at 1532 cm<sup>&#x02013;1</sup> slightly
+downshifts to 1528 cm<sup>&#x02013;1</sup> and substantially decreases
+upon acidification. This pH dependence reflects that of the absorbance
+spectrum (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.8b02780/suppl_file/jz8b02780_si_001.pdf">Figure S1</ext-link>). Although some appear
+at an unusually low frequency, the bands between 1450 and 1550 cm<sup>&#x02013;1</sup> represent C=C stretching modes.<sup><xref ref-type="bibr" rid="ref36">36</xref>,<xref ref-type="bibr" rid="ref41">41</xref></sup> This assignment stems from the observation that the C=C stretching
+frequency is correlated with the degree of electron delocalization
+in the chromophore and hence inversely correlated with the absorption
+maxima.<sup><xref ref-type="bibr" rid="ref42">42</xref>&#x02212;<xref ref-type="bibr" rid="ref44">44</xref></sup> Accordingly, the 1532 cm<sup>&#x02013;1</sup> mode
+would correspond to an absorbance band at around 560 nm, and the 1501
+and 1482 cm<sup>&#x02013;1</sup> modes correspond to bands at around
+690 and 750 nm, respectively, in excellent agreement with the absorbance
+spectra in <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.8b02780/suppl_file/jz8b02780_si_001.pdf">Figure S1</ext-link>.</p><p>The 1655 cm<sup>&#x02013;1</sup> signal is assigned to the C=NH
+stretching mode, which is an indicator for the protonated retinal
+Schiff base widely seen in native rhodopsins.<sup><xref ref-type="bibr" rid="ref41">41</xref>,<xref ref-type="bibr" rid="ref45">45</xref></sup> Remarkably, the 1655 cm<sup>&#x02013;1</sup> mode was replaced upon
+acidification by two peaks at &#x0223c;1580 and &#x0223c;1605 cm<sup>&#x02013;1</sup>. If those peaks would represent a C=C stretching
+mode, we would expect a short-wavelength (blue-shifted below 400 nm)
+absorption species to appear at a lower pH, but this is not observed
+in the absorption spectra (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.8b02780/suppl_file/jz8b02780_si_001.pdf">Figure S1</ext-link>).
+Therefore, we do not assign the 1580 and 1605 cm<sup>&#x02013;1</sup> bands to C=C stretching modes but rather propose the formation
+of resonance species upon protonation of the Asp97 counterion, resulting
+in extensive electron delocalization involving both &#x02212;N&#x02013;C&#x02013;
+elements (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>).
+Because the p<italic>K</italic><sub>a</sub> of the primary counterion
+(Asp97) varies between 6.5 and 7.7,<sup><xref ref-type="bibr" rid="ref12">12</xref>,<xref ref-type="bibr" rid="ref46">46</xref>&#x02212;<xref ref-type="bibr" rid="ref49">49</xref></sup> this counterion is largely protonated at acidic pH, resulting in
+a weakened hydrogen bond between the retinal Schiff base and the counterion
+complex and less effective charge stabilization at the protonated
+retinal Schiff base. However, importantly, in MMAR, the charge can
+effectively delocalize toward the other methyl&#x02013;N&#x02013;C group
+on the aromatic ring at the other end of the chromophore, allowing
+a boundary structure with a second protonated Schiff base (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>, right bottom),
+leading to a strong reduction in bond length alteration over the conjugated
+double bond system. This interpretation agrees with a lower C=NH
+stretch vibration frequency for both Schiff bases (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.8b02780/suppl_file/jz8b02780_si_001.pdf">Figure S8</ext-link>) as well as a strong increase of the bands at around
+1250 cm<sup>&#x02013;1</sup> upon protonation (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.8b02780/suppl_file/jz8b02780_si_001.pdf">Figure S8</ext-link>), which could reflect an aromatic secondary amine
+stretch.<sup><xref ref-type="bibr" rid="ref38">38</xref></sup> Presumably, the two boundary
+structures shown in <xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref> are in a pH-dependent equilibrium, resulting in a complex
+system of resonance states, yielding the heterogeneous absorbance
+and vibrational profiles of PR:MMAR under alkaline and acidic conditions.
+Such charge delocalization induced upon protonation will result in
+further hybridization of molecular orbitals, leading to the lower-energy
+broad absorbance bands near 690 and 760 nm.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Boundary structures of
+MMAR in PR under alkaline and neutral/acidic
+conditions. The secondary site for Schiff base protonation is shown
+in the lower right panel.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz-2018-02780p_0004" id="gr4" position="float"/></fig><p>With the above results in hand, we are able to paint a molecular
+picture of the strong pH-dependent NIR fluorescence of PR:MMAR. Ultrafast
+spectroscopy revealed at least three distinct electronic substates.
+Upon NIR excitation at 730&#x02013;760 nm, only the NIR fraction is
+populated and strong fluorescence results owing to the long excited-state
+lifetime of &#x0223c;300 ps, while under these conditions, no C13=C14
+isomerization was detected. The stimulated Raman spectroscopy data
+confirm that such distinct electronic substates exist through the
+observation of three distinct C=C vibrational bands. Strikingly,
+upon acidification, a band rises that we attribute to the advent of
+resonance states that feature a boundary structure with another, secondary
+protonated Schiff base on the methyl&#x02013;N&#x02013;C group at the
+aromatic ring (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>, bottom right). Notably, the NIR absorption and emission bands at
+760 and 820 nm will originate from a state with a highly delocalized
+electron distribution, reminiscent of azulenic dyes<sup><xref ref-type="bibr" rid="ref50">50</xref></sup> and cyanine dyes.<sup><xref ref-type="bibr" rid="ref51">51</xref>,<xref ref-type="bibr" rid="ref52">52</xref></sup> This will result in
+much smaller bond length alteration along the conjugated backbone,
+thereby conferring significant single-bond character to the C13=C14
+bond and structural deformation of the chromophore, which interferes
+with photoinduced isomerization and extends the lifetime for fluorescence.
+This notion is crucial because in microbial rhodopsins, light-driven
+isomerization about the C13=C14 double bond is strongly catalyzed
+by the protein matrix and constitutes the principal excited-state
+deactivation channel. Thus, our study allows for a molecular understanding
+of the striking features of this promising retinal analogue protein
+system: strong pH-dependent NIR absorbance and fluorescence intensity
+and an excitation-wavelength-dependent photocycle. Additional molecular
+engineering of the protein and/or ligand may lead to further optimization
+of selected properties.</p></body><back><notes id="notes1" notes-type="si"><title>Supporting Information Available</title><p>The Supporting Information is
+available free of charge on the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org">ACS Publications website</ext-link> at DOI: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/abs/10.1021/acs.jpclett.8b02780">10.1021/acs.jpclett.8b02780</ext-link>.<list id="silist" list-type="simple"><list-item><p>Methods and pH-dependent
+absorption spectra, fluorescence
+excitation data, time-resolved data presented as kinetic traces, and
+global analysis results in the form of evolution-associated difference
+spectra (EADS), and decay-associated difference spectra (DADS) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.8b02780/suppl_file/jz8b02780_si_001.pdf">PDF</ext-link>)</p></list-item></list></p></notes><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="sifile1"><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="jz8b02780_si_001.pdf"><caption><p>jz8b02780_si_001.pdf</p></caption></media></supplementary-material></sec><notes id="NOTES-d7e772-autogenerated" notes-type="COI-statement"><p>The authors declare
+no
+competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>Y.H. and J.T.M.K. were supported by the Chemical
+Sciences Council of The Netherlands Organization for Scientific Research
+(NWO-CW) through a VICI grant to J.T.M.K. and a Middelgroot investment
+grant to J.T.M.K. S.G. and W.J.d.G. were supported by Leiden University
+and the research programme of BioSolar Cells (BSC Core Project Grant
+C2.9), cofinanced by the Dutch Ministry of Economic Affairs. This
+work was supported by the Czech Scientific Foundation Grant 17-01137S.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Ernst</surname><given-names>O. P.</given-names></name>; <name><surname>Lodowski</surname><given-names>D. T.</given-names></name>; <name><surname>Elstner</surname><given-names>M.</given-names></name>; <name><surname>Hegemann</surname><given-names>P.</given-names></name>; <name><surname>Brown</surname><given-names>L. S.</given-names></name>; <name><surname>Kandori</surname><given-names>H.</given-names></name>
+<article-title>Microbial and animal
+rhodopsins: structures, functions,
+and molecular mechanisms</article-title>. <source>Chem. Rev.</source>
+<year>2014</year>, <volume>114</volume>, <fpage>126</fpage>&#x02013;<lpage>63</lpage><pub-id pub-id-type="doi">10.1021/cr4003769</pub-id>.<pub-id pub-id-type="pmid">24364740</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="book" id="cit2"><person-group person-group-type="allauthors"><name><surname>Govorunova</surname><given-names>E. G.</given-names></name>; <name><surname>Sineshchekov</surname><given-names>O. A.</given-names></name>; <name><surname>Li</surname><given-names>H.</given-names></name>; <name><surname>Spudich</surname><given-names>J. L.</given-names></name></person-group><article-title>Microbial rhodopsins:
+diversity, mechanisms, and optogenetic applications</article-title>. In <source>Annual Reviews in Biochemistry</source>; <person-group person-group-type="editor"><name><surname>Kornberg</surname><given-names>R. D.</given-names></name></person-group>, Ed.; <year>2017</year>; Vol. <volume>86</volume>, pp <fpage>845</fpage>&#x02013;<lpage>872</lpage>.</mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Zhang</surname><given-names>F.</given-names></name>; <name><surname>Vierock</surname><given-names>J.</given-names></name>; <name><surname>Yizhar</surname><given-names>O.</given-names></name>; <name><surname>Fenno</surname><given-names>L. E.</given-names></name>; <name><surname>Tsunoda</surname><given-names>S.</given-names></name>; <name><surname>Kianianmomeni</surname><given-names>A.</given-names></name>; <name><surname>Prigge</surname><given-names>M.</given-names></name>; <name><surname>Berndt</surname><given-names>A.</given-names></name>; <name><surname>Cushman</surname><given-names>J.</given-names></name>; <name><surname>Polle</surname><given-names>J.</given-names></name>; <name><surname>Magnuson</surname><given-names>J.</given-names></name>; <name><surname>Hegemann</surname><given-names>P.</given-names></name>; <name><surname>Deisseroth</surname><given-names>K.</given-names></name>
+<article-title>The microbial
+opsin family of optogenetic tools</article-title>. <source>Cell</source>
+<year>2011</year>, <volume>147</volume>, <fpage>1446</fpage>&#x02013;<lpage>57</lpage><pub-id pub-id-type="doi">10.1016/j.cell.2011.12.004</pub-id>.<pub-id pub-id-type="pmid">22196724</pub-id></mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Kralj</surname><given-names>J. M.</given-names></name>; <name><surname>Hochbaum</surname><given-names>D. R.</given-names></name>; <name><surname>Douglass</surname><given-names>A. D.</given-names></name>; <name><surname>Cohen</surname><given-names>A. E.</given-names></name>
+<article-title>Electrical spiking
+in <italic>Escherichia coli</italic> probed with a fluorescent voltage-indicating
+protein</article-title>. <source>Science</source>
+<year>2011</year>, <volume>333</volume>, <fpage>345</fpage>&#x02013;<lpage>348</lpage><pub-id pub-id-type="doi">10.1126/science.1204763</pub-id>.<pub-id pub-id-type="pmid">21764748</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Hochbaum</surname><given-names>D. R.</given-names></name>; <name><surname>Zhao</surname><given-names>Y.</given-names></name>; <name><surname>Farhi</surname><given-names>S. L.</given-names></name>; <name><surname>Klapoetke</surname><given-names>N.</given-names></name>; <name><surname>Werley</surname><given-names>C. A.</given-names></name>; <name><surname>Kapoor</surname><given-names>V.</given-names></name>; <name><surname>Zou</surname><given-names>P.</given-names></name>; <name><surname>Kralj</surname><given-names>J. M.</given-names></name>; <name><surname>Maclaurin</surname><given-names>D.</given-names></name>; <name><surname>Smedemark-Margulies</surname><given-names>N.</given-names></name>; <name><surname>Saulnier</surname><given-names>J. L.</given-names></name>; <name><surname>Boulting</surname><given-names>G. L.</given-names></name>; <name><surname>Straub</surname><given-names>C.</given-names></name>; <name><surname>Cho</surname><given-names>Y. K.</given-names></name>; <name><surname>Melkonian</surname><given-names>M.</given-names></name>; <name><surname>Wong</surname><given-names>G. K. S.</given-names></name>; <name><surname>Harrison</surname><given-names>D. J.</given-names></name>; <name><surname>Murthy</surname><given-names>V. N.</given-names></name>; <name><surname>Sabatini</surname><given-names>B. L.</given-names></name>; <name><surname>Boyden</surname><given-names>E. S.</given-names></name>; <name><surname>Campbell</surname><given-names>R. E.</given-names></name>; <name><surname>Cohen</surname><given-names>A. E.</given-names></name>
+<article-title>All-optical
+electrophysiology
+in mammalian neurons using engineered microbial rhodopsins</article-title>. <source>Nat. Methods</source>
+<year>2014</year>, <volume>11</volume>, <fpage>825</fpage>&#x02013;<lpage>833</lpage><pub-id pub-id-type="doi">10.1038/nmeth.3000</pub-id>.<pub-id pub-id-type="pmid">24952910</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Kralj</surname><given-names>J. M.</given-names></name>; <name><surname>Douglass</surname><given-names>A. D.</given-names></name>; <name><surname>Hochbaum</surname><given-names>D. R.</given-names></name>; <name><surname>Maclaurin</surname><given-names>D.</given-names></name>; <name><surname>Cohen</surname><given-names>A. E.</given-names></name>
+<article-title>Optical recording of action potentials in mammalian
+neurons using a microbial rhodopsin</article-title>. <source>Nat. Methods</source>
+<year>2012</year>, <volume>9</volume>, <fpage>90</fpage>&#x02013;<lpage>U130</lpage><pub-id pub-id-type="doi">10.1038/nmeth.1782</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Claassens</surname><given-names>N. J.</given-names></name>; <name><surname>Sousa</surname><given-names>D. Z.</given-names></name>; <name><surname>dos Santos</surname><given-names>V.</given-names></name>; <name><surname>de Vos</surname><given-names>W. M.</given-names></name>; <name><surname>van der
+Oost</surname><given-names>J.</given-names></name>
+<article-title>Harnessing the power of microbial autotrophy</article-title>. <source>Nat. Rev. Microbiol.</source>
+<year>2016</year>, <volume>14</volume>, <fpage>692</fpage>&#x02013;<lpage>706</lpage><pub-id pub-id-type="doi">10.1038/nrmicro.2016.130</pub-id>.<pub-id pub-id-type="pmid">27665719</pub-id></mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Chen</surname><given-names>Q.</given-names></name>; <name><surname>van der Steen</surname><given-names>J. B.</given-names></name>; <name><surname>Arents</surname><given-names>J. C.</given-names></name>; <name><surname>Hartog</surname><given-names>A. F.</given-names></name>; <name><surname>Ganapathy</surname><given-names>S.</given-names></name>; <name><surname>de Grip</surname><given-names>W. J.</given-names></name>; <name><surname>Hellingwerf</surname><given-names>K. J.</given-names></name>
+<article-title>Deletion
+of sll1541 in <italic>Synechocystis</italic> sp strain PCC 6803 allows
+formation of a far-red-shifted holo-proteorhodopsin
+in vivo</article-title>. <source>Appl. Environ. Microbiol.</source>
+<year>2018</year>, <pub-id pub-id-type="doi">10.1128/AEM.02435-17</pub-id>.</mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Fenno</surname><given-names>L.</given-names></name>; <name><surname>Yizhar</surname><given-names>O.</given-names></name>; <name><surname>Deisseroth</surname><given-names>K.</given-names></name>
+<article-title>The development
+and application of
+optogenetics</article-title>. <source>Annu. Rev. Neurosci.</source>
+<year>2011</year>, <volume>34</volume>, <fpage>389</fpage>&#x02013;<lpage>412</lpage><pub-id pub-id-type="doi">10.1146/annurev-neuro-061010-113817</pub-id>.<pub-id pub-id-type="pmid">21692661</pub-id></mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Erbguth</surname><given-names>K.</given-names></name>; <name><surname>Prigge</surname><given-names>M.</given-names></name>; <name><surname>Schneider</surname><given-names>F.</given-names></name>; <name><surname>Hegemann</surname><given-names>P.</given-names></name>; <name><surname>Gottschalk</surname><given-names>A.</given-names></name>
+<article-title>Bimodal activation
+of different neuron classes with the spectrally red-shifted channelrhodopsin
+chimera C1V1 in <italic>Caenorhabditis elegans</italic></article-title>. <source>PLoS One</source>
+<year>2012</year>, <volume>7</volume>, <fpage>e46827</fpage><pub-id pub-id-type="doi">10.1371/journal.pone.0046827</pub-id>.<pub-id pub-id-type="pmid">23056472</pub-id></mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Klapoetke</surname><given-names>N. C.</given-names></name>; <name><surname>Murata</surname><given-names>Y.</given-names></name>; <name><surname>Kim</surname><given-names>S. S.</given-names></name>; <name><surname>Pulver</surname><given-names>S. R.</given-names></name>; <name><surname>Birdsey-Benson</surname><given-names>A.</given-names></name>; <name><surname>Cho</surname><given-names>Y. K.</given-names></name>; <name><surname>Morimoto</surname><given-names>T. K.</given-names></name>; <name><surname>Chuong</surname><given-names>A. S.</given-names></name>; <name><surname>Carpenter</surname><given-names>E. J.</given-names></name>; <name><surname>Tian</surname><given-names>Z.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Xie</surname><given-names>Y.</given-names></name>; <name><surname>Yan</surname><given-names>Z.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Chow</surname><given-names>B. Y.</given-names></name>; <name><surname>Surek</surname><given-names>B.</given-names></name>; <name><surname>Melkonian</surname><given-names>M.</given-names></name>; <name><surname>Jayaraman</surname><given-names>V.</given-names></name>; <name><surname>Constantine-Paton</surname><given-names>M.</given-names></name>; <name><surname>Wong</surname><given-names>G. K.</given-names></name>; <name><surname>Boyden</surname><given-names>E. S.</given-names></name>
+<article-title>Independent
+optical excitation of distinct neural populations</article-title>. <source>Nat. Methods</source>
+<year>2014</year>, <volume>11</volume>, <fpage>338</fpage>&#x02013;<lpage>46</lpage><pub-id pub-id-type="doi">10.1038/nmeth.2836</pub-id>.<pub-id pub-id-type="pmid">24509633</pub-id></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Ganapathy</surname><given-names>S.</given-names></name>; <name><surname>Venselaar</surname><given-names>H.</given-names></name>; <name><surname>Chen</surname><given-names>Q.</given-names></name>; <name><surname>de Groot</surname><given-names>H. J.</given-names></name>; <name><surname>Hellingwerf</surname><given-names>K. J.</given-names></name>; <name><surname>de Grip</surname><given-names>W. J.</given-names></name>
+<article-title>Retinal-Based Proton Pumping in the Near Infrared</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2017</year>, <volume>139</volume>, <fpage>2338</fpage>&#x02013;<lpage>2344</lpage><pub-id pub-id-type="doi">10.1021/jacs.6b11366</pub-id>.<pub-id pub-id-type="pmid">28094925</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Herwig</surname><given-names>L.</given-names></name>; <name><surname>Rice</surname><given-names>A. J.</given-names></name>; <name><surname>Bedbrook</surname><given-names>C. N.</given-names></name>; <name><surname>Zhang</surname><given-names>R. J. K.</given-names></name>; <name><surname>Lignell</surname><given-names>A.</given-names></name>; <name><surname>Cahn</surname><given-names>J. K. B.</given-names></name>; <name><surname>Renata</surname><given-names>H.</given-names></name>; <name><surname>Dodani</surname><given-names>S. C.</given-names></name>; <name><surname>Cho</surname><given-names>I.</given-names></name>; <name><surname>Cai</surname><given-names>L.</given-names></name>; <name><surname>Gradinaru</surname><given-names>V.</given-names></name>; <name><surname>Arnold</surname><given-names>F. H.</given-names></name>
+<article-title>Directed evolution of a bright near-infrared
+fluorescent rhodopsin using a synthetic chromophore</article-title>. <source>Cell Chem. Biol.</source>
+<year>2017</year>, <volume>24</volume>, <fpage>415</fpage>&#x02013;<lpage>425</lpage><pub-id pub-id-type="doi">10.1016/j.chembiol.2017.02.008</pub-id>.<pub-id pub-id-type="pmid">28262559</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Govindjee</surname><given-names>R.</given-names></name>; <name><surname>Becher</surname><given-names>B.</given-names></name>; <name><surname>Ebrey</surname><given-names>T. G.</given-names></name>
+<article-title>Fluorescence
+from chromophore of
+purple membrane-protein</article-title>. <source>Biophys. J.</source>
+<year>1978</year>, <volume>22</volume>, <fpage>67</fpage>&#x02013;<lpage>77</lpage><pub-id pub-id-type="doi">10.1016/S0006-3495(78)85471-X</pub-id>.<pub-id pub-id-type="pmid">638227</pub-id></mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Kochendoerfer</surname><given-names>G. G.</given-names></name>; <name><surname>Mathies</surname><given-names>R. A.</given-names></name>
+<article-title>Spontaneous emission
+study of the femtosecond isomerization
+dynamics of rhodopsin</article-title>. <source>J. Phys. Chem.</source>
+<year>1996</year>, <volume>100</volume>, <fpage>14526</fpage>&#x02013;<lpage>14532</lpage><pub-id pub-id-type="doi">10.1021/jp960509+</pub-id>.</mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Lenz</surname><given-names>M. O.</given-names></name>; <name><surname>Huber</surname><given-names>R.</given-names></name>; <name><surname>Schmidt</surname><given-names>B.</given-names></name>; <name><surname>Gilch</surname><given-names>P.</given-names></name>; <name><surname>Kalmbach</surname><given-names>R.</given-names></name>; <name><surname>Engelhard</surname><given-names>M.</given-names></name>; <name><surname>Wachtveitl</surname><given-names>J.</given-names></name>
+<article-title>First steps of retinal photoisomerization
+in proteorhodopsin</article-title>. <source>Biophys. J.</source>
+<year>2006</year>, <volume>91</volume>, <fpage>255</fpage>&#x02013;<lpage>62</lpage><pub-id pub-id-type="doi">10.1529/biophysj.105.074690</pub-id>.<pub-id pub-id-type="pmid">16603495</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Piatkevich</surname><given-names>K. D.</given-names></name>; <name><surname>Jung</surname><given-names>E. E.</given-names></name>; <name><surname>Straub</surname><given-names>C.</given-names></name>; <name><surname>Linghu</surname><given-names>C. Y.</given-names></name>; <name><surname>Park</surname><given-names>D.</given-names></name>; <name><surname>Suk</surname><given-names>H. J.</given-names></name>; <name><surname>Hochbaum</surname><given-names>D. R.</given-names></name>; <name><surname>Goodwin</surname><given-names>D.</given-names></name>; <name><surname>Pnevmatikakis</surname><given-names>E.</given-names></name>; <name><surname>Pak</surname><given-names>N.</given-names></name>; <name><surname>Kawashima</surname><given-names>T.</given-names></name>; <name><surname>Yang</surname><given-names>C. T.</given-names></name>; <name><surname>Rhoades</surname><given-names>J. L.</given-names></name>; <name><surname>Shemesh</surname><given-names>O.</given-names></name>; <name><surname>Asano</surname><given-names>S.</given-names></name>; <name><surname>Yoon</surname><given-names>Y. G.</given-names></name>; <name><surname>Freifeld</surname><given-names>L.</given-names></name>; <name><surname>Saulnier</surname><given-names>J. L.</given-names></name>; <name><surname>Riegler</surname><given-names>C.</given-names></name>; <name><surname>Engert</surname><given-names>F.</given-names></name>; <name><surname>Hughes</surname><given-names>T.</given-names></name>; <name><surname>Drobizhev</surname><given-names>M.</given-names></name>; <name><surname>Szabo</surname><given-names>B.</given-names></name>; <name><surname>Ahrens</surname><given-names>M. B.</given-names></name>; <name><surname>Flavell</surname><given-names>S. W.</given-names></name>; <name><surname>Sabatini</surname><given-names>B. L.</given-names></name>; <name><surname>Boyden</surname><given-names>E. S.</given-names></name>
+<article-title>A robotic multidimensional directed evolution approach
+applied to fluorescent voltage reporters</article-title>. <source>Nat.
+Chem. Biol.</source>
+<year>2018</year>, <volume>14</volume>, <fpage>352</fpage><pub-id pub-id-type="doi">10.1038/s41589-018-0004-9</pub-id>.<pub-id pub-id-type="pmid">29483642</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Shcherbakova</surname><given-names>D. M.</given-names></name>; <name><surname>Baloban</surname><given-names>M.</given-names></name>; <name><surname>Verkhusha</surname><given-names>V. V.</given-names></name>
+<article-title>Near-infrared
+fluorescent proteins
+engineered from bacterial phytochromes</article-title>. <source>Curr.
+Opin. Chem. Biol.</source>
+<year>2015</year>, <volume>27</volume>, <fpage>52</fpage>&#x02013;<lpage>63</lpage><pub-id pub-id-type="doi">10.1016/j.cbpa.2015.06.005</pub-id>.<pub-id pub-id-type="pmid">26115447</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Gartner</surname><given-names>W.</given-names></name>; <name><surname>Buss</surname><given-names>V.</given-names></name>; <name><surname>Martin</surname><given-names>H. D.</given-names></name>; <name><surname>Hoischen</surname><given-names>D.</given-names></name>; <name><surname>Steinmuller</surname><given-names>S.</given-names></name>
+<article-title>Merocyanines
+as extremely bathochromically absorbing chromophores in the halobacterial
+membrane protein bacteriorhodopsin</article-title>. <source>Angew. Chem.,
+Int. Ed. Engl.</source>
+<year>1997</year>, <volume>36</volume>, <fpage>1630</fpage>&#x02013;<lpage>1633</lpage><pub-id pub-id-type="doi">10.1002/anie.199716301</pub-id>.</mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal" id="cit20"><name><surname>Asato</surname><given-names>A. E.</given-names></name>; <name><surname>Li</surname><given-names>X. Y.</given-names></name>; <name><surname>Mead</surname><given-names>D.</given-names></name>; <name><surname>Patterson</surname><given-names>G. M. L.</given-names></name>; <name><surname>Liu</surname><given-names>R. S. H.</given-names></name>
+<article-title>Azulenic retinoids and the corresponding bacteriorhodopsin
+analogs - unusually red-shifted pigments</article-title>. <source>J.
+Am. Chem. Soc.</source>
+<year>1990</year>, <volume>112</volume>, <fpage>7398</fpage>&#x02013;<lpage>7399</lpage><pub-id pub-id-type="doi">10.1021/ja00176a051</pub-id>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Hontani</surname><given-names>Y.</given-names></name>; <name><surname>Marazzi</surname><given-names>M.</given-names></name>; <name><surname>Stehfest</surname><given-names>K.</given-names></name>; <name><surname>Mathes</surname><given-names>T.</given-names></name>; <name><surname>van Stokkum</surname><given-names>I. H. M.</given-names></name>; <name><surname>Elstner</surname><given-names>M.</given-names></name>; <name><surname>Hegemann</surname><given-names>P.</given-names></name>; <name><surname>Kennis</surname><given-names>J. T. M.</given-names></name>
+<article-title>Reaction dynamics
+of the chimeric channelrhodopsin C1C2</article-title>. <source>Sci.
+Rep.</source>
+<year>2017</year>, <volume>7</volume>, <fpage>7217</fpage><pub-id pub-id-type="doi">10.1038/s41598-017-07363-w</pub-id>.<pub-id pub-id-type="pmid">28775289</pub-id></mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Berera</surname><given-names>R.</given-names></name>; <name><surname>van Grondelle</surname><given-names>R.</given-names></name>; <name><surname>Kennis</surname><given-names>J. T. M.</given-names></name>
+<article-title>Ultrafast transient absorption spectroscopy:
+principles and application to photosynthetic systems</article-title>. <source>Photosynth. Res.</source>
+<year>2009</year>, <volume>101</volume>, <fpage>105</fpage>&#x02013;<lpage>118</lpage><pub-id pub-id-type="doi">10.1007/s11120-009-9454-y</pub-id>.<pub-id pub-id-type="pmid">19578970</pub-id></mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Mathes</surname><given-names>T.</given-names></name>; <name><surname>Heilmann</surname><given-names>M.</given-names></name>; <name><surname>Pandit</surname><given-names>A.</given-names></name>; <name><surname>Zhu</surname><given-names>J. Y.</given-names></name>; <name><surname>Ravensbergen</surname><given-names>J.</given-names></name>; <name><surname>Kloz</surname><given-names>M.</given-names></name>; <name><surname>Fu</surname><given-names>Y. A.</given-names></name>; <name><surname>Smith</surname><given-names>B. O.</given-names></name>; <name><surname>Christie</surname><given-names>J. M.</given-names></name>; <name><surname>Jenkins</surname><given-names>G. I.</given-names></name>; <name><surname>Kennis</surname><given-names>J. T. M.</given-names></name>
+<article-title>Proton-coupled
+electron transfer
+constitutes the photoactivation mechanism of the plant photoreceptor
+UVR8</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2015</year>, <volume>137</volume>, <fpage>8113</fpage>&#x02013;<lpage>8120</lpage><pub-id pub-id-type="doi">10.1021/jacs.5b01177</pub-id>.<pub-id pub-id-type="pmid">25955727</pub-id></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Ravensbergen</surname><given-names>J.</given-names></name>; <name><surname>Abdi</surname><given-names>F. F.</given-names></name>; <name><surname>van Santen</surname><given-names>J. H.</given-names></name>; <name><surname>Frese</surname><given-names>R. N.</given-names></name>; <name><surname>Dam</surname><given-names>B.</given-names></name>; <name><surname>van de Krol</surname><given-names>R.</given-names></name>; <name><surname>Kennis</surname><given-names>J. T. M.</given-names></name>
+<article-title>Unraveling the carrier dynamics of
+BiVO4: a femtosecond to microsecond transient absorption study</article-title>. <source>J. Phys. Chem. C</source>
+<year>2014</year>, <volume>118</volume>, <fpage>27793</fpage>&#x02013;<lpage>27800</lpage><pub-id pub-id-type="doi">10.1021/jp509930s</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Mathies</surname><given-names>R. A.</given-names></name>; <name><surname>Brito Cruz</surname><given-names>C. H.</given-names></name>; <name><surname>Pollard</surname><given-names>W. T.</given-names></name>; <name><surname>Shank</surname><given-names>C. V.</given-names></name>
+<article-title>Direct observation
+of the femtosecond excited-state cis-trans isomerization in bacteriorhodopsin</article-title>. <source>Science</source>
+<year>1988</year>, <volume>240</volume>, <fpage>777</fpage>&#x02013;<lpage>779</lpage><pub-id pub-id-type="doi">10.1126/science.3363359</pub-id>.<pub-id pub-id-type="pmid">3363359</pub-id></mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Rupenyan</surname><given-names>A.</given-names></name>; <name><surname>van Stokkum</surname><given-names>I. H.</given-names></name>; <name><surname>Arents</surname><given-names>J. C.</given-names></name>; <name><surname>van Grondelle</surname><given-names>R.</given-names></name>; <name><surname>Hellingwerf</surname><given-names>K. J.</given-names></name>; <name><surname>Groot</surname><given-names>M. L.</given-names></name>
+<article-title>Reaction pathways of photoexcited
+retinal in proteorhodopsin studied by pump-dump-probe spectroscopy</article-title>. <source>J. Phys. Chem. B</source>
+<year>2009</year>, <volume>113</volume>, <fpage>16251</fpage>&#x02013;<lpage>6</lpage><pub-id pub-id-type="doi">10.1021/jp9065289</pub-id>.<pub-id pub-id-type="pmid">19928893</pub-id></mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Tahara</surname><given-names>S.</given-names></name>; <name><surname>Takeuchi</surname><given-names>S.</given-names></name>; <name><surname>Abe-Yoshizumi</surname><given-names>R.</given-names></name>; <name><surname>Inoue</surname><given-names>K.</given-names></name>; <name><surname>Ohtani</surname><given-names>H.</given-names></name>; <name><surname>Kandori</surname><given-names>H.</given-names></name>; <name><surname>Tahara</surname><given-names>T.</given-names></name>
+<article-title>Ultrafast photoreaction dynamics
+of a light-driven sodium-ion-pumping retinal protein from <italic>Krokinobacter eikastus</italic> revealed by femtosecond time-resolved
+absorption spectroscopy</article-title>. <source>J. Phys. Chem. Lett.</source>
+<year>2015</year>, <volume>6</volume>, <fpage>4481</fpage>&#x02013;<lpage>4486</lpage><pub-id pub-id-type="doi">10.1021/acs.jpclett.5b01994</pub-id>.<pub-id pub-id-type="pmid">26582475</pub-id></mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Hontani</surname><given-names>Y.</given-names></name>; <name><surname>Broser</surname><given-names>M.</given-names></name>; <name><surname>Silapetere</surname><given-names>A.</given-names></name>; <name><surname>Krause</surname><given-names>B. S.</given-names></name>; <name><surname>Hegemann</surname><given-names>P.</given-names></name>; <name><surname>Kennis</surname><given-names>J. T. M.</given-names></name>
+<article-title>The femtosecond-to-second
+photochemistry of red-shifted
+fast-closing anion channelrhodopsin PsACR1</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<year>2017</year>, <volume>19</volume>, <fpage>30402</fpage>&#x02013;<lpage>30409</lpage><pub-id pub-id-type="doi">10.1039/C7CP06414D</pub-id>.<pub-id pub-id-type="pmid">29125160</pub-id></mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Verhoefen</surname><given-names>M. K.</given-names></name>; <name><surname>Bamann</surname><given-names>C.</given-names></name>; <name><surname>Blocher</surname><given-names>R.</given-names></name>; <name><surname>Forster</surname><given-names>U.</given-names></name>; <name><surname>Bamberg</surname><given-names>E.</given-names></name>; <name><surname>Wachtveitl</surname><given-names>J.</given-names></name>
+<article-title>The photocycle of channelrhodopsin-2: ultrafast reaction
+dynamics and subsequent reaction steps</article-title>. <source>ChemPhysChem</source>
+<year>2010</year>, <volume>11</volume>, <fpage>3113</fpage>&#x02013;<lpage>22</lpage><pub-id pub-id-type="doi">10.1002/cphc.201000181</pub-id>.<pub-id pub-id-type="pmid">20730849</pub-id></mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Schnedermann</surname><given-names>C.</given-names></name>; <name><surname>Muders</surname><given-names>V.</given-names></name>; <name><surname>Ehrenberg</surname><given-names>D.</given-names></name>; <name><surname>Schlesinger</surname><given-names>R.</given-names></name>; <name><surname>Kukura</surname><given-names>P.</given-names></name>; <name><surname>Heberle</surname><given-names>J.</given-names></name>
+<article-title>Vibronic dynamics of
+the ultrafast
+all-trans to 13-cis photoisomerization of retinal in Channelrhodopsin-1</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2016</year>, <volume>138</volume>, <fpage>4757</fpage>&#x02013;<lpage>4762</lpage><pub-id pub-id-type="doi">10.1021/jacs.5b12251</pub-id>.<pub-id pub-id-type="pmid">26999496</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Xiao</surname><given-names>Y. W.</given-names></name>; <name><surname>Partha</surname><given-names>R.</given-names></name>; <name><surname>Krebs</surname><given-names>R.</given-names></name>; <name><surname>Braiman</surname><given-names>M.</given-names></name>
+<article-title>Time-resolved FTIR
+spectroscopy of the photointermediates involved in fast transient
+H+ release by proteorhodopsin</article-title>. <source>J. Phys. Chem.
+B</source>
+<year>2005</year>, <volume>109</volume>, <fpage>634</fpage>&#x02013;<lpage>641</lpage><pub-id pub-id-type="doi">10.1021/jp046314g</pub-id>.<pub-id pub-id-type="pmid">16851056</pub-id></mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Dioumaev</surname><given-names>A. K.</given-names></name>; <name><surname>Brown</surname><given-names>L. S.</given-names></name>; <name><surname>Shih</surname><given-names>J.</given-names></name>; <name><surname>Spudich</surname><given-names>E. N.</given-names></name>; <name><surname>Spudich</surname><given-names>J. L.</given-names></name>; <name><surname>Lanyi</surname><given-names>J. K.</given-names></name>
+<article-title>Proton transfers
+in the photochemical reaction cycle
+of proteorhodopsin</article-title>. <source>Biochemistry</source>
+<year>2002</year>, <volume>41</volume>, <fpage>5348</fpage>&#x02013;<lpage>58</lpage><pub-id pub-id-type="doi">10.1021/bi025563x</pub-id>.<pub-id pub-id-type="pmid">11969395</pub-id></mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Hontani</surname><given-names>Y.</given-names></name>; <name><surname>Inoue</surname><given-names>K.</given-names></name>; <name><surname>Kloz</surname><given-names>M.</given-names></name>; <name><surname>Kato</surname><given-names>Y.</given-names></name>; <name><surname>Kandori</surname><given-names>H.</given-names></name>; <name><surname>Kennis</surname><given-names>J. T.</given-names></name>
+<article-title>The photochemistry
+of sodium ion pump rhodopsin observed
+by watermarked femto- to submillisecond stimulated Raman spectroscopy</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<year>2016</year>, <volume>18</volume>, <fpage>24729</fpage>&#x02013;<lpage>36</lpage><pub-id pub-id-type="doi">10.1039/C6CP05240A</pub-id>.<pub-id pub-id-type="pmid">27550793</pub-id></mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Kloz</surname><given-names>M.</given-names></name>; <name><surname>Weissenborn</surname><given-names>J.</given-names></name>; <name><surname>Polivka</surname><given-names>T.</given-names></name>; <name><surname>Frank</surname><given-names>H. A.</given-names></name>; <name><surname>Kennis</surname><given-names>J. T. M.</given-names></name>
+<article-title>Spectral
+watermarking in femtosecond stimulated Raman spectroscopy: resolving
+the nature of the carotenoid S-star state</article-title>. <source>Phys.
+Chem. Chem. Phys.</source>
+<year>2016</year>, <volume>18</volume>, <fpage>14619</fpage>&#x02013;<lpage>14628</lpage><pub-id pub-id-type="doi">10.1039/C6CP01464J</pub-id>.<pub-id pub-id-type="pmid">27180633</pub-id></mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Hontani</surname><given-names>Y.</given-names></name>; <name><surname>Kloz</surname><given-names>M.</given-names></name>; <name><surname>Polivka</surname><given-names>T.</given-names></name>; <name><surname>Shukla</surname><given-names>M. K.</given-names></name>; <name><surname>Sobotka</surname><given-names>R.</given-names></name>; <name><surname>Kennis</surname><given-names>J. T. M.</given-names></name>
+<article-title>Molecular origin of photoprotection in cyanobacteria
+probed by watermarked femtosecond stimulated Raman spectroscopy</article-title>. <source>J. Phys. Chem. Lett.</source>
+<year>2018</year>, <volume>9</volume>, <fpage>1788</fpage>&#x02013;<lpage>1792</lpage><pub-id pub-id-type="doi">10.1021/acs.jpclett.8b00663</pub-id>.<pub-id pub-id-type="pmid">29569927</pub-id></mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Smith</surname><given-names>S. O.</given-names></name>; <name><surname>Pardoen</surname><given-names>J. A.</given-names></name>; <name><surname>Lugtenburg</surname><given-names>J.</given-names></name>; <name><surname>Mathies</surname><given-names>R. A.</given-names></name>
+<article-title>Vibrational analysis
+of the 13-cis-retinal chromophore in dark-adapted bacteriorhodopsin</article-title>. <source>J. Phys. Chem.</source>
+<year>1987</year>, <volume>91</volume>, <fpage>804</fpage>&#x02013;<lpage>819</lpage><pub-id pub-id-type="doi">10.1021/j100288a011</pub-id>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Krebs</surname><given-names>R. A.</given-names></name>; <name><surname>Dunmire</surname><given-names>D.</given-names></name>; <name><surname>Partha</surname><given-names>R.</given-names></name>; <name><surname>Braiman</surname><given-names>M. S.</given-names></name>
+<article-title>Resonance Raman
+characterization of proteorhodopsin&#x02019;s chromophore environment</article-title>. <source>J. Phys. Chem. B</source>
+<year>2003</year>, <volume>107</volume>, <fpage>7877</fpage>&#x02013;<lpage>7883</lpage><pub-id pub-id-type="doi">10.1021/jp034574c</pub-id>.</mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="book" id="cit38"><person-group person-group-type="allauthors"><name><surname>Socrates</surname><given-names>G.</given-names></name></person-group><source>Infrared and Raman Characteristic
+Group Frequencies: tables and charts</source>, <edition>3</edition>rd ed.; <publisher-name>John Wiley and Sons</publisher-name>: <publisher-loc>Chichester, U.K.</publisher-loc>, <year>2001</year>.</mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Smith</surname><given-names>S. O.</given-names></name>; <name><surname>Braiman</surname><given-names>M. S.</given-names></name>; <name><surname>Myers</surname><given-names>A. B.</given-names></name>; <name><surname>Pardoen</surname><given-names>J. A.</given-names></name>; <name><surname>Courtin</surname><given-names>J. M. L.</given-names></name>; <name><surname>Winkel</surname><given-names>C.</given-names></name>; <name><surname>Lugtenburg</surname><given-names>J.</given-names></name>; <name><surname>Mathies</surname><given-names>R. A.</given-names></name>
+<article-title>Vibrational analysis
+of the all-trans-retinal chromophore in light-adapted bacteriorhodopsin</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>1987</year>, <volume>109</volume>, <fpage>3108</fpage>&#x02013;<lpage>3125</lpage><pub-id pub-id-type="doi">10.1021/ja00244a038</pub-id>.</mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="book" id="cit40"><person-group person-group-type="allauthors"><name><surname>Stockburger</surname><given-names>M.</given-names></name>; <name><surname>Alshuth</surname><given-names>T.</given-names></name>; <name><surname>Oesterhelt</surname><given-names>D.</given-names></name>; <name><surname>G&#x000e4;rtner</surname><given-names>W.</given-names></name></person-group><article-title>Resonance
+Raman spectroscopy of bacteriorhodopsin: structure and function</article-title>. In <source>Spectroscopy of Biological Systems</source>, <person-group person-group-type="editor"><name><surname>Clark</surname><given-names>R. J. H.</given-names></name>, <name><surname>Hester</surname><given-names>R. E.</given-names></name></person-group>, Eds.; <publisher-name>John
+Wiley and Sons</publisher-name>: <publisher-loc>New York</publisher-loc>, <year>1986</year>; pp <fpage>483</fpage>&#x02013;<lpage>535</lpage>.</mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Smith</surname><given-names>S. O.</given-names></name>; <name><surname>Braiman</surname><given-names>M. S.</given-names></name>; <name><surname>Myers</surname><given-names>A. B.</given-names></name>; <name><surname>Pardoen</surname><given-names>J. A.</given-names></name>; <name><surname>Courtin</surname><given-names>J. M. L.</given-names></name>; <name><surname>Winkel</surname><given-names>C.</given-names></name>; <name><surname>Lugtenburg</surname><given-names>J.</given-names></name>; <name><surname>Mathies</surname><given-names>R. A.</given-names></name>
+<article-title>Vibrational analysis
+of the all-trans-retinal chromophore in light-adapted bacteriorhodopsin</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>1987</year>, <volume>109</volume>, <fpage>3108</fpage>&#x02013;<lpage>3125</lpage><pub-id pub-id-type="doi">10.1021/ja00244a038</pub-id>.</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Doukas</surname><given-names>A. G.</given-names></name>; <name><surname>Aton</surname><given-names>B.</given-names></name>; <name><surname>Callender</surname><given-names>R. H.</given-names></name>; <name><surname>Ebrey</surname><given-names>T. G.</given-names></name>
+<article-title>Resonance Raman
+studies of bovine metarhodopsin I and metarhodopsin II</article-title>. <source>Biochemistry</source>
+<year>1978</year>, <volume>17</volume>, <fpage>2430</fpage>&#x02013;<lpage>5</lpage><pub-id pub-id-type="doi">10.1021/bi00605a028</pub-id>.<pub-id pub-id-type="pmid">678522</pub-id></mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Kajimoto</surname><given-names>K.</given-names></name>; <name><surname>Kikukawa</surname><given-names>T.</given-names></name>; <name><surname>Nakashima</surname><given-names>H.</given-names></name>; <name><surname>Yamaryo</surname><given-names>H.</given-names></name>; <name><surname>Saito</surname><given-names>Y.</given-names></name>; <name><surname>Fujisawa</surname><given-names>T.</given-names></name>; <name><surname>Demura</surname><given-names>M.</given-names></name>; <name><surname>Unno</surname><given-names>M.</given-names></name>
+<article-title>Transient resonance
+raman spectroscopy of a light-driven sodium-ion-pump rhodopsin from <italic>Indibacter alkaliphilus</italic></article-title>. <source>J. Phys.
+Chem. B</source>
+<year>2017</year>, <volume>121</volume>, <fpage>4431</fpage>&#x02013;<lpage>4437</lpage><pub-id pub-id-type="doi">10.1021/acs.jpcb.7b02421</pub-id>.<pub-id pub-id-type="pmid">28421760</pub-id></mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Ogren</surname><given-names>J. I.</given-names></name>; <name><surname>Mamaev</surname><given-names>S.</given-names></name>; <name><surname>Russano</surname><given-names>D.</given-names></name>; <name><surname>Li</surname><given-names>H.</given-names></name>; <name><surname>Spudich</surname><given-names>J. L.</given-names></name>; <name><surname>Rothschild</surname><given-names>K. J.</given-names></name>
+<article-title>Retinal chromophore structure and Schiff base interactions
+in red-shifted Channelrhodopsin-1 from <italic>Chlamydomonas augustae</italic></article-title>. <source>Biochemistry</source>
+<year>2014</year>, <volume>53</volume>, <fpage>3961</fpage>&#x02013;<lpage>3970</lpage><pub-id pub-id-type="doi">10.1021/bi500445c</pub-id>.<pub-id pub-id-type="pmid">24869998</pub-id></mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Bruun</surname><given-names>S.</given-names></name>; <name><surname>Stoeppler</surname><given-names>D.</given-names></name>; <name><surname>Keidel</surname><given-names>A.</given-names></name>; <name><surname>Kuhlmann</surname><given-names>U.</given-names></name>; <name><surname>Luck</surname><given-names>M.</given-names></name>; <name><surname>Diehl</surname><given-names>A.</given-names></name>; <name><surname>Geiger</surname><given-names>M. A.</given-names></name>; <name><surname>Woodmansee</surname><given-names>D.</given-names></name>; <name><surname>Trauner</surname><given-names>D.</given-names></name>; <name><surname>Hegemann</surname><given-names>P.</given-names></name>; <name><surname>Oschkinat</surname><given-names>H.</given-names></name>; <name><surname>Hildebrandt</surname><given-names>P.</given-names></name>; <name><surname>Stehfest</surname><given-names>K.</given-names></name>
+<article-title>Light-dark adaptation
+of channelrhodopsin
+involves photoconversion between the all-trans and 13-cis retinal
+isomers</article-title>. <source>Biochemistry</source>
+<year>2015</year>, <volume>54</volume>, <fpage>5389</fpage>&#x02013;<lpage>400</lpage><pub-id pub-id-type="doi">10.1021/acs.biochem.5b00597</pub-id>.<pub-id pub-id-type="pmid">26237332</pub-id></mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Friedrich</surname><given-names>T.</given-names></name>; <name><surname>Geibel</surname><given-names>S.</given-names></name>; <name><surname>Kalmbach</surname><given-names>R.</given-names></name>; <name><surname>Chizhov</surname><given-names>I.</given-names></name>; <name><surname>Ataka</surname><given-names>K.</given-names></name>; <name><surname>Heberle</surname><given-names>J.</given-names></name>; <name><surname>Engelhard</surname><given-names>M.</given-names></name>; <name><surname>Bamberg</surname><given-names>E.</given-names></name>
+<article-title>Proteorhodopsin is
+a light-driven proton pump with variable vectoriality</article-title>. <source>J. Mol. Biol.</source>
+<year>2002</year>, <volume>321</volume>, <fpage>821</fpage>&#x02013;<lpage>838</lpage><pub-id pub-id-type="doi">10.1016/S0022-2836(02)00696-4</pub-id>.<pub-id pub-id-type="pmid">12206764</pub-id></mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Varo</surname><given-names>G.</given-names></name>; <name><surname>Brown</surname><given-names>L. S.</given-names></name>; <name><surname>Lakatos</surname><given-names>M.</given-names></name>; <name><surname>Lanyi</surname><given-names>J. K.</given-names></name>
+<article-title>Characterization
+of the photochemical reaction cycle of proteorhodopsin</article-title>. <source>Biophys. J.</source>
+<year>2003</year>, <volume>84</volume>, <fpage>1202</fpage>&#x02013;<lpage>7</lpage><pub-id pub-id-type="doi">10.1016/S0006-3495(03)74934-0</pub-id>.<pub-id pub-id-type="pmid">12547799</pub-id></mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Hussain</surname><given-names>S.</given-names></name>; <name><surname>Kinnebrew</surname><given-names>M.</given-names></name>; <name><surname>Schonenbach</surname><given-names>N. S.</given-names></name>; <name><surname>Aye</surname><given-names>E.</given-names></name>; <name><surname>Han</surname><given-names>S.</given-names></name>
+<article-title>Functional
+consequences of the oligomeric assembly of proteorhodopsin</article-title>. <source>J. Mol. Biol.</source>
+<year>2015</year>, <volume>427</volume>, <fpage>1278</fpage>&#x02013;<lpage>1290</lpage><pub-id pub-id-type="doi">10.1016/j.jmb.2015.01.004</pub-id>.<pub-id pub-id-type="pmid">25597999</pub-id></mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>Kohler</surname><given-names>T.</given-names></name>; <name><surname>Weber</surname><given-names>I.</given-names></name>; <name><surname>Glaubitz</surname><given-names>C.</given-names></name>; <name><surname>Wachtveitl</surname><given-names>J.</given-names></name>
+<article-title>Proteorhodopsin
+photocycle kinetics between pH 5 and pH 9</article-title>. <source>Photochem.
+Photobiol.</source>
+<year>2017</year>, <volume>93</volume>, <fpage>762</fpage>&#x02013;<lpage>771</lpage><pub-id pub-id-type="doi">10.1111/php.12753</pub-id>.<pub-id pub-id-type="pmid">28500708</pub-id></mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name><surname>Muthyala</surname><given-names>R.</given-names></name>; <name><surname>Watanabe</surname><given-names>D.</given-names></name>; <name><surname>Asato</surname><given-names>A. E.</given-names></name>; <name><surname>Liu</surname><given-names>R. S. H.</given-names></name>
+<article-title>The nature of
+the delocalized cations in azulenic bacteriorhodopsin analogs</article-title>. <source>Photochem. Photobiol.</source>
+<year>2001</year>, <volume>74</volume>, <fpage>837</fpage>&#x02013;<lpage>845</lpage><pub-id pub-id-type="doi">10.1562/0031-8655(2001)0740837TNOTDC2.0.CO2</pub-id>.<pub-id pub-id-type="pmid">11783941</pub-id></mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name><surname>Escobedo</surname><given-names>J. O.</given-names></name>; <name><surname>Rusin</surname><given-names>O.</given-names></name>; <name><surname>Lim</surname><given-names>S.</given-names></name>; <name><surname>Strongin</surname><given-names>R. M.</given-names></name>
+<article-title>NIR dyes for bioimaging
+applications</article-title>. <source>Curr. Opin. Chem. Biol.</source>
+<year>2010</year>, <volume>14</volume>, <fpage>64</fpage>&#x02013;<lpage>70</lpage><pub-id pub-id-type="doi">10.1016/j.cbpa.2009.10.022</pub-id>.<pub-id pub-id-type="pmid">19926332</pub-id></mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="journal" id="cit52"><name><surname>Levitus</surname><given-names>M.</given-names></name>; <name><surname>Ranjit</surname><given-names>S.</given-names></name>
+<article-title>Cyanine dyes in biophysical
+research: the photophysics
+of polymethine fluorescent dyes in biomolecular environments</article-title>. <source>Q. Rev. Biophys.</source>
+<year>2011</year>, <volume>44</volume>, <fpage>123</fpage>&#x02013;<lpage>151</lpage><pub-id pub-id-type="doi">10.1017/S0033583510000247</pub-id>.<pub-id pub-id-type="pmid">21108866</pub-id></mixed-citation></ref></ref-list></back></article>

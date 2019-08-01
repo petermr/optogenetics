@@ -1,0 +1,318 @@
+{
+  "id": [
+    "26635547"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26635547"
+  ],
+  "pmcid": [
+    "PMC4655245"
+  ],
+  "doi": [
+    "10.3389/fnsys.2015.00157"
+  ],
+  "title": [
+    "Prospects for Optogenetic Augmentation of Brain Function."
+  ],
+  "authorString": [
+    "Jarvis S, Schultz SR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jarvis S"
+          ],
+          "firstName": [
+            "Sarah"
+          ],
+          "lastName": [
+            "Jarvis"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1818-6088",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for Neurotechnology and Department of Bioengineering, Imperial College London London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Schultz SR"
+          ],
+          "firstName": [
+            "Simon R"
+          ],
+          "lastName": [
+            "Schultz"
+          ],
+          "initials": [
+            "SR"
+          ],
+          "affiliation": [
+            "Centre for Neurotechnology and Department of Bioengineering, Imperial College London London, UK."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1818-6088",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2255203"
+      ],
+      "dateOfPublication": [
+        "2015 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in systems neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Syst Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Syst Neurosci"
+          ],
+          "NLMid": [
+            "101477946"
+          ],
+          "ISSN": [
+            "1662-5137"
+          ],
+          "ESSN": [
+            "1662-5137"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "157"
+  ],
+  "abstractText": [
+    "The ability to optically control neural activity opens up possibilities for the restoration of normal function following neurological disorders. The temporal precision, spatial resolution, and neuronal specificity that optogenetics offers is unequalled by other available methods, so will it be suitable for not only restoring but also extending brain function? As the first demonstrations of optically \"implanted\" novel memories emerge, we examine the suitability of optogenetics as a technique for extending neural function. While optogenetics is an effective tool for altering neural activity, the largest impediment for optogenetics in neural augmentation is our systems level understanding of brain function. Furthermore, a number of clinical limitations currently remain as substantial hurdles for the applications proposed. While neurotechnologies for treating brain disorders and interfacing with prosthetics have advanced rapidly in the past few years, partially addressing some of these critical problems, optogenetics is not yet suitable for use in humans. Instead we conclude that for the immediate future, optogenetics is the neurological equivalent of the 3D printer: its flexibility providing an ideal tool for testing and prototyping solutions for treating brain disorders and augmenting brain function."
+  ],
+  "affiliation": [
+    "Centre for Neurotechnology and Department of Bioengineering, Imperial College London London, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "BB/L018268/1"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "BB/K001817/1"
+          ],
+          "agency": [
+            "Biotechnology and Biological Sciences Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Neural engineering",
+        "Optogenetics",
+        "Neural Prosthetics",
+        "Neural Modulation",
+        "Bmi (Brain Machine Interface)",
+        "Neural Augmentation",
+        "Neural Coding And Decoding"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4655245?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4655245"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnsys.2015.00157"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "8"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-12-04"
+  ],
+  "dateOfCreation": [
+    "2015-12-04"
+  ],
+  "firstIndexDate": [
+    "2015-12-05"
+  ],
+  "dateOfRevision": [
+    "2015-12-14"
+  ],
+  "electronicPublicationDate": [
+    "2015-11-23"
+  ],
+  "firstPublicationDate": [
+    "2015-11-23"
+  ]
+}

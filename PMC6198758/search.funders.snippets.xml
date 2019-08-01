@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6198758/results/search/funders/results.xml">
+  <result pre="* [], 1 Department of Medical Physics and Biomedical Engineering," exact="School of Medicine," post="Shahid Beheshti University of Medical Sciences Tehran Iran [],"/>
+  <result pre="Department of Medical Physics and Biomedical Engineering, School of Medicine," exact="Shahid Beheshti University of Medical Sciences" post="Tehran Iran [], 2 Complex System Group, Department of"/>
+  <result pre="Sydney University Sydney, NSW Australia [], 3 School of Nanoscience," exact="Institute for Research in Fundamental Sciences" post="(IPM) Tehran Iran Approved by: Frontiers in Computational Neuroscience,"/>
+  <result pre="1. Instead of Department of Medical Physics and Biomedical Engineering," exact="School of Medicine," post="Shahid Beheshti Medical University, Tehran, Iran, it should be"/>
+  <result pre="it should be Department of Medical Physics and Biomedical Engineering," exact="School of Medicine," post="Shahid Beheshti University of Medical Sciences, Tehran, Iran. The"/>
+  <result pre="Department of Medical Physics and Biomedical Engineering, School of Medicine," exact="Shahid Beheshti University of Medical Sciences," post="Tehran, Iran. The authors apologize for this error and"/>
+ </snippets>
+</snippetsTree>

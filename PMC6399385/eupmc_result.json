@@ -1,0 +1,364 @@
+{
+  "id": [
+    "30863395"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30863395"
+  ],
+  "pmcid": [
+    "PMC6399385"
+  ],
+  "doi": [
+    "10.3389/fimmu.2019.00226"
+  ],
+  "title": [
+    "Light-Controlled Affinity Purification of Protein Complexes Exemplified by the Resting ZAP70 Interactome."
+  ],
+  "authorString": [
+    "Hörner M, Eble J, Yousefi OS, Schwarz J, Warscheid B, Weber W, Schamel WWA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hörner M"
+          ],
+          "firstName": [
+            "Maximilian"
+          ],
+          "lastName": [
+            "Hörner"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Faculty of Biology, University of Freiburg, Freiburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Eble J"
+          ],
+          "firstName": [
+            "Julian"
+          ],
+          "lastName": [
+            "Eble"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Faculty of Biology, University of Freiburg, Freiburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Yousefi OS"
+          ],
+          "firstName": [
+            "O Sascha"
+          ],
+          "lastName": [
+            "Yousefi"
+          ],
+          "initials": [
+            "OS"
+          ],
+          "affiliation": [
+            "Faculty of Biology, University of Freiburg, Freiburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Schwarz J"
+          ],
+          "firstName": [
+            "Jennifer"
+          ],
+          "lastName": [
+            "Schwarz"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Faculty of Biology, University of Freiburg, Freiburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Warscheid B"
+          ],
+          "firstName": [
+            "Bettina"
+          ],
+          "lastName": [
+            "Warscheid"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Faculty of Biology, University of Freiburg, Freiburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Weber W"
+          ],
+          "firstName": [
+            "Wilfried"
+          ],
+          "lastName": [
+            "Weber"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Faculty of Biology, University of Freiburg, Freiburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Schamel WWA"
+          ],
+          "firstName": [
+            "Wolfgang W A"
+          ],
+          "lastName": [
+            "Schamel"
+          ],
+          "initials": [
+            "WWA"
+          ],
+          "affiliation": [
+            "Faculty of Biology, University of Freiburg, Freiburg, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2777618"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Immunology"
+          ],
+          "ISOAbbreviation": [
+            "Front Immunol"
+          ],
+          "medlineAbbreviation": [
+            "Front Immunol"
+          ],
+          "NLMid": [
+            "101560960"
+          ],
+          "ISSN": [
+            "1664-3224"
+          ],
+          "ESSN": [
+            "1664-3224"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "226"
+  ],
+  "abstractText": [
+    "Multiprotein complexes control the behavior of cells, such as of lymphocytes of the immune system. Methods to affinity purify protein complexes and to determine their interactome by mass spectrometry are thus widely used. One drawback of these methods is the presence of false positives. In fact, the elution of the protein of interest (POI) is achieved by changing the biochemical properties of the buffer, so that unspecifically bound proteins (the false positives) may also elute. Here, we developed an optogenetics-derived and light-controlled affinity purification method based on the light-regulated reversible protein interaction between phytochrome B (PhyB) and its phytochrome interacting factor 6 (PIF6). We engineered a truncated variant of PIF6 comprising only 22 amino acids that can be genetically fused to the POI as an affinity tag. Thereby the POI can be purified with PhyB-functionalized resin material using 660 nm light for binding and washing, and 740 nm light for elution. Far-red light-induced elution is effective but very mild as the same buffer is used for the wash and elution. As proof-of-concept, we expressed PIF-tagged variants of the tyrosine kinase ZAP70 in ZAP70-deficient Jurkat T cells, purified ZAP70 and associating proteins using our light-controlled system, and identified the interaction partners by quantitative mass spectrometry. Using unstimulated T cells, we were able to detect the known interaction partners, and could filter out all other proteins."
+  ],
+  "affiliation": [
+    "Faculty of Biology, University of Freiburg, Freiburg, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "methods-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Affinity purification",
+        "Mass spectrometry",
+        "Protein-protein interaction",
+        "phytochrome",
+        "Optogenetics",
+        "Zap70"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6399385?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6399385"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fimmu.2019.00226"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "PRIDE"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "pxd"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-03-14"
+  ],
+  "firstIndexDate": [
+    "2019-03-14"
+  ],
+  "dateOfRevision": [
+    "2019-03-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-26"
+  ],
+  "firstPublicationDate": [
+    "2019-02-26"
+  ]
+}

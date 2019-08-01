@@ -1,0 +1,392 @@
+{
+  "id": [
+    "30930757"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30930757"
+  ],
+  "pmcid": [
+    "PMC6428768"
+  ],
+  "doi": [
+    "10.3389/fnbeh.2019.00050"
+  ],
+  "title": [
+    "Opposing Roles of Dopamine Receptor D1- and D2-Expressing Neurons in the Anteromedial Olfactory Tubercle in Acquisition of Place Preference in Mice."
+  ],
+  "authorString": [
+    "Murata K, Kinoshita T, Fukazawa Y, Kobayashi K, Yamanaka A, Hikida T, Manabe H, Yamaguchi M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Murata K"
+          ],
+          "firstName": [
+            "Koshi"
+          ],
+          "lastName": [
+            "Murata"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Division of Brain Structure and Function, Faculty of Medical Sciences, University of Fukui, Fukui, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kinoshita T"
+          ],
+          "firstName": [
+            "Tomoki"
+          ],
+          "lastName": [
+            "Kinoshita"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Division of Brain Structure and Function, Faculty of Medical Sciences, University of Fukui, Fukui, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Fukazawa Y"
+          ],
+          "firstName": [
+            "Yugo"
+          ],
+          "lastName": [
+            "Fukazawa"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Division of Brain Structure and Function, Faculty of Medical Sciences, University of Fukui, Fukui, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kobayashi K"
+          ],
+          "firstName": [
+            "Kenta"
+          ],
+          "lastName": [
+            "Kobayashi"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Section of Viral Vector Development, National Institute for Physiological Sciences, Aichi, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Yamanaka A"
+          ],
+          "firstName": [
+            "Akihiro"
+          ],
+          "lastName": [
+            "Yamanaka"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Neuroscience II, Research Institute of Environmental Medicine, Nagoya University, Aichi, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Hikida T"
+          ],
+          "firstName": [
+            "Takatoshi"
+          ],
+          "lastName": [
+            "Hikida"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Laboratory for Advanced Brain Functions, Institute for Protein Research, Osaka University, Osaka, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Manabe H"
+          ],
+          "firstName": [
+            "Hiroyuki"
+          ],
+          "lastName": [
+            "Manabe"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Laboratory of Neural Information, Graduate School of Brain Science, Doshisha University, Kyoto, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Yamaguchi M"
+          ],
+          "firstName": [
+            "Masahiro"
+          ],
+          "lastName": [
+            "Yamaguchi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Physiology, Kochi Medical School, Kochi University, Kochi, Japan."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2775396"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Behavioral Neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Behav Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Behav Neurosci"
+          ],
+          "NLMid": [
+            "101477952"
+          ],
+          "ISSN": [
+            "1662-5153"
+          ],
+          "ESSN": [
+            "1662-5153"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "50"
+  ],
+  "abstractText": [
+    "Olfaction induces adaptive motivated behaviors. Odors associated with food induce attractive behavior, whereas those associated with dangers induce aversive behavior. We previously reported that learned odor-induced attractive and aversive behaviors accompany activation of the olfactory tubercle (OT) in a domain- and cell type-specific manner. Odor cues associated with a sugar reward induced attractive behavior and c-fos expression in the dopamine receptor D1-expressing neurons (D1 neurons) in the anteromedial OT. In contrast, odor cues associated with electrical shock induced aversive behavior and c-fos expression in the pamine receptor D2-expressing neurons (D2 neurons) in the anteromedial OT, as well as the D1 neurons in the lateral OT. Here, we investigated whether the D1 and D2 neurons in the anteromedial OT play distinct roles in attractive or aversive behaviors, using optogenetic stimulation and real-time place preference (RTPP) tests. Mice expressing ChETA (ChR2/E123T)-enhanced yellow fluorescent protein (EYFP) in the D1 neurons in the anteromedial OT spent a longer time in the photo-stimulation side of the place preference chamber than the control mice expressing EYFP. On the other hand, upon optogenetic stimulation of the D2 neurons in the anteromedial OT, the mice spent a shorter time in the photo-stimulation side than the control mice. Local neural activation in the anteromedial OT during the RTPP tests was confirmed by c-fos mRNA expression. These results suggest that the D1 and D2 neurons in the anteromedial OT play opposing roles in attractive and aversive behaviors, respectively."
+  ],
+  "affiliation": [
+    "Division of Brain Structure and Function, Faculty of Medical Sciences, University of Fukui, Fukui, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Optogenetics",
+        "Medium Spiny Neurons",
+        "dopamine receptor D2",
+        "Place Preference",
+        "Olfactory Tubercle",
+        "Dopamine Receptor D1",
+        "Aversive Behavior",
+        "Attractive Behavior"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6428768?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6428768"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnbeh.2019.00050"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR56163"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-04-02"
+  ],
+  "firstIndexDate": [
+    "2019-04-02"
+  ],
+  "dateOfRevision": [
+    "2019-04-03"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-15"
+  ],
+  "firstPublicationDate": [
+    "2019-03-15"
+  ]
+}

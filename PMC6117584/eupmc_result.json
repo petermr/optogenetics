@@ -1,0 +1,625 @@
+{
+  "id": [
+    "29989169"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29989169"
+  ],
+  "pmcid": [
+    "PMC6117584"
+  ],
+  "doi": [
+    "10.1113/JP276283"
+  ],
+  "title": [
+    "Real-time optical manipulation of cardiac conduction in intact hearts."
+  ],
+  "authorString": [
+    "Scardigli M, Müllenbroich C, Margoni E, Cannazzaro S, Crocini C, Ferrantini C, Coppini R, Yan P, Loew LM, Campione M, Bocchi L, Giulietti D, Cerbai E, Poggesi C, Bub G, Pavone FS, Sacconi L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Scardigli M"
+          ],
+          "firstName": [
+            "M"
+          ],
+          "lastName": [
+            "Scardigli"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "European Laboratory for Non-Linear Spectroscopy, Florence, 50019, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Müllenbroich C"
+          ],
+          "firstName": [
+            "C"
+          ],
+          "lastName": [
+            "Müllenbroich"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0113-8573",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "European Laboratory for Non-Linear Spectroscopy, Florence, 50019, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Margoni E"
+          ],
+          "firstName": [
+            "E"
+          ],
+          "lastName": [
+            "Margoni"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2556-1539",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "European Laboratory for Non-Linear Spectroscopy, Florence, 50019, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Cannazzaro S"
+          ],
+          "firstName": [
+            "S"
+          ],
+          "lastName": [
+            "Cannazzaro"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "European Laboratory for Non-Linear Spectroscopy, Florence, 50019, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Crocini C"
+          ],
+          "firstName": [
+            "C"
+          ],
+          "lastName": [
+            "Crocini"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "European Laboratory for Non-Linear Spectroscopy, Florence, 50019, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Ferrantini C"
+          ],
+          "firstName": [
+            "C"
+          ],
+          "lastName": [
+            "Ferrantini"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Division of Physiology, Department of Experimental and Clinical Medicine, University of Florence, Florence, 50134, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Coppini R"
+          ],
+          "firstName": [
+            "R"
+          ],
+          "lastName": [
+            "Coppini"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Division of Pharmacology, Department 'NeuroFarBa', University of Florence, Florence, 50139, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Yan P"
+          ],
+          "firstName": [
+            "P"
+          ],
+          "lastName": [
+            "Yan"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6472-150X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "R. D. Berlin Center for Cell Analysis and Modeling, University of Connecticut School of Medicine, Farmington, CT, 06030, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Loew LM"
+          ],
+          "firstName": [
+            "L M"
+          ],
+          "lastName": [
+            "Loew"
+          ],
+          "initials": [
+            "LM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1851-4646",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "R. D. Berlin Center for Cell Analysis and Modeling, University of Connecticut School of Medicine, Farmington, CT, 06030, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Campione M"
+          ],
+          "firstName": [
+            "M"
+          ],
+          "lastName": [
+            "Campione"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Neuroscience Institute, National Research Council, Padova, 35121, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Bocchi L"
+          ],
+          "firstName": [
+            "L"
+          ],
+          "lastName": [
+            "Bocchi"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5109-3399",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "European Laboratory for Non-Linear Spectroscopy, Florence, 50019, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Giulietti D"
+          ],
+          "firstName": [
+            "D"
+          ],
+          "lastName": [
+            "Giulietti"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "National Institute of Optics, National Research Council, Florence, 50125, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Cerbai E"
+          ],
+          "firstName": [
+            "E"
+          ],
+          "lastName": [
+            "Cerbai"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Division of Pharmacology, Department 'NeuroFarBa', University of Florence, Florence, 50139, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Poggesi C"
+          ],
+          "firstName": [
+            "C"
+          ],
+          "lastName": [
+            "Poggesi"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Division of Physiology, Department of Experimental and Clinical Medicine, University of Florence, Florence, 50134, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Bub G"
+          ],
+          "firstName": [
+            "G"
+          ],
+          "lastName": [
+            "Bub"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5304-0036",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Physiology, McGill University, Montreal, Quebec, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Pavone FS"
+          ],
+          "firstName": [
+            "F S"
+          ],
+          "lastName": [
+            "Pavone"
+          ],
+          "initials": [
+            "FS"
+          ],
+          "affiliation": [
+            "European Laboratory for Non-Linear Spectroscopy, Florence, 50019, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Sacconi L"
+          ],
+          "firstName": [
+            "L"
+          ],
+          "lastName": [
+            "Sacconi"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9320-5085",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "European Laboratory for Non-Linear Spectroscopy, Florence, 50019, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0113-8573",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5304-0036",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9320-5085",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2556-1539",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6472-150X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1851-4646",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5109-3399",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "17"
+      ],
+      "volume": [
+        "596"
+      ],
+      "journalIssueId": [
+        "2720878"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The Journal of physiology"
+          ],
+          "ISOAbbreviation": [
+            "J. Physiol. (Lond.)"
+          ],
+          "medlineAbbreviation": [
+            "J Physiol"
+          ],
+          "NLMid": [
+            "0266262"
+          ],
+          "ISSN": [
+            "0022-3751"
+          ],
+          "ESSN": [
+            "1469-7793"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "3841-3858"
+  ],
+  "abstractText": [
+    "Although optogenetics has clearly demonstrated the feasibility of cardiac manipulation, current optical stimulation strategies lack the capability to react acutely to ongoing cardiac wave dynamics. Here, we developed an all-optical platform to monitor and control electrical activity in real-time. The methodology was applied to restore normal electrical activity after atrioventricular block and to manipulate the intraventricular propagation of the electrical wavefront. The closed-loop approach was also applied to simulate a re-entrant circuit across the ventricle. The development of this innovative optical methodology provides the first proof-of-concept that a real-time all-optical stimulation can control cardiac rhythm in normal and abnormal conditions.Optogenetics has provided new insights in cardiovascular research, leading to new methods for cardiac pacing, resynchronization therapy and cardioversion. Although these interventions have clearly demonstrated the feasibility of cardiac manipulation, current optical stimulation strategies do not take into account cardiac wave dynamics in real time. Here, we developed an all-optical platform complemented by integrated, newly developed software to monitor and control electrical activity in intact mouse hearts. The system combined a wide-field mesoscope with a digital projector for optogenetic activation. Cardiac functionality could be manipulated either in free-run mode with submillisecond temporal resolution or in a closed-loop fashion: a tailored hardware and software platform allowed real-time intervention capable of reacting within 2 ms. The methodology was applied to restore normal electrical activity after atrioventricular block, by triggering the ventricle in response to optically mapped atrial activity with appropriate timing. Real-time intraventricular manipulation of the propagating electrical wavefront was also demonstrated, opening the prospect for real-time resynchronization therapy and cardiac defibrillation. Furthermore, the closed-loop approach was applied to simulate a re-entrant circuit across the ventricle demonstrating the capability of our system to manipulate heart conduction with high versatility even in arrhythmogenic conditions. The development of this innovative optical methodology provides the first proof-of-concept that a real-time optically based stimulation can control cardiac rhythm in normal and abnormal conditions, promising a new approach for the investigation of the (patho)physiology of the heart."
+  ],
+  "affiliation": [
+    "European Laboratory for Non-Linear Spectroscopy, Florence, 50019, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Optogenetics",
+        "Optical Mapping",
+        "Cardiac Electrophysiology",
+        "Digital Micromirror Device"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6117584?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6117584"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1113/JP276283"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-07-11"
+  ],
+  "firstIndexDate": [
+    "2018-07-11"
+  ],
+  "dateOfRevision": [
+    "2018-09-06"
+  ],
+  "electronicPublicationDate": [
+    "2018-08-07"
+  ],
+  "firstPublicationDate": [
+    "2018-08-07"
+  ]
+}

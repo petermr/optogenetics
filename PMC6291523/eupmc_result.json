@@ -1,0 +1,316 @@
+{
+  "id": [
+    "30574070"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30574070"
+  ],
+  "pmcid": [
+    "PMC6291523"
+  ],
+  "doi": [
+    "10.3389/fncel.2018.00477"
+  ],
+  "title": [
+    "In vivo Optogenetic Approach to Study Neuron-Oligodendroglia Interactions in Mouse Pups."
+  ],
+  "authorString": [
+    "Ortolani D, Manot-Saillet B, Orduz D, Ortiz FC, Angulo MC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ortolani D"
+          ],
+          "firstName": [
+            "Domiziana"
+          ],
+          "lastName": [
+            "Ortolani"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "INSERM U894, Institute of Psychiatry and Neuroscience of Paris, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Manot-Saillet B"
+          ],
+          "firstName": [
+            "Blandine"
+          ],
+          "lastName": [
+            "Manot-Saillet"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "INSERM U894, Institute of Psychiatry and Neuroscience of Paris, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Orduz D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Orduz"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "INSERM U1128, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Ortiz FC"
+          ],
+          "firstName": [
+            "Fernando C"
+          ],
+          "lastName": [
+            "Ortiz"
+          ],
+          "initials": [
+            "FC"
+          ],
+          "affiliation": [
+            "INSERM U1128, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Angulo MC"
+          ],
+          "firstName": [
+            "Maria Cecilia"
+          ],
+          "lastName": [
+            "Angulo"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "affiliation": [
+            "INSERM U894, Institute of Psychiatry and Neuroscience of Paris, Paris, France."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2645045"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Cellular Neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Cell Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Cell Neurosci"
+          ],
+          "NLMid": [
+            "101477935"
+          ],
+          "ISSN": [
+            "1662-5102"
+          ],
+          "ESSN": [
+            "1662-5102"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "477"
+  ],
+  "abstractText": [
+    "Optogenetic and pharmacogenetic techniques have been effective to analyze the role of neuronal activity in controlling oligodendroglia lineage cells in behaving juvenile and adult mice. This kind of studies is also of high interest during early postnatal (PN) development since important changes in oligodendroglia dynamics occur during the first two PN weeks. Yet, neuronal manipulation is difficult to implement at an early age because high-level, specific protein expression is less reliable in neonatal mice. Here, we describe a protocol allowing for an optogenetic stimulation of neurons in awake mouse pups with the purpose of investigating the effect of neuronal activity on oligodendroglia dynamics during early PN stages. Since GABAergic interneurons contact oligodendrocyte precursor cells (OPCs) through bona fide synapses and maintain a close relationship with these progenitors during cortical development, we used this relevant example of neuron-oligodendroglia interaction to implement a proof-of-principle optogenetic approach. First, we tested Nkx2.1-Cre and Parvalbumin (PV)-Cre lines to drive the expression of the photosensitive ion channel channelrhodopsin-2 (ChR2) in subpopulations of interneurons at different developmental stages. By using patch-clamp recordings and photostimulation of ChR2-positive interneurons in acute somatosensory cortical slices, we analyzed the level of functional expression of ChR2 in these neurons. We found that ChR2 expression was insufficient in PV-Cre mouse at PN day 10 (PN10) and that this channel needs to be expressed from embryonic stages (as in the Nkx2.1-Cre line) to allow for a reliable photoactivation in mouse pups. Then, we implemented a stereotaxic surgery to place a mini-optic fiber at the cortical surface in order to photostimulate ChR2-positive interneurons at PN10. In vivo field potentials were recorded in Layer V to verify that photostimulation reaches deep cortical layers. Finally, we analyzed the effect of the photostimulation on the layer V oligodendroglia population by conventional immunostainings. Neither the total density nor a proliferative fraction of OPCs were affected by increasing interneuron activity in vivo, complementing previous findings showing the lack of effect of GABAergic synaptic activity on OPC proliferation. The methodology described here should provide a framework for future investigation of the role of early cellular interactions during PN brain maturation."
+  ],
+  "affiliation": [
+    "INSERM U894, Institute of Psychiatry and Neuroscience of Paris, Paris, France."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Proliferation",
+        "Somatosensory cortex",
+        "Optogenetics",
+        "Gabaergic Interneuron",
+        "Oligodendrocyte Precursor Cell",
+        "Developing Brain"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6291523?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6291523"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fncel.2018.00477"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-22"
+  ],
+  "firstIndexDate": [
+    "2018-12-31"
+  ],
+  "dateOfRevision": [
+    "2018-12-25"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-06"
+  ],
+  "firstPublicationDate": [
+    "2018-12-06"
+  ]
+}

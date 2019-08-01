@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="funders">
+ <result pre="Oxford Oxford United Kingdom Edited by: Janet R. Keast, The" exact="University of Melbourne," post="Australia Reviewed by: Naoki Yoshimura, University of Pittsburgh, United"/>
+ <result pre="Keast, The University of Melbourne, Australia Reviewed by: Naoki Yoshimura," exact="University of Pittsburgh," post="United States; Stephen A. Zderic, Children’s Hospital of Philadelphia,"/>
+ <result pre="Zderic, Children’s Hospital of Philadelphia, United States; Jonathan M. Beckel," exact="University of Pittsburgh," post="United States *Correspondence: Alexander L. Green, alex.green@nds.ox.ac.uk This article"/>
+ <result pre="conflict of interest. Funding. The research was supported by the" exact="National Institute for Health Research" post="(NIHR) Oxford Biomedical Research Centre based at Oxford University"/>
+ <result pre="Funding. The research was supported by the National Institute for" exact="Health Research" post="(NIHR) Oxford Biomedical Research Centre based at Oxford University"/>
+ <result pre="for Health Research (NIHR) Oxford Biomedical Research Centre based at" exact="Oxford University Hospitals NHS Trust" post="and University of Oxford. We would like to thank"/>
+</results>

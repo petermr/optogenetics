@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="human">
+ <result pre="Beyer for technical advice. We thank Prof. Ingo Ahrens for kindly providing the plasmids pcDNA3.1- " exact="ITGAV" post=" and pZeoSV- ITGB3. We thank Katja Kolar for providing purified fibronectin and Laura Börner" xpath="/html[1]/body[1]/div[3]/div[3]/p[1]" name="human"/>
+ <result pre="e. We thank Prof. Ingo Ahrens for kindly providing the plasmids pcDNA3.1- ITGAV and pZeoSV- " exact="ITGB3" post=". We thank Katja Kolar for providing purified fibronectin and Laura Börnert for supporting the data" name="human"/>
+</results>

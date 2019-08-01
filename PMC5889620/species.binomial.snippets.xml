@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC5889620/results/species/binomial/results.xml">
+  <result pre="odopsin proteins that have revolutionized neurobiology. They were first isolated in the green alga " exact="Chlamydomonas reinhardtii" xpath="/html[1]/body[1]/div[2]/div[5]/div[2]/p[1]" match="Chlamydomonas reinhardtii" post=" ( 1, 2), where they function as sensory photoreceptors for phototaxis." name="binomial"/>
+  <result pre="The structure of the closed state of " exact="C. reinhardtii" match="Chlamydomonas reinhardtii" post=" ChR2 was constructed by homology modeling based on the crystal structure of the C1C2 chimera—PDB I" name="binomial"/>
+ </snippets>
+</snippetsTree>

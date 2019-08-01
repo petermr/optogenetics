@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6168510/results/search/funders/results.xml">
+  <result pre="3 7 [1], 0000000122483208 grid.10698.36 Department of Biochemistry and Biophysics," exact="University of North Carolina" post="at Chapel Hill, [2], 0000000122483208 grid.10698.36 Department of Pharmacology,"/>
+  <result pre="Carolina at Chapel Hill, [2], 0000000122483208 grid.10698.36 Department of Pharmacology," exact="University of North Carolina" post="at Chapel Hill, [3], 0000000122483208 grid.10698.36 Lineberger Comprehensive Cancer"/>
+  <result pre="University of North Carolina at Chapel Hill, [3], 0000000122483208 grid.10698.36" exact="Lineberger Comprehensive Cancer Center, University of North Carolina" post="at Chapel Hill, [4], 0000 0004 1936 9000 grid.21925.3d"/>
+  <result pre="at Chapel Hill, [3], 0000000122483208 grid.10698.36 Lineberger Comprehensive Cancer Center," exact="University of North Carolina" post="at Chapel Hill, [4], 0000 0004 1936 9000 grid.21925.3d"/>
+  <result pre="Hill, [4], 0000 0004 1936 9000 grid.21925.3d Department of Chemistry," exact="University of Pittsburgh," post="[5], 000000041936754X grid.38142.3c Present Address: Department of Neurobiology, Harvard"/>
+  <result pre="of Chemistry, University of Pittsburgh, [5], 000000041936754X grid.38142.3c Present Address:" exact="Department of Neurobiology, Harvard Medical School," post="[6], 0000000419368956 grid.168010.e Present Address: Howard Hughes Medical Institute,"/>
+  <result pre="of Pittsburgh, [5], 000000041936754X grid.38142.3c Present Address: Department of Neurobiology," exact="Harvard Medical School," post="[6], 0000000419368956 grid.168010.e Present Address: Howard Hughes Medical Institute,"/>
+  <result pre="of Neurobiology, Harvard Medical School, [6], 0000000419368956 grid.168010.e Present Address:" exact="Howard Hughes Medical Institute," post="Stanford University School of Medicine, [7], 0000 0004 0543"/>
+  <result pre="School, [6], 0000000419368956 grid.168010.e Present Address: Howard Hughes Medical Institute," exact="Stanford University" post="School of Medicine, [7], 0000 0004 0543 9901 grid.240473.6"/>
+  <result pre="0000000419368956 grid.168010.e Present Address: Howard Hughes Medical Institute, Stanford University" exact="School of Medicine," post="[7], 0000 0004 0543 9901 grid.240473.6 Present Address: Departments"/>
+  <result pre="identify optimal protein split sites and reduces spontaneous assembly. Funding" exact="National Science Foundation" post="(CHE-1404836) Funding National Institute of Health (R01CA175747) Funding National"/>
+  <result pre="http://spell.dokhlab.org. Methods DNA constructs All restriction enzymes were purchased from" exact="New England Biolabs." post="Full-length (FL) Vav2 and its Dbl homology (DH), pleckstrin"/>
+  <result pre="K.M.H., and R01GM114015, R01GM064803, and R01GM123247 to N.V.D.) and the" exact="National Science Foundation" post="(CHE-1404836 to A.D.). We thank Daniel Marston for the"/>
+ </snippets>
+</snippetsTree>

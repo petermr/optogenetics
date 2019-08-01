@@ -1,0 +1,319 @@
+{
+  "id": [
+    "29756008"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29756008"
+  ],
+  "pmcid": [
+    "PMC5937899"
+  ],
+  "doi": [
+    "10.1007/s41048-018-0052-4"
+  ],
+  "title": [
+    "Fabrication and modification of implantable optrode arrays for in vivo optogenetic applications."
+  ],
+  "authorString": [
+    "Wang L, Huang K, Zhong C, Wang L, Lu Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang L"
+          ],
+          "firstName": [
+            "Lulu"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "1Shenzhen Key Lab of Neuropsychiatric Modulation and Collaborative Innovation Center for Brain Science, CAS Center for Excellence in Brain Science and Intelligence Technology, The Brain Cognition and Brain Disease Institute, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, 518055 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang K"
+          ],
+          "firstName": [
+            "Kang"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "1Shenzhen Key Lab of Neuropsychiatric Modulation and Collaborative Innovation Center for Brain Science, CAS Center for Excellence in Brain Science and Intelligence Technology, The Brain Cognition and Brain Disease Institute, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, 518055 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhong C"
+          ],
+          "firstName": [
+            "Cheng"
+          ],
+          "lastName": [
+            "Zhong"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "1Shenzhen Key Lab of Neuropsychiatric Modulation and Collaborative Innovation Center for Brain Science, CAS Center for Excellence in Brain Science and Intelligence Technology, The Brain Cognition and Brain Disease Institute, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, 518055 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang L"
+          ],
+          "firstName": [
+            "Liping"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "1Shenzhen Key Lab of Neuropsychiatric Modulation and Collaborative Innovation Center for Brain Science, CAS Center for Excellence in Brain Science and Intelligence Technology, The Brain Cognition and Brain Disease Institute, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, 518055 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Lu Y"
+          ],
+          "firstName": [
+            "Yi"
+          ],
+          "lastName": [
+            "Lu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "1Shenzhen Key Lab of Neuropsychiatric Modulation and Collaborative Innovation Center for Brain Science, CAS Center for Excellence in Brain Science and Intelligence Technology, The Brain Cognition and Brain Disease Institute, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, 518055 China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2684039"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biophysics reports"
+          ],
+          "ISOAbbreviation": [
+            "Biophys Rep"
+          ],
+          "medlineAbbreviation": [
+            "Biophys Rep"
+          ],
+          "NLMid": [
+            "101676603"
+          ],
+          "ISSN": [
+            "2364-3439"
+          ],
+          "ESSN": [
+            "2364-3420"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "82-93"
+  ],
+  "abstractText": [
+    "Recent advances in optogenetics have established a precisely timed and cell-specific methodology for understanding the functions of brain circuits and the mechanisms underlying neuropsychiatric disorders. However, the fabrication of optrodes, a key functional element in optogenetics, remains a great challenge. Here, we report reliable and efficient fabrication strategies for chronically implantable optrode arrays. To improve the performance of the fabricated optrode arrays, surfaces of the recording sites were modified using optimized electrochemical processes. We have also demonstrated the feasibility of using the fabricated optrode arrays to detect seizures in multiple brain regions and inhibit ictal propagation in vivo. Furthermore, the results of the histology study imply that the electrodeposition of composite conducting polymers notably alleviated the inflammatory response and improved neuronal survival at the implant/neural-tissue interface. In summary, we provide reliable and efficient strategies for the fabrication and modification of customized optrode arrays that can fulfill the requirements of in vivo optogenetic applications."
+  ],
+  "affiliation": [
+    "1Shenzhen Key Lab of Neuropsychiatric Modulation and Collaborative Innovation Center for Brain Science, CAS Center for Excellence in Brain Science and Intelligence Technology, The Brain Cognition and Brain Disease Institute, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, 518055 China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Electrophysiological recording",
+        "Electrodeposition",
+        "Optogenetics",
+        "Neural Electrode",
+        "Optical Stimulation",
+        "Optrode"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5937899?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5937899"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s41048-018-0052-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-05-15"
+  ],
+  "firstIndexDate": [
+    "2018-05-15"
+  ],
+  "dateOfRevision": [
+    "2018-05-17"
+  ],
+  "electronicPublicationDate": [
+    "2018-04-20"
+  ],
+  "firstPublicationDate": [
+    "2018-04-20"
+  ]
+}

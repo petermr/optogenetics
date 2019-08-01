@@ -1,0 +1,682 @@
+{
+  "id": [
+    "30819512"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30819512"
+  ],
+  "pmcid": [
+    "PMC6444071"
+  ],
+  "doi": [
+    "10.1016/j.ebiom.2019.02.042"
+  ],
+  "title": [
+    "Optogenetic augmentation of the hypercholinergic endophenotype in DYT1 knock-in mice induced erratic hyperactive movements but not dystonia."
+  ],
+  "authorString": [
+    "Richter F, Bauer A, Perl S, Schulz A, Richter A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Richter F"
+          ],
+          "firstName": [
+            "Franziska"
+          ],
+          "lastName": [
+            "Richter"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Institute of Pharmacology, Pharmacy and Toxicology, Department of Veterinary Medicine, Leipzig University, An den Tierkliniken 15, 04103 Leipzig, Germany. Electronic address: franziska.richter@vmf.uni-leipzig.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Bauer A"
+          ],
+          "firstName": [
+            "Anne"
+          ],
+          "lastName": [
+            "Bauer"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institute of Pharmacology, Pharmacy and Toxicology, Department of Veterinary Medicine, Leipzig University, An den Tierkliniken 15, 04103 Leipzig, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Perl S"
+          ],
+          "firstName": [
+            "Stefanie"
+          ],
+          "lastName": [
+            "Perl"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Institute of Pharmacology, Pharmacy and Toxicology, Department of Veterinary Medicine, Leipzig University, An den Tierkliniken 15, 04103 Leipzig, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Schulz A"
+          ],
+          "firstName": [
+            "Anja"
+          ],
+          "lastName": [
+            "Schulz"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institute of Pharmacology, Pharmacy and Toxicology, Department of Veterinary Medicine, Leipzig University, An den Tierkliniken 15, 04103 Leipzig, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Richter A"
+          ],
+          "firstName": [
+            "Angelika"
+          ],
+          "lastName": [
+            "Richter"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institute of Pharmacology, Pharmacy and Toxicology, Department of Veterinary Medicine, Leipzig University, An den Tierkliniken 15, 04103 Leipzig, Germany. Electronic address: angelika.richter@vetmed.uni-leipzig.de."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0803-4398",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "41"
+      ],
+      "journalIssueId": [
+        "2799079"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "EBioMedicine"
+          ],
+          "ISOAbbreviation": [
+            "EBioMedicine"
+          ],
+          "medlineAbbreviation": [
+            "EBioMedicine"
+          ],
+          "NLMid": [
+            "101647039"
+          ],
+          "ISSN": [
+            "2352-3964"
+          ],
+          "ESSN": [
+            "2352-3964"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "649-658"
+  ],
+  "abstractText": [
+    "BACKGROUND:The most prevalent inherited form of generalized dystonia is caused by a mutation in torsinA (DYT1, ∆GAG) with incomplete penetrance. Rodent models with mutated torsinA do not develop dystonic symptoms, but previous ex vivo studies indicated abnormal excitation of cholinergic interneurons (ChI) and increased striatal acetylcholine. METHODS:We used in vivo optogenetics to exacerbate this endophenotype in order to determine its capacity to trigger dystonic symptoms in freely behaving mice. Tor1a+/Δgag DYT1 mice and wildtype littermates expressing channelrhodopsin2 under the Chat promotor were implanted bilaterally with optical LED cannulae and stimulated with blue light pulses of varied durations. FINDINGS:Six months old DYT1 KI mice but not wildtype controls responded with hyperactivity to blue light specifically at 25 ms pulse duration, 10 Hz frequency. Neuronal activity (c-Fos) in cholinergic interneurons was increased immediately after light stimulation and persisted only in DYT1 KI over 15 min. Substance P was increased specifically in striosome compartments in naïve DYT1 KI mice compared to wildtype. Under optogenetic stimulation substance P increased in wildtype to match levels in Dyt1 KI, and acetylcholinesterase was elevated in the striatum of stimulated DYT1 KI. No signs of dystonic movements were observed under stimulation of up to one hour in both genotypes and age groups, and the sensorimotor deficit previously observed in 6 months old DYT1 KI mice persisted under stimulation. INTERPRETATION:Overall this supports an endophenotype of dysregulated cholinergic activity in DYT1 dystonia, but depolarizing cholinergic interneurons was not sufficient to induce overt dystonia in DYT1 KI mice."
+  ],
+  "affiliation": [
+    "Institute of Pharmacology, Pharmacy and Toxicology, Department of Veterinary Medicine, Leipzig University, An den Tierkliniken 15, 04103 Leipzig, Germany. Electronic address: franziska.richter@vmf.uni-leipzig.de."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice, Inbred C57BL"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice, Transgenic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Acetylcholinesterase"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Substance P"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Proto-Oncogene Proteins c-fos"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Molecular Chaperones"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Behavior, Animal"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "RE"
+                  ],
+                  "qualifierName": [
+                    "radiation effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Light"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Knock-In Techniques"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Endophenotypes"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cholinergic Neurons"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Optogenetics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Channelrhodopsins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "c-fos",
+        "Substance P",
+        "Movement Disorder",
+        "Optogenetics",
+        "Cholinergic Interneurons",
+        "Torsion Dystonia"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Dyt1 protein, mouse"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Acetylcholinesterase"
+          ],
+          "registryNumber": [
+            "EC 3.1.1.7"
+          ]
+        },
+        {
+          "name": [
+            "Substance P"
+          ],
+          "registryNumber": [
+            "33507-63-0"
+          ]
+        },
+        {
+          "name": [
+            "Molecular Chaperones"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Proto-Oncogene Proteins c-fos"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Channelrhodopsins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6444071?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6444071"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.ebiom.2019.02.042"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-07-12"
+  ],
+  "dateOfCreation": [
+    "2019-03-02"
+  ],
+  "firstIndexDate": [
+    "2019-03-02"
+  ],
+  "dateOfRevision": [
+    "2019-07-12"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-25"
+  ],
+  "firstPublicationDate": [
+    "2019-02-25"
+  ]
+}

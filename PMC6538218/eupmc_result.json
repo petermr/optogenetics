@@ -1,0 +1,369 @@
+{
+  "id": [
+    "31164998"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31164998"
+  ],
+  "pmcid": [
+    "PMC6538218"
+  ],
+  "doi": [
+    "10.14336/AD.2018.1220"
+  ],
+  "title": [
+    "The Neuronal Activation of Deep Cerebellar Nuclei Is Essential for Environmental Enrichment-Induced Post-Stroke Motor Recovery."
+  ],
+  "authorString": [
+    "Zhang Q, Wu JF, Shi QL, Li MY, Wang CJ, Wang X, Wang WY, Wu Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang Q"
+          ],
+          "firstName": [
+            "Qun"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "1Department of Rehabilitation Medicine, Huashan Hospital, Fudan University, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu JF"
+          ],
+          "firstName": [
+            "Jun-Fa"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "JF"
+          ],
+          "affiliation": [
+            "1Department of Rehabilitation Medicine, Huashan Hospital, Fudan University, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Shi QL"
+          ],
+          "firstName": [
+            "Qi-Li"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "QL"
+          ],
+          "affiliation": [
+            "2Stem Cell and Regenerative Medicine Laboratory, Ningbo Second Hospital, Zhejiang, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li MY"
+          ],
+          "firstName": [
+            "Ming-Yue"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "MY"
+          ],
+          "affiliation": [
+            "5Department of Rehabilitation Medicine, The Third Affiliated Hospital, Sun Yat-sen University, Guangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang CJ"
+          ],
+          "firstName": [
+            "Chuan-Jie"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "CJ"
+          ],
+          "affiliation": [
+            "1Department of Rehabilitation Medicine, Huashan Hospital, Fudan University, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang X"
+          ],
+          "firstName": [
+            "Xin"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "6Department of Rehabilitation, Clinical Medical College, Yangzhou University, Jiangsu, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang WY"
+          ],
+          "firstName": [
+            "Wen-Yuan"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "WY"
+          ],
+          "affiliation": [
+            "4Interdisciplinary Research Center on Biology and Chemistry, Shanghai Institute of Organic Chemistry, Chinese Academy of Sciences, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu Y"
+          ],
+          "firstName": [
+            "Yi"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "1Department of Rehabilitation Medicine, Huashan Hospital, Fudan University, Shanghai, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2825014"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Aging and disease"
+          ],
+          "ISOAbbreviation": [
+            "Aging Dis"
+          ],
+          "medlineAbbreviation": [
+            "Aging Dis"
+          ],
+          "NLMid": [
+            "101540533"
+          ],
+          "ISSN": [
+            "2152-5250"
+          ],
+          "ESSN": [
+            "2152-5250"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "530-543"
+  ],
+  "abstractText": [
+    "The level of cerebellar activity in stroke patients has been shown to correlate with the extent of functional recovery. We reasoned that the cerebellum may be an important player in post-stroke rehabilitation. Because the neurons in the deep cerebellar nuclei (DCN) represent virtually all of the output from the cerebellum, in this study, using environmental enrichment (EE) to promote rehabilitation, we investigated the influence of the optogenetic neuronal modulation of DCN on EE-induced rehabilitation. We found that neuronal inhibition of the DCN almost completely blocked motor recovery in EE treated mice, but the stroke mice with neuronal activation of the DCN achieved a similar recovery level as those in the EE treated group. No difference was observed in anxiety-like behavior. Moreover, Htr2a in the DCN, the gene encoding 5-HT2A receptor, was shown to be a hub gene in the protein-protein interaction network identified using RNA-seq. This indicated that 5-HT2A receptor-mediated signaling may be responsible for DCN-dependent functional improvement in EE. We further verified this using the 5-HT2A receptor antagonist, MDL100907, to inhibit the function of 5-HT2A receptor in the DCN. This treatment resulted in impaired recovery in EE treated mice, who performed at a level as poor as the stroke-only group. Thus, this work contributes to an understanding of the importance of the DCN activation in EE-induced post-stroke rehabilitation. Attempts to clarify the mechanism of 5-HT2A receptor-mediated signaling in the DCN may also lead to the creation of a pharmacological mimetic of the benefits of EE-induced rehabilitation."
+  ],
+  "affiliation": [
+    "1Department of Rehabilitation Medicine, Huashan Hospital, Fudan University, Shanghai, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Environmental enrichment",
+        "Optogenetics",
+        "Photothrombosis",
+        "Htr2a",
+        "Dcn"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6538218?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6538218"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.14336/AD.2018.1220"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-06"
+  ],
+  "firstIndexDate": [
+    "2019-06-12"
+  ],
+  "dateOfRevision": [
+    "2019-06-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-01"
+  ],
+  "firstPublicationDate": [
+    "2019-06-01"
+  ]
+}

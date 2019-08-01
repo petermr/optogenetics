@@ -1,0 +1,525 @@
+{
+  "id": [
+    "29109253"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29109253"
+  ],
+  "pmcid": [
+    "PMC5748169"
+  ],
+  "doi": [
+    "10.1073/pnas.1706969114"
+  ],
+  "title": [
+    "A transient dopamine signal encodes subjective value and causally influences demand in an economic context."
+  ],
+  "authorString": [
+    "Schelp SA, Pultorak KJ, Rakowski DR, Gomez DM, Krzystyniak G, Das R, Oleson EB."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Schelp SA"
+          ],
+          "firstName": [
+            "Scott A"
+          ],
+          "lastName": [
+            "Schelp"
+          ],
+          "initials": [
+            "SA"
+          ],
+          "affiliation": [
+            "Psychology Department, University of Colorado Denver, Denver, CO 80217."
+          ]
+        },
+        {
+          "fullName": [
+            "Pultorak KJ"
+          ],
+          "firstName": [
+            "Katherine J"
+          ],
+          "lastName": [
+            "Pultorak"
+          ],
+          "initials": [
+            "KJ"
+          ],
+          "affiliation": [
+            "Psychology Department, University of Colorado Denver, Denver, CO 80217."
+          ]
+        },
+        {
+          "fullName": [
+            "Rakowski DR"
+          ],
+          "firstName": [
+            "Dylan R"
+          ],
+          "lastName": [
+            "Rakowski"
+          ],
+          "initials": [
+            "DR"
+          ],
+          "affiliation": [
+            "Psychology Department, University of Colorado Denver, Denver, CO 80217."
+          ]
+        },
+        {
+          "fullName": [
+            "Gomez DM"
+          ],
+          "firstName": [
+            "Devan M"
+          ],
+          "lastName": [
+            "Gomez"
+          ],
+          "initials": [
+            "DM"
+          ],
+          "affiliation": [
+            "Psychology Department, University of Colorado Denver, Denver, CO 80217."
+          ]
+        },
+        {
+          "fullName": [
+            "Krzystyniak G"
+          ],
+          "firstName": [
+            "Gregory"
+          ],
+          "lastName": [
+            "Krzystyniak"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Psychology Department, University of Colorado Denver, Denver, CO 80217."
+          ]
+        },
+        {
+          "fullName": [
+            "Das R"
+          ],
+          "firstName": [
+            "Raibatak"
+          ],
+          "lastName": [
+            "Das"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Psychology Department, University of Colorado Denver, Denver, CO 80217."
+          ]
+        },
+        {
+          "fullName": [
+            "Oleson EB"
+          ],
+          "firstName": [
+            "Erik B"
+          ],
+          "lastName": [
+            "Oleson"
+          ],
+          "initials": [
+            "EB"
+          ],
+          "affiliation": [
+            "Psychology Department, University of Colorado Denver, Denver, CO 80217 erik.oleson@ucdenver.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "52"
+      ],
+      "volume": [
+        "114"
+      ],
+      "journalIssueId": [
+        "2632803"
+      ],
+      "dateOfPublication": [
+        "2017 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Proceedings of the National Academy of Sciences of the United States of America"
+          ],
+          "ISOAbbreviation": [
+            "Proc. Natl. Acad. Sci. U.S.A."
+          ],
+          "medlineAbbreviation": [
+            "Proc Natl Acad Sci U S A"
+          ],
+          "NLMid": [
+            "7505876"
+          ],
+          "ISSN": [
+            "0027-8424"
+          ],
+          "ESSN": [
+            "1091-6490"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "E11303-E11312"
+  ],
+  "abstractText": [
+    "The mesolimbic dopamine system is strongly implicated in motivational processes. Currently accepted theories suggest that transient mesolimbic dopamine release events energize reward seeking and encode reward value. During the pursuit of reward, critical associations are formed between the reward and cues that predict its availability. Conditioned by these experiences, dopamine neurons begin to fire upon the earliest presentation of a cue, and again at the receipt of reward. The resulting dopamine concentration scales proportionally to the value of the reward. In this study, we used a behavioral economics approach to quantify how transient dopamine release events scale with price and causally alter price sensitivity. We presented sucrose to rats across a range of prices and modeled the resulting demand curves to estimate price sensitivity. Using fast-scan cyclic voltammetry, we determined that the concentration of accumbal dopamine time-locked to cue presentation decreased with price. These data confirm and extend the notion that dopamine release events originating in the ventral tegmental area encode subjective value. Using optogenetics to augment dopamine concentration, we found that enhancing dopamine release at cue made demand more sensitive to price and decreased dopamine concentration at reward delivery. From these observations, we infer that value is decreased because of a negative reward prediction error (i.e., the animal receives less than expected). Conversely, enhancing dopamine at reward made demand less sensitive to price. We attribute this finding to a positive reward prediction error, whereby the animal perceives they received a better value than anticipated."
+  ],
+  "affiliation": [
+    "Psychology Department, University of Colorado Denver, Denver, CO 80217."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R03 DA038734"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nucleus Accumbens"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rats"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rats, Long-Evans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dopamine"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Behavior, Animal"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Dopamine",
+        "Value",
+        "Motivation",
+        "Behavioral Economics",
+        "Demand"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Dopamine"
+          ],
+          "registryNumber": [
+            "VTD58H1Z2X"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5748169?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5748169"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1073/pnas.1706969114"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "29233946"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Proc Natl Acad Sci U S A. 2017 Dec 26;114(52):13597-13599"
+          ],
+          "type": [
+            "Comment in"
+          ],
+          "orderIn": [
+            "49"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "8"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-07-09"
+  ],
+  "dateOfCreation": [
+    "2017-11-08"
+  ],
+  "firstIndexDate": [
+    "2017-11-08"
+  ],
+  "dateOfRevision": [
+    "2018-07-09"
+  ],
+  "electronicPublicationDate": [
+    "2017-11-06"
+  ],
+  "firstPublicationDate": [
+    "2017-11-06"
+  ]
+}

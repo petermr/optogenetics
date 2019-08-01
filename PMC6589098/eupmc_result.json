@@ -1,0 +1,519 @@
+{
+  "id": [
+    "31226244"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31226244"
+  ],
+  "pmcid": [
+    "PMC6589098"
+  ],
+  "doi": [
+    "10.7554/eLife.43924"
+  ],
+  "title": [
+    "optoPAD, a closed-loop optogenetics system to study the circuit basis of feeding behaviors."
+  ],
+  "authorString": [
+    "Moreira JM, Itskov PM, Goldschmidt D, Baltazar C, Steck K, Tastekin I, Walker SJ, Ribeiro C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Moreira JM"
+          ],
+          "firstName": [
+            "José-Maria"
+          ],
+          "lastName": [
+            "Moreira"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2420-7930",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Champalimaud Centre for the Unknown, Lisbon, Portugal."
+          ]
+        },
+        {
+          "fullName": [
+            "Itskov PM"
+          ],
+          "firstName": [
+            "Pavel M"
+          ],
+          "lastName": [
+            "Itskov"
+          ],
+          "initials": [
+            "PM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2191-7083",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Champalimaud Centre for the Unknown, Lisbon, Portugal."
+          ]
+        },
+        {
+          "fullName": [
+            "Goldschmidt D"
+          ],
+          "firstName": [
+            "Dennis"
+          ],
+          "lastName": [
+            "Goldschmidt"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0603-7176",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Champalimaud Centre for the Unknown, Lisbon, Portugal."
+          ]
+        },
+        {
+          "fullName": [
+            "Baltazar C"
+          ],
+          "firstName": [
+            "Celia"
+          ],
+          "lastName": [
+            "Baltazar"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Champalimaud Centre for the Unknown, Lisbon, Portugal."
+          ]
+        },
+        {
+          "fullName": [
+            "Steck K"
+          ],
+          "firstName": [
+            "Kathrin"
+          ],
+          "lastName": [
+            "Steck"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2711-2873",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Champalimaud Centre for the Unknown, Lisbon, Portugal."
+          ]
+        },
+        {
+          "fullName": [
+            "Tastekin I"
+          ],
+          "firstName": [
+            "Ibrahim"
+          ],
+          "lastName": [
+            "Tastekin"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Champalimaud Centre for the Unknown, Lisbon, Portugal."
+          ]
+        },
+        {
+          "fullName": [
+            "Walker SJ"
+          ],
+          "firstName": [
+            "Samuel J"
+          ],
+          "lastName": [
+            "Walker"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3118-8467",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Champalimaud Centre for the Unknown, Lisbon, Portugal."
+          ]
+        },
+        {
+          "fullName": [
+            "Ribeiro C"
+          ],
+          "firstName": [
+            "Carlos"
+          ],
+          "lastName": [
+            "Ribeiro"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9542-7335",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Champalimaud Centre for the Unknown, Lisbon, Portugal."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2420-7930",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0603-7176",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2191-7083",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9542-7335",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3118-8467",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2711-2873",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2822821"
+      ],
+      "dateOfPublication": [
+        "2019 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "eLife"
+          ],
+          "ISOAbbreviation": [
+            "Elife"
+          ],
+          "medlineAbbreviation": [
+            "Elife"
+          ],
+          "NLMid": [
+            "101579614"
+          ],
+          "ISSN": [
+            "2050-084X"
+          ],
+          "ESSN": [
+            "2050-084X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "The regulation of feeding plays a key role in determining the fitness of animals through its impact on nutrition. Elucidating the circuit basis of feeding and related behaviors is an important goal in neuroscience. We recently used a system for closed-loop optogenetic manipulation of neurons contingent on the feeding behavior of Drosophila to dissect the impact of a specific subset of taste neurons on yeast feeding. Here, we describe the development and validation of this system, which we term the optoPAD. We use the optoPAD to induce appetitive and aversive effects on feeding by activating or inhibiting gustatory neurons in closed-loop - effectively creating virtual taste realities. The use of optogenetics allowed us to vary the dynamics and probability of stimulation in single flies and assess the impact on feeding behavior quantitatively and with high throughput. These data demonstrate that the optoPAD is a powerful tool to dissect the circuit basis of feeding behavior, allowing the efficient implementation of sophisticated behavioral paradigms to study the mechanistic basis of animals' adaptation to dynamic environments."
+  ],
+  "affiliation": [
+    "Champalimaud Centre for the Unknown, Lisbon, Portugal."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "279/16"
+          ],
+          "agency": [
+            "Fundação Bial"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "283/14"
+          ],
+          "agency": [
+            "Fundação Bial"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "SFRH/BPD/79325/2011"
+          ],
+          "agency": [
+            "Fundação para a Ciência e a Tecnologia"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "PD/BD/114273/2016"
+          ],
+          "agency": [
+            "Fundação para a Ciência e a Tecnologia"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P40 OD018537"
+          ],
+          "agency": [
+            "NIH HHS"
+          ],
+          "acronym": [
+            "OD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Behavior",
+        "Feeding",
+        "Methods",
+        "Neuroscience",
+        "Taste",
+        "Optogenetics",
+        "D. Melanogaster"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6589098?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6589098"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7554/eLife.43924"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-06-22"
+  ],
+  "firstIndexDate": [
+    "2019-06-24"
+  ],
+  "dateOfRevision": [
+    "2019-06-26"
+  ],
+  "electronicPublicationDate": [
+    "2019-06-22"
+  ],
+  "firstPublicationDate": [
+    "2019-06-22"
+  ]
+}

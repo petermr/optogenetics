@@ -1,0 +1,333 @@
+{
+  "id": [
+    "31139071"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31139071"
+  ],
+  "pmcid": [
+    "PMC6527892"
+  ],
+  "doi": [
+    "10.3389/fnsyn.2019.00014"
+  ],
+  "title": [
+    "Major Contribution of Somatostatin-Expressing Interneurons and Cannabinoid Receptors to Increased GABA Synaptic Activity in the Striatum of Huntington's Disease Mice."
+  ],
+  "authorString": [
+    "Holley SM, Galvan L, Kamdjou T, Dong A, Levine MS, Cepeda C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Holley SM"
+          ],
+          "firstName": [
+            "Sandra M"
+          ],
+          "lastName": [
+            "Holley"
+          ],
+          "initials": [
+            "SM"
+          ],
+          "affiliation": [
+            "Intellectual and Developmental Disabilities Research Center, Department of Psychiatry and Biobehavioral Sciences, Jane and Terry Semel Institute for Neuroscience and Human Behavior, Brain Research Institute, University of California, Los Angeles, Los Angeles, CA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Galvan L"
+          ],
+          "firstName": [
+            "Laurie"
+          ],
+          "lastName": [
+            "Galvan"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Intellectual and Developmental Disabilities Research Center, Department of Psychiatry and Biobehavioral Sciences, Jane and Terry Semel Institute for Neuroscience and Human Behavior, Brain Research Institute, University of California, Los Angeles, Los Angeles, CA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Kamdjou T"
+          ],
+          "firstName": [
+            "Talia"
+          ],
+          "lastName": [
+            "Kamdjou"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Intellectual and Developmental Disabilities Research Center, Department of Psychiatry and Biobehavioral Sciences, Jane and Terry Semel Institute for Neuroscience and Human Behavior, Brain Research Institute, University of California, Los Angeles, Los Angeles, CA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Dong A"
+          ],
+          "firstName": [
+            "Ashley"
+          ],
+          "lastName": [
+            "Dong"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Intellectual and Developmental Disabilities Research Center, Department of Psychiatry and Biobehavioral Sciences, Jane and Terry Semel Institute for Neuroscience and Human Behavior, Brain Research Institute, University of California, Los Angeles, Los Angeles, CA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Levine MS"
+          ],
+          "firstName": [
+            "Michael S"
+          ],
+          "lastName": [
+            "Levine"
+          ],
+          "initials": [
+            "MS"
+          ],
+          "affiliation": [
+            "Intellectual and Developmental Disabilities Research Center, Department of Psychiatry and Biobehavioral Sciences, Jane and Terry Semel Institute for Neuroscience and Human Behavior, Brain Research Institute, University of California, Los Angeles, Los Angeles, CA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Cepeda C"
+          ],
+          "firstName": [
+            "Carlos"
+          ],
+          "lastName": [
+            "Cepeda"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Intellectual and Developmental Disabilities Research Center, Department of Psychiatry and Biobehavioral Sciences, Jane and Terry Semel Institute for Neuroscience and Human Behavior, Brain Research Institute, University of California, Los Angeles, Los Angeles, CA, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2785580"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in synaptic neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Synaptic Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Synaptic Neurosci"
+          ],
+          "NLMid": [
+            "101548972"
+          ],
+          "ISSN": [
+            "1663-3563"
+          ],
+          "ESSN": [
+            "1663-3563"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "14"
+  ],
+  "abstractText": [
+    "Huntington's disease (HD) is a heritable neurological disorder that affects cognitive and motor performance in patients carrying the mutated huntingtin (HTT) gene. In mouse models of HD, previous reports showed a significant increase in spontaneous GABAA receptor-mediated synaptic activity in striatal spiny projection neurons (SPNs). In this study, using optogenetics and slice electrophysiology, we examined the contribution of γ-aminobutyric acid (GABA)-ergic parvalbumin (PV)- and somatostatin (SOM)-expressing interneurons to the increase in GABA neurotransmission using the Q175 (heterozygote) mouse model of HD. Patch clamp recordings in voltage-clamp mode were performed on SPNs from brain slices of presymptomatic (2 months) and symptomatic (8 and 12 months) Q175 mice and wildtype (WT) littermates. While inhibitory postsynaptic currents (IPSCs) evoked in SPNs following optical activation of PV- and SOM-expressing interneurons differed in amplitude, no genotype-dependent differences were observed at all ages from both interneuron types; however, responses evoked by either type were found to have faster kinetics in symptomatic mice. Since SOM-expressing interneurons are constitutively active in striatal brain slices, we then examined the effects of acutely silencing these neurons in symptomatic mice with enhanced Natronomonas pharaonis halorhodopsin (eNpHR). Optically silencing SOM-expressing interneurons resulted in a greater decrease in the frequency of spontaneous IPSCs (sIPSCs) in a subset of SPNs from Q175 mice compared to WTs, suggesting that SOM-expressing interneurons are the main contributors to the overall increased GABA synaptic activity in HD SPNs. Additionally, the effects of activating GABAB and cannabinoid (CB1) receptors were investigated to determine whether these receptors were involved in modulating interneuron-specific GABA synaptic transmission and if this modulation differed in HD mice. When selectively activating PV- and SOM-expressing interneurons in the presence of the CB1 receptor agonist WIN-55,212, the magnitudes of the evoked IPSCs in SPNs decreased for both interneuron types although this change was less prominent in symptomatic Q175 SPNs during SOM-expressing interneuron activation. Overall, these findings show that dysfunction of SOM-expressing interneurons contributes to the increased GABA synaptic activity found in HD mouse models and that dysregulation of the endocannabinoid system may contribute to this effect."
+  ],
+  "affiliation": [
+    "Intellectual and Developmental Disabilities Research Center, Department of Psychiatry and Biobehavioral Sciences, Jane and Terry Semel Institute for Neuroscience and Human Behavior, Brain Research Institute, University of California, Los Angeles, Los Angeles, CA, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Electrophysiology",
+        "Striatum",
+        "Optogenetics",
+        "Cb1 Receptors",
+        "Gaba Interneurons",
+        "Huntington’s Disease (Hd)"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6527892?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6527892"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnsyn.2019.00014"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-05-30"
+  ],
+  "firstIndexDate": [
+    "2019-05-31"
+  ],
+  "dateOfRevision": [
+    "2019-06-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-05-14"
+  ],
+  "firstPublicationDate": [
+    "2019-05-14"
+  ]
+}

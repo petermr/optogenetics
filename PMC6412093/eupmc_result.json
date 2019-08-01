@@ -1,0 +1,372 @@
+{
+  "id": [
+    "30890951"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30890951"
+  ],
+  "pmcid": [
+    "PMC6412093"
+  ],
+  "doi": [
+    "10.3389/fphys.2019.00168"
+  ],
+  "title": [
+    "Adeno-Associated Virus Mediated Gene Delivery: Implications for Scalable in vitro and in vivo Cardiac Optogenetic Models."
+  ],
+  "authorString": [
+    "Ambrosi CM, Sadananda G, Han JL, Entcheva E."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ambrosi CM"
+          ],
+          "firstName": [
+            "Christina M"
+          ],
+          "lastName": [
+            "Ambrosi"
+          ],
+          "initials": [
+            "CM"
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, Stony Brook University, Stony Brook, NY, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Sadananda G"
+          ],
+          "firstName": [
+            "Gouri"
+          ],
+          "lastName": [
+            "Sadananda"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, Stony Brook University, Stony Brook, NY, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Han JL"
+          ],
+          "firstName": [
+            "Julie L"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "JL"
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, George Washington University, Washington, DC, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Entcheva E"
+          ],
+          "firstName": [
+            "Emilia"
+          ],
+          "lastName": [
+            "Entcheva"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, Stony Brook University, Stony Brook, NY, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2777617"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in physiology"
+          ],
+          "ISOAbbreviation": [
+            "Front Physiol"
+          ],
+          "medlineAbbreviation": [
+            "Front Physiol"
+          ],
+          "NLMid": [
+            "101549006"
+          ],
+          "ISSN": [
+            "1664-042X"
+          ],
+          "ESSN": [
+            "1664-042X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "168"
+  ],
+  "abstractText": [
+    "Adeno-associated viruses (AAVs) provide advantages in long-term, cardiac-specific gene expression. However, AAV serotype specificity data is lacking in experimental models relevant to cardiac electrophysiology and cardiac optogenetics. We aimed to identify the optimal AAV serotype (1, 6, or 9) in pursuit of scalable rodent and human models using genetic modifications in cardiac electrophysiology and optogenetics, in particular, as well as to elucidate the mechanism of virus uptake. In vitro syncytia of primary neonatal rat ventricular cardiomyocytes (NRVMs) and human induced pluripotent stem cell-derived cardiomyocytes (hiPSC-CMs) were infected with AAVs 1, 6, and 9 containing the transgene for eGFP or channelrhodopsin-2 (ChR2) fused to mCherry. In vivo adult rats were intravenously injected with AAV1 and 9 containing ChR2-mCherry. Transgene expression profiles of rat and human cells in vitro revealed that AAV1 and 6 significantly outperformed AAV9. In contrast, systemic delivery of AAV9 in adult rat hearts yielded significantly higher levels of ChR2-mCherry expression and optogenetic responsiveness. We tracked the mechanism of virus uptake to purported receptor-mediators for AAV1/6 (cell surface sialic acid) and AAV9 (37/67 kDa laminin receptor, LamR). In vitro desialylation of NRVMs and hiPSC-CMs with neuraminidase (NM) significantly decreased AAV1,6-mediated gene expression, but interestingly, desialylation of hiPSC-CMs increased AAV9-mediated expression. In fact, only very high viral doses of AAV9-ChR2-mCherry, combined with NM treatment, yielded consistent optogenetic responsiveness in hiPSC-CMs. Differences between the in vitro and in vivo performance of AAV9 could be correlated to robust LamR expression in the intact heart (neonatal rat hearts as well as adult human and rat hearts), but no expression in vitro in cultured cells (primary rat cells and hiPS-CMs). The dynamic nature of LamR expression and its dependence on environmental factors was further corroborated in intact adult human ventricular tissue. The combined transgene expression and cell surface receptor data may explain the preferential efficiency of AAV1/6 in vitro and AAV9 in vivo for cardiac delivery and mechanistic knowledge of their action can help guide cardiac optogenetic efforts. More broadly, these findings are relevant to future efforts in gene therapy for cardiac electrophysiology abnormalities in vivo as well as for genetic modifications of cardiomyocytes by viral means in vitro applications such as disease modeling or high-throughput drug testing."
+  ],
+  "affiliation": [
+    "Department of Biomedical Engineering, Stony Brook University, Stony Brook, NY, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 HL111649"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R21 EB023106"
+          ],
+          "agency": [
+            "NIBIB NIH HHS"
+          ],
+          "acronym": [
+            "EB"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 HL144157"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Gene therapy",
+        "Sialic acid",
+        "AAV",
+        "Channelrhodopsin-2",
+        "Rat heart",
+        "Lamr",
+        "Cardiac Optogenetics",
+        "Ips-cm"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6412093?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6412093"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fphys.2019.00168"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR25462"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-03-21"
+  ],
+  "firstIndexDate": [
+    "2019-03-21"
+  ],
+  "dateOfRevision": [
+    "2019-03-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-05"
+  ],
+  "firstPublicationDate": [
+    "2019-03-05"
+  ]
+}

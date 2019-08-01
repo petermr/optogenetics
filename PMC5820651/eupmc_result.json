@@ -1,0 +1,880 @@
+{
+  "id": [
+    "29301067"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29301067"
+  ],
+  "pmcid": [
+    "PMC5820651"
+  ],
+  "doi": [
+    "10.1021/acssynbio.7b00413"
+  ],
+  "title": [
+    "Biosynthesis of Orthogonal Molecules Using Ferredoxin and Ferredoxin-NADP+ Reductase Systems Enables Genetically Encoded PhyB Optogenetics."
+  ],
+  "authorString": [
+    "Kyriakakis P, Catanho M, Hoffner N, Thavarajah W, Hu VJ, Chao SS, Hsu A, Pham V, Naghavian L, Dozier LE, Patrick GN, Coleman TP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kyriakakis P"
+          ],
+          "firstName": [
+            "Phillip"
+          ],
+          "lastName": [
+            "Kyriakakis"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0465-8251",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Bioengineering, University of California, San Diego , 9500 Gilman Drive, La Jolla, California 92093-0412, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Catanho M"
+          ],
+          "firstName": [
+            "Marianne"
+          ],
+          "lastName": [
+            "Catanho"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Bioengineering, University of California, San Diego , 9500 Gilman Drive, La Jolla, California 92093-0412, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Hoffner N"
+          ],
+          "firstName": [
+            "Nicole"
+          ],
+          "lastName": [
+            "Hoffner"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Neurosciences Graduate Program, University of California, San Diego , 9500 Gilman Drive, La Jolla, California 92093-0412, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Thavarajah W"
+          ],
+          "firstName": [
+            "Walter"
+          ],
+          "lastName": [
+            "Thavarajah"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Department of Bioengineering, University of California, San Diego , 9500 Gilman Drive, La Jolla, California 92093-0412, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Hu VJ"
+          ],
+          "firstName": [
+            "Vincent J"
+          ],
+          "lastName": [
+            "Hu"
+          ],
+          "initials": [
+            "VJ"
+          ],
+          "affiliation": [
+            "Department of Bioengineering, University of California, San Diego , 9500 Gilman Drive, La Jolla, California 92093-0412, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Chao SS"
+          ],
+          "firstName": [
+            "Syh-Shiuan"
+          ],
+          "lastName": [
+            "Chao"
+          ],
+          "initials": [
+            "SS"
+          ],
+          "affiliation": [
+            "Frank H. Better School of Medicine, Quinnipiac University , 370 Bassett Road, North Haven, Connecticut 06473, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Hsu A"
+          ],
+          "firstName": [
+            "Athena"
+          ],
+          "lastName": [
+            "Hsu"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "School of Medicine, University of California, San Diego , 9500 Gilman Drive, La Jolla, California 92093-0412, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Pham V"
+          ],
+          "firstName": [
+            "Vivian"
+          ],
+          "lastName": [
+            "Pham"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Roy J. and Lucille A. Carver College of Medicine, University of Iowa , 451 Newton Road, Iowa City, Iowa 52242, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Naghavian L"
+          ],
+          "firstName": [
+            "Ladan"
+          ],
+          "lastName": [
+            "Naghavian"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Bioengineering, University of California, San Diego , 9500 Gilman Drive, La Jolla, California 92093-0412, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Dozier LE"
+          ],
+          "firstName": [
+            "Lara E"
+          ],
+          "lastName": [
+            "Dozier"
+          ],
+          "initials": [
+            "LE"
+          ],
+          "affiliation": [
+            "Section of Neurobiology, Division of Biological Sciences, University of California, San Diego , La Jolla, California 92093-0347, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Patrick GN"
+          ],
+          "firstName": [
+            "Gentry N"
+          ],
+          "lastName": [
+            "Patrick"
+          ],
+          "initials": [
+            "GN"
+          ],
+          "affiliation": [
+            "Section of Neurobiology, Division of Biological Sciences, University of California, San Diego , La Jolla, California 92093-0347, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Coleman TP"
+          ],
+          "firstName": [
+            "Todd P"
+          ],
+          "lastName": [
+            "Coleman"
+          ],
+          "initials": [
+            "TP"
+          ],
+          "affiliation": [
+            "Department of Bioengineering, University of California, San Diego , 9500 Gilman Drive, La Jolla, California 92093-0412, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0465-8251",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2652365"
+      ],
+      "dateOfPublication": [
+        "2018 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "ACS synthetic biology"
+          ],
+          "ISOAbbreviation": [
+            "ACS Synth Biol"
+          ],
+          "medlineAbbreviation": [
+            "ACS Synth Biol"
+          ],
+          "NLMid": [
+            "101575075"
+          ],
+          "ISSN": [
+            "2161-5063"
+          ],
+          "ESSN": [
+            "2161-5063"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "706-717"
+  ],
+  "abstractText": [
+    "Transplanting metabolic reactions from one species into another has many uses as a research tool with applications ranging from optogenetics to crop production. Ferredoxin (Fd), the enzyme that most often supplies electrons to these reactions, is often overlooked when transplanting enzymes from one species to another because most cells already contain endogenous Fd. However, we have shown that the production of chromophores used in Phytochrome B (PhyB) optogenetics is greatly enhanced in mammalian cells by expressing bacterial and plant Fds with ferredoxin-NADP+ reductases (FNR). We delineated the rate limiting factors and found that the main metabolic precursor, heme, was not the primary limiting factor for producing either the cyanobacterial or plant chromophores, phycocyanobilin or phytochromobilin, respectively. In fact, Fd is limiting, followed by Fd+FNR and finally heme. Using these findings, we optimized the PCB production system and combined it with a tissue penetrating red/far-red sensing PhyB optogenetic gene switch in animal cells. We further characterized this system in several mammalian cell lines using red and far-red light. Importantly, we found that the light-switchable gene system remains active for several hours upon illumination, even with a short light pulse, and requires very small amounts of light for maximal activation. Boosting chromophore production by matching metabolic pathways with specific ferredoxin systems will enable the unparalleled use of the many PhyB optogenetic tools and has broader implications for optimizing synthetic metabolic pathways."
+  ],
+  "affiliation": [
+    "Department of Bioengineering, University of California, San Diego , 9500 Gilman Drive, La Jolla, California 92093-0412, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "P30 NS047101"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "T32 GM007240"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "T32 EB009380"
+          ],
+          "agency": [
+            "NIBIB NIH HHS"
+          ],
+          "acronym": [
+            "EB"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 NS060847"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Synechococcus"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Arabidopsis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Bacterial Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BI"
+                  ],
+                  "qualifierName": [
+                    "biosynthesis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Ferredoxins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BI"
+                  ],
+                  "qualifierName": [
+                    "biosynthesis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Arabidopsis Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BI"
+                  ],
+                  "qualifierName": [
+                    "biosynthesis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Sulfite Reductase (Ferredoxin)"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BI"
+                  ],
+                  "qualifierName": [
+                    "biosynthesis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Phytochrome B"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BI"
+                  ],
+                  "qualifierName": [
+                    "biosynthesis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "HEK293 Cells"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Optogenetics"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Phycocyanobilin",
+        "phytochrome",
+        "ferredoxin",
+        "Optogenetics",
+        "Fnr",
+        "Phytochromobilin"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Ferredoxins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Bacterial Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Arabidopsis Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "phytochrome B"
+          ],
+          "registryNumber": [
+            "136250-22-1"
+          ]
+        },
+        {
+          "name": [
+            "PHYB protein, Arabidopsis"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Sulfite Reductase (Ferredoxin)"
+          ],
+          "registryNumber": [
+            "EC 1.8.7.1"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5820651?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5820651"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1021/acssynbio.7b00413"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-08-29"
+  ],
+  "dateOfCreation": [
+    "2018-01-05"
+  ],
+  "firstIndexDate": [
+    "2018-01-05"
+  ],
+  "dateOfRevision": [
+    "2018-08-29"
+  ],
+  "electronicPublicationDate": [
+    "2018-01-24"
+  ],
+  "firstPublicationDate": [
+    "2018-01-24"
+  ]
+}

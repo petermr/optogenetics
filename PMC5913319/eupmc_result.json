@@ -1,0 +1,753 @@
+{
+  "id": [
+    "29581421"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29581421"
+  ],
+  "pmcid": [
+    "PMC5913319"
+  ],
+  "doi": [
+    "10.1038/s41398-018-0121-y"
+  ],
+  "title": [
+    "Lateral habenula perturbation reduces default-mode network connectivity in a rat model of depression."
+  ],
+  "authorString": [
+    "Clemm von Hohenberg C, Weber-Fahr W, Lebhardt P, Ravi N, Braun U, Gass N, Gass N, Becker R, Sack M, Cosa Linan A, Gerchen MF, Reinwald JR, Oettl LL, Meyer-Lindenberg A, Vollmayr B, Kelsch W, Sartorius A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Clemm von Hohenberg C"
+          ],
+          "firstName": [
+            "Christian"
+          ],
+          "lastName": [
+            "Clemm von Hohenberg"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7510-2325",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "RG Translational Imaging, Department of Neuroimaging, Central Institute of Mental Health, Medical Faculty Mannheim, University of Heidelberg, Mannheim, Germany. christian.clemm@zi-mannheim.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Weber-Fahr W"
+          ],
+          "firstName": [
+            "Wolfgang"
+          ],
+          "lastName": [
+            "Weber-Fahr"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "RG Translational Imaging, Department of Neuroimaging, Central Institute of Mental Health, Medical Faculty Mannheim, University of Heidelberg, Mannheim, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Lebhardt P"
+          ],
+          "firstName": [
+            "Philipp"
+          ],
+          "lastName": [
+            "Lebhardt"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "RG Translational Imaging, Department of Neuroimaging, Central Institute of Mental Health, Medical Faculty Mannheim, University of Heidelberg, Mannheim, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Ravi N"
+          ],
+          "firstName": [
+            "Namasivayam"
+          ],
+          "lastName": [
+            "Ravi"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "RG Developmental Biology of Psychiatric Disorders, Department of Psychiatry, Central Institute of Mental Health, Medical Faculty Mannheim, University of Heidelberg, Mannheim, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Braun U"
+          ],
+          "firstName": [
+            "Urs"
+          ],
+          "lastName": [
+            "Braun"
+          ],
+          "initials": [
+            "U"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Psychotherapy, Central Institute of Mental Health, Medical Faculty Mannheim, University of Heidelberg, Mannheim, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Gass N"
+          ],
+          "firstName": [
+            "Natalia"
+          ],
+          "lastName": [
+            "Gass"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4047-2817",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "RG Translational Imaging, Department of Neuroimaging, Central Institute of Mental Health, Medical Faculty Mannheim, University of Heidelberg, Mannheim, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Gass N"
+          ],
+          "firstName": [
+            "Natalia"
+          ],
+          "lastName": [
+            "Gass"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7654-0570",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "RG Translational Imaging, Department of Neuroimaging, Central Institute of Mental Health, Medical Faculty Mannheim, University of Heidelberg, Mannheim, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Becker R"
+          ],
+          "firstName": [
+            "Robert"
+          ],
+          "lastName": [
+            "Becker"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4080-4452",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "RG Translational Imaging, Department of Neuroimaging, Central Institute of Mental Health, Medical Faculty Mannheim, University of Heidelberg, Mannheim, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Sack M"
+          ],
+          "firstName": [
+            "Markus"
+          ],
+          "lastName": [
+            "Sack"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "RG Translational Imaging, Department of Neuroimaging, Central Institute of Mental Health, Medical Faculty Mannheim, University of Heidelberg, Mannheim, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Cosa Linan A"
+          ],
+          "firstName": [
+            "Alejandro"
+          ],
+          "lastName": [
+            "Cosa Linan"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institute of Psychopharmacology, Central Institute of Mental Health, Medical Faculty Mannheim, University of Heidelberg, Mannheim, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Gerchen MF"
+          ],
+          "firstName": [
+            "Martin Fungisai"
+          ],
+          "lastName": [
+            "Gerchen"
+          ],
+          "initials": [
+            "MF"
+          ],
+          "affiliation": [
+            "Department of Clinical Psychology, Central Institute of Mental Health, Medical Faculty Mannheim, University of Heidelberg, Mannheim, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Reinwald JR"
+          ],
+          "firstName": [
+            "Jonathan Rochus"
+          ],
+          "lastName": [
+            "Reinwald"
+          ],
+          "initials": [
+            "JR"
+          ],
+          "affiliation": [
+            "RG Translational Imaging, Department of Neuroimaging, Central Institute of Mental Health, Medical Faculty Mannheim, University of Heidelberg, Mannheim, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Oettl LL"
+          ],
+          "firstName": [
+            "Lars-Lennart"
+          ],
+          "lastName": [
+            "Oettl"
+          ],
+          "initials": [
+            "LL"
+          ],
+          "affiliation": [
+            "RG Developmental Biology of Psychiatric Disorders, Department of Psychiatry, Central Institute of Mental Health, Medical Faculty Mannheim, University of Heidelberg, Mannheim, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Meyer-Lindenberg A"
+          ],
+          "firstName": [
+            "Andreas"
+          ],
+          "lastName": [
+            "Meyer-Lindenberg"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Psychotherapy, Central Institute of Mental Health, Medical Faculty Mannheim, University of Heidelberg, Mannheim, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Vollmayr B"
+          ],
+          "firstName": [
+            "Barbara"
+          ],
+          "lastName": [
+            "Vollmayr"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Psychotherapy, Central Institute of Mental Health, Medical Faculty Mannheim, University of Heidelberg, Mannheim, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Kelsch W"
+          ],
+          "firstName": [
+            "Wolfgang"
+          ],
+          "lastName": [
+            "Kelsch"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Psychotherapy, Central Institute of Mental Health, Medical Faculty Mannheim, University of Heidelberg, Mannheim, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Sartorius A"
+          ],
+          "firstName": [
+            "Alexander"
+          ],
+          "lastName": [
+            "Sartorius"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "RG Translational Imaging, Department of Neuroimaging, Central Institute of Mental Health, Medical Faculty Mannheim, University of Heidelberg, Mannheim, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7510-2325",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4047-2817",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4080-4452",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7654-0570",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2655647"
+      ],
+      "dateOfPublication": [
+        "2018 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Translational psychiatry"
+          ],
+          "ISOAbbreviation": [
+            "Transl Psychiatry"
+          ],
+          "medlineAbbreviation": [
+            "Transl Psychiatry"
+          ],
+          "NLMid": [
+            "101562664"
+          ],
+          "ISSN": [
+            "2158-3188"
+          ],
+          "ESSN": [
+            "2158-3188"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "68"
+  ],
+  "abstractText": [
+    "Hyperconnectivity of the default-mode network (DMN) is one of the most widely replicated neuroimaging findings in major depressive disorder (MDD). Further, there is growing evidence for a central role of the lateral habenula (LHb) in the pathophysiology of MDD. There is preliminary neuroimaging evidence linking LHb and the DMN, but no causal relationship has been shown to date. We combined optogenetics and functional magnetic resonance imaging (fMRI), to establish a causal relationship, using an animal model of treatment-resistant depression, namely Negative Cognitive State rats. First, an inhibitory light-sensitive ion channel was introduced into the LHb by viral transduction. Subsequently, laser stimulation was performed during fMRI acquisition on a 9.4 Tesla animal scanner. Neural activity and connectivity were assessed, before, during and after laser stimulation. We observed a connectivity decrease in the DMN following laser-induced LHb perturbation. Our data indicate a causal link between LHb downregulation and reduction in DMN connectivity. These findings may advance our mechanistic understanding of LHb inhibition, which had previously been identified as a promising therapeutic principle, especially for treatment-resistant depression."
+  ],
+  "affiliation": [
+    "RG Translational Imaging, Department of Neuroimaging, Central Institute of Mental Health, Medical Faculty Mannheim, University of Heidelberg, Mannheim, Germany. christian.clemm@zi-mannheim.de."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Habenula"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neural Pathways"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rats"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Disease Models, Animal"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Magnetic Resonance Imaging"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain Mapping"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Depressive Disorder, Treatment-Resistant"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Optogenetics"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5913319?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5913319"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41398-018-0121-y"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-12-11"
+  ],
+  "dateOfCreation": [
+    "2018-03-28"
+  ],
+  "firstIndexDate": [
+    "2018-03-27"
+  ],
+  "dateOfRevision": [
+    "2019-03-27"
+  ],
+  "electronicPublicationDate": [
+    "2018-03-27"
+  ],
+  "firstPublicationDate": [
+    "2018-03-27"
+  ]
+}

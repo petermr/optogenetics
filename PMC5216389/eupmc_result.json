@@ -1,0 +1,576 @@
+{
+  "id": [
+    "28059117"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28059117"
+  ],
+  "pmcid": [
+    "PMC5216389"
+  ],
+  "doi": [
+    "10.1038/srep39955"
+  ],
+  "title": [
+    "Non-invasive, Focused Ultrasound-Facilitated Gene Delivery for Optogenetics."
+  ],
+  "authorString": [
+    "Wang S, Kugelman T, Buch A, Herman M, Han Y, Karakatsani ME, Hussaini SA, Duff K, Konofagou EE."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang S"
+          ],
+          "firstName": [
+            "Shutao"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, Columbia University, New York, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kugelman T"
+          ],
+          "firstName": [
+            "Tara"
+          ],
+          "lastName": [
+            "Kugelman"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, Columbia University, New York, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Buch A"
+          ],
+          "firstName": [
+            "Amanda"
+          ],
+          "lastName": [
+            "Buch"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, Columbia University, New York, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Herman M"
+          ],
+          "firstName": [
+            "Mathieu"
+          ],
+          "lastName": [
+            "Herman"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Pathology and Cell Biology, Columbia University, New York, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Han Y"
+          ],
+          "firstName": [
+            "Yang"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, Columbia University, New York, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Karakatsani ME"
+          ],
+          "firstName": [
+            "Maria Eleni"
+          ],
+          "lastName": [
+            "Karakatsani"
+          ],
+          "initials": [
+            "ME"
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, Columbia University, New York, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hussaini SA"
+          ],
+          "firstName": [
+            "S Abid"
+          ],
+          "lastName": [
+            "Hussaini"
+          ],
+          "initials": [
+            "SA"
+          ],
+          "affiliation": [
+            "Department of Pathology and Cell Biology, Columbia University, New York, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Duff K"
+          ],
+          "firstName": [
+            "Karen"
+          ],
+          "lastName": [
+            "Duff"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Pathology and Cell Biology, Columbia University, New York, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Konofagou EE"
+          ],
+          "firstName": [
+            "Elisa E"
+          ],
+          "lastName": [
+            "Konofagou"
+          ],
+          "initials": [
+            "EE"
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, Columbia University, New York, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2510373"
+      ],
+      "dateOfPublication": [
+        "2017 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "39955"
+  ],
+  "abstractText": [
+    "Optogenetics, a widely used technique in neuroscience research, is often limited by its invasive nature of application. Here, we present a noninvasive, ultrasound-based technique to introduce optogenetic channels into the brain by temporarily opening the blood-brain barrier (BBB). We demonstrate the efficiency of the method developed and evaluate the bioactivity of the non-invasively introduced channelrhodopsin channels by performing stimulation in freely behaving mice."
+  ],
+  "affiliation": [
+    "Department of Biomedical Engineering, Columbia University, New York, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 EB009041"
+          ],
+          "agency": [
+            "NIBIB NIH HHS"
+          ],
+          "acronym": [
+            "EB"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 AG038961"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Blood-Brain Barrier"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ultrasonography"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Transfer Techniques"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genetic Vectors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Optogenetics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Channelrhodopsins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Channelrhodopsins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5216389?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5216389"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/srep39955"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "8"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-10-29"
+  ],
+  "dateOfCreation": [
+    "2017-01-07"
+  ],
+  "firstIndexDate": [
+    "2017-01-13"
+  ],
+  "dateOfRevision": [
+    "2018-10-29"
+  ],
+  "electronicPublicationDate": [
+    "2017-01-06"
+  ],
+  "firstPublicationDate": [
+    "2017-01-06"
+  ]
+}

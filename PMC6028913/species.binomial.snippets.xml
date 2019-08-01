@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6028913/results/species/binomial/results.xml">
+  <result pre="d variant of eqFP611, [ 82]) which was identified in the sea anemone " exact="Entacmaea quadricolor" xpath="/html[1]/body[1]/div[2]/div[4]/p[2]" match="Entacmaea quadricolor" post=" [ 83] or R-GECO, itself a variant of mApple, an engineered product o" name="binomial"/>
+  <result pre="a href=&quot;#B84-cells-07-00051&quot;&gt;84], rather than variants of the GFP from the North Pacific jellyfish " exact="Aequorea victoria" xpath="/html[1]/body[1]/div[2]/div[4]/p[2]" match="Aequorea victoria" post=" that produced the GCaMPs. In practical terms this means that antibodies against GFP, which will wo" name="binomial"/>
+  <result pre="lls-07-00051&quot;&gt;83, 85]. A further class of red GECIs based on another " exact="Entacmaea quadricolor" xpath="/html[1]/body[1]/div[2]/div[4]/p[2]" match="Entacmaea quadricolor" post=" derivative, mKate, an FP that has negligible blue light activation, has given rise to the KGECOs w" name="binomial"/>
+  <result pre=" et al. fused the bioluminescent light donor NanoLuc to the widely used voltage sensor domain from " exact="Ciona intestinalis" xpath="/html[1]/body[1]/div[2]/div[4]/p[2]" match="Ciona intestinalis" post=" used in Mermaid and the Venus YFP variant to produce LOTUS-V. Although bioluminescent tools are di" name="binomial"/>
+  <result pre=" ion channels to depolarize (e.g., Channelrhodopsin, ChR2, a class I bacterial opsin isolated from " exact="Chlamydomonas reinhardtii" xpath="/html[1]/body[1]/div[2]/div[4]/p[2]" match="Chlamydomonas reinhardtii" post=" which requires light in the blue-green spectrum) the cell and thereby activate contraction. Typica" name="binomial"/>
+  <result pre="s-07-00051&quot;&gt;121]. Hyperpolarizing tools (e.g., NpHR, the chloride pump Halorhodopsin isolated from " exact="Natronomonas pharaonis" match="Natronomonas pharaonis" post=" which requires light in the green-red spectrum) are also described but, to date, have not been wid" name="binomial"/>
+ </snippets>
+</snippetsTree>

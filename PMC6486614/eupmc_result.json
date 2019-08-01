@@ -1,0 +1,935 @@
+{
+  "id": [
+    "31028266"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "31028266"
+  ],
+  "pmcid": [
+    "PMC6486614"
+  ],
+  "doi": [
+    "10.1038/s41467-019-09770-1"
+  ],
+  "title": [
+    "Identification of peripheral neural circuits that regulate heart rate using optogenetic and viral vector strategies."
+  ],
+  "authorString": [
+    "Rajendran PS, Challis RC, Fowlkes CC, Hanna P, Tompkins JD, Jordan MC, Hiyari S, Gabris-Weber BA, Greenbaum A, Chan KY, Deverman BE, Münzberg H, Ardell JL, Salama G, Gradinaru V, Shivkumar K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rajendran PS"
+          ],
+          "firstName": [
+            "Pradeep S"
+          ],
+          "lastName": [
+            "Rajendran"
+          ],
+          "initials": [
+            "PS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9790-0408",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Cardiac Arrhythmia Center and Neurocardiology Research Program of Excellence, David Geffen School of Medicine, University of California - Los Angeles (UCLA), Los Angeles, CA, 90095, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Challis RC"
+          ],
+          "firstName": [
+            "Rosemary C"
+          ],
+          "lastName": [
+            "Challis"
+          ],
+          "initials": [
+            "RC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3086-6553",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Biology and Biological Engineering, California Institute of Technology, Pasadena, CA, 91125, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Fowlkes CC"
+          ],
+          "firstName": [
+            "Charless C"
+          ],
+          "lastName": [
+            "Fowlkes"
+          ],
+          "initials": [
+            "CC"
+          ],
+          "affiliation": [
+            "Department of Computer Science, University of California - Irvine, Irvine, CA, 92697, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hanna P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "Hanna"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Cardiac Arrhythmia Center and Neurocardiology Research Program of Excellence, David Geffen School of Medicine, University of California - Los Angeles (UCLA), Los Angeles, CA, 90095, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Tompkins JD"
+          ],
+          "firstName": [
+            "John D"
+          ],
+          "lastName": [
+            "Tompkins"
+          ],
+          "initials": [
+            "JD"
+          ],
+          "affiliation": [
+            "Cardiac Arrhythmia Center and Neurocardiology Research Program of Excellence, David Geffen School of Medicine, University of California - Los Angeles (UCLA), Los Angeles, CA, 90095, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Jordan MC"
+          ],
+          "firstName": [
+            "Maria C"
+          ],
+          "lastName": [
+            "Jordan"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "affiliation": [
+            "Cardiac Arrhythmia Center and Neurocardiology Research Program of Excellence, David Geffen School of Medicine, University of California - Los Angeles (UCLA), Los Angeles, CA, 90095, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hiyari S"
+          ],
+          "firstName": [
+            "Sarah"
+          ],
+          "lastName": [
+            "Hiyari"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Cardiac Arrhythmia Center and Neurocardiology Research Program of Excellence, David Geffen School of Medicine, University of California - Los Angeles (UCLA), Los Angeles, CA, 90095, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gabris-Weber BA"
+          ],
+          "firstName": [
+            "Beth A"
+          ],
+          "lastName": [
+            "Gabris-Weber"
+          ],
+          "initials": [
+            "BA"
+          ],
+          "affiliation": [
+            "Department of Cell Biology, University of Pittsburgh, Pittsburgh, PA, 15261, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Greenbaum A"
+          ],
+          "firstName": [
+            "Alon"
+          ],
+          "lastName": [
+            "Greenbaum"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Division of Biology and Biological Engineering, California Institute of Technology, Pasadena, CA, 91125, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Chan KY"
+          ],
+          "firstName": [
+            "Ken Y"
+          ],
+          "lastName": [
+            "Chan"
+          ],
+          "initials": [
+            "KY"
+          ],
+          "affiliation": [
+            "Division of Biology and Biological Engineering, California Institute of Technology, Pasadena, CA, 91125, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Deverman BE"
+          ],
+          "firstName": [
+            "Benjamin E"
+          ],
+          "lastName": [
+            "Deverman"
+          ],
+          "initials": [
+            "BE"
+          ],
+          "affiliation": [
+            "Division of Biology and Biological Engineering, California Institute of Technology, Pasadena, CA, 91125, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Münzberg H"
+          ],
+          "firstName": [
+            "Heike"
+          ],
+          "lastName": [
+            "Münzberg"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Neurobiology of Nutrition and Metabolism Department, Louisiana State University, Baton Rouge, LA, 70808, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ardell JL"
+          ],
+          "firstName": [
+            "Jeffrey L"
+          ],
+          "lastName": [
+            "Ardell"
+          ],
+          "initials": [
+            "JL"
+          ],
+          "affiliation": [
+            "Cardiac Arrhythmia Center and Neurocardiology Research Program of Excellence, David Geffen School of Medicine, University of California - Los Angeles (UCLA), Los Angeles, CA, 90095, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Salama G"
+          ],
+          "firstName": [
+            "Guy"
+          ],
+          "lastName": [
+            "Salama"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5306-8178",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Cell Biology, University of Pittsburgh, Pittsburgh, PA, 15261, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gradinaru V"
+          ],
+          "firstName": [
+            "Viviana"
+          ],
+          "lastName": [
+            "Gradinaru"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5868-348X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Biology and Biological Engineering, California Institute of Technology, Pasadena, CA, 91125, USA. viviana@caltech.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Shivkumar K"
+          ],
+          "firstName": [
+            "Kalyanam"
+          ],
+          "lastName": [
+            "Shivkumar"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4121-1766",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Cardiac Arrhythmia Center and Neurocardiology Research Program of Excellence, David Geffen School of Medicine, University of California - Los Angeles (UCLA), Los Angeles, CA, 90095, USA. kshivkumar@mednet.ucla.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5306-8178",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4121-1766",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5868-348X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9790-0408",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3086-6553",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2799472"
+      ],
+      "dateOfPublication": [
+        "2019 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nature Communications"
+          ],
+          "ISOAbbreviation": [
+            "Nat Commun"
+          ],
+          "medlineAbbreviation": [
+            "Nat Commun"
+          ],
+          "NLMid": [
+            "101528555"
+          ],
+          "ISSN": [
+            "2041-1723"
+          ],
+          "ESSN": [
+            "2041-1723"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1944"
+  ],
+  "abstractText": [
+    "Heart rate is under the precise control of the autonomic nervous system. However, the wiring of peripheral neural circuits that regulate heart rate is poorly understood. Here, we develop a clearing-imaging-analysis pipeline to visualize innervation of intact hearts in 3D and employed a multi-technique approach to map parasympathetic and sympathetic neural circuits that control heart rate in mice. We identify cholinergic neurons and noradrenergic neurons in an intrinsic cardiac ganglion and the stellate ganglia, respectively, that project to the sinoatrial node. We also report that the heart rate response to optogenetic versus electrical stimulation of the vagus nerve displays different temporal characteristics and that vagal afferents enhance parasympathetic and reduce sympathetic tone to the heart via central mechanisms. Our findings provide new insights into neural regulation of heart rate, and our methodology to study cardiac circuits can be readily used to interrogate neural control of other visceral organs."
+  ],
+  "affiliation": [
+    "Cardiac Arrhythmia Center and Neurocardiology Research Program of Excellence, David Geffen School of Medicine, University of California - Los Angeles (UCLA), Los Angeles, CA, 90095, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "DP2 NS087949"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "F31 HL127974"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "OT2 OD023848"
+          ],
+          "agency": [
+            "NIH HHS"
+          ],
+          "acronym": [
+            "OD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U01 NS090577"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 AG047664"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 HL084261"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U01 EB025138"
+          ],
+          "agency": [
+            "NIBIB NIH HHS"
+          ],
+          "acronym": [
+            "EB"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "OT2 OD023864"
+          ],
+          "agency": [
+            "NIH HHS"
+          ],
+          "acronym": [
+            "OD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Motor Neurons"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Peripheral Nervous System"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vagus Nerve"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Electrophysiology"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Heart Rate"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cholinergic Neurons"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6486614?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6486614"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41467-019-09770-1"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR60427"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "CrossRef Pre-print loader"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-05-13"
+  ],
+  "dateOfCreation": [
+    "2019-04-28"
+  ],
+  "firstIndexDate": [
+    "2019-04-27"
+  ],
+  "dateOfRevision": [
+    "2019-05-13"
+  ],
+  "electronicPublicationDate": [
+    "2019-04-26"
+  ],
+  "firstPublicationDate": [
+    "2019-04-26"
+  ]
+}

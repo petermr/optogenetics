@@ -1,0 +1,262 @@
+{
+  "id": [
+    "30584156"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30584156"
+  ],
+  "pmcid": [
+    "PMC6311380"
+  ],
+  "doi": [
+    "10.3233/JPD-181467"
+  ],
+  "title": [
+    "The Future of Surgical Treatments for Parkinson's Disease."
+  ],
+  "authorString": [
+    "Lee DJ, Lozano AM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lee DJ"
+          ],
+          "firstName": [
+            "Darrin J"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "DJ"
+          ],
+          "affiliation": [
+            "Department of Neurological Surgery, University of Southern California, Los Angeles, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lozano AM"
+          ],
+          "firstName": [
+            "Andres M"
+          ],
+          "lastName": [
+            "Lozano"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "affiliation": [
+            "Department of Neurological Surgery, University of Toronto, Toronto, ON, Canada."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "s1"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2763876"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of Parkinson's disease"
+          ],
+          "ISOAbbreviation": [
+            "J Parkinsons Dis"
+          ],
+          "medlineAbbreviation": [
+            "J Parkinsons Dis"
+          ],
+          "NLMid": [
+            "101567362"
+          ],
+          "ISSN": [
+            "1877-7171"
+          ],
+          "ESSN": [
+            "1877-718X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "S79-S83"
+  ],
+  "abstractText": [
+    "The surgical treatment of Parkinson's disease has made significant progress over the past 70 years; however, its scope of effectiveness remains limited to motor symptoms like bradykinesia, rigidity, tremor and medication-induced dyskinesias. The field of surgery initially developed from lesioning procedures and then transitioned largely to deep brain stimulation due to its properties of adaptability and reversibility. Interestingly, there has been a renewed interest in lesioning procedures secondary to the introduction of focused ultrasound, a non-invasive technology. Despite the various current therapies' effectiveness, there is a significant need for developing treatments to modify the disease process itself. To date, gene therapy, immunotherapy, and cell transplantation trials have had both promising and disappointing results. Newer techniques being developed (optogenetics, magnetogenetics, and sonogenetics) are exciting possibilities for the future. Here, we examine and speculate on novel potential surgical treatments for Parkinson's disease."
+  ],
+  "affiliation": [
+    "Department of Neurological Surgery, University of Southern California, Los Angeles, CA, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Surgery",
+        "Parkinson’s Disease",
+        "Neuromodulation"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6311380?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6311380"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3233/JPD-181467"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-26"
+  ],
+  "firstIndexDate": [
+    "2019-01-01"
+  ],
+  "dateOfRevision": [
+    "2019-07-06"
+  ],
+  "firstPublicationDate": [
+    "2018-01-01"
+  ]
+}

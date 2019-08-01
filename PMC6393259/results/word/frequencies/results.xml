@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="frequencies">
+ <result title="frequency" word="{border-style" count="20"/>
+ <result title="frequency" word="px;}" count="18"/>
+ <result title="frequency" word="#ffffff;}" count="17"/>
+ <result title="frequency" word="article" count="10"/>
+ <result title="frequency" word="Ophthalmol" count="8"/>
+ <result title="frequency" word="Ther" count="8"/>
+ <result title="frequency" word="px;" count="8"/>
+ <result title="frequency" word="{font-family" count="8"/>
+ <result title="frequency" word="font-size" count="7"/>
+ <result title="frequency" word="research" count="7"/>
+ <result title="frequency" word="Board" count="6"/>
+ <result title="frequency" word="Editorial" count="6"/>
+ <result title="frequency" word="Ophthalmology" count="6"/>
+ <result title="frequency" word="double;" count="6"/>
+ <result title="frequency" word="review" count="6"/>
+ <result title="frequency" word="trials" count="6"/>
+ <result title="frequency" word="border-color" count="5"/>
+ <result title="frequency" word="border-width" count="5"/>
+ <result title="frequency" word="downloaded" count="5"/>
+ <result title="frequency" word="solid;" count="5"/>
+ <result title="frequency" word="treatment" count="5"/>
+ <result title="frequency" word="year" count="5"/>
+ <result title="frequency" word="{font-style" count="5"/>
+ <result title="frequency" word="{font-weight" count="5"/>
+ <result title="frequency" word="Advisory" count="4"/>
+ <result title="frequency" word="bold" count="4"/>
+ <result title="frequency" word="courier;" count="4"/>
+ <result title="frequency" word="degeneration" count="4"/>
+ <result title="frequency" word="demonstrated" count="4"/>
+ <result title="frequency" word="em;" count="4"/>
+ <result title="frequency" word="features" count="4"/>
+ <result title="frequency" word="macular" count="4"/>
+ <result title="frequency" word="medical" count="4"/>
+ <result title="frequency" word="new" count="4"/>
+ <result title="frequency" word="original" count="4"/>
+ <result title="frequency" word="pt;}" count="4"/>
+ <result title="frequency" word="published" count="4"/>
+ <result title="frequency" word="studies" count="4"/>
+ <result title="frequency" word="technologies" count="4"/>
+ <result title="frequency" word="treatments" count="4"/>
+</results>

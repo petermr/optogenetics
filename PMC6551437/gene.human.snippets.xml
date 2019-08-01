@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6551437/results/gene/human/results.xml">
+  <result pre=" is closely related to genetic factors. Liu et al. from the Chinese Academy of Sciences found that " exact="MECP2" post=" transgenic monkeys showed repetitive behaviours and social interaction impairments " xpath="/html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/p[1]" name="human"/>
+  <result pre="d two loci that contribute to the risk of major depressive disorder on chromosome 10: one near the " exact="SIRT1" post=" gene, the other in an intron of the LHPP gene using low-coverage whole-genome sequencing of" xpath="/html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/p[1]" name="human"/>
+  <result pre="epressive disorder on chromosome 10: one near the SIRT1 gene, the other in an intron of the " exact="LHPP" post=" gene using low-coverage whole-genome sequencing of 5303 Chinese women with recurrent major depress" name="human"/>
+ </snippets>
+</snippetsTree>

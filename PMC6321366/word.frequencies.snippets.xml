@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6321366/results/word/frequencies/results.xml">
+  <result title="frequency" word="protein" count="140"/>
+  <result title="frequency" word="RAS" count="120"/>
+  <result title="frequency" word="signaling" count="103"/>
+  <result title="frequency" word="activation" count="87"/>
+  <result title="frequency" word="cell" count="86"/>
+  <result title="frequency" word="RHEB" count="81"/>
+  <result title="frequency" word="growth" count="79"/>
+  <result title="frequency" word="kinase" count="76"/>
+  <result title="frequency" word="Biol." count="70"/>
+  <result title="frequency" word="neurons" count="65"/>
+  <result title="frequency" word="cells" count="64"/>
+  <result title="frequency" word="Cell" count="62"/>
+  <result title="frequency" word="control" count="56"/>
+  <result title="frequency" word="neuronal" count="56"/>
+  <result title="frequency" word="axon" count="51"/>
+  <result title="frequency" word="proteins" count="48"/>
+  <result title="frequency" word="light" count="41"/>
+  <result title="frequency" word="membrane" count="41"/>
+  <result title="frequency" word="cellular" count="39"/>
+  <result title="frequency" word="magnetic" count="39"/>
+  <result title="frequency" word="brain" count="38"/>
+  <result title="frequency" word="pathway" count="38"/>
+  <result title="frequency" word="Chem." count="35"/>
+  <result title="frequency" word="factor" count="35"/>
+  <result title="frequency" word="Nat." count="34"/>
+  <result title="frequency" word="domain" count="33"/>
+  <result title="frequency" word="activity" count="32"/>
+  <result title="frequency" word="RAF" count="31"/>
+  <result title="frequency" word="regeneration" count="31"/>
+  <result title="frequency" word="active" count="30"/>
+  <result title="frequency" word="binding" count="30"/>
+  <result title="frequency" word="activated" count="29"/>
+  <result title="frequency" word="Mol." count="28"/>
+  <result title="frequency" word="neurite" count="28"/>
+  <result title="frequency" word="survival" count="28"/>
+  <result title="frequency" word="target" count="28"/>
+  <result title="frequency" word="ras" count="27"/>
+  <result title="frequency" word="complex" count="26"/>
+  <result title="frequency" word="nanoparticles" count="26"/>
+  <result title="frequency" word="mTORC" count="25"/>
+  <result title="frequency" word="pathways" count="25"/>
+  <result title="frequency" word="receptor" count="25"/>
+  <result title="frequency" word="using" count="25"/>
+  <result title="frequency" word="Neurosci." count="24"/>
+  <result title="frequency" word="Sci." count="23"/>
+  <result title="frequency" word="apoptosis" count="23"/>
+  <result title="frequency" word="MNPs" count="22"/>
+  <result title="frequency" word="axonal" count="22"/>
+  <result title="frequency" word="death" count="22"/>
+  <result title="frequency" word="interaction" count="22"/>
+  <result title="frequency" word="role" count="22"/>
+  <result title="frequency" word="family" count="21"/>
+ </snippets>
+</snippetsTree>

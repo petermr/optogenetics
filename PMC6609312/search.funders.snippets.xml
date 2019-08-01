@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6609312/results/search/funders/results.xml">
+  <result pre="R. 1 * [], 1 Department of Physiology and Biophysics," exact="Faculty of Medicine, Dalhousie University" post="Halifax, NS Canada [], 2 Department of Pharmacology, Faculty"/>
+  <result pre="[], 1 Department of Physiology and Biophysics, Faculty of Medicine," exact="Dalhousie University" post="Halifax, NS Canada [], 2 Department of Pharmacology, Faculty"/>
+  <result pre="Dalhousie University Halifax, NS Canada [], 2 Department of Pharmacology," exact="Faculty of Medicine, Dalhousie University" post="Halifax, NS Canada Edited by: Sergey M. Korogod, National"/>
+  <result pre="NS Canada [], 2 Department of Pharmacology, Faculty of Medicine," exact="Dalhousie University" post="Halifax, NS Canada Edited by: Sergey M. Korogod, National"/>
+  <result pre="Dalhousie University Halifax, NS Canada Edited by: Sergey M. Korogod," exact="National Academy of Sciences" post="of Ukraine, Ukraine Reviewed by: Christian Henneberger, University of"/>
+  <result pre="Reviewed by: Christian Henneberger, University of Bonn, Germany; Misato Yasumura," exact="Osaka University," post="Japan *Correspondence: Stefan R. Krueger, stefan.krueger@dal.ca This article was"/>
+  <result pre="neurotransmitter release DREADD channelrhodopsin hippocampus presynaptic specializations dendritic spines Funding" exact="Natural Sciences and Engineering Research Council of Canada" post="10.13039/501100000038 fig-count: table-count: equation-count: ref-count: page-count: word-count: Introduction The"/>
+  <result pre="performed in accordance with the guidelines and regulations by the" exact="Dalhousie University" post="Committee on Laboratory Animals (UCLA Protocol #17–128). Following dissection,"/>
+  <result pre="performed in accordance with the guidelines and regulations by the" exact="Dalhousie University" post="Committee on Laboratory Animals (UCLA Protocol #17–128). Author Contributions"/>
+  <result pre="conflict of interest. Funding. This work was funded by the" exact="Natural Sciences and Engineering Research Council of Canada" post="(NSERC) Discovery Grant (#326821). We thank Dr. Carlo Sala"/>
+ </snippets>
+</snippetsTree>

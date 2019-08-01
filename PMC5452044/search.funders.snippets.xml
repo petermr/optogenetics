@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC5452044/results/search/funders/results.xml">
+  <result pre=": bold;} span.year {font-family : courier ; font-style : italic;}" exact="EMBO" post="Rep EMBO Rep 10.1002/(ISSN)1469-3178 EMBR embor EMBO Reports 1469-221X"/>
+  <result pre="span.year {font-family : courier ; font-style : italic;} EMBO Rep" exact="EMBO" post="Rep 10.1002/(ISSN)1469-3178 EMBR embor EMBO Reports 1469-221X 1469-3178 John"/>
+  <result pre="font-style : italic;} EMBO Rep EMBO Rep 10.1002/(ISSN)1469-3178 EMBR embor" exact="EMBO" post="Reports 1469-221X 1469-3178 John Wiley and Sons Inc. Hoboken"/>
+  <result pre="Deisseroth Karl deissero@stanford.edu 1 2 3 [1], Department of Bioengineering" exact="Stanford University" post="Stanford CA USA [2], Department of Psychiatry and Behavioral"/>
+  <result pre="Stanford CA USA [2], Department of Psychiatry and Behavioral Sciences" exact="Stanford University" post="Stanford CA USA [3], Howard Hughes Medical Institute Stanford"/>
+  <result pre="Psychiatry and Behavioral Sciences Stanford University Stanford CA USA [3]," exact="Howard Hughes Medical Institute" post="Stanford University Stanford CA USA epub: 2017-5-5 ppub: 2017-6"/>
+  <result pre="Stanford University Stanford CA USA [3], Howard Hughes Medical Institute" exact="Stanford University" post="Stanford CA USA epub: 2017-5-5 ppub: 2017-6 pmc-release: 2017-5-5"/>
+ </snippets>
+</snippetsTree>

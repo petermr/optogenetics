@@ -1,0 +1,336 @@
+{
+  "id": [
+    "28536505"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28536505"
+  ],
+  "pmcid": [
+    "PMC5422467"
+  ],
+  "doi": [
+    "10.3389/fncel.2017.00134"
+  ],
+  "title": [
+    "New Tools to Study Astrocyte Ca2+ Signal Dynamics in Brain Networks In Vivo."
+  ],
+  "authorString": [
+    "Losi G, Mariotti L, Sessolo M, Carmignoto G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Losi G"
+          ],
+          "firstName": [
+            "Gabriele"
+          ],
+          "lastName": [
+            "Losi"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4931-6167",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Neuroscience Institute, National Research Council (CNR) and Department of Biomedical Sciences, University of PadovaPadova, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Mariotti L"
+          ],
+          "firstName": [
+            "Letizia"
+          ],
+          "lastName": [
+            "Mariotti"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Division of Neurobiology, MRC Laboratory of Molecular BiologyCambridge, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Sessolo M"
+          ],
+          "firstName": [
+            "Michele"
+          ],
+          "lastName": [
+            "Sessolo"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Center for Drug Discovery & Development, Aptuit inc.Verona, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Carmignoto G"
+          ],
+          "firstName": [
+            "Giorgio"
+          ],
+          "lastName": [
+            "Carmignoto"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Neuroscience Institute, National Research Council (CNR) and Department of Biomedical Sciences, University of PadovaPadova, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4931-6167",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2550603"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in cellular neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Cell Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Cell Neurosci"
+          ],
+          "NLMid": [
+            "101477935"
+          ],
+          "ISSN": [
+            "1662-5102"
+          ],
+          "ESSN": [
+            "1662-5102"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "134"
+  ],
+  "abstractText": [
+    "Sensory information processing is a fundamental operation in the brain that is based on dynamic interactions between different neuronal populations. Astrocytes, a type of glial cells, have been proposed to represent active elements of brain microcircuits that, through dynamic interactions with neurons, provide a modulatory control of neuronal network activity. Specifically, astrocytes in different brain regions have been described to respond to neuronal signals with intracellular Ca2+ elevations that represent a key step in the functional recruitment of astrocytes to specific brain circuits. Accumulating evidence shows that Ca2+ elevations regulate the release of gliotransmitters that, in turn, modulate synaptic transmission and neuronal excitability. Recent studies also provided new insights into the spatial and temporal features of astrocytic Ca2+ elevations revealing a surprising complexity of Ca2+ signal dynamics in astrocytes. Here we discuss how recently developed experimental tools such as the genetically encoded Ca2+ indicators (GECI), optogenetics and chemogenetics can be applied to the study of astrocytic Ca2+ signals in the living brain."
+  ],
+  "affiliation": [
+    "Neuroscience Institute, National Research Council (CNR) and Department of Biomedical Sciences, University of PadovaPadova, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "GGP12265"
+          ],
+          "agency": [
+            "Telethon Italy"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Astrocytes",
+        "Calcium signaling",
+        "Optogenetics",
+        "Dreadd",
+        "Imaging In Vivo"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5422467?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5422467"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fncel.2017.00134"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-05-24"
+  ],
+  "firstIndexDate": [
+    "2017-05-24"
+  ],
+  "dateOfRevision": [
+    "2017-08-16"
+  ],
+  "electronicPublicationDate": [
+    "2017-05-09"
+  ],
+  "firstPublicationDate": [
+    "2017-05-09"
+  ]
+}

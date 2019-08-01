@@ -1,0 +1,285 @@
+{
+  "id": [
+    "30297985"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30297985"
+  ],
+  "pmcid": [
+    "PMC6160748"
+  ],
+  "doi": [
+    "10.3389/fncel.2018.00316"
+  ],
+  "title": [
+    "Innovative Optogenetic Strategies for Vision Restoration."
+  ],
+  "authorString": [
+    "Baker CK, Flannery JG."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Baker CK"
+          ],
+          "firstName": [
+            "Cameron K"
+          ],
+          "lastName": [
+            "Baker"
+          ],
+          "initials": [
+            "CK"
+          ],
+          "affiliation": [
+            "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Flannery JG"
+          ],
+          "firstName": [
+            "John G"
+          ],
+          "lastName": [
+            "Flannery"
+          ],
+          "initials": [
+            "JG"
+          ],
+          "affiliation": [
+            "School of Optometry, University of California, Berkeley, Berkeley, CA, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2645045"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Cellular Neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Cell Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Cell Neurosci"
+          ],
+          "NLMid": [
+            "101477935"
+          ],
+          "ISSN": [
+            "1662-5102"
+          ],
+          "ESSN": [
+            "1662-5102"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "316"
+  ],
+  "abstractText": [
+    "The advent of optogenetics has ushered in a new era in neuroscience where spatiotemporal control of neurons is possible through light application. These tools used to study neural circuits can also be used therapeutically to restore vision. In order to recapitulate the broad spectral and light sensitivities along with high temporal sensitivity found in human vision, researchers have identified and developed new optogenetic tools. There are two major kinds of optogenetic effectors employed in vision restoration: ion channels and G-protein coupled receptors (GPCRs). Ion channel based optogenetic therapies require high intensity light that can be unsafe at lower wavelengths, so work has been done to expand and red-shift the excitation spectra of these channels. Light activatable GPCRs are much more sensitive to light than their ion channel counterparts but are slower kinetically in terms of both activation and inactivation. This review article examines the latest optogenetic ion channel and GPCR candidates for vision restoration based on light and temporal sensitivity."
+  ],
+  "affiliation": [
+    "Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, CA, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "TPR 15-230"
+          ],
+          "agency": [
+            "HSRD VA"
+          ],
+          "acronym": [
+            "HX"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Retina",
+        "Retinal degeneration",
+        "Gpcr",
+        "Optogenetics",
+        "Opsin",
+        "Vision Restoration"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6160748?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6160748"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fncel.2018.00316"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-10-10"
+  ],
+  "firstIndexDate": [
+    "2018-10-09"
+  ],
+  "dateOfRevision": [
+    "2018-10-12"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-21"
+  ],
+  "firstPublicationDate": [
+    "2018-09-21"
+  ]
+}

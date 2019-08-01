@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="./PMC6628166/results/species/binomial/results.xml">
+  <result pre="Some typical XRG CBCRs detected from the cyanobacterium, " exact="Acaryochloris marina" xpath="/html[1]/body[1]/div[4]/div[4]/p[1]" match="Acaryochloris marina" post=", covalently bind not only PCB but also biliverdin (BV), which is a precursor of PCB in the biosynt" name="binomial"/>
+  <result pre="V-binding capability of the WT protein, we previously expressed the WT protein in the BV-producing " exact="Escherichia coli" xpath="/html[1]/body[1]/div[4]/div[4]/p[1]" match="Escherichia coli" post=" and found that the WT protein could slightly bind BV and absorb light in the far-red region ( &lt;a h" name="binomial"/>
+  <result pre="ponded to the apoproteins, we purified the WT proteins from both non-BV-producing and BV-producing " exact="E. coli" xpath="/html[1]/body[1]/div[4]/div[4]/p[1]" match="Escherichia coli" post=" for His-tag immunodetection. The bands around 20 kDa did not react with the His-tag antibody, and " name="binomial"/>
+  <result pre="protein expression and resultant improvement of purity. To verify this assumption, we compared the " exact="E. coli" xpath="/html[1]/body[1]/div[4]/div[4]/p[1]" match="Escherichia coli" post=" cell pellets expressing the KCAP or KCAP_QV protein. As a result, the cell pellet expressing the K" name="binomial"/>
+  <result pre="The " exact="Escherichia coli" xpath="/html[1]/body[1]/div[4]/div[4]/p[1]" match="Escherichia coli" post=" strain JM109 or Mach1 was used for cloning plasmid DNA. Plasmids expressing His-tagged AM1_1186g2 " name="binomial"/>
+  <result pre=" " exact="E. coli" xpath="/html[1]/body[1]/div[4]/div[4]/p[1]" match="Escherichia coli" post=" strain C41 (Novagen, Madison, WI, USA) harboring the pKT270 plasmid to produce BV was used for the" name="binomial"/>
+  <result pre=" (upper) and in-gel Zn-dependent fluorescence assay (lower) of the KCAP and KCAP_QV proteins. ( C) " exact="E. coli" match="Escherichia coli" post=" cell pellets expressing His-tagged KCAP and KCAP_QV proteins. ( D, E) HPLC analyses by gel filtrat" name="binomial"/>
+ </snippets>
+</snippetsTree>

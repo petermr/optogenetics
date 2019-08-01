@@ -1,0 +1,528 @@
+{
+  "id": [
+    "30658503"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30658503"
+  ],
+  "pmcid": [
+    "PMC6356841"
+  ],
+  "doi": [
+    "10.3390/mi10010062"
+  ],
+  "title": [
+    "Progress in the Field of Micro-Electrocorticography."
+  ],
+  "authorString": [
+    "Shokoueinejad M, Park DW, Jung YH, Brodnick SK, Novello J, Dingle A, Swanson KI, Baek DH, Suminski AJ, Lake WB, Ma Z, Williams J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shokoueinejad M"
+          ],
+          "firstName": [
+            "Mehdi"
+          ],
+          "lastName": [
+            "Shokoueinejad"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8314-3645",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, University of Wisconsin-Madison, Madison, WI 53706, USA. mehdi.snm@bme.wisc.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Park DW"
+          ],
+          "firstName": [
+            "Dong-Wook"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "DW"
+          ],
+          "affiliation": [
+            "Department of Electrical and Computer Engineering, University of Wisconsin-Madison, Madison, WI 53706, USA. dwpark31@uos.ac.kr."
+          ]
+        },
+        {
+          "fullName": [
+            "Jung YH"
+          ],
+          "firstName": [
+            "Yei Hwan"
+          ],
+          "lastName": [
+            "Jung"
+          ],
+          "initials": [
+            "YH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1754-2602",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Electrical and Computer Engineering, University of Wisconsin-Madison, Madison, WI 53706, USA. yhjung89@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Brodnick SK"
+          ],
+          "firstName": [
+            "Sarah K"
+          ],
+          "lastName": [
+            "Brodnick"
+          ],
+          "initials": [
+            "SK"
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, University of Wisconsin-Madison, Madison, WI 53706, USA. skkorinek@wisc.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Novello J"
+          ],
+          "firstName": [
+            "Joseph"
+          ],
+          "lastName": [
+            "Novello"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, University of Wisconsin-Madison, Madison, WI 53706, USA. novello@wisc.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Dingle A"
+          ],
+          "firstName": [
+            "Aaron"
+          ],
+          "lastName": [
+            "Dingle"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Division of Plastic and Reconstructive Surgery, Department of Surgery, University of Wisconsin-Madison, Madison, WI 53792, USA. dingle@surgery.wisc.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Swanson KI"
+          ],
+          "firstName": [
+            "Kyle I"
+          ],
+          "lastName": [
+            "Swanson"
+          ],
+          "initials": [
+            "KI"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2639-7010",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neurosurgery, School of Medicine and Public Health, University of Wisconsin-Madison, Madison, WI 53792, USA. kiswanson@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Baek DH"
+          ],
+          "firstName": [
+            "Dong-Hyun"
+          ],
+          "lastName": [
+            "Baek"
+          ],
+          "initials": [
+            "DH"
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, University of Wisconsin-Madison, Madison, WI 53706, USA. wpvmqor@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Suminski AJ"
+          ],
+          "firstName": [
+            "Aaron J"
+          ],
+          "lastName": [
+            "Suminski"
+          ],
+          "initials": [
+            "AJ"
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, University of Wisconsin-Madison, Madison, WI 53706, USA. suminski@neurosurgery.wisc.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Lake WB"
+          ],
+          "firstName": [
+            "Wendell B"
+          ],
+          "lastName": [
+            "Lake"
+          ],
+          "initials": [
+            "WB"
+          ],
+          "affiliation": [
+            "Department of Neurosurgery, School of Medicine and Public Health, University of Wisconsin-Madison, Madison, WI 53792, USA. lake@neurosurgery.wisc.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Ma Z"
+          ],
+          "firstName": [
+            "Zhenqiang"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Electrical and Computer Engineering, University of Wisconsin-Madison, Madison, WI 53706, USA. mazq@engr.wisc.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Williams J"
+          ],
+          "firstName": [
+            "Justin"
+          ],
+          "lastName": [
+            "Williams"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, University of Wisconsin-Madison, Madison, WI 53706, USA. jwilliams@engr.wisc.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2639-7010",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1754-2602",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8314-3645",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2766974"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Micromachines"
+          ],
+          "ISOAbbreviation": [
+            "Micromachines (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Micromachines (Basel)"
+          ],
+          "NLMid": [
+            "101640903"
+          ],
+          "ISSN": [
+            "2072-666X"
+          ],
+          "ESSN": [
+            "2072-666X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Since the 1940s electrocorticography (ECoG) devices and, more recently, in the last decade, micro-electrocorticography (µECoG) cortical electrode arrays were used for a wide set of experimental and clinical applications, such as epilepsy localization and brain⁻computer interface (BCI) technologies. Miniaturized implantable µECoG devices have the advantage of providing greater-density neural signal acquisition and stimulation capabilities in a minimally invasive fashion. An increased spatial resolution of the µECoG array will be useful for greater specificity diagnosis and treatment of neuronal diseases and the advancement of basic neuroscience and BCI research. In this review, recent achievements of ECoG and µECoG are discussed. The electrode configurations and varying material choices used to design µECoG arrays are discussed, including advantages and disadvantages of µECoG technology compared to electroencephalography (EEG), ECoG, and intracortical electrode arrays. Electrode materials that are the primary focus include platinum, iridium oxide, poly(3,4-ethylenedioxythiophene) (PEDOT), indium tin oxide (ITO), and graphene. We discuss the biological immune response to µECoG devices compared to other electrode array types, the role of µECoG in clinical pathology, and brain⁻computer interface technology. The information presented in this review will be helpful to understand the current status, organize available knowledge, and guide future clinical and research applications of µECoG technologies."
+  ],
+  "affiliation": [
+    "Department of Biomedical Engineering, University of Wisconsin-Madison, Madison, WI 53706, USA. mehdi.snm@bme.wisc.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2018R1C1B6001529"
+          ],
+          "agency": [
+            "National Research Foundation of Korea"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "W911NF-14-1-0652"
+          ],
+          "agency": [
+            "Army Research Office"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "N66001-12-C-4025"
+          ],
+          "agency": [
+            "Defense Advanced Research Projects Agency"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Electrophysiology",
+        "In Vivo Imaging",
+        "Electrocorticography",
+        "Graphene",
+        "Brain–computer Interface",
+        "ECoG",
+        "Μecog",
+        "Micro-electrocorticography",
+        "Tissue Response",
+        "Neural Interfaces",
+        "Neural Electrode Array"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6356841?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6356841"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/mi10010062"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-01-20"
+  ],
+  "firstIndexDate": [
+    "2019-01-19"
+  ],
+  "dateOfRevision": [
+    "2019-02-06"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-17"
+  ],
+  "firstPublicationDate": [
+    "2019-01-17"
+  ]
+}

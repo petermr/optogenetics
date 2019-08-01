@@ -1,0 +1,382 @@
+{
+  "id": [
+    "30913225"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30913225"
+  ],
+  "pmcid": [
+    "PMC6435231"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0213326"
+  ],
+  "title": [
+    "Leaky expression of channelrhodopsin-2 (ChR2) in Ai32 mouse lines."
+  ],
+  "authorString": [
+    "Prabhakar A, Vujovic D, Cui L, Olson W, Luo W."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Prabhakar A"
+          ],
+          "firstName": [
+            "Arthi"
+          ],
+          "lastName": [
+            "Prabhakar"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "University of Texas at Dallas, Dallas, TX, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Vujovic D"
+          ],
+          "firstName": [
+            "Dragan"
+          ],
+          "lastName": [
+            "Vujovic"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Williams College, Williamstown, MA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Cui L"
+          ],
+          "firstName": [
+            "Lian"
+          ],
+          "lastName": [
+            "Cui"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, University of Pennsylvania, Philadelphia, PA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Olson W"
+          ],
+          "firstName": [
+            "William"
+          ],
+          "lastName": [
+            "Olson"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, University of Pennsylvania, Philadelphia, PA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Luo W"
+          ],
+          "firstName": [
+            "Wenqin"
+          ],
+          "lastName": [
+            "Luo"
+          ],
+          "initials": [
+            "W"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2486-807X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neuroscience, University of Pennsylvania, Philadelphia, PA, United States of America."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2486-807X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2787621"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e0213326"
+  ],
+  "abstractText": [
+    "Optogenetics enables the selective activation of genetically-targeted neuronal populations using light-sensitive ion channels. Genetic strategies using Cre-dependent mouse strains, especially the Ai32 line expressing Channelrhodopsin (ChR2)-EYFP fusion protein, have been a popular means to drive opsin expression in a cell-type specific manner. Here we report a low level of leaky 'off-target' (Cre-independent) ChR2-EYFP expression in Ai32/Ai32 homozygous mice throughout the nervous system. This leaky off-target expression was characterized in multiple prevalent nervous system regions using anti-EYFP immunostaining. Expression of full-length ChR2-EYFP protein was confirmed using immunoprecipitation followed by Western blotting. Notably, light stimulation of these ChR2-EYFP expressing neurons in the spinal cord dorsal horn did not induce detectable photocurrents in juvenile 4-week old mice. Given the wide use of the Ai32 line by many labs, our results suggest researchers should be vigilant of possible off-target ChR2-EYFP expression in their region of interest, especially when generating Ai32/Ai32 homozygotes to drive high levels of ChR2-EYFP expression in adult mice."
+  ],
+  "affiliation": [
+    "University of Texas at Dallas, Dallas, TX, United States of America."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "F31 NS092297"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 NS094224"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 NS083702"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6435231?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6435231"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0213326"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "rrid"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-03-27"
+  ],
+  "firstIndexDate": [
+    "2019-03-27"
+  ],
+  "dateOfRevision": [
+    "2019-04-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-26"
+  ],
+  "firstPublicationDate": [
+    "2019-03-26"
+  ]
+}

@@ -1,0 +1,516 @@
+{
+  "id": [
+    "30416424"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30416424"
+  ],
+  "pmcid": [
+    "PMC6212654"
+  ],
+  "doi": [
+    "10.3389/fnins.2018.00771"
+  ],
+  "title": [
+    "Tapered Fibers Combined With a Multi-Electrode Array for Optogenetics in Mouse Medial Prefrontal Cortex."
+  ],
+  "authorString": [
+    "Sileo L, Bitzenhofer SH, Spagnolo B, Pöpplau JA, Holzhammer T, Pisanello M, Pisano F, Bellistri E, Maglie E, De Vittorio M, Ruther P, Hanganu-Opatz IL, Pisanello F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sileo L"
+          ],
+          "firstName": [
+            "Leonardo"
+          ],
+          "lastName": [
+            "Sileo"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Istituto Italiano di Tecnologia, Center for Biomolecular Nanotechnologies, Arnesano, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Bitzenhofer SH"
+          ],
+          "firstName": [
+            "Sebastian H"
+          ],
+          "lastName": [
+            "Bitzenhofer"
+          ],
+          "initials": [
+            "SH"
+          ],
+          "affiliation": [
+            "Developmental Neurophysiology, Institute of Neuroanatomy, University Medical Center Hamburg-Eppendorf, Hamburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Spagnolo B"
+          ],
+          "firstName": [
+            "Barbara"
+          ],
+          "lastName": [
+            "Spagnolo"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Istituto Italiano di Tecnologia, Center for Biomolecular Nanotechnologies, Arnesano, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Pöpplau JA"
+          ],
+          "firstName": [
+            "Jastyn A"
+          ],
+          "lastName": [
+            "Pöpplau"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "affiliation": [
+            "Developmental Neurophysiology, Institute of Neuroanatomy, University Medical Center Hamburg-Eppendorf, Hamburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Holzhammer T"
+          ],
+          "firstName": [
+            "Tobias"
+          ],
+          "lastName": [
+            "Holzhammer"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Microsystems Engineering (IMTEK), University of Freiburg, Freiburg im Breisgau, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Pisanello M"
+          ],
+          "firstName": [
+            "Marco"
+          ],
+          "lastName": [
+            "Pisanello"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Istituto Italiano di Tecnologia, Center for Biomolecular Nanotechnologies, Arnesano, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Pisano F"
+          ],
+          "firstName": [
+            "Filippo"
+          ],
+          "lastName": [
+            "Pisano"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Istituto Italiano di Tecnologia, Center for Biomolecular Nanotechnologies, Arnesano, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Bellistri E"
+          ],
+          "firstName": [
+            "Elisa"
+          ],
+          "lastName": [
+            "Bellistri"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Istituto Italiano di Tecnologia, Center for Biomolecular Nanotechnologies, Arnesano, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Maglie E"
+          ],
+          "firstName": [
+            "Emanuela"
+          ],
+          "lastName": [
+            "Maglie"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Istituto Italiano di Tecnologia, Center for Biomolecular Nanotechnologies, Arnesano, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "De Vittorio M"
+          ],
+          "firstName": [
+            "Massimo"
+          ],
+          "lastName": [
+            "De Vittorio"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Istituto Italiano di Tecnologia, Center for Biomolecular Nanotechnologies, Arnesano, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Ruther P"
+          ],
+          "firstName": [
+            "Patrick"
+          ],
+          "lastName": [
+            "Ruther"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Microsystems Engineering (IMTEK), University of Freiburg, Freiburg im Breisgau, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Hanganu-Opatz IL"
+          ],
+          "firstName": [
+            "Ileana L"
+          ],
+          "lastName": [
+            "Hanganu-Opatz"
+          ],
+          "initials": [
+            "IL"
+          ],
+          "affiliation": [
+            "Developmental Neurophysiology, Institute of Neuroanatomy, University Medical Center Hamburg-Eppendorf, Hamburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Pisanello F"
+          ],
+          "firstName": [
+            "Ferruccio"
+          ],
+          "lastName": [
+            "Pisanello"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Istituto Italiano di Tecnologia, Center for Biomolecular Nanotechnologies, Arnesano, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1489-7758",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2647764"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Neurosci"
+          ],
+          "NLMid": [
+            "101478481"
+          ],
+          "ISSN": [
+            "1662-4548"
+          ],
+          "ESSN": [
+            "1662-453X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "771"
+  ],
+  "abstractText": [
+    "Optogenetics offers many advantages in terms of cell-type specificity, allowing to investigate functional connectivity between different brain areas at high spatial and neural population selectivity. In order to obtain simultaneous optical control and electrical readout of neural activity, devices called \"optrodes\" are employed. They are typically composed of a linear array of microelectrodes integrated on a slender probe shafts combined with flat-cleaved optical fibers (FF) placed above the recording sites. However, due to tissue absorption and scattering, light delivered by the FF unevenly illuminates the region of interest. This issue is of particular relevance when cellular populations are disposed along the dorso-ventral axis, such as in medial prefrontal cortex (mPFC) where cortical layers are aligned vertically. The study presented here aims at using tapered optical fibers (TFs) in combination with a 16-electrode neural probe to better access neural populations distributed along the dorso-ventral axis in the mPFC of newborn mice, restricting light delivery over a specific portion of the cortical layer of interest. Half of the TF surface is coated with a reflecting metal blocking the light to enable light delivery from one side of the probe's shaft only, with the probe base being designed to host the fiber without interfering with the wire-bonds that connect the recording sites to a printed circuit board. Monte-Carlo simulations have been implemented to define the relative TF-probe position and to identify the light intensity distribution above the recording sites. In vivo recordings indicate that simultaneous optical stimulation and electrical readout of neural activity in the mPFC benefit from the use of the engineered TF-based optrode in terms of a more uniform light distribution along the dorso-ventral axis and the possibility of restricting light delivery to a subset of electrical recording sites of interest."
+  ],
+  "affiliation": [
+    "Istituto Italiano di Tecnologia, Center for Biomolecular Nanotechnologies, Arnesano, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "677683"
+          ],
+          "agency": [
+            "European Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U01 NS094190"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "692943"
+          ],
+          "agency": [
+            "European Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "681577"
+          ],
+          "agency": [
+            "European Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Optogenetics",
+        "Medial Prefrontal Cortex",
+        "Optical Fibers",
+        "Optrode",
+        "Tapered Fibers"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6212654?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6212654"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnins.2018.00771"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-11-13"
+  ],
+  "firstIndexDate": [
+    "2018-11-12"
+  ],
+  "dateOfRevision": [
+    "2018-11-15"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-26"
+  ],
+  "firstPublicationDate": [
+    "2018-10-26"
+  ]
+}

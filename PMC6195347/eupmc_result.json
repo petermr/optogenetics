@@ -1,0 +1,637 @@
+{
+  "id": [
+    "30260316"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30260316"
+  ],
+  "pmcid": [
+    "PMC6195347"
+  ],
+  "doi": [
+    "10.7554/eLife.41076"
+  ],
+  "title": [
+    "Optogenetics enables real-time spatiotemporal control over spiral wave dynamics in an excitable cardiac system."
+  ],
+  "authorString": [
+    "Majumder R, Feola I, Teplenin AS, de Vries AA, Panfilov AV, Pijnappels DA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Majumder R"
+          ],
+          "firstName": [
+            "Rupamanjari"
+          ],
+          "lastName": [
+            "Majumder"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3851-9225",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratory of Experimental Cardiology, Department of Cardiology, Heart Lung Center, Leiden University Medical Center, Leiden, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Feola I"
+          ],
+          "firstName": [
+            "Iolanda"
+          ],
+          "lastName": [
+            "Feola"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9645-6384",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratory of Experimental Cardiology, Department of Cardiology, Heart Lung Center, Leiden University Medical Center, Leiden, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Teplenin AS"
+          ],
+          "firstName": [
+            "Alexander S"
+          ],
+          "lastName": [
+            "Teplenin"
+          ],
+          "initials": [
+            "AS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7841-376X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratory of Experimental Cardiology, Department of Cardiology, Heart Lung Center, Leiden University Medical Center, Leiden, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "de Vries AA"
+          ],
+          "firstName": [
+            "Antoine Af"
+          ],
+          "lastName": [
+            "de Vries"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "affiliation": [
+            "Laboratory of Experimental Cardiology, Department of Cardiology, Heart Lung Center, Leiden University Medical Center, Leiden, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Panfilov AV"
+          ],
+          "firstName": [
+            "Alexander V"
+          ],
+          "lastName": [
+            "Panfilov"
+          ],
+          "initials": [
+            "AV"
+          ],
+          "affiliation": [
+            "Department of Physics and Astronomy, Gent University, Gent, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Pijnappels DA"
+          ],
+          "firstName": [
+            "Daniel A"
+          ],
+          "lastName": [
+            "Pijnappels"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6731-4125",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratory of Experimental Cardiology, Department of Cardiology, Heart Lung Center, Leiden University Medical Center, Leiden, The Netherlands."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7841-376X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9645-6384",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3851-9225",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6731-4125",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2722156"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "eLife"
+          ],
+          "ISOAbbreviation": [
+            "Elife"
+          ],
+          "medlineAbbreviation": [
+            "Elife"
+          ],
+          "NLMid": [
+            "101579614"
+          ],
+          "ISSN": [
+            "2050-084X"
+          ],
+          "ESSN": [
+            "2050-084X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Propagation of non-linear waves is key to the functioning of diverse biological systems. Such waves can organize into spirals, rotating around a core, whose properties determine the overall wave dynamics. Theoretically, manipulation of a spiral wave core should lead to full spatiotemporal control over its dynamics. However, this theory lacks supportive evidence (even at a conceptual level), making it thus a long-standing hypothesis. Here, we propose a new phenomenological concept that involves artificially dragging spiral waves by their cores, to prove the aforementioned hypothesis in silico, with subsequent in vitro validation in optogenetically modified monolayers of rat atrial cardiomyocytes. We thereby connect previously established, but unrelated concepts of spiral wave attraction, anchoring and unpinning to demonstrate that core manipulation, through controlled displacement of heterogeneities in excitable media, allows forced movement of spiral waves along pre-defined trajectories. Consequently, we impose real-time spatiotemporal control over spiral wave dynamics in a biological system."
+  ],
+  "affiliation": [
+    "Laboratory of Experimental Cardiology, Department of Cardiology, Heart Lung Center, Leiden University Medical Center, Leiden, The Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2012-Pijnappels"
+          ],
+          "agency": [
+            "Ammodo"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "716509"
+          ],
+          "agency": [
+            "European Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "VIDI 917143"
+          ],
+          "agency": [
+            "ZonMw"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Starting grant 716509"
+          ],
+          "agency": [
+            "H2020 European Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "VIDI"
+          ],
+          "agency": [
+            "ZonMw"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Starting grant"
+          ],
+          "agency": [
+            "H2020 European Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Heart Atria"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Myocytes, Cardiac"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rats"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Systems Biology"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Atrial Function"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Computer Simulation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Optogenetics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Rat",
+        "Complexity",
+        "systems biology",
+        "computational biology",
+        "Cardiac Arrhythmias",
+        "Optical Mapping",
+        "Spiral Waves",
+        "Computer Modelling",
+        "Physics Of Living Systems"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6195347?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6195347"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7554/eLife.41076"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "PPR55435"
+          ],
+          "source": [
+            "PPR"
+          ],
+          "type": [
+            "Preprint in"
+          ],
+          "note": [
+            "Link created based on a title-first author match"
+          ],
+          "orderIn": [
+            "10002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-01-29"
+  ],
+  "dateOfCreation": [
+    "2018-09-28"
+  ],
+  "firstIndexDate": [
+    "2018-09-28"
+  ],
+  "dateOfRevision": [
+    "2019-05-30"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-27"
+  ],
+  "firstPublicationDate": [
+    "2018-09-27"
+  ]
+}

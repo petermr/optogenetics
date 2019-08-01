@@ -1,0 +1,1228 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article" xml:lang="EN"><?DTDIdentifier.IdentifierValue -//ACS//DTD ACS Journal DTD v1.02 20061031//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName ACSJournal-v102.dtd?><?SourceDTD.Version 1.02?><?ConverterInfo.XSLTName acs2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">ACS Cent Sci</journal-id><journal-id journal-id-type="iso-abbrev">ACS Cent Sci</journal-id><journal-id journal-id-type="publisher-id">oc</journal-id><journal-id journal-id-type="coden">acscii</journal-id><journal-title-group><journal-title>ACS Central Science</journal-title></journal-title-group><issn pub-type="ppub">2374-7943</issn><issn pub-type="epub">2374-7951</issn><publisher><publisher-name>American Chemical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">6346627</article-id><article-id pub-id-type="doi">10.1021/acscentsci.8b00827</article-id><article-categories><subj-group><subject>Outlook</subject></subj-group></article-categories><title-group><article-title>Energy-Transfer Editing in Lanthanide-Activated Upconversion
+Nanocrystals: A Toolbox for Emerging Applications</article-title></title-group><contrib-group><contrib contrib-type="author" id="ath1"><name><surname>Qin</surname><given-names>Xian</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath2"><name><surname>Xu</surname><given-names>Jiahui</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" id="ath3"><name><surname>Wu</surname><given-names>Yiming</given-names></name><xref rid="aff1" ref-type="aff">&#x02020;</xref></contrib><contrib contrib-type="author" corresp="yes" id="ath4"><name><surname>Liu</surname><given-names>Xiaogang</given-names></name><xref rid="cor1" ref-type="other">*</xref><xref rid="aff1" ref-type="aff">&#x02020;</xref><xref rid="aff2" ref-type="aff">&#x02021;</xref></contrib><aff id="aff1"><label>&#x02020;</label>Department
+of Chemistry, <institution>National University of Singapore</institution>, 3 Science Drive 3, Singapore 117543, <country>Singapore</country></aff><aff id="aff2"><label>&#x02021;</label>Center
+for Functional Materials, <institution>NUS Suzhou Research
+Institute</institution>, Suzhou, Jiangsu 215123, <country>P.
+R. China</country></aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>E-mail: <email>chmlx@nus.edu.sg</email>.</corresp></author-notes><pub-date pub-type="epub"><day>07</day><month>01</month><year>2019</year></pub-date><pub-date pub-type="ppub"><day>23</day><month>01</month><year>2019</year></pub-date><volume>5</volume><issue>1</issue><fpage>29</fpage><lpage>42</lpage><history><date date-type="received"><day>10</day><month>11</month><year>2018</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2019 American Chemical
+Society</copyright-statement><copyright-year>2019</copyright-year><copyright-holder>American Chemical
+Society</copyright-holder><license><license-p>This is an open access article published under an ACS AuthorChoice <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://pubs.acs.org/page/policy/authorchoice_termsofuse.html">License</ext-link>, which permits copying and redistribution of the article or any adaptations for non-commercial purposes.</license-p></license></permissions><abstract><p content-type="toc-graphic"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="oc-2018-00827w_0008" id="ab-tgr1"/></p><p>Advanced nanoscale synthetic techniques
+provide a versatile platform
+for programmable control over the size, morphology, and composition
+of nanocrystals doped with lanthanide ions. Characteristic upconversion
+luminescence features originating from the 4f&#x02013;4f optical transitions
+of lanthanides can be achieved through predesigned energy transfer
+pathways, enabling wide applications ranging from ultrasensitive biological
+detection to advanced spectroscopic instrumentation with high spatiotemporal
+resolution. Here, we review recent scientific and technological discoveries
+that have prompted the realization of these peculiar functions of
+lanthanide-doped upconversion nanocrystals and discuss the mechanistic
+studies of energy transfer involved in upconversion processes. These
+advanced schemes include cross relaxation-mediated depletion, multipulse
+sequential pumping, and nanostructural configuration design. Our emphasis
+is placed on disruptive technologies such as super-resolution microscopy,
+optogenetics, nanolasing, and optical anticounterfeiting, which take
+full advantage of the upconversion nanophenomena in relation to lanthanide-doped
+nanocrystals.</p></abstract><abstract abstract-type="short"><p>This outlook outlines the
+fundamental mechanism for photon
+upconversion, reviews the current state of the art of lanthanide-activated
+upconversion nanocrystals, and highlights their prospects as spectral
+converters for emerging applications.</p></abstract><custom-meta-group><custom-meta><meta-name>document-id-old-9</meta-name><meta-value>oc8b00827</meta-value></custom-meta><custom-meta><meta-name>document-id-new-14</meta-name><meta-value>oc-2018-00827w</meta-value></custom-meta><custom-meta><meta-name>ccc-price</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="sec1"><label>1</label><title>Introduction</title><p>Photon upconversion, an
+unusual nonlinear optical process, has
+attracted tremendous research interest due largely to its ability
+to realize frequency conversion without stringent constraints, such
+as the prerequisite of phase matching in second harmonic generation.
+Because of their abundant ladder-like 4f energy levels, lanthanide
+ions, when embedded in inorganic hosts, have proven effective in achieving
+photon upconversion through the successive absorption of low excitation
+energies followed by the emission of high-energy photons. The phenomenon
+of photon upconversion through lanthanides was first observed by Nicolaas
+Bloembergen in 1959 when he intended to count the number of infrared
+photons by colliding them with solid crystals doped with lanthanide
+or transition metal ions.<sup><xref ref-type="bibr" rid="ref1">1</xref></sup> As an effective
+pumping source, the advent of lasers has significantly facilitated
+the development of upconversion luminescence materials, made evident
+in the pioneering works of Fran&#x000e7;ois Auzel and of Ovsyankin
+and Feofilov.<sup><xref ref-type="bibr" rid="ref2">2</xref>,<xref ref-type="bibr" rid="ref3">3</xref></sup> To date, lanthanide-doped upconversion
+materials have been exploited for various applications by taking advantage
+of their ability to convert near-infrared (NIR) incident light into
+high-energy ultraviolet or visible emissions.<sup><xref ref-type="bibr" rid="ref2">2</xref>,<xref ref-type="bibr" rid="ref4">4</xref>,<xref ref-type="bibr" rid="ref5">5</xref></sup></p><p>The advent of nanotechnology provides
+a powerful tool to control
+the size of lanthanide-doped materials down to the nanometer length
+scale, with the smallest being &#x0223c;2 nm in diameter.<sup><xref ref-type="bibr" rid="ref6">6</xref></sup> Unlike quantum dots dominated by size-dependent
+quantum phenomenon, the luminescence profiles of lanthanide-doped
+nanocrystals are hardly affected by miniaturization because of the
+direct pumping of the lanthanide ions and the inertness of the lanthanide&#x02019;s
+4f orbitals to its surroundings. Energy transfer within such a luminescence
+system occurs mainly among the dopants, which enables the modulation
+of the energy transfer pathways through spatial control over the dopant&#x02013;dopant
+distance during the nanocrystal growth stage. For example, by deliberately
+controlling the doping concentration or the geometric structure, emission
+colors covering the entire visible spectral region can be achieved
+in lanthanide-doped upconversion nanocrystals since the intensity
+ratio between the different emission bands is critically dependent
+on the dopant&#x02013;dopant distance.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> Alternatively,
+full-color emission at single-particle levels can be obtained from
+multilayer core&#x02013;shell structured nanocrystals that are sensitive
+to the laser pulse duration.<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> In addition,
+upconversion luminescence from lanthanide activators without long-lived
+intermediate states is accessible through the use of gadolinium-based
+core&#x02013;shell nanoparticles.<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> These
+unique optical properties provide upconversion nanocrystals with unparalleled
+capabilities for applications that would otherwise be unattainable
+through their bulk counterparts (<xref rid="fig1" ref-type="fig">Figure <xref rid="fig1" ref-type="fig">1</xref></xref>).</p><fig id="fig1" position="float"><label>Figure 1</label><caption><p>Representative scientific and technological
+breakthroughs through
+the development of functionalized upconversion nanocrystals.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="oc-2018-00827w_0001" id="gr1" position="float"/></fig><p>Despite the considerable achievements
+over the past eight years,
+the low quantum conversion efficiency remains the key bottleneck that
+prevents the utility of upconversion nanocrystals for practical applications.
+Compared with bulk materials, the upconversion luminescence from nanocrystals
+suffers from more severe quenching due to a higher density of surface-bound
+activators, by which the excitation energy is dissipated nonradiatively.
+Hence, the structural configuration and composition of the nanocrystals
+need to be precisely controlled during the synthesis, which poses
+added constraints in the manipulation of luminescence profiles. On
+a separate note, these constraints are likely to stimulate researchers
+to develop innovative and effective solutions. Indeed, impressive
+progress has been made over the past few years in upconversion luminescence
+enhancement through modification of the energy transfer processes
+such as surface passivation, pumping scheme design, host matrix selection,
+surface plasmonic coupling, and photonic crystal modulation.<sup><xref ref-type="bibr" rid="ref10">10</xref>,<xref ref-type="bibr" rid="ref11">11</xref></sup></p><p>In view of the already extensive literature on upconversion
+nanocrystals,
+we focus here on recent developments in which energy transfer-governed
+upconversion emission could be realized through intrinsic structural
+and compositional control as well as different modes of external stimulation.
+We begin with a brief description of the basic principles underlying
+the upconversion process, followed by discussion of the major challenges
+in improving the optical performance of upconversion nanocrystals.
+We also review the recent use of upconversion nanocrystals to provide
+multilevel anticounterfeiting, perform super-resolution microscopy,
+interrogate neural circuitry, and investigate upconversion lasing.
+The emphasis is placed on emerging areas in which upconversion nanocrystals
+show particular advantages over their widely used optical material
+counterpart, organic dyes.</p></sec><sec id="sec2"><label>2</label><title>Fundamentals</title><sec id="sec2.1"><label>2.1</label><title>Upconversion Mechanism</title><p>A given upconversion
+nanocrystal usually consists of an inorganic host matrix and lanthanide
+dopants that typically occupy the lattice sites. When lanthanide ions
+sense the crystal field of the host lattice, the probability of optical
+transitions within the 4f manifolds can be greatly enhanced due to
+the relaxation of the spectroscopic selection rule. Unlike traditional
+semiconductors, upconversion nanocrystals principally do not feature
+host-sensitized emission. Instead, the lanthanide dopants serve as
+active luminescence centers that are responsible for excitation energy
+absorption, energy transfer, and radiative emission processes. Upconversion
+mechanisms can be generally categorized into excited state absorption
+(ESA), energy transfer upconversion (ETU), photon avalanche (PA),
+cooperative energy transfer (CET), and energy migration-mediated upconversion
+(EMU). Among these five mechanisms, ETU has been demonstrated to be
+the most efficient process. In the simplest ETU system, two types
+of lanthanides, namely, sensitizers and activators, are codoped to
+enable high efficiency energy harvesting and emission. Although the
+energy transfer process prevails in the ETU mechanism, this process
+has also been widely observed in nanocrystals governed by PA, CET,
+and EMU mechanisms. In addition, the ESA process may occur concurrently
+with other processes when a given upconversion system encounters an
+appropriate level of pumping energy. By comparison, the EMU process
+mainly occurs in a core&#x02013;shell particle comprising energy migrators,
+which can effectively bridge the excitation energy from the sensitizer
+to the emitter across multilayered interfaces. This design enables
+the minimization of deleterious cross relaxation between distinct
+lanthanide ions, thus resulting in drastic upconversion amplification
+from a series of activators without ladder-like intermediate states.<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> As the mechanistic investigation is beyond the
+scope of this review, readers are encouraged to refer to previously
+published reviews and tutorials for more details.<sup><xref ref-type="bibr" rid="ref12">12</xref>&#x02212;<xref ref-type="bibr" rid="ref15">15</xref></sup></p></sec><sec id="sec2.2"><label>2.2</label><title>Energy
+Transfer Efficiency</title><p>Achieving
+a high upconversion efficiency is of paramount importance to practical
+applications. Despite significant efforts, the conversion efficiency
+of nanocrystals remains much lower than that of their bulk equivalents,
+as evidenced by the reported low quantum yield (&#x0223c;0.1%) of NaYF<sub>4</sub>:Yb,Er nanoparticles with a diameter of 30 nm.<sup><xref ref-type="bibr" rid="ref16">16</xref></sup> Apart from the intrinsic parity-forbidden nature
+of 4f&#x02013;4f optical transitions, the typically low conversion
+efficiency arises mainly from the presence of surface quenchers such
+as lattice defects and solvent molecules, which suppress the effective
+energy transfer through nonradiative decay. Owing to the high surface-to-volume
+ratio of nanocrystals, a major task of nanocrystal design lies in
+understanding how surface quenchers disturb the energy transfer process.</p><p>The energy transfer
+pathways in a given nanocrystal could be divided into four classes:
+(i) ion&#x02013;ion energy transfer, (ii) ion-defect energy transfer,
+(iii) ion-ligand energy transfer, and (iv) particle&#x02013;particle
+energy transfer, as illustrated in <xref rid="fig2" ref-type="fig">Figure <xref rid="fig2" ref-type="fig">2</xref></xref>. Notably, for class (i), energy transfer
+is possible not only between lanthanide ions but also between lanthanide
+and transition metal ions. Given the distance dependence of the energy
+transfer rate, the determination of the dopant distribution in a nanoparticle
+of interest is critical. In general, the core of the nanoparticle
+inherits the atomic arrangement from its bulk counterpart, where the
+crystallinity is essentially maintained. Instead of occupying interstitial
+sites, lanthanide ions or other types of metal dopants tend to statistically
+substitute for host cations featuring a similar valence charge, as
+recently confirmed by high-resolution scanning transmission electron
+microscopy.<sup><xref ref-type="bibr" rid="ref17">17</xref></sup> There is a general consensus
+that the distance between dopants can be estimated using the crystallographic
+parameters of the host lattice. However, this theorem does not hold
+for small nanoparticles with high surface areas. For example, when
+doped into a NaGdF<sub>4</sub> nanocrystal, Tb<sup>3+</sup> and Nd<sup>3+</sup> were found to preferentially replace Gd<sup>3+</sup> in
+center and edge sites, respectively, irrespective of the similar ionic
+radius among these lanthanide ions.<sup><xref ref-type="bibr" rid="ref18">18</xref></sup> In
+another study, trivalent Pr, Tb, and Dy ions were observed to occupy
+sites mainly on the surface of SnO<sub>2</sub> nanoparticles, while
+Eu<sup>3+</sup> and Sm<sup>3+</sup> showed multimodal distributions.<sup><xref ref-type="bibr" rid="ref19">19</xref></sup> Clearly, such nonstatistical distribution of
+dopants in nanocrystals may complicate the determination of the dopant&#x02013;dopant
+distance and thus impede the estimation of the energy transfer rate.</p><fig id="fig2" position="float"><label>Figure 2</label><caption><p>Schematic
+illustration showing four major energy transfer pathways
+dominated in upconverting nanosystems. A list of chemical and physical
+approaches to energy transfer manipulation is included in the scheme.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="oc-2018-00827w_0002" id="gr2" position="float"/></fig><p>Importantly, the number of lattice
+defects can increase rapidly
+in nanoparticles, with most residing on the surface of the nanoparticles.
+Moreover, heterovalent doping usually requires the formation of particular
+defects to maintain the entire system in the neutral state. Accordingly,
+the existence of defects not only complicates the process of distance
+measurement but also leads to unwanted nonradiative energy transfer
+between dopants and defects,<sup><xref ref-type="bibr" rid="ref20">20</xref></sup> as seen
+in the case of type (ii) energy transfer. Unfortunately, the excitation
+energies stored in the defect sites usually dissipate through the
+vibration of the host lattice in the form of heat. The currently reported
+models for the calculation of the energy transfer rate do not account
+for the probability of ion-defect pathway-mediated energy transfer,
+which may lead to unavoidable deviation from the actual process of
+energy transfer within nanoparticles.</p><p>The type (iii) energy
+transfer pathway is associated with the interaction
+between the dopant ions and the ligands attached to the surface of
+a given nanoparticle. This interaction arises because ligands are
+often required for stabilizing the nanoparticles in solvents. Such
+pathways can be seen in two different scenarios. One is that the surface
+dopants directly chelate with the ligands, resembling the formation
+of lanthanide-based complexes.<sup><xref ref-type="bibr" rid="ref21">21</xref></sup> In the
+second case, energy transfer can occur between the ligands and the
+dopants resting at the subsurface or even in the center of the particles,
+depending on the actual dopant&#x02013;ligand distance.<sup><xref ref-type="bibr" rid="ref22">22</xref>&#x02212;<xref ref-type="bibr" rid="ref24">24</xref></sup> When constructing a model for the calculation of this transfer rate,
+these two scenarios should be equally considered.</p><p>As the particle
+size continues to decrease, the energy transfer
+(type iv) via particle&#x02212;particle channels becomes important,
+especially for nanofluids with high particle concentrations. The distance
+between these nanoparticles can be dictated by adopting specific ligands
+with extended carbon chains of different lengths.<sup><xref ref-type="bibr" rid="ref25">25</xref></sup> Interestingly, particle&#x02013;particle energy transfer
+could endow the nanosystem with intriguing upconversion emission profiles
+accessible by self-assembled nanostructures.<sup><xref ref-type="bibr" rid="ref26">26</xref>&#x02212;<xref ref-type="bibr" rid="ref28">28</xref></sup> Thus, the contribution
+of the particle&#x02013;particle channel to the transfer rate should
+be carefully examined.</p></sec><sec id="sec2.3"><label>2.3</label><title>Energy Transfer Manipulation</title><p>Energy
+transfer is an essential process in upconversion, and its manipulation
+has been demonstrated to be effective for tuning emission profiles,
+such as emission color and lifetime. On the other hand, energy transfer
+from dopants to surface defects or ligands could lead to a substantial
+decrease in upconversion efficiency. In this subsection, we summarize
+common strategies that are currently implemented to regulate the energy
+transfer process.</p><p>In light of the competition between the different
+energy transfer processes, the precise determination of the transfer
+rate for a specific pathway has been challenging. In general, the
+key factors affecting energy transfer include ion distribution, wave
+function coupling, and energy overlap integral. Varying the distribution
+of the dopants is the most straightforward approach to tuning the
+type (i) energy transfer process. For instance, an increase in the
+doping concentration facilitates cross relaxation between dopants
+as a result of the reduced ion&#x02013;ion distance. Another method
+to control the ion distribution is to identify particular hosts in
+which lanthanide ions tend to segregate in the form of chains or clusters
+upon host cation substitution.<sup><xref ref-type="bibr" rid="ref29">29</xref></sup> As such,
+intriguing luminescence phenomena, such as five-photon upconversion<sup><xref ref-type="bibr" rid="ref30">30</xref></sup> and single-band emission,<sup><xref ref-type="bibr" rid="ref31">31</xref></sup> can be achieved. The intercalation of additional metal
+ions (Cd<sup>2+</sup>, Mn<sup>2+</sup>, Fe<sup>3+</sup>, etc.) may
+also alter the ion distribution in the host lattice.<sup><xref ref-type="bibr" rid="ref32">32</xref>,<xref ref-type="bibr" rid="ref33">33</xref></sup></p><p>Nanoparticle synthesis is a trivial process in which the formation
+of surface quenchers occurs spontaneously and subsequently amounts
+to added channels for unwanted energy transfer (type ii and iii).<sup><xref ref-type="bibr" rid="ref34">34</xref>,<xref ref-type="bibr" rid="ref35">35</xref></sup> For example, the unexpected incorporation of hydroxyl ions (OH<sup>&#x02013;</sup>) into nanoparticles could reduce upconversion conversion
+efficiency.<sup><xref ref-type="bibr" rid="ref35">35</xref></sup> Currently, the most effective
+approach for eliminating surface quenchers is to grow an optically
+inert shell onto the bare core nanoparticles. The effectiveness of
+such core&#x02013;shell structures for the suppression of nonradiative
+emission has been validated, as evidenced by the enhanced upconversion
+luminescence upon the removal of surface quenchers through core&#x02013;shell
+engineering.<sup><xref ref-type="bibr" rid="ref17">17</xref>,<xref ref-type="bibr" rid="ref36">36</xref></sup> The core&#x02013;shell design
+could be used to suppress the deleterious process of cross relaxation
+by enlarging the dopant&#x02013;dopant distance, thus maximizing the
+upconversion efficiency.<sup><xref ref-type="bibr" rid="ref37">37</xref></sup> Apart from surface
+passivation, a core&#x02013;shell design can also be used to design
+the energy transfer pathways and allow the realization of novel upconversion
+features, including full-color emission<sup><xref ref-type="bibr" rid="ref8">8</xref></sup> and new activator development.<sup><xref ref-type="bibr" rid="ref9">9</xref></sup> For more
+details, readers are encouraged to refer to the work of Chen et al.,
+in which the criteria and recipes for core&#x02013;shell nanoparticle
+design and synthesis are well summarized.<sup><xref ref-type="bibr" rid="ref38">38</xref></sup></p><p>In addition to the manipulation of the particle&#x02019;s composition
+and structure, the amplification in local electromagnetic field by
+coupling noble metals has also proven effective in drastically enhancing
+upconversion efficiency.<sup><xref ref-type="bibr" rid="ref10">10</xref>,<xref ref-type="bibr" rid="ref39">39</xref>&#x02212;<xref ref-type="bibr" rid="ref41">41</xref></sup> Such plasmon-mediated upconversion enhancement is generally ascribed
+to the increase in the incident pumping flux or radiative decay rate.<sup><xref ref-type="bibr" rid="ref42">42</xref>&#x02212;<xref ref-type="bibr" rid="ref45">45</xref></sup> Of particular note is that the effect of surface plasmons on the
+energy transfer has been decoupled from the aforementioned enhancement
+in upconversion absorption and emission processes.<sup><xref ref-type="bibr" rid="ref46">46</xref>&#x02212;<xref ref-type="bibr" rid="ref49">49</xref></sup> The manipulation of energy transfer
+through plasmonic resonance can significantly benefit practical applications,
+such as upconversion-mediated photovoltaics and bioimaging, in which
+low-power irradiance is highly desirable. Given the distance-dependent
+plasmon-enhanced upconversion, the structure and shape of plasmonic
+materials in the form of sphere, rod, pillar/hole array, and core&#x02013;shell
+particle need to be exquisitely designed to maximize the upconversion
+enhancement.<sup><xref ref-type="bibr" rid="ref43">43</xref>,<xref ref-type="bibr" rid="ref45">45</xref>,<xref ref-type="bibr" rid="ref50">50</xref></sup></p></sec></sec><sec id="sec3"><label>3</label><title>Emerging Applications</title><p>Over the past
+few years, the rapid development of nanoparticles
+with multimodal functionalities has allowed the applications of nanoparticles
+to be expanded from biomolecular sensing<sup><xref ref-type="bibr" rid="ref51">51</xref>,<xref ref-type="bibr" rid="ref52">52</xref></sup> to deep-tissue imaging,<sup><xref ref-type="bibr" rid="ref53">53</xref></sup> lighting,<sup><xref ref-type="bibr" rid="ref54">54</xref></sup> and the measurement of the instantaneous Brownian
+velocity.<sup><xref ref-type="bibr" rid="ref55">55</xref></sup> In this section, we attempt
+to highlight the broad utility of upconversion nanoparticles in super-resolution
+microscopy, optogenetics, lasing, and multilevel anticounterfeiting.</p><sec id="sec3.1"><label>3.1</label><title>Super-Resolution Microscopy</title><p>Luminescent
+biomarkers, when combined with microscopic imaging techniques, have
+been demonstrated to be effective for visualizing tissue structures
+and the dynamics of physiological processes. However, the application
+of such imaging techniques in the life science is often hampered by
+low spatial resolution. By employing an organic dye-based luminescent
+probe, the best lateral resolution that a given far-field optical
+microscope can achieve is approximately half the wavelength of the
+excitation light. Such distance resolution between two point objects
+was defined as the diffraction limit by Abbe in 1873.<sup><xref ref-type="bibr" rid="ref56">56</xref></sup> Thus, the optical resolution is usually &#x0223c;200 nm
+laterally and &#x0223c;500 nm axially, which is far too large for the
+precise tracing of biological events, which typically occur at scales
+of a few to tens of nanometers.</p><p>Given the luminescence nature
+of the markers, subdiffraction resolution can be achieved by partially
+switching on or off the emission originating from a specific area
+of the phosphors under study. To date, many far-field fluorescence
+microscopies have been developed for super-resolution imaging such
+as stimulated single-molecule localization nanoscopy, saturated structured
+illumination microscopy, and stimulated emission depletion microscopy
+(STED). In this section, we review the development of upconversion
+nanoparticle-associated STED nanoscopy and its utility for bioimaging.</p><p>The STED technique typically involves the use of a dual-laser system:
+one laser beam as the excitation source and the other one with a donut-shaped
+focal spot for emission depletion. Upon the excitation of a fluorophore,
+the second beam source is able to switch off the luminescence of the
+fluorophore at the donut-shaped periphery (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>a). The size of the emission spot is thereby
+significantly reduced, and the lateral resolution is subsequently
+improved, as illustrated in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>b&#x02013;d. To date, many STED microscopes with different
+modalities have been developed for high-resolution bioimaging.<sup><xref ref-type="bibr" rid="ref57">57</xref>,<xref ref-type="bibr" rid="ref58">58</xref></sup> Despite considerable efforts, further advancement in the performance
+of STED microscopy has been hindered by the inherent limitations associated
+with conventional optical contrast agents, including photobleaching,
+photoblinking, autofluorescence, and a shallow imaging depth. In addition,
+the operation of these optical materials usually requires high-power
+depletion lasers, which may induce light toxicity and aggravate the
+degree of photobleaching.</p><fig id="fig3" position="float"><label>Figure 3</label><caption><p>(a) Schematic diagram of a simplified STED experimental
+setup.
+(b, c) A scheme showing the effective point spread function (PSF)
+achieved by overlaying the excitation beam with the donut-shaped depletion
+beam. (d) A scheme showing the decrease in the size of the effective
+PSF obtained by increasing the intensity of the depletion laser. (e)
+Emission spectra of NaYF<sub>4</sub>:18%Yb/10%Tm nanoparticles upon
+different wavelength excitations. Note that 96% depletion efficiency
+of the 455 nm emission can be achieved by simultaneously implementing
+980 nm CW excitation and 810 nm CW depletion. (f) Schematic sketch
+of net cross relaxation-mediated stimulated depletion (left) and net
+synergistic enhancement (right), typically observed from upconversion
+nanocrystals with high and low Tm<sup>3+</sup> doping concentrations.
+(g, h) High resolution imaging, in multiphoton mode and STED mode,
+of cytoskeleton structures and desmin proteins in HeLa cancer cells.
+Panel d reproduced with permission from ref (<xref ref-type="bibr" rid="ref58">58</xref>). Copyright 2013 Frontiers.
+Panels e&#x02013;f reproduced with permission from ref (<xref ref-type="bibr" rid="ref67">67</xref>). Copyright 2017 Nature.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="oc-2018-00827w_0003" id="gr3" position="float"/></fig><p>In contrast to conventional biomarkers,
+lanthanide-doped upconversion
+nanoparticles allow deep-tissue labeling and imaging to be performed
+without photobleaching and photoblinking. Moreover, the overheating-induced
+toxicity can be effectively circumvented by choosing an appropriate
+lanthanide sensitizer that has absorption in biological windows.<sup><xref ref-type="bibr" rid="ref59">59</xref>&#x02212;<xref ref-type="bibr" rid="ref63">63</xref></sup> With the help of the STED technique, researchers have demonstrated
+subdiffraction imaging using upconversion nanoparticles. The first
+demonstration of such efforts was reported in 2011 by Kolesov et al.,
+who showed that an optical resolution of 50 nm could be achieved upon
+the excitation of Pr-doped YAG (Y<sub>3</sub>Al<sub>5</sub>O<sub>12</sub>) ultraviolet-emitting nanoprobes.<sup><xref ref-type="bibr" rid="ref64">64</xref></sup> Notably,
+instead of emission depletion, stimulated excited state absorption
+is responsible for breaking the diffraction limit. However, their
+method is not suitable for bioimaging because the excitation and emission
+wavelengths under study fall short of the biological window. In another
+study involving NaYF<sub>4</sub>:Yb/Er nanoparticles, stimulated excited
+state absorption was again recognized as the main cause of the enhancement
+of the imaging resolution, when illuminated by two NIR beams simultaneously.<sup><xref ref-type="bibr" rid="ref65">65</xref></sup> Despite the high brightness and deep-tissue
+penetration ability enabled by these fluoride-based nanoparticles,
+the reported maximum depletion efficiency of the green emission is
+merely 30%, leading to a relatively low signal-to-noise ratio.</p><p>In 2017, a classical stimulated
+emission depletion was observed by Jin and co-workers in highly doped
+NaYF<sub>4</sub>:Yb/Tm nanoparticles upon concurrent illumination
+with 980 and 808 nm lasers.<sup><xref ref-type="bibr" rid="ref66">66</xref></sup> The researchers
+argued that the cross relaxation-induced population inversion between
+the intermediate state and the ground state is a prerequisite for
+the successful depletion of the blue emission originating from Tm<sup>3+</sup> emitters. Notably, the switch-off efficiency of the blue
+emission can reach 90% to result in a substantial reduction in the
+lateral resolution down to 28 nm. The cross relaxation in highly doped
+nanoparticles not only enables stimulated emission but also significantly
+lowers the threshold of the depletion intensity compared to the one
+used for conventional probe depletion.</p><p>A similar depletion phenomenon
+was reported by Zhan and He and
+their co-workers (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>e).<sup><xref ref-type="bibr" rid="ref67">67</xref></sup> However, the researchers
+claimed that stimulated depletion occurs between higher-lying excited
+states and intermediate states rather than the optical transition
+between intermediate and ground states, as depicted in <xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>f. Additionally, cross relaxation
+was found to compensate for stimulation-induced upconversion enhancement,
+accompanied by a reduction in the depletion intensity. Apparently,
+the way by which the cross relaxation-associated energy transfer prompts
+the depletion of the emission requires further mechanistic study.</p><p>By view of the existence of abundant energy levels in lanthanides,
+their optical population can be depleted by different stimulation
+sources at specific wavelengths. For example, apart from the 800 nm-induced
+depletion of the blue emission of NaYF<sub>4</sub>:Yb/Tm nanoparticles,
+both the blue and red emissions of these nanoparticles can also be
+quenched by combining 980 and 1550 nm lasers.<sup><xref ref-type="bibr" rid="ref68">68</xref></sup> Such a mode of operation can also be employed to suppress the red
+emission of NaYF<sub>4</sub>:Yb/Er nanoprticles.<sup><xref ref-type="bibr" rid="ref69">69</xref></sup> More interestingly, two-color super-resolution imaging
+has also been demonstrated by using a mixture of NaYF<sub>4</sub>:Yb/Tm
+and NaGdF<sub>4</sub>:Yb/Tm@NaGdF<sub>4</sub>:Tb nanoparticles as
+luminescent markers, by which only one pair of excitation-depletion
+beams is needed.<sup><xref ref-type="bibr" rid="ref67">67</xref></sup></p><p>Lanthanide-doped
+upconversion nanoparticles have been considered
+as promising probes for imaging cellular structures both in vitro
+and in vivo. When coupled with the STED technique, these nanoparticles
+allow the visualization of subcellular fine-structures with high spatial
+resolution. The proof-of-concept study was first validated in the
+case of the cytoskeleton imaging of HeLa cells using 12 nm NaGdF<sub>4</sub>:Yb/Tm nanoparticles (<xref rid="fig3" ref-type="fig">Figure <xref rid="fig3" ref-type="fig">3</xref></xref>g,h).<sup><xref ref-type="bibr" rid="ref67">67</xref></sup> The dual-beam operation
+at 975 and 810 nm enabled subcellular imaging with a lateral resolution
+of 82 nm.</p><p>Further improvement in the upconversion-based imaging
+resolution
+requires a considerable reduction in the particle size. However, the
+synthesis of small nanoparticles with a high upconversion efficiency
+remains a challenge because they often suffer from severe surface
+quenching. To boost the imaging contrast, the most straightforward
+approach is to increase the amount of nanoparticles, which may induce
+undesired physiological toxicity to biological species. Upconversion
+nanoparticles may not be suitable for fast scanning imaging as a streaking
+effect, due to the long decay time of the lanthanide emission, is
+often encountered. To overcome this drawback, a decrease in the pixel
+dwell time is likely to counteract this negative effect. Additionally,
+the improvement of the axial resolution and the simplification of
+the technological complexity need to be well addressed before STED
+nanoscopy can be widely deployed for clinical bioimaging.<sup><xref ref-type="bibr" rid="ref57">57</xref></sup></p></sec><sec id="sec3.2"><label>3.2</label><title>Optogenetics</title><p>Optogenetics
+has been
+touted as a revolutionary biotechnology that allows neuromodulation
+via the optical stimulation of photoresponsive proteins. Upon illumination
+at a specific visible wavelength, proteins such as Channelrhodopsin-2
+(ChR2) and C1V1 (a red-shifted opsin with several variants) will be
+activated to open light-gated ion channels and subsequently induce
+membrane depolarization (<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>a,b). The light stimulation can also close the ion
+channels, depending on the type of opsin proteins under investigation.
+Despite their enticing prospects, the advancements of optogenetic
+techniques for in vivo applications are hampered, mainly due to poor
+tissue penetration of visible light. To alleviate the light attenuation,
+traditional optogenetic approaches usually require the implantation
+of optical fibers for light transport during in vivo experiments.
+Obviously, the implantation of fiber optics damages the tissue along
+its path, disturbs the physiology of organs, alters neuronal function,
+and imposes movement constraint and behavioral limitation in wake
+subjects.</p><fig id="fig4" position="float"><label>Figure 4</label><caption><p>Schematic illustration of the underlying mechanisms of optogenetic
+control through ChR2 protein over the opening/closing of ion channels
+in a cellular membrane. Ca<sup>2+</sup> and Na<sup>+</sup> can access
+the interior cell when ChR2 is activated upon 470 nm irradiation,
+resulting in membrane depolarization and neuronal signal firing. (a)
+The ion channel protein ChR2 is initially blocked in the dark. (b)
+ChR2 opens for cation transportation when excited by blue light. (c)
+Activation of the ChR2 channel through the use of upconversion nanoparticles
+upon 980 nm excitation.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="oc-2018-00827w_0004" id="gr4" position="float"/></fig><p>Upconversion nanoparticles can serve as remote light transducers
+for the minimally invasive control of deep-tissue neuronal activities
+(<xref rid="fig4" ref-type="fig">Figure <xref rid="fig4" ref-type="fig">4</xref></xref>c). The concept
+of using upconversion nanoparticles for optogenetics was first proposed
+in 2011 by Deisseroth and Anikeeva.<sup><xref ref-type="bibr" rid="ref70">70</xref></sup> It
+was not until 2015 that optogenetic-based brain stimulation became
+more prominent in the field of neuromodulation. Several groups independently
+studied the feasibility of using upconversion nanoparticles to activate
+opsin proteins via remote NIR light irradiation both in vitro and
+in vivo (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>).<sup><xref ref-type="bibr" rid="ref71">71</xref>&#x02212;<xref ref-type="bibr" rid="ref73">73</xref></sup> The size of the biosamples ranged from 10 &#x003bc;m cells to 10 cm
+rodents. Studies of neurons, cultured or simply mixed with upconversion
+nanoparticles, revealed that an inward current response can be detected
+upon remote 980 nm light illumination.</p><fig id="fig5" position="float"><label>Figure 5</label><caption><p>Representative upconversion
+nanoparticle-associated optogenetics
+in vitro and in vivo. From left to right, cell, worm, fish, and mouse.
+Neuron cells. Top: Schematic illustration showing the use of polymer&#x02013;nanocrystal
+hybrid scaffolds for neuron activation. Bottom: The magnified neuron&#x02013;nanocrystal
+interface (left) and the repetitive potentials of a current&#x02013;clamped
+hippocampal neuron evoked by 980 nm light irradiation (right). <italic>Caenorhabditis elegans</italic>. Top: Representative images showing
+the upconversion-mediated optogenetic reversal behavior of a worm
+with ChR2 expression in their mechanosensory neurons. Bottom: The
+correlation of the reversal response percentage with the concentration
+of the incubated upconversion nanocrystals (bottom left) and the recorded
+reversal response percentage under four types of experimental conditions.
+Zebrafish. In vivo photoluminescence imaging of zebrafish incubated
+with upconversion nanoparticles. Scale bar is 10 &#x003bc;m. Mouse.
+In vivo upconversion optogenetics. Top: X-ray and fluorescence images
+of the implanted micro-optrodes and the regions expressing ChR2 opsin.
+Bottom left: Schematic illustration showing transcranial NIR stimulation
+of the hippocampal engram for memory recall. Bottom right: Optical
+images of upconversion nanocrystals (blue) and EYFP-labeled ChR2 protein
+(green) in the dentate gyrus of a mouse. Panel Neuron cells reproduced
+with permission from ref (<xref ref-type="bibr" rid="ref71">71</xref>). Copyright 2015 Royal Society of Chemistry. Panel <italic>C. elegans</italic> and panel Zebrafish reproduced with permission
+from refs (<xref ref-type="bibr" rid="ref74">74</xref> and <xref ref-type="bibr" rid="ref75">75</xref>). Copyright
+2016 and 2017 Wiley. Panel Mouse/Rat reproduced with permission from
+refs (<xref ref-type="bibr" rid="ref78">78</xref> and <xref ref-type="bibr" rid="ref80">80</xref>). Copyright 2017
+Elsevier Science and 2018 Science.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="oc-2018-00827w_0005" id="gr5" position="float"/></fig><p>Compared to in vitro experimentation, the realization of
+deep-tissue
+penetration is of paramount importance for in vivo research. In 2015,
+without the need for implanted optical fibers, the groups of Han and
+Zhou successfully demonstrated that the incorporation of NaYF<sub>4</sub>:Yb/Tm@NaYF<sub>4</sub> nanotransducers allows the remote
+control of deep-tissue signaling events in response to Ca<sup>2+</sup>-dependent immune systems in mouse models.<sup><xref ref-type="bibr" rid="ref73">73</xref></sup> In early 2016, the successful activation of ChR2 using NaYF<sub>4</sub>:Yb/Tm nanoparticles in <italic>Caenorhabditis elegans</italic> was reported, as evidenced by the reversal response of the worms
+(<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>).<sup><xref ref-type="bibr" rid="ref74">74</xref></sup> In another in vivo experiment on zebrafish larvae,
+NaYF<sub>4</sub>:Yb/Tm/Nd@NaYF<sub>4</sub>:Nd core&#x02013;shell nanoparticles
+were specifically conjugated onto ChR2-expressing cell surface by
+means of metabolic glycan biosynthesis (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>).<sup><xref ref-type="bibr" rid="ref75">75</xref></sup> In another
+study, precise subcellular stimulation was demonstrated through the
+specific attachment of NaYbF<sub>4</sub>:Tm@NaYF<sub>4</sub> nanoparticles
+onto live HeLa cells.<sup><xref ref-type="bibr" rid="ref76">76</xref></sup> It is of great
+value to mention that lanthanide-doped nanoparticles can also be used
+for multiplexed neuronal interrogation, by which the simultaneous
+activation and inhibition of different opsin proteins can be achieved.<sup><xref ref-type="bibr" rid="ref77">77</xref></sup></p><p>In two separate reports, upconversion
+nanoactuator-mediated optogenetics
+were validated for deep-brain stimulation in mammals (<xref rid="fig5" ref-type="fig">Figure <xref rid="fig5" ref-type="fig">5</xref></xref>).<sup><xref ref-type="bibr" rid="ref77">77</xref>&#x02212;<xref ref-type="bibr" rid="ref80">80</xref></sup> Specifically, Shi and co-workers
+developed a small implantable microdevice comprising NaYF<sub>4</sub>:Yb/Er@NaYF<sub>4</sub> nanoparticles. This microdevice provides
+a tetherless method to remotely trigger spiking activities in rat
+brains even at a tissue depth of 1 cm.<sup><xref ref-type="bibr" rid="ref77">77</xref>&#x02212;<xref ref-type="bibr" rid="ref79">79</xref></sup> In a rather different
+approach, the Liu and McHugh groups demonstrated the in vivo NIR optogenetic
+control of multiple neuronal systems in a minimally invasive manner
+by the local injection of NaYF<sub>4</sub>:Yb/Er-based nanoparticles.<sup><xref ref-type="bibr" rid="ref80">80</xref></sup> Compared to systemic delivery through the blood,
+such a direct injection can bypass the diffusion barrier between the
+blood vessels and brain tissue, ensuring the delivery of the required
+concentration within selective space for effective optical stimulation.
+In addition to the control of neural activities, upconversion nanoparticle-based
+optogenetic tools can also be used as a therapeutic method for controlling
+the apoptotic signaling pathway of cancer cells, as demonstrated by
+the work of Zheng et al.<sup><xref ref-type="bibr" rid="ref81">81</xref></sup></p><p>Despite
+those developments described above, the use of upconversion
+nanoparticles for clinical optogenetics remains a formidable challenge.
+One of the main reasons lies in the inadequate amount of light harvesting
+because of the low efficiency of the photon upconversion process.
+To improve the light harvesting for neuronal activation, a high concentration
+of upconversion nanoparticles is generally needed. However, the random
+diffusion of the nanoparticles taking place in biological media or
+tissues may lead to a high level of physiological toxicity. Although
+the encapsulation of nanoparticles in the form of an optotrode provides
+a feasible solution to random diffusion,<sup><xref ref-type="bibr" rid="ref78">78</xref></sup> such increase in the size of the nanotrasducer could cause irreversible
+damage and inflammation in the host of tissues.</p><p>High-power laser
+pumping could also be considered as an alternative
+method to improve the upconversion efficiency.<sup><xref ref-type="bibr" rid="ref82">82</xref>&#x02212;<xref ref-type="bibr" rid="ref84">84</xref></sup> However, a
+high pumping power at 980 nm can cause overheating in biological media
+and tissues because water molecules absorb at 980 nm. Alternatively,
+the effect of overheating can be significantly alleviated by using
+dye- or Nd<sup>3+</sup>-sensitized nanoparticles that are excitable
+at 800 nm.<sup><xref ref-type="bibr" rid="ref75">75</xref>,<xref ref-type="bibr" rid="ref85">85</xref></sup> Additionally, high upconversion
+efficiency can also be achieved with the help of a quasi-CW laser.<sup><xref ref-type="bibr" rid="ref74">74</xref></sup> The quasi-CW laser does not cause overheating,
+even at a peak power of 4 W.</p><p>For clinical applications, the
+effect of body fluids on the optical
+properties of nanoparticles and their long-term toxicity requires
+a systematic study. The plasticity of the brain could also be another
+key factor that determines the performance of such optogenetic tools
+since maintaining continuous changes in neuronal networks may require
+different patterns of stimulation. The optical properties of nanoparticles
+must be adjustable according to specific physiological conditions.<sup><xref ref-type="bibr" rid="ref86">86</xref></sup> However, such changes can also lead to variation
+in the physical distance between the opsin proteins carrying ion channels
+and the nanoparticles. In summary, upconversion nanoparticle-mediated
+optogenetics remains in its infancy and truly deserves further fundamental
+and technical investigation to deepen our understanding of the complex
+chemical and physiological reactions occurring in the human brain.</p></sec><sec id="sec3.3"><label>3.3</label><title>Upconversion Lasing</title><p>Stimulated emission,
+in laser action, has found broad applications including remote sensing,
+data storage, medical therapeutics, and photochemistry. With the advance
+in crystal growth technology, numerous solid-state lasers as alternatives
+to traditional gas- and liquid-phase lasers have been successfully
+developed since the 1980s, with emission wavelengths covering the
+near-ultraviolet, visible, and NIR ranges. In particular, deep-ultraviolet
+lasing has the potential to revolutionize precision engineering due
+to its intrinsic characteristics such as a high photon energy and
+high beam quality. To achieve such lasing, approaches involving excimers,
+wide bandgap semiconductors, and nonlinear optical or upconversion
+materials have been proposed. Upconversion-mediated lasers are particularly
+attractive, enabling high-efficiency lasing in the near-/deep-ultraviolet
+spectral region. More importantly, the realization of upconversion
+has less stringent requirements such as phase matching, thus simplifying
+the pump dynamics.</p><p>The first demonstration of an upconversion
+laser can be traced back to 1971 in Yb<sup>3+</sup>- and Ho<sup>3+</sup>-codoped BaY<sub>2</sub>F<sub>8</sub> bulk materials.<sup><xref ref-type="bibr" rid="ref87">87</xref></sup> Such a laser emits light with a wavelength of
+554 nm when operated at cryogenic temperatures. Since then, lanthanide-based
+upconversion lasers with a wide tuning range of wavelength have been
+developed and summarized by Richard Scheps based on different upconversion
+processes.<sup><xref ref-type="bibr" rid="ref4">4</xref></sup> Despite these achievements,
+the development of deep-ultraviolet upconversion lasing in bulk materials
+remains challenging, largely due to the low pump efficiency of four-
+or five-photon upconversion. Room-temperature operation can further
+complicate the design of laser components. This deficiency arises
+because the increase in temperature would depopulate higher excited
+states and induce excited state absorption, thus restraining the population
+inversion for lasing.</p><p>Emerging nanotechnology has provided researchers
+with a powerful
+tool to precisely tune the transfer pathways of excitation energies
+within a given material through rational design at the nanoscale.
+In light of the distance-dependent energy transfer nature of lanthanides,
+the structural engineering of nanocrystals allows significant enhancement
+in the stimulated upconversion emission. For example, the occurrence
+and amplification of stimulated emission have been investigated in
+NaYF<sub>4</sub>:Yb/Tm nanocrystals for super-resolution fluorescence
+microscopy.<sup><xref ref-type="bibr" rid="ref66">66</xref>,<xref ref-type="bibr" rid="ref67">67</xref></sup> Population inversion was detected
+in highly Tm<sup>3+</sup>-doped nanocrystals upon NIR laser irradiation,
+making these nanomaterials particularly suitable as the gain media
+for upconversion lasing.</p><p>In 2013, Wang and Yu and their co-workers
+fabricated a room-temperature
+microlaser based on NaYF<sub>4</sub>:Yb/Er@NaYF<sub>4</sub> nanocrystals
+as the gain medium (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>a).<sup><xref ref-type="bibr" rid="ref88">88</xref></sup> They developed a three-pulse
+excitation scheme and achieved sufficient population inversion without
+optical and thermal damage. Laser cavity configuration, either in
+a bottle-like geometry or in a classic Fabry&#x02013;Perot cavity,
+is also crucial in generating lasing. To achieve deep-ultraviolet
+stimulated emission, the same groups further refined both the pumping
+scheme and the structure of the nanoparticles. By employing a similar
+bottle-like microresonator, the researchers observed deep-ultraviolet
+lasing at 311 nm upon five-pulse irradiation at 980 nm (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>b).<sup><xref ref-type="bibr" rid="ref89">89</xref></sup> Recently, white-light lasing was observed from NaYF<sub>4</sub>:Yb/Er/Tm
+microrods, within which a whispering-gallery mode could be accommodated
+(<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>c).<sup><xref ref-type="bibr" rid="ref90">90</xref></sup></p><fig id="fig6" position="float"><label>Figure 6</label><caption><p>Upconversion nanocrystal-based lasing. (a) Multicolor
+pulse lasing
+spectra observed from a microcavity in a bottle-like geometry with
+a diameter (<italic>D</italic>) of 80 &#x003bc;m. The insets are images
+of the microcavity under different excitation powers. (b) Room-temperature
+deep-ultraviolet pulse lasing achieved through the use of a rationally
+designed microresonator. I: Plot of the intensity output versus the
+excitation power for a microresonator (<italic>D</italic><sub>m</sub> = 75 &#x003bc;m). The insets are the images of the microresonator
+with and without optical excitation. II: The lasing spectra of the
+microlaser at different excitation powers (<italic>D</italic><sub>m</sub> = 75 &#x003bc;m). (c) Room-temperature lasing spectra of three
+upconversion microrods (&#x0223c;3 &#x003bc;m in radius) upon 980 nm
+excitation. The three small insets are the corresponding optical images,
+while the two large insets are the simulated optical field distribution
+within a microrod that emits at 654 nm and the optical image of a
+microrod (&#x0223c;4 &#x003bc;m in radius) that emits white light lasing.
+(d) Continuous-wave lasing achieved by coupling energy-looping nanoparticles
+(ELNPs) to whispering-gallery modes of polystyrene microspheres. I:
+Schematic illustration showing the excitation and lasing occurring
+within the nanoparticle-coated microbeads. TIR stands for total internal
+reflection. II: Left: Wide-field image of the given lasing microbeads
+showing optical modes circulating within the resonator. Right: <italic>x</italic>&#x02013;<italic>y</italic> plane projection of the simulated
+field distribution within a 5-&#x003bc;m polystyrene microsphere. Scale
+bar: 1 &#x003bc;m. III: Compiled emission spectra of the nanoparticles
+and the corresponding particle-coated beads, along with the simulated
+NIR spectra of whispering-gallery modes supported by a microsphere
+with a diameter of 5 &#x003bc;m. Panels a and c reproduced with permission
+from refs (<xref ref-type="bibr" rid="ref88">88</xref> and <xref ref-type="bibr" rid="ref90">90</xref>). Copyright
+2013 and 2017 American Chemical Society. Panels b and d reproduced
+with permission from refs (<xref ref-type="bibr" rid="ref89">89</xref> and <xref ref-type="bibr" rid="ref91">91</xref>). Copyright 2016 and 2018 Nature.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="oc-2018-00827w_0006" id="gr6" position="float"/></fig><p>Another breakthrough in the field of upconversion nanoparticle-based
+lasing was recently reported by Fernandez-Bravo et al., who used NaYF<sub>4</sub>:Gd/Tm@NaGdF<sub>4</sub> nanoparticles to achieve continuous-wave
+upconverted lasing at 450 and 800 nm upon 1064 nm pumping (<xref rid="fig6" ref-type="fig">Figure <xref rid="fig6" ref-type="fig">6</xref></xref>d).<sup><xref ref-type="bibr" rid="ref91">91</xref></sup> By depositing the core&#x02013;shell nanoparticles onto
+a polystyrene microresonator, lasing without marked heat generation
+is possible as the threshold for population inversion in Tm<sup>3+</sup>-doped nanoparticles is greatly reduced. Compared to the 980 nm excitation
+beam, 1064 nm light is nonabsorbable by tissues. Heat-induced tissue
+damage can be effectively circumvented. These newly developed nanolasers
+open up a new avenue toward applications in bioimaging, biosensing,
+and deep-tissue optogenetics.</p></sec><sec id="sec3.4"><label>3.4</label><title>Anticounterfeiting</title><p>The development
+of high-fidelity anticounterfeiting techniques is currently in great
+demand due to the rise of global counterfeiting and forgery in high-volume,
+high-profit merchandise, including banknotes, trademark tags, classified
+documents, and identity cards, as well as pharmaceutical products.
+Counterfeiting creates societal instabilities, triggers the infringement
+of intellectual property rights, and poses a great threat to medicine
+legislation.</p><p>Luminescence materials comprising lanthanide ions
+have been broadly considered as effective agents for the prevention
+of counterfeiting. For example, euro banknotes carry covert Eu(III)-containing
+pigments, which can emit a characteristic orange-red color upon UV
+excitation. By comparison, upconversion nanocrystals offers an added
+layer of security protection because they can be excited by both UV
+and NIR light. In this section, we will highlight recent advances
+in applying upconversion colloidal nanoparticles as security inks
+for anticounterfeiting.</p><p>Similar to conventional luminescent
+probes, the basic element for
+anticounterfeiting involving upconversion nanoparticles is the emission
+color, which is tunable from visible to NIR light.<sup><xref ref-type="bibr" rid="ref7">7</xref></sup> Green-emitting NaYF<sub>4</sub>:Yb/Er and blue-emitting
+NaYF<sub>4</sub>:Yb/Tm nanoparticles are the most popular materials
+for upconversion-based anticounterfeiting measures (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>a).<sup><xref ref-type="bibr" rid="ref92">92</xref></sup> Nonetheless, a single-color emission hardly meets the criteria for
+multilevel and high-fidelity anticounterfeiting applications. One
+of the most straightforward strategies for enhancing the level of
+the security is to increase the range of emission colors. By mixing
+red-, green-, and blue-emissive upconversion nanoparticles in appropriate
+ratios, an arbitrary emission color can be achieved, depending on
+the percentages of the three primary colors. As a proof-of-concept,
+Meruga et al. printed invisible quick-response codes composed of colloidal
+upconversion nanoparticles. This invisible printing can be decrypted
+when illuminated with a 980 nm laser (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>b).<sup><xref ref-type="bibr" rid="ref93">93</xref></sup> The design
+of multicolor and graphic encryption offers a dual level of security
+protection.</p><fig id="fig7" position="float"><label>Figure 7</label><caption><p>Representative upconversion nanocrystal-associated anticounterfeiting
+at different levels of security. (a) Optical decoding of encrypted
+papers through NIR light exposure. (b) Top: Red&#x02013;green&#x02013;blue
+printing using nanoparticle-based inks. Bottom: Optical image of the
+as-printed QR code featuring multicolor emission. (c) Multicolor barcoding
+in a single microcrystal. Scale bar: 2 &#x003bc;m. (d) Multicolor barcoding
+through upconversion nanoparticle-encapsulated polymeric microparticles.
+Scale bar: 200 &#x003bc;m. (e&#x02013;g) Anticounterfeiting based on
+color and excitation characteristics. (h) Color and phase angle optical
+encoding. (i) Lifetime-encoded anticounterfeiting. Note that different
+colors represent different lifetimes. (j) Multilevel anticounterfeiting
+through the use of nanoparticles with different colors, lifetimes
+and pumping conditions. (k) Multilevel anticounterfeiting through
+Mn<sup>2+</sup>-doped upconversion nanoparticles. Panels a, b, e,
+and h reproduced with permission from refs (<xref ref-type="bibr" rid="ref92">92</xref>, <xref ref-type="bibr" rid="ref93">93</xref>, <xref ref-type="bibr" rid="ref99">99</xref>, and <xref ref-type="bibr" rid="ref104">104</xref>). Copyright 2014, 2016, and 2017 Royal Society
+of Chemistry. Panels c, g, and j reproduced with permission from refs (<xref ref-type="bibr" rid="ref94">94</xref>, <xref ref-type="bibr" rid="ref103">103</xref>, and <xref ref-type="bibr" rid="ref106">106</xref>). Copyright 2014 and 2017 American Chemical Society. Panels d, f,
+i, and k reproduced with permission from refs (<xref ref-type="bibr" rid="ref95">95</xref>, <xref ref-type="bibr" rid="ref102">102</xref>, <xref ref-type="bibr" rid="ref105">105</xref>, and <xref ref-type="bibr" rid="ref107">107</xref>). Copyright 2014 and 2017 Nature.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="oc-2018-00827w_0007" id="gr7" position="float"/></fig><p>Although multicolored upconversion
+nanoparticles offer a large
+variety of colors, spectral overlapping may become a concern and can
+complicate the signal read-out. To overcome this problem, Zhang et
+al. developed an epitaxial end-on growth method to prepare microrods
+that could display different emission colors within a single microrod,
+as shown in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>c.<sup><xref ref-type="bibr" rid="ref94">94</xref></sup> This stripe-like emission feature
+was harnessed by the researchers to achieve security protection in
+documents. In a separate study, a universal microfluidics-based technique
+was adopted to pattern multicolor upconversion nanoparticles in the
+form of microscale barcodes.<sup><xref ref-type="bibr" rid="ref95">95</xref></sup> As shown
+in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>d, the emission
+brightness and color fidelity of these nanoparticles remained largely
+unaltered after the formation of the microscale barcodes. Another
+feasible approach to achieving multicolor emission is by mixing upconversion
+nanoparticles with their downshifting counterparts or other types
+of luminophores, such as quantum dots.<sup><xref ref-type="bibr" rid="ref96">96</xref>&#x02212;<xref ref-type="bibr" rid="ref98">98</xref></sup> With the color output
+of the security inking materials being excitation-dependent, this
+approach offers another dimension of anticounterfeiting (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>e).<sup><xref ref-type="bibr" rid="ref99">99</xref></sup></p><p>Anticounterfeiting based on a dual-modal manipulation
+of upconversion
+and downshifting luminescence can also be realized even on a single-particle
+level.<sup><xref ref-type="bibr" rid="ref100">100</xref>,<xref ref-type="bibr" rid="ref101">101</xref></sup> Using this approach, the purity and fidelity
+of the color can be largely preserved. By comparison, a simple mixing
+of nanophosphors displaying different colors under a single-wavelength
+excitation only produces superimposed color images. Upconversion emission,
+with high-purity and tunable chromatic colors, has been achieved through
+the use of multilayered core&#x02013;shell nanocrystals, in which the
+color response is ultrasensitive to the excitation wavelength and
+pulse frequency or duration.<sup><xref ref-type="bibr" rid="ref8">8</xref>,<xref ref-type="bibr" rid="ref102">102</xref></sup> As demonstrated by
+Huang and co-workers, the information on a printed document can be
+encrypted and decoded using pulse duration-sensitive NaYF<sub>4</sub>/Er@NaYF<sub>4</sub> nanoparticles (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>f). The pumping power-dependent modulation
+of emission color profiles could also be used as a convenient decoding
+method (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>g).<sup><xref ref-type="bibr" rid="ref103">103</xref></sup> By probing the kinetics of the upconversion
+luminescence, Zhang and co-workers demonstrated that phase angle control
+by tuning the luminescence rise and decay time could be used as another
+encoding modality for anticounterfeiting use (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>h).<sup><xref ref-type="bibr" rid="ref104">104</xref></sup></p><p>In
+2014, Jin and co-workers discovered that the lifetime of upconversion
+nanoparticles could be tuned from the microsecond to millisecond range
+(25.6 &#x003bc;s to 0.66 ms) by changing the dopant concentration.<sup><xref ref-type="bibr" rid="ref105">105</xref></sup> The substantial change in lifetime was dictated
+by the concentration-induced variation in the ionic distance. Upon
+decoding with a time-gated microscope, lifetime-dependent patterns
+could be generated, as illustrated in <xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>i. Recently, a platform combining color and
+lifetime modalities has been shown to be effective in enriching the
+capacities of upconversion nanoparticles for high-end encryption applications
+(<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>j).<sup><xref ref-type="bibr" rid="ref106">106</xref></sup> In addition to lanthanides, transition metal
+ions such as Mn<sup>2+</sup> featuring a long-lived emission decay,
+have been used for lifetime-based anticounterfeiting as well.<sup><xref ref-type="bibr" rid="ref107">107</xref></sup> Considering that the emission lifetime of Mn<sup>2+</sup> (39 ms) is 2 orders of magnitude longer than that of the
+lanthanides (0.6 ms), the emission is clearly distinguishable even
+by the naked eye without the need for any time-gated microscopy (<xref rid="fig7" ref-type="fig">Figure <xref rid="fig7" ref-type="fig">7</xref></xref>k).</p><p>It is important
+to note that the emission profile of the lanthanides
+could change in response to variation in temperature,<sup><xref ref-type="bibr" rid="ref55">55</xref>,<xref ref-type="bibr" rid="ref108">108</xref></sup> which makes the combination of upconversion nanoparticles and temperature
+control another viable approach for anticounterfeiting technology.
+Despite the enormous potential of upconversion nanoparticles for practical
+security applications, the process of decoding optically encrypted
+patterns could be a tedious task, particularly in regard to multilevel
+information decoding. Another practical limitation that also carries
+a major risk to upconversion-based anticounterfeiting is the requirement
+of strong coherent lasers with a high pumping power (&#x0003e;10 W/cm<sup>2</sup>) for attaining visible emission.</p></sec></sec><sec id="sec4"><label>4</label><title>Conclusions
+and Outlook</title><p>The combination of advanced nanotechnology and
+upconversion nanoparticles
+allows access to various emerging applications by harnessing the distinctive
+features of the upconversion luminescence. Although only four types
+of emerging applications are covered in this review, they provide
+the basis for new areas of research. For example, upconversion-mediated
+fluorescence emission difference microscopy<sup><xref ref-type="bibr" rid="ref109">109</xref></sup> and NIR emission saturation nanoscopy<sup><xref ref-type="bibr" rid="ref110">110</xref></sup> have also been developed as advanced super-resolution techniques
+for deep-tissue imaging. Notably, upconversion nanocrystal-associated
+applications are not absolutely isolated, and their combination would
+enable more functions and different capabilities that certainly cannot
+be achieved using any of these techniques alone. Combining STED microscopy
+with optogenetic tools may become extremely useful in the dynamic
+monitoring of neuronal activities in living cells or even in vivo
+with unprecedented precision.</p><p>The aforementioned applications
+take advantage of the upconversion
+nanophenomena enabled by editing nonradiative energy transfer within
+nanostructured materials. In the meantime, radiative energy transfer,
+in which the emission of the sensitizer is reabsorbed by the activator,
+could also enrich the utility of upconversion nanomaterials toward
+energy harvesting such as upconversion-coupled photovoltaics.<sup><xref ref-type="bibr" rid="ref111">111</xref>&#x02212;<xref ref-type="bibr" rid="ref113">113</xref></sup> By serving as a spectral converter, upconversion nanomaterials can
+largely minimize the nonabsorption of sub-bandgap photons when incorporated
+into solar cells in the form of particles or films. Most recently,
+upconversion-mediated perovskite photovoltaics has attracted intense
+research interests largely due to the large absorption coefficients
+and high photoluminescence quantum yields of the perovskite materials.<sup><xref ref-type="bibr" rid="ref98">98</xref>,<xref ref-type="bibr" rid="ref114">114</xref>,<xref ref-type="bibr" rid="ref115">115</xref></sup> Given the noncoherent radiation
+nature of the sunlight, achieving efficient upconversion in these
+systems at low-power irradiance could pose a substantial challenge.
+To this end, the use of optical concentrators, plasmonic materials,
+or advanced photonic structures may provide a feasible solution.<sup><xref ref-type="bibr" rid="ref41">41</xref>,<xref ref-type="bibr" rid="ref116">116</xref>,<xref ref-type="bibr" rid="ref117">117</xref></sup></p><p>Despite the many proofs-of-concepts
+that have been demonstrated,
+the low conversion efficiency inherent to upconversion nanoparticles
+continues to prevent their practical utility. In that respect, it
+is essential to conduct a comprehensive mechanistic investigation
+of rudimentary upconversion processes, including excitation absorption,
+energy transfer, and excited state dynamics. Among them, energy transfer
+within the lattice of the nanoparticles is perhaps the least explored
+front. For instance, the energy transfer between a lanthanide donor
+and an acceptor is generally realized in the form of a dipole&#x02013;dipole
+interaction, which is an essential component of the F&#x000f6;ster
+resonance energy transfer (FRET) process. However, cross-interrogation
+using theoretical and experimental tools suggests that quadruple-quadruple
+interaction dominates the process of energy transfer, while the exchange
+mechanism prevails when the donor and acceptor are placed in close
+proximity.<sup><xref ref-type="bibr" rid="ref118">118</xref></sup> A recently published review
+article also notes misconceptions and incorrect treatments in estimating
+the rate of energy transfer.<sup><xref ref-type="bibr" rid="ref119">119</xref></sup> More importantly,
+the presence of defects significantly complicates the characterization
+of the energy transfer process. Given the high sensitivity of the
+acoustic response of defects, the picosecond acoustics-associated
+method might be useful for probing the spatial distribution of defects
+and for monitoring the dynamic processes of defect diffusion at the
+nanoscale.<sup><xref ref-type="bibr" rid="ref120">120</xref></sup></p><p>As a complementary
+tool to theoretical and experimental approaches,
+computational simulations provide an additional means to probe the
+physical and chemical properties of materials at different temporal
+and spatial scales. Two representative methods are density functional
+theory and molecular dynamics, which can provide detailed electronic
+and statistical information. Density functional theory has found various
+applications in many disciplines by providing accurate ground state
+electronic structures, which allow us to retrieve the properties of
+a given material, such as the band gap, orbital alignment, magnetic
+momentum, and conductivity. Furthermore, high-throughput screening
+for specific materials can be realized by effectively linking the
+identity of a material with its specific behavior.<sup><xref ref-type="bibr" rid="ref121">121</xref></sup> Molecular dynamic simulation has been widely employed to
+study the dynamic and thermodynamic behaviors of nanoparticles.<sup><xref ref-type="bibr" rid="ref122">122</xref>,<xref ref-type="bibr" rid="ref123">123</xref></sup> These simulations provide a platform with high temporal and spatial
+precision to retrieve information at the atomic level, which current
+experimental techniques cannot access. However, the highly localized
+nature of the f orbitals greatly limits the use of such simulation
+tools to probe the luminescence properties of lanthanides. Therefore,
+advances in computational algorithms could potentially help identify
+key factors that dictate the energy transfer pathways and thus facilitate
+the development of high-efficiency upconversion nanoparticles.</p></sec></body><back><notes id="notes-1" notes-type="COI-statement"><p>The authors
+declare no competing financial interest.</p></notes><ack><title>Acknowledgments</title><p>This work
+is supported by the Singapore Ministry of Education
+(Grant R143000627112, R143000642112), National Research Foundation,
+Prime Minister&#x02019;s Office, Singapore under its Competitive Research
+Program (CRP Award No. NRF-CRP15-2015-03), National Natural Science
+Foundation of China (11774133, 21771135, 21471109, 21210001, 21701119),
+and the CAS/SAFEA International Partnership Program for Creative Research
+Teams.</p></ack><ref-list><title>References</title><ref id="ref1"><mixed-citation publication-type="journal" id="cit1"><name><surname>Bloembergen</surname><given-names>N.</given-names></name>
+<article-title>Solid State
+Infrared Quantum Counters</article-title>. <source>Phys. Rev. Lett.</source>
+<year>1959</year>, <volume>2</volume>, <fpage>84</fpage>&#x02013;<lpage>85</lpage><pub-id pub-id-type="doi">10.1103/PhysRevLett.2.84</pub-id>.</mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="journal" id="cit2"><name><surname>Auzel</surname><given-names>F.</given-names></name>
+<article-title>Upconversion
+and Anti-Stokes Processes with f and d Ions in Solids</article-title>. <source>Chem. Rev.</source>
+<year>2004</year>, <volume>104</volume>, <fpage>139</fpage>&#x02013;<lpage>173</lpage><pub-id pub-id-type="doi">10.1021/cr020357g</pub-id>.<pub-id pub-id-type="pmid">14719973</pub-id></mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal" id="cit3"><name><surname>Ovsyakin</surname><given-names>V. V.</given-names></name>; <name><surname>Feoflov</surname><given-names>P. P.</given-names></name>
+<article-title>Cooperative Sensitization of Luminescence in Crystals
+Activated with Rare Earth Ions</article-title>. <source>JETP Lett.</source>
+<year>1966</year>, <volume>4</volume>, <fpage>317</fpage>&#x02013;<lpage>318</lpage>.</mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal" id="cit4"><name><surname>Scheps</surname><given-names>R.</given-names></name>
+<article-title>Upconversion
+Laser Processes</article-title>. <source>Prog. Quantum Electron.</source>
+<year>1996</year>, <volume>20</volume>, <fpage>271</fpage>&#x02013;<lpage>358</lpage><pub-id pub-id-type="doi">10.1016/0079-6727(95)00007-0</pub-id>.</mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal" id="cit5"><name><surname>Gamelin</surname><given-names>D. R.</given-names></name>; <name><surname>Gudel</surname><given-names>H. U.</given-names></name>
+<article-title>Upconversion Processes
+in Transition Metal and Rare
+Earth Metal Systems</article-title>. <source>Top. Curr. Chem.</source>
+<year>2001</year>, <volume>214</volume>, <fpage>1</fpage>&#x02013;<lpage>56</lpage><pub-id pub-id-type="doi">10.1007/3-540-44474-2_1</pub-id>.</mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal" id="cit6"><name><surname>Johnson</surname><given-names>N. J. J.</given-names></name>; <name><surname>Oakden</surname><given-names>W.</given-names></name>; <name><surname>Stanisz</surname><given-names>G. J.</given-names></name>; <name><surname>Scott Prosser</surname><given-names>R.</given-names></name>; <name><surname>van Veggel</surname><given-names>F. C. J. M.</given-names></name>
+<article-title>Size-Tunable, Ultrasmall NaGdF<sub>4</sub> Nanoparticles:
+Insights into Their T<sub>1</sub> MRI Contrast Enhancement</article-title>. <source>Chem. Mater.</source>
+<year>2011</year>, <volume>23</volume>, <fpage>3714</fpage>&#x02013;<lpage>3722</lpage><pub-id pub-id-type="doi">10.1021/cm201297x</pub-id>.</mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal" id="cit7"><name><surname>Wang</surname><given-names>F.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>
+<article-title>Upconversion Multicolor Fine-Tuning: Visible to Near-Infrared Emission
+from Lanthanide-Doped NaYF<sub>4</sub> Nanoparticles</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2008</year>, <volume>130</volume>, <fpage>5642</fpage>&#x02013;<lpage>5643</lpage><pub-id pub-id-type="doi">10.1021/ja800868a</pub-id>.<pub-id pub-id-type="pmid">18393419</pub-id></mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal" id="cit8"><name><surname>Deng</surname><given-names>R.</given-names></name>; <name><surname>Qin</surname><given-names>F.</given-names></name>; <name><surname>Chen</surname><given-names>R.</given-names></name>; <name><surname>Huang</surname><given-names>W.</given-names></name>; <name><surname>Hong</surname><given-names>M.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>
+<article-title>Temporal Full-Colour
+Tuning through Non-Steady-State Upconversion</article-title>. <source>Nat. Nanotechnol.</source>
+<year>2015</year>, <volume>10</volume>, <fpage>237</fpage>&#x02013;<lpage>242</lpage><pub-id pub-id-type="doi">10.1038/nnano.2014.317</pub-id>.<pub-id pub-id-type="pmid">25599189</pub-id></mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="journal" id="cit9"><name><surname>Wang</surname><given-names>F.</given-names></name>; <name><surname>Deng</surname><given-names>R.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>Q.</given-names></name>; <name><surname>Han</surname><given-names>Y.</given-names></name>; <name><surname>Zhu</surname><given-names>H.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>
+<article-title>Tuning Upconversion through Energy
+Migration in Core-Shell Nanoparticles</article-title>. <source>Nat.
+Mater.</source>
+<year>2011</year>, <volume>10</volume>, <fpage>968</fpage>&#x02013;<lpage>973</lpage><pub-id pub-id-type="doi">10.1038/nmat3149</pub-id>.<pub-id pub-id-type="pmid">22019945</pub-id></mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal" id="cit10"><name><surname>Han</surname><given-names>S.</given-names></name>; <name><surname>Deng</surname><given-names>R.</given-names></name>; <name><surname>Xie</surname><given-names>X.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>
+<article-title>Enhancing Luminescence
+in Lanthanide-Doped Upconversion Nanoparticles</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2014</year>, <volume>53</volume>, <fpage>11702</fpage>&#x02013;<lpage>11715</lpage><pub-id pub-id-type="doi">10.1002/anie.201403408</pub-id>.</mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="journal" id="cit11"><name><surname>Wu</surname><given-names>S.</given-names></name>; <name><surname>Xia</surname><given-names>H.</given-names></name>; <name><surname>Xu</surname><given-names>J.</given-names></name>; <name><surname>Sun</surname><given-names>X.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>
+<article-title>Manipulating Luminescence
+of Light Emitters by Photonic Crystals</article-title>. <source>Adv.
+Mater.</source>
+<year>2018</year>, <volume>30</volume>, <fpage>1803362</fpage><pub-id pub-id-type="doi">10.1002/adma.201803362</pub-id>.</mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal" id="cit12"><name><surname>Wang</surname><given-names>F.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>
+<article-title>Recent Advances in
+the Chemistry of Lanthanide-Doped Upconversion
+Nanocrystals</article-title>. <source>Chem. Soc. Rev.</source>
+<year>2009</year>, <volume>38</volume>, <fpage>976</fpage>&#x02013;<lpage>989</lpage><pub-id pub-id-type="doi">10.1039/b809132n</pub-id>.<pub-id pub-id-type="pmid">19421576</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="journal" id="cit13"><name><surname>Dong</surname><given-names>H.</given-names></name>; <name><surname>Sun</surname><given-names>L. D.</given-names></name>; <name><surname>Yan</surname><given-names>C. H.</given-names></name>
+<article-title>Energy
+Transfer in Lanthanide Upconversion
+Studies for Extended Optical Applications</article-title>. <source>Chem.
+Soc. Rev.</source>
+<year>2015</year>, <volume>44</volume>, <fpage>1608</fpage>&#x02013;<lpage>1634</lpage><pub-id pub-id-type="doi">10.1039/C4CS00188E</pub-id>.<pub-id pub-id-type="pmid">25242465</pub-id></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal" id="cit14"><name><surname>Chen</surname><given-names>G.</given-names></name>; <name><surname>Qiu</surname><given-names>H.</given-names></name>; <name><surname>Prasad</surname><given-names>P. N.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>
+<article-title>Upconversion Nanoparticles: Design,
+Nanochemistry, and Applications in Theranostics</article-title>. <source>Chem. Rev.</source>
+<year>2014</year>, <volume>114</volume>, <fpage>5161</fpage>&#x02013;<lpage>5214</lpage><pub-id pub-id-type="doi">10.1021/cr400425h</pub-id>.<pub-id pub-id-type="pmid">24605868</pub-id></mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="journal" id="cit15"><name><surname>Chan</surname><given-names>E. M.</given-names></name>
+<article-title>Combinatorial
+Approaches for Developing Upconverting Nanomaterials: High-Throughput
+Screening, Modeling, and Applications</article-title>. <source>Chem.
+Soc. Rev.</source>
+<year>2015</year>, <volume>44</volume>, <fpage>1653</fpage>&#x02013;<lpage>1679</lpage><pub-id pub-id-type="doi">10.1039/C4CS00205A</pub-id>.<pub-id pub-id-type="pmid">25287124</pub-id></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal" id="cit16"><name><surname>Boyer</surname><given-names>J. C.</given-names></name>; <name><surname>van Veggel</surname><given-names>F. C. J. M.</given-names></name>
+<article-title>Absolute
+Quantum Yield Measurements of Colloidal NaYF<sub>4</sub>: Er<sup>3+</sup>, Yb<sup>3+</sup> Upconverting Nanoparticles</article-title>. <source>Nanoscale</source>
+<year>2010</year>, <volume>2</volume>, <fpage>1417</fpage>&#x02013;<lpage>1419</lpage><pub-id pub-id-type="doi">10.1039/c0nr00253d</pub-id>.<pub-id pub-id-type="pmid">20820726</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal" id="cit17"><name><surname>Bian</surname><given-names>W.</given-names></name>; <name><surname>Lin</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>T.</given-names></name>; <name><surname>Yu</surname><given-names>X.</given-names></name>; <name><surname>Qiu</surname><given-names>J.</given-names></name>; <name><surname>Zhou</surname><given-names>M.</given-names></name>; <name><surname>Luo</surname><given-names>H.</given-names></name>; <name><surname>Yu</surname><given-names>S. F.</given-names></name>; <name><surname>Xu</surname><given-names>X.</given-names></name>
+<article-title>Direct Identification of Surface
+Defects and Their Influence on the Optical Characteristics of Upconversion
+Nanoparticles</article-title>. <source>ACS Nano</source>
+<year>2018</year>, <volume>12</volume>, <fpage>3623</fpage>&#x02013;<lpage>3628</lpage><pub-id pub-id-type="doi">10.1021/acsnano.8b00741</pub-id>.<pub-id pub-id-type="pmid">29617571</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal" id="cit18"><name><surname>Dong</surname><given-names>C.</given-names></name>; <name><surname>Pichaandi</surname><given-names>J.</given-names></name>; <name><surname>Regier</surname><given-names>T.</given-names></name>; <name><surname>van Veggel</surname><given-names>F. C. J. M.</given-names></name>
+<article-title>Nonstatistical
+Dopant Distribution of Ln<sup>3+</sup>-Doped NaGdF<sub>4</sub> Nanoparticles</article-title>. <source>J. Phys. Chem. C</source>
+<year>2011</year>, <volume>115</volume>, <fpage>15950</fpage>&#x02013;<lpage>15958</lpage><pub-id pub-id-type="doi">10.1021/jp206441u</pub-id>.</mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal" id="cit19"><name><surname>Cojocaru</surname><given-names>B.</given-names></name>; <name><surname>Avram</surname><given-names>D.</given-names></name>; <name><surname>Kessler</surname><given-names>V.</given-names></name>; <name><surname>Parvulescu</surname><given-names>V.</given-names></name>; <name><surname>Seisenbaeva</surname><given-names>G.</given-names></name>; <name><surname>Tiseanu</surname><given-names>C.</given-names></name>
+<article-title>Nanoscale Insights into Doping Behavior,
+Particle Size and Surface Effects in Trivalent Metal Doped SnO<sub>2</sub></article-title>. <source>Sci. Rep.</source>
+<year>2017</year>, <volume>7</volume>, <fpage>9598</fpage><pub-id pub-id-type="doi">10.1038/s41598-017-09026-2</pub-id>.<pub-id pub-id-type="pmid">28851917</pub-id></mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="book" id="cit20"><person-group person-group-type="allauthors"><name><surname>Rotman</surname><given-names>S. R.</given-names></name></person-group><article-title>The Effect
+of Defects on Inorganic Luminescent Materials</article-title>. In <source>Wide-Gap Luminescent Materials: Theory and Applications</source>; <person-group person-group-type="editor"><name><surname>Rotman</surname><given-names>S. R.</given-names></name></person-group>, Ed.; <publisher-name>Springer
+US</publisher-name>, <year>1997</year>; Vol. <volume>2</volume>, pp <fpage>139</fpage>&#x02013;<lpage>190</lpage>.</mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal" id="cit21"><name><surname>Zhou</surname><given-names>J.</given-names></name>; <name><surname>Wen</surname><given-names>S.</given-names></name>; <name><surname>Liao</surname><given-names>J.</given-names></name>; <name><surname>Clarke</surname><given-names>C.</given-names></name>; <name><surname>Tawfik</surname><given-names>S. A.</given-names></name>; <name><surname>Ren</surname><given-names>W.</given-names></name>; <name><surname>Mi</surname><given-names>C.</given-names></name>; <name><surname>Wang</surname><given-names>F.</given-names></name>; <name><surname>Jin</surname><given-names>D.</given-names></name>
+<article-title>Activation of the Surface Dark-Layer
+to Enhance Upconversion in a Thermal Field</article-title>. <source>Nat. Photonics</source>
+<year>2018</year>, <volume>12</volume>, <fpage>154</fpage>&#x02013;<lpage>158</lpage><pub-id pub-id-type="doi">10.1038/s41566-018-0108-5</pub-id>.</mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal" id="cit22"><name><surname>Zou</surname><given-names>W.</given-names></name>; <name><surname>Visser</surname><given-names>C.</given-names></name>; <name><surname>Maduro</surname><given-names>J. A.</given-names></name>; <name><surname>Pshenichnikov</surname><given-names>M. S.</given-names></name>; <name><surname>Hummelen</surname><given-names>J. C.</given-names></name>
+<article-title>Broadband Dye-Sensitized Upconversion of Near-Infrared
+Light</article-title>. <source>Nat. Photonics</source>
+<year>2012</year>, <volume>6</volume>, <fpage>560</fpage>&#x02013;<lpage>564</lpage><pub-id pub-id-type="doi">10.1038/nphoton.2012.158</pub-id>.</mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal" id="cit23"><name><surname>Deng</surname><given-names>R.</given-names></name>; <name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Chen</surname><given-names>R.</given-names></name>; <name><surname>Huang</surname><given-names>W.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>
+<article-title>Enabling F&#x000f6;rster
+Resonance Energy Transfer from Large Nanocrystals through Energy Migration</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2016</year>, <volume>138</volume>, <fpage>15972</fpage>&#x02013;<lpage>15979</lpage><pub-id pub-id-type="doi">10.1021/jacs.6b09349</pub-id>.<pub-id pub-id-type="pmid">27960320</pub-id></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal" id="cit24"><name><surname>Garfield</surname><given-names>D. J.</given-names></name>; <name><surname>Borys</surname><given-names>N. J.</given-names></name>; <name><surname>Hamed</surname><given-names>S. M.</given-names></name>; <name><surname>Torquato</surname><given-names>N. A.</given-names></name>; <name><surname>Tajon</surname><given-names>C. A.</given-names></name>; <name><surname>Tian</surname><given-names>B.</given-names></name>; <name><surname>Shevitski</surname><given-names>B.</given-names></name>; <name><surname>Barnard</surname><given-names>E. S.</given-names></name>; <name><surname>Suh</surname><given-names>Y. D.</given-names></name>; <name><surname>Aloni</surname><given-names>S.</given-names></name>; <name><surname>Neaton</surname><given-names>J. B.</given-names></name>; <name><surname>Chan</surname><given-names>E. M.</given-names></name>; <name><surname>Cohen</surname><given-names>B. E.</given-names></name>; <name><surname>Schuck</surname><given-names>P. J.</given-names></name>
+<article-title>Enrichment of Molecular Antenna Triplets Amplifies
+Upconverting Nanoparticle Emission</article-title>. <source>Nat. Photonics</source>
+<year>2018</year>, <volume>12</volume>, <fpage>402</fpage>&#x02013;<lpage>407</lpage><pub-id pub-id-type="doi">10.1038/s41566-018-0156-x</pub-id>.</mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal" id="cit25"><name><surname>Bao</surname><given-names>L.</given-names></name>; <name><surname>You</surname><given-names>H.</given-names></name>; <name><surname>Wang</surname><given-names>L.</given-names></name>; <name><surname>Li</surname><given-names>L.</given-names></name>; <name><surname>Qiao</surname><given-names>R.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Zhong</surname><given-names>Y.</given-names></name>; <name><surname>Xiong</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>Z.</given-names></name>
+<article-title>Self-Assembly of LaF<sub>3</sub>:Yb,Er/Tm Nanoplates into Colloidal
+Spheres and Tailoring
+Their Upconversion Emissions with Fluorescent Dyes</article-title>. <source>J. Mater. Chem. C</source>
+<year>2014</year>, <volume>2</volume>, <fpage>8949</fpage>&#x02013;<lpage>8955</lpage><pub-id pub-id-type="doi">10.1039/C4TC01698J</pub-id>.</mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal" id="cit26"><name><surname>Li</surname><given-names>P.</given-names></name>; <name><surname>Peng</surname><given-names>Q.</given-names></name>; <name><surname>Li</surname><given-names>Y.</given-names></name>
+<article-title>Dual-Mode Luminescent Colloidal Spheres
+from Monodisperse Rare-Earth Fluoride Nanocrystals</article-title>. <source>Adv. Mater.</source>
+<year>2009</year>, <volume>21</volume>, <fpage>1945</fpage>&#x02013;<lpage>1948</lpage><pub-id pub-id-type="doi">10.1002/adma.200803228</pub-id>.</mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal" id="cit27"><name><surname>Zhao</surname><given-names>J.</given-names></name>; <name><surname>Wu</surname><given-names>J.</given-names></name>; <name><surname>Xue</surname><given-names>J.</given-names></name>; <name><surname>Zhu</surname><given-names>Q.</given-names></name>; <name><surname>Ni</surname><given-names>W.</given-names></name>
+<article-title>Au/NaYF<sub>4</sub>: Yb,Er Binary Superparticles: Synthesis and Optical Properties</article-title>. <source>Isr. J. Chem.</source>
+<year>2016</year>, <volume>56</volume>, <fpage>242</fpage>&#x02013;<lpage>248</lpage><pub-id pub-id-type="doi">10.1002/ijch.201500021</pub-id>.</mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal" id="cit28"><name><surname>Han</surname><given-names>S.</given-names></name>; <name><surname>Samanta</surname><given-names>A.</given-names></name>; <name><surname>Xie</surname><given-names>X.</given-names></name>; <name><surname>Huang</surname><given-names>L.</given-names></name>; <name><surname>Peng</surname><given-names>J.</given-names></name>; <name><surname>Park</surname><given-names>S. J.</given-names></name>; <name><surname>Teh</surname><given-names>D. B. L.</given-names></name>; <name><surname>Choi</surname><given-names>Y.</given-names></name>; <name><surname>Chang</surname><given-names>Y. T.</given-names></name>; <name><surname>All</surname><given-names>A. H.</given-names></name>; <name><surname>Yang</surname><given-names>Y.</given-names></name>; <name><surname>Xing</surname><given-names>B.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>
+<article-title>Gold and Hairpin
+DNA Functionalization of Upconversion Nanocrystals for Imaging and
+In Vivo Drug Delivery</article-title>. <source>Adv. Mater.</source>
+<year>2017</year>, <volume>29</volume>, <fpage>1700244</fpage><pub-id pub-id-type="doi">10.1002/adma.201700244</pub-id>.</mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal" id="cit29"><name><surname>Qin</surname><given-names>W. P.</given-names></name>; <name><surname>Liu</surname><given-names>Z. Y.</given-names></name>; <name><surname>Sin</surname><given-names>C. N.</given-names></name>; <name><surname>Wu</surname><given-names>C. F.</given-names></name>; <name><surname>Qin</surname><given-names>G. S.</given-names></name>; <name><surname>Chen</surname><given-names>Z.</given-names></name>; <name><surname>Zheng</surname><given-names>K. Z.</given-names></name>
+<article-title>Multi-ion
+Cooperative Processes in
+Yb<sup>3+</sup> Clusters</article-title>. <source>Light: Sci. Appl.</source>
+<year>2014</year>, <volume>3</volume>, <fpage>e193</fpage><pub-id pub-id-type="doi">10.1038/lsa.2014.74</pub-id>.</mixed-citation></ref><ref id="ref30"><mixed-citation publication-type="journal" id="cit30"><name><surname>Wang</surname><given-names>J.</given-names></name>; <name><surname>Deng</surname><given-names>R.</given-names></name>; <name><surname>MacDonald</surname><given-names>M. A.</given-names></name>; <name><surname>Chen</surname><given-names>B.</given-names></name>; <name><surname>Yuan</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>F.</given-names></name>; <name><surname>Chi</surname><given-names>D.</given-names></name>; <name><surname>Hor</surname><given-names>T. S. A.</given-names></name>; <name><surname>Zhang</surname><given-names>P.</given-names></name>; <name><surname>Liu</surname><given-names>G.</given-names></name>; <name><surname>Han</surname><given-names>Y.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>
+<article-title>Enhancing Multiphoton Upconversion
+through Energy Clustering at Sublattice Level</article-title>. <source>Nat. Mater.</source>
+<year>2014</year>, <volume>13</volume>, <fpage>157</fpage>&#x02013;<lpage>162</lpage><pub-id pub-id-type="doi">10.1038/nmat3804</pub-id>.<pub-id pub-id-type="pmid">24270581</pub-id></mixed-citation></ref><ref id="ref31"><mixed-citation publication-type="journal" id="cit31"><name><surname>Wu</surname><given-names>M.</given-names></name>; <name><surname>Song</surname><given-names>E. H.</given-names></name>; <name><surname>Chen</surname><given-names>Z. T.</given-names></name>; <name><surname>Ding</surname><given-names>S.</given-names></name>; <name><surname>Ye</surname><given-names>S.</given-names></name>; <name><surname>Zhou</surname><given-names>J. J.</given-names></name>; <name><surname>Xu</surname><given-names>S. Q.</given-names></name>; <name><surname>Zhang</surname><given-names>Q. Y.</given-names></name>
+<article-title>Single-Band Red
+Upconversion Luminescence of Yb<sup>3+</sup>-Er<sup>3+</sup> via Nonequivalent
+Substitution in Perovskite KMgF<sub>3</sub> Nanocrystals</article-title>. <source>J. Mater. Chem. C</source>
+<year>2016</year>, <volume>4</volume>, <fpage>1675</fpage>&#x02013;<lpage>1684</lpage><pub-id pub-id-type="doi">10.1039/C5TC03600C</pub-id>.</mixed-citation></ref><ref id="ref32"><mixed-citation publication-type="journal" id="cit32"><name><surname>Hu</surname><given-names>Y.</given-names></name>; <name><surname>Liang</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Liu</surname><given-names>E.</given-names></name>; <name><surname>Hu</surname><given-names>X.</given-names></name>; <name><surname>Fan</surname><given-names>J.</given-names></name>
+<article-title>Enhancement of the Red Upconversion Luminescence in NaYF<sub>4</sub>:Yb<sup>3+</sup>, Er<sup>3+</sup> Nanoparticles by the Transition
+Metal Ions Doping</article-title>. <source>Ceram. Int.</source>
+<year>2015</year>, <volume>41</volume>, <fpage>14545</fpage>&#x02013;<lpage>14553</lpage><pub-id pub-id-type="doi">10.1016/j.ceramint.2015.07.171</pub-id>.</mixed-citation></ref><ref id="ref33"><mixed-citation publication-type="journal" id="cit33"><name><surname>Zhu</surname><given-names>Y.</given-names></name>; <name><surname>Zhao</surname><given-names>S.</given-names></name>; <name><surname>Zhou</surname><given-names>B.</given-names></name>; <name><surname>Zhu</surname><given-names>H.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>
+<article-title>Enhancing
+Upconversion Luminescence of LiYF<sub>4</sub>:Yb,Er Nanocrystals by
+Cd<sup>2+</sup> Doping and Core-Shell Structure</article-title>. <source>J. Phys. Chem. C</source>
+<year>2017</year>, <volume>121</volume>, <fpage>18909</fpage>&#x02013;<lpage>18916</lpage><pub-id pub-id-type="doi">10.1021/acs.jpcc.7b04782</pub-id>.</mixed-citation></ref><ref id="ref34"><mixed-citation publication-type="journal" id="cit34"><name><surname>Johnson</surname><given-names>N. J. J.</given-names></name>; <name><surname>He</surname><given-names>S.</given-names></name>; <name><surname>Diao</surname><given-names>S.</given-names></name>; <name><surname>Chan</surname><given-names>E. M.</given-names></name>; <name><surname>Dai</surname><given-names>H.</given-names></name>; <name><surname>Almutairi</surname><given-names>A.</given-names></name>
+<article-title>Direct Evidence for Coupled Surface and Concentration
+Quenching Dynamics in Lanthanide-Doped Nanocrystals</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2017</year>, <volume>139</volume>, <fpage>3275</fpage>&#x02013;<lpage>3282</lpage><pub-id pub-id-type="doi">10.1021/jacs.7b00223</pub-id>.<pub-id pub-id-type="pmid">28169535</pub-id></mixed-citation></ref><ref id="ref35"><mixed-citation publication-type="journal" id="cit35"><name><surname>Rabouw</surname><given-names>F. T.</given-names></name>; <name><surname>Prins</surname><given-names>P. T.</given-names></name>; <name><surname>Villanueva-Delgado</surname><given-names>P.</given-names></name>; <name><surname>Castelijns</surname><given-names>M.</given-names></name>; <name><surname>Geitenbeek</surname><given-names>R. G.</given-names></name>; <name><surname>Meijerink</surname><given-names>A.</given-names></name>
+<article-title>Quenching Pathways in NaYF<sub>4</sub>:Er<sup>3+</sup>,Yb<sup>3+</sup> Upconversion Nanocrystals</article-title>. <source>ACS Nano</source>
+<year>2018</year>, <volume>12</volume>, <fpage>4812</fpage>&#x02013;<lpage>4823</lpage><pub-id pub-id-type="doi">10.1021/acsnano.8b01545</pub-id>.<pub-id pub-id-type="pmid">29648802</pub-id></mixed-citation></ref><ref id="ref36"><mixed-citation publication-type="journal" id="cit36"><name><surname>Hung</surname><given-names>P.</given-names></name>; <name><surname>Zheng</surname><given-names>W.</given-names></name>; <name><surname>Zhou</surname><given-names>S.</given-names></name>; <name><surname>Tu</surname><given-names>D.</given-names></name>; <name><surname>Chen</surname><given-names>Z.</given-names></name>; <name><surname>Zhu</surname><given-names>H.</given-names></name>; <name><surname>Li</surname><given-names>R.</given-names></name>; <name><surname>Ma</surname><given-names>E.</given-names></name>; <name><surname>Huang</surname><given-names>M.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>
+<article-title>Lanthanide-Doped
+LiLuF<sub>4</sub> Upconversion Nanoprobes for the Detection of Disease
+Biomarkers</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2014</year>, <volume>53</volume>, <fpage>1252</fpage>&#x02013;<lpage>1257</lpage><pub-id pub-id-type="doi">10.1002/anie.201309503</pub-id>.</mixed-citation></ref><ref id="ref37"><mixed-citation publication-type="journal" id="cit37"><name><surname>Zhuo</surname><given-names>Z.</given-names></name>; <name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Liu</surname><given-names>D.</given-names></name>; <name><surname>Huang</surname><given-names>P.</given-names></name>; <name><surname>Jiang</surname><given-names>F.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Hong</surname><given-names>M.</given-names></name>
+<article-title>Manipulating
+Energy Transfer in Lanthanide-Doped Single Nanoparticles
+for Highly Enhanced Upconverting Luminescence</article-title>. <source>Chem. Sci.</source>
+<year>2017</year>, <volume>8</volume>, <fpage>5050</fpage>&#x02013;<lpage>5056</lpage><pub-id pub-id-type="doi">10.1039/C7SC01393K</pub-id>.<pub-id pub-id-type="pmid">29568476</pub-id></mixed-citation></ref><ref id="ref38"><mixed-citation publication-type="journal" id="cit38"><name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Peng</surname><given-names>D.</given-names></name>; <name><surname>Ju</surname><given-names>Q.</given-names></name>; <name><surname>Wang</surname><given-names>F.</given-names></name>
+<article-title>Photon Upconversion
+in Core&#x02013;Shell Nanoparticles</article-title>. <source>Chem. Soc.
+Rev.</source>
+<year>2015</year>, <volume>44</volume>, <fpage>1318</fpage>&#x02013;<lpage>1330</lpage><pub-id pub-id-type="doi">10.1039/C4CS00151F</pub-id>.<pub-id pub-id-type="pmid">25058157</pub-id></mixed-citation></ref><ref id="ref39"><mixed-citation publication-type="journal" id="cit39"><name><surname>Wu</surname><given-names>D. M.</given-names></name>; <name><surname>Garcia-Etxarri</surname><given-names>A.</given-names></name>; <name><surname>Salleo</surname><given-names>A.</given-names></name>; <name><surname>Dionne</surname><given-names>J. A.</given-names></name>
+<article-title>Plasmon-Enhanced
+Upconversion</article-title>. <source>J. Phys. Chem. Lett.</source>
+<year>2014</year>, <volume>5</volume>, <fpage>4020</fpage>&#x02013;<lpage>4030</lpage><pub-id pub-id-type="doi">10.1021/jz5019042</pub-id>.<pub-id pub-id-type="pmid">26276488</pub-id></mixed-citation></ref><ref id="ref40"><mixed-citation publication-type="journal" id="cit40"><name><surname>Park</surname><given-names>W.</given-names></name>; <name><surname>Lu</surname><given-names>D.</given-names></name>; <name><surname>Ahn</surname><given-names>S.</given-names></name>
+<article-title>Plasmon Enhancement
+of Luminescence Upconversion</article-title>. <source>Chem. Soc. Rev.</source>
+<year>2015</year>, <volume>44</volume>, <fpage>2940</fpage>&#x02013;<lpage>2962</lpage><pub-id pub-id-type="doi">10.1039/C5CS00050E</pub-id>.<pub-id pub-id-type="pmid">25853439</pub-id></mixed-citation></ref><ref id="ref41"><mixed-citation publication-type="journal" id="cit41"><name><surname>Xu</surname><given-names>W.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Song</surname><given-names>H.</given-names></name>
+<article-title>Upconversion
+Manipulation by Local
+Electromagnetic Field</article-title>. <source>Nano Today</source>
+<year>2017</year>, <volume>17</volume>, <fpage>54</fpage>&#x02013;<lpage>78</lpage><pub-id pub-id-type="doi">10.1016/j.nantod.2017.10.011</pub-id>.</mixed-citation></ref><ref id="ref42"><mixed-citation publication-type="journal" id="cit42"><name><surname>Saboktakin</surname><given-names>M.</given-names></name>; <name><surname>Ye</surname><given-names>X.</given-names></name>; <name><surname>Chettiar</surname><given-names>U. K.</given-names></name>; <name><surname>Engheta</surname><given-names>N.</given-names></name>; <name><surname>Murray</surname><given-names>C. B.</given-names></name>; <name><surname>Kagan</surname><given-names>C. R.</given-names></name>
+<article-title>Plasmonic
+Enhancement of Nanophosphor Upconversion Luminescence in Au Nanohole
+Arrays</article-title>. <source>ACS Nano</source>
+<year>2013</year>, <volume>7</volume>, <fpage>7186</fpage>&#x02013;<lpage>7192</lpage><pub-id pub-id-type="doi">10.1021/nn402598e</pub-id>.<pub-id pub-id-type="pmid">23909608</pub-id></mixed-citation></ref><ref id="ref43"><mixed-citation publication-type="journal" id="cit43"><name><surname>Greybush</surname><given-names>N. J.</given-names></name>; <name><surname>Saboktakin</surname><given-names>M.</given-names></name>; <name><surname>Ye</surname><given-names>X.</given-names></name>; <name><surname>Giovampaola</surname><given-names>C. D.</given-names></name>; <name><surname>Oh</surname><given-names>S. J.</given-names></name>; <name><surname>Berry</surname><given-names>N. E.</given-names></name>; <name><surname>Engheta</surname><given-names>N.</given-names></name>; <name><surname>Murray</surname><given-names>C. B.</given-names></name>; <name><surname>Kagan</surname><given-names>C. R.</given-names></name>
+<article-title>Plasmon-Enhanced
+Upconversion Luminescence in Single
+Nanophosphor-Nanorod Heterodimers Formed through Template-Assisted
+Self-Assembly</article-title>. <source>ACS Nano</source>
+<year>2014</year>, <volume>8</volume>, <fpage>9482</fpage>&#x02013;<lpage>9491</lpage><pub-id pub-id-type="doi">10.1021/nn503675a</pub-id>.<pub-id pub-id-type="pmid">25182662</pub-id></mixed-citation></ref><ref id="ref44"><mixed-citation publication-type="journal" id="cit44"><name><surname>Yin</surname><given-names>Z.</given-names></name>; <name><surname>Li</surname><given-names>H.</given-names></name>; <name><surname>Xu</surname><given-names>W.</given-names></name>; <name><surname>Cui</surname><given-names>S.</given-names></name>; <name><surname>Zhou</surname><given-names>D.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Zhu</surname><given-names>Y.</given-names></name>; <name><surname>Qin</surname><given-names>G.</given-names></name>; <name><surname>Song</surname><given-names>H.</given-names></name>
+<article-title>Local Field Modulation Induced Three-Order
+Upconversion Enhancement: Combining Surface Plasmon Effect and Photonic
+Crystal Effect</article-title>. <source>Adv. Mater.</source>
+<year>2016</year>, <volume>28</volume>, <fpage>2518</fpage>&#x02013;<lpage>2525</lpage><pub-id pub-id-type="doi">10.1002/adma.201502943</pub-id>.<pub-id pub-id-type="pmid">26833556</pub-id></mixed-citation></ref><ref id="ref45"><mixed-citation publication-type="journal" id="cit45"><name><surname>Bang</surname><given-names>D.</given-names></name>; <name><surname>Jo</surname><given-names>E. J.</given-names></name>; <name><surname>Hong</surname><given-names>S.</given-names></name>; <name><surname>Byun</surname><given-names>J. Y.</given-names></name>; <name><surname>Lee</surname><given-names>J. Y.</given-names></name>; <name><surname>Kim</surname><given-names>M. G.</given-names></name>; <name><surname>Lee</surname><given-names>L. P.</given-names></name>
+<article-title>Asymmetric
+Nanocrescent Antenna on
+Upconversion Nanocrystal</article-title>. <source>Nano Lett.</source>
+<year>2017</year>, <volume>17</volume>, <fpage>6583</fpage>&#x02013;<lpage>6590</lpage><pub-id pub-id-type="doi">10.1021/acs.nanolett.7b02327</pub-id>.<pub-id pub-id-type="pmid">28825844</pub-id></mixed-citation></ref><ref id="ref46"><mixed-citation publication-type="journal" id="cit46"><name><surname>Sun</surname><given-names>Q. C.</given-names></name>; <name><surname>Mundoor</surname><given-names>H.</given-names></name>; <name><surname>Ribot</surname><given-names>J. C.</given-names></name>; <name><surname>Singh</surname><given-names>V.</given-names></name>; <name><surname>Smalyukh</surname><given-names>I. I.</given-names></name>; <name><surname>Nagpal</surname><given-names>P.</given-names></name>
+<article-title>Plasmon-Enhanced Energy
+Transfer for Improved Upconversion
+of Infrared Radiation in Doped-Lanthanide Nanocrystals</article-title>. <source>Nano Lett.</source>
+<year>2014</year>, <volume>14</volume>, <fpage>101</fpage>&#x02013;<lpage>106</lpage><pub-id pub-id-type="doi">10.1021/nl403383w</pub-id>.<pub-id pub-id-type="pmid">24279776</pub-id></mixed-citation></ref><ref id="ref47"><mixed-citation publication-type="journal" id="cit47"><name><surname>Lu</surname><given-names>D.</given-names></name>; <name><surname>Cho</surname><given-names>S. K.</given-names></name>; <name><surname>Ahn</surname><given-names>S.</given-names></name>; <name><surname>Brun</surname><given-names>L.</given-names></name>; <name><surname>Summers</surname><given-names>C. J.</given-names></name>; <name><surname>Park</surname><given-names>W.</given-names></name>
+<article-title>Plasmon Enhancement Mechanism for the Upconversion Processes in NaYF<sub>4</sub>:Yb<sup>3+</sup>,Er<sup>3+</sup> Nanoparticles: Maxell versus
+F&#x000f6;ster</article-title>. <source>ACS Nano</source>
+<year>2014</year>, <volume>8</volume>, <fpage>7780</fpage>&#x02013;<lpage>7792</lpage><pub-id pub-id-type="doi">10.1021/nn5011254</pub-id>.<pub-id pub-id-type="pmid">25003209</pub-id></mixed-citation></ref><ref id="ref48"><mixed-citation publication-type="journal" id="cit48"><name><surname>Lu</surname><given-names>D.</given-names></name>; <name><surname>Mao</surname><given-names>C.</given-names></name>; <name><surname>Cho</surname><given-names>S. K.</given-names></name>; <name><surname>Ahn</surname><given-names>S.</given-names></name>; <name><surname>Park</surname><given-names>W.</given-names></name>
+<article-title>Experimental Demonstration
+of Plasmon Enhanced Energy Transfer Rate in NaYF<sub>4</sub>:Yb<sup>3+</sup>,Er<sup>3+</sup> Upconversion Nanoparticles</article-title>. <source>Sci. Rep.</source>
+<year>2016</year>, <volume>6</volume>, <fpage>18894</fpage><pub-id pub-id-type="doi">10.1038/srep18894</pub-id>.<pub-id pub-id-type="pmid">26739230</pub-id></mixed-citation></ref><ref id="ref49"><mixed-citation publication-type="journal" id="cit49"><name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Yang</surname><given-names>Z.</given-names></name>; <name><surname>Ma</surname><given-names>Y.</given-names></name>; <name><surname>Chai</surname><given-names>Z.</given-names></name>; <name><surname>Qiu</surname><given-names>J.</given-names></name>; <name><surname>Song</surname><given-names>Z.</given-names></name>
+<article-title>Upconversion Emission
+Enhancement Mechanism of Nd<sup>3+</sup>&#x02013;Sensitized
+NaYF<sub>4</sub>:Yb<sup>3+</sup>,Er<sup>3+</sup> Nanoparticles using
+Tunable Plasmonic Au Films: Plasmonic-Induced Excitation, Radiative
+Decay Rate and Energy-Transfer Enhancement</article-title>. <source>J. Mater. Chem. C</source>
+<year>2017</year>, <volume>5</volume>, <fpage>8535</fpage>&#x02013;<lpage>8544</lpage><pub-id pub-id-type="doi">10.1039/C7TC02374J</pub-id>.</mixed-citation></ref><ref id="ref50"><mixed-citation publication-type="journal" id="cit50"><name><surname>Das</surname><given-names>A.</given-names></name>; <name><surname>Mao</surname><given-names>C.</given-names></name>; <name><surname>Cho</surname><given-names>S.</given-names></name>; <name><surname>Kim</surname><given-names>K.</given-names></name>; <name><surname>Park</surname><given-names>W.</given-names></name>
+<article-title>Over 1000-Fold Enhancement
+of Upconversion Luminescence using Water-Dispersible Metal-Insulator-Metal
+Nanostructures</article-title>. <source>Nat. Commun.</source>
+<year>2018</year>, <volume>9</volume>, <fpage>4828</fpage><pub-id pub-id-type="doi">10.1038/s41467-018-07284-w</pub-id>.<pub-id pub-id-type="pmid">30446644</pub-id></mixed-citation></ref><ref id="ref51"><mixed-citation publication-type="journal" id="cit51"><name><surname>Drees</surname><given-names>C.</given-names></name>; <name><surname>Raj</surname><given-names>A. N.</given-names></name>; <name><surname>Kurre</surname><given-names>R.</given-names></name>; <name><surname>Busch</surname><given-names>K. B.</given-names></name>; <name><surname>Haase</surname><given-names>M.</given-names></name>; <name><surname>Piehler</surname><given-names>J.</given-names></name>
+<article-title>Engineered Upconversion Nanoparticles
+for Resolving
+Protein Interactions inside Living Cells</article-title>. <source>Angew.
+Chem., Int. Ed.</source>
+<year>2016</year>, <volume>55</volume>, <fpage>11668</fpage>&#x02013;<lpage>11672</lpage><pub-id pub-id-type="doi">10.1002/anie.201603028</pub-id>.</mixed-citation></ref><ref id="ref52"><mixed-citation publication-type="journal" id="cit52"><name><surname>Zheng</surname><given-names>W.</given-names></name>; <name><surname>Huang</surname><given-names>P.</given-names></name>; <name><surname>Tu</surname><given-names>D.</given-names></name>; <name><surname>Ma</surname><given-names>E.</given-names></name>; <name><surname>Zhu</surname><given-names>H.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>
+<article-title>Lanthanide-Doped Upconversion Nano-Bioprobes: Electronic Structures,
+Optical Properties, and Biodetection</article-title>. <source>Chem.
+Soc. Rev.</source>
+<year>2015</year>, <volume>44</volume>, <fpage>1379</fpage>&#x02013;<lpage>1415</lpage><pub-id pub-id-type="doi">10.1039/C4CS00178H</pub-id>.<pub-id pub-id-type="pmid">25093303</pub-id></mixed-citation></ref><ref id="ref53"><mixed-citation publication-type="journal" id="cit53"><name><surname>Yang</surname><given-names>Y.</given-names></name>; <name><surname>Shao</surname><given-names>Q.</given-names></name>; <name><surname>Deng</surname><given-names>R.</given-names></name>; <name><surname>Wang</surname><given-names>C.</given-names></name>; <name><surname>Teng</surname><given-names>X.</given-names></name>; <name><surname>Cheng</surname><given-names>K.</given-names></name>; <name><surname>Cheng</surname><given-names>Z.</given-names></name>; <name><surname>Huang</surname><given-names>L.</given-names></name>; <name><surname>Liu</surname><given-names>Z.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>; <name><surname>Xing</surname><given-names>B.</given-names></name>
+<article-title>In Vitro and
+In Vivo Uncaging and Bioluminescence Imaging
+by using Photocaged Upconversion Nanoparticles</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2012</year>, <volume>51</volume>, <fpage>3125</fpage>&#x02013;<lpage>3129</lpage><pub-id pub-id-type="doi">10.1002/anie.201107919</pub-id>.</mixed-citation></ref><ref id="ref54"><mixed-citation publication-type="journal" id="cit54"><name><surname>Zhou</surname><given-names>J.</given-names></name>; <name><surname>Liu</surname><given-names>Q.</given-names></name>; <name><surname>Feng</surname><given-names>W.</given-names></name>; <name><surname>Sun</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>F.</given-names></name>
+<article-title>Upconversion Luminescent
+Materials: Advances and Applications</article-title>. <source>Chem.
+Rev.</source>
+<year>2015</year>, <volume>115</volume>, <fpage>395</fpage>&#x02013;<lpage>465</lpage><pub-id pub-id-type="doi">10.1021/cr400478f</pub-id>.<pub-id pub-id-type="pmid">25492128</pub-id></mixed-citation></ref><ref id="ref55"><mixed-citation publication-type="journal" id="cit55"><name><surname>Brites</surname><given-names>C.
+D. S.</given-names></name>; <name><surname>Xie</surname><given-names>X.</given-names></name>; <name><surname>Debasu</surname><given-names>M. L.</given-names></name>; <name><surname>Qin</surname><given-names>X.</given-names></name>; <name><surname>Chen</surname><given-names>R.</given-names></name>; <name><surname>Huang</surname><given-names>W.</given-names></name>; <name><surname>Rocha</surname><given-names>J.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>; <name><surname>Carlos</surname><given-names>L. D.</given-names></name>
+<article-title>Instantaneous
+Ballistic Velocity of Suspended Brownian Nanocrystals Measured by
+Upconversion Nanothermometry</article-title>. <source>Nat. Nanotechnol.</source>
+<year>2016</year>, <volume>11</volume>, <fpage>851</fpage>&#x02013;<lpage>856</lpage><pub-id pub-id-type="doi">10.1038/nnano.2016.111</pub-id>.<pub-id pub-id-type="pmid">27376242</pub-id></mixed-citation></ref><ref id="ref56"><mixed-citation publication-type="journal" id="cit56"><name><surname>Abbe</surname><given-names>E.</given-names></name>
+<article-title>Beitr&#x000e4;ge
+zur Theorie des Mikroskops und der mikroskopischen Wahrnehmung</article-title>. <source>Arch. f&#x000fc;r Mikroskopische Anat.</source>
+<year>1873</year>, <volume>9</volume>, <fpage>413</fpage>&#x02013;<lpage>418</lpage><pub-id pub-id-type="doi">10.1007/BF02956173</pub-id>.</mixed-citation></ref><ref id="ref57"><mixed-citation publication-type="journal" id="cit57"><name><surname>Neupane</surname><given-names>B.</given-names></name>; <name><surname>Ligler</surname><given-names>F. S.</given-names></name>; <name><surname>Wang</surname><given-names>G.</given-names></name>
+<article-title>Review of
+Recent Developments in
+Stimulated Emission Depletion Microscopy: Applications on Cell Imaging</article-title>. <source>J. Biomed. Opt.</source>
+<year>2014</year>, <volume>19</volume>, <fpage>080901</fpage><pub-id pub-id-type="doi">10.1117/1.JBO.19.8.080901</pub-id>.<pub-id pub-id-type="pmid">25121478</pub-id></mixed-citation></ref><ref id="ref58"><mixed-citation publication-type="journal" id="cit58"><name><surname>Hiersemenzel</surname><given-names>K.</given-names></name>; <name><surname>Brown</surname><given-names>E. R.</given-names></name>; <name><surname>Duncan</surname><given-names>R. R.</given-names></name>
+<article-title>Imaging Large Cohorts of Single Ion
+Channels and Their Activity</article-title>. <source>Front. Endocrinol.</source>
+<year>2013</year>, <volume>4</volume>, <fpage>114</fpage><pub-id pub-id-type="doi">10.3389/fendo.2013.00114</pub-id>.</mixed-citation></ref><ref id="ref59"><mixed-citation publication-type="journal" id="cit59"><name><surname>Wang</surname><given-names>Y. F.</given-names></name>; <name><surname>Liu</surname><given-names>G. Y.</given-names></name>; <name><surname>Sun</surname><given-names>L. D.</given-names></name>; <name><surname>Xiao</surname><given-names>J. W.</given-names></name>; <name><surname>Zhou</surname><given-names>J. C.</given-names></name>; <name><surname>Yan</surname><given-names>C. H.</given-names></name>
+<article-title>Nd<sup>3+</sup>-sensitized
+Upconversion Nanophosphors:
+Efficient In Vivo Bioimaging Probes with Minimized Heating Effect</article-title>. <source>ACS Nano</source>
+<year>2013</year>, <volume>7</volume>, <fpage>7200</fpage>&#x02013;<lpage>7206</lpage><pub-id pub-id-type="doi">10.1021/nn402601d</pub-id>.<pub-id pub-id-type="pmid">23869772</pub-id></mixed-citation></ref><ref id="ref60"><mixed-citation publication-type="journal" id="cit60"><name><surname>Xie</surname><given-names>X.</given-names></name>; <name><surname>Gao</surname><given-names>N.</given-names></name>; <name><surname>Deng</surname><given-names>R.</given-names></name>; <name><surname>Sun</surname><given-names>Q.</given-names></name>; <name><surname>Xu</surname><given-names>Q. H.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>
+<article-title>Mechanistic
+Investigation of Photon Upconversion in Nd<sup>3+</sup>-Sensitized
+Core&#x02013;Shell Nanoparticles</article-title>. <source>J. Am. Chem.
+Soc.</source>
+<year>2013</year>, <volume>135</volume>, <fpage>12608</fpage>&#x02013;<lpage>12611</lpage><pub-id pub-id-type="doi">10.1021/ja4075002</pub-id>.<pub-id pub-id-type="pmid">23947580</pub-id></mixed-citation></ref><ref id="ref61"><mixed-citation publication-type="journal" id="cit61"><name><surname>Zhong</surname><given-names>Y.</given-names></name>; <name><surname>Tian</surname><given-names>G.</given-names></name>; <name><surname>Gu</surname><given-names>Z.</given-names></name>; <name><surname>Yang</surname><given-names>Y.</given-names></name>; <name><surname>Gu</surname><given-names>L.</given-names></name>; <name><surname>Zhao</surname><given-names>Y.</given-names></name>; <name><surname>Ma</surname><given-names>Y.</given-names></name>; <name><surname>Yao</surname><given-names>J.</given-names></name>
+<article-title>Elimination of Photon
+Quenching by a Transition Layer to Fabricate a Quenching-Shield Sandwich
+Structure for 800 nm Excited Upconversion Luminescence of Nd<sup>3+</sup>-Sensitized Nanoparticles</article-title>. <source>Adv. Mater.</source>
+<year>2014</year>, <volume>26</volume>, <fpage>2831</fpage>&#x02013;<lpage>2837</lpage><pub-id pub-id-type="doi">10.1002/adma.201304903</pub-id>.<pub-id pub-id-type="pmid">24338994</pub-id></mixed-citation></ref><ref id="ref62"><mixed-citation publication-type="journal" id="cit62"><name><surname>Dong</surname><given-names>H.</given-names></name>; <name><surname>Du</surname><given-names>S. R.</given-names></name>; <name><surname>Zheng</surname><given-names>X. Y.</given-names></name>; <name><surname>Lyu</surname><given-names>G. M.</given-names></name>; <name><surname>Sun</surname><given-names>L. D.</given-names></name>; <name><surname>Li</surname><given-names>L. D.</given-names></name>; <name><surname>Zhang</surname><given-names>P. Z.</given-names></name>; <name><surname>Zhang</surname><given-names>C.</given-names></name>; <name><surname>Yan</surname><given-names>C. H.</given-names></name>
+<article-title>Lanthanide
+Nanoparticles: From Design toward Bioimaging and Therapy</article-title>. <source>Chem. Rev.</source>
+<year>2015</year>, <volume>115</volume>, <fpage>10725</fpage>&#x02013;<lpage>10815</lpage><pub-id pub-id-type="doi">10.1021/acs.chemrev.5b00091</pub-id>.<pub-id pub-id-type="pmid">26151155</pub-id></mixed-citation></ref><ref id="ref63"><mixed-citation publication-type="journal" id="cit63"><name><surname>Fan</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>P.</given-names></name>; <name><surname>Lu</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>R.</given-names></name>; <name><surname>Zhou</surname><given-names>L.</given-names></name>; <name><surname>Zheng</surname><given-names>X.</given-names></name>; <name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Piper</surname><given-names>J. A.</given-names></name>; <name><surname>Zhang</surname><given-names>F.</given-names></name>
+<article-title>Lifetime-Engineered
+NIR-II Nanoparticles Unlock Multiplexed In Vivo Imaging</article-title>. <source>Nat. Nanotechnol.</source>
+<year>2018</year>, <volume>13</volume>, <fpage>941</fpage>&#x02013;<lpage>946</lpage><pub-id pub-id-type="doi">10.1038/s41565-018-0221-0</pub-id>.<pub-id pub-id-type="pmid">30082923</pub-id></mixed-citation></ref><ref id="ref64"><mixed-citation publication-type="journal" id="cit64"><name><surname>Kolesov</surname><given-names>R.</given-names></name>; <name><surname>Reuter</surname><given-names>R.</given-names></name>; <name><surname>Xia</surname><given-names>K.</given-names></name>; <name><surname>St&#x000f6;hr</surname><given-names>R.</given-names></name>; <name><surname>Zappe</surname><given-names>A.</given-names></name>; <name><surname>Wrachtrup</surname><given-names>J.</given-names></name>
+<article-title>Super-Resolution Upconversion Microscopy
+of Praseodymium-Doped Yttrium Aluminum Garnet Nanoparticles</article-title>. <source>Phys. Rev. B: Condens. Matter Mater. Phys.</source>
+<year>2011</year>, <volume>84</volume>, <fpage>153413</fpage><pub-id pub-id-type="doi">10.1103/PhysRevB.84.153413</pub-id>.</mixed-citation></ref><ref id="ref65"><mixed-citation publication-type="journal" id="cit65"><name><surname>Wu</surname><given-names>R.</given-names></name>; <name><surname>Zhan</surname><given-names>Q.</given-names></name>; <name><surname>Liu</surname><given-names>H.</given-names></name>; <name><surname>Wen</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>B.</given-names></name>; <name><surname>He</surname><given-names>S.</given-names></name>
+<article-title>Optical Depletion Mechanism of Upconverting Luminescence and Its
+Potential for Multi-Photon STED-Like Microscopy</article-title>. <source>Opt. Express</source>
+<year>2015</year>, <volume>23</volume>, <fpage>32401</fpage><pub-id pub-id-type="doi">10.1364/OE.23.032401</pub-id>.<pub-id pub-id-type="pmid">26699029</pub-id></mixed-citation></ref><ref id="ref66"><mixed-citation publication-type="journal" id="cit66"><name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Lu</surname><given-names>Y.</given-names></name>; <name><surname>Yang</surname><given-names>X.</given-names></name>; <name><surname>Zheng</surname><given-names>X.</given-names></name>; <name><surname>Wen</surname><given-names>S.</given-names></name>; <name><surname>Wang</surname><given-names>F.</given-names></name>; <name><surname>Vidal</surname><given-names>X.</given-names></name>; <name><surname>Zhao</surname><given-names>J.</given-names></name>; <name><surname>Liu</surname><given-names>D.</given-names></name>; <name><surname>Zhou</surname><given-names>Z.</given-names></name>; <name><surname>Ma</surname><given-names>C.</given-names></name>; <name><surname>Zhou</surname><given-names>J.</given-names></name>; <name><surname>Piper</surname><given-names>J. A.</given-names></name>; <name><surname>Xi</surname><given-names>P.</given-names></name>; <name><surname>Jin</surname><given-names>D.</given-names></name>
+<article-title>Amplified
+Stimulated Emission in Upconversion Nanoparticles for Super-Resolution
+Nanoscopy</article-title>. <source>Nature</source>
+<year>2017</year>, <volume>543</volume>, <fpage>229</fpage>&#x02013;<lpage>233</lpage><pub-id pub-id-type="doi">10.1038/nature21366</pub-id>.<pub-id pub-id-type="pmid">28225761</pub-id></mixed-citation></ref><ref id="ref67"><mixed-citation publication-type="journal" id="cit67"><name><surname>Zhan</surname><given-names>Q.</given-names></name>; <name><surname>Liu</surname><given-names>H.</given-names></name>; <name><surname>Wang</surname><given-names>B.</given-names></name>; <name><surname>Wu</surname><given-names>Q.</given-names></name>; <name><surname>Pu</surname><given-names>R.</given-names></name>; <name><surname>Zhou</surname><given-names>C.</given-names></name>; <name><surname>Huang</surname><given-names>B.</given-names></name>; <name><surname>Peng</surname><given-names>X.</given-names></name>; <name><surname>Agren</surname><given-names>H.</given-names></name>; <name><surname>He</surname><given-names>S.</given-names></name>
+<article-title>Achieving
+High-Efficiency Emission Depletion Nanoscopy by Employing Cross Relaxation
+in Upconversion Nanoparticles</article-title>. <source>Nat. Commun.</source>
+<year>2017</year>, <volume>8</volume>, <fpage>1058</fpage><pub-id pub-id-type="doi">10.1038/s41467-017-01141-y</pub-id>.<pub-id pub-id-type="pmid">29051497</pub-id></mixed-citation></ref><ref id="ref68"><mixed-citation publication-type="journal" id="cit68"><name><surname>Zhang</surname><given-names>H.</given-names></name>; <name><surname>Jia</surname><given-names>T.</given-names></name>; <name><surname>Chen</surname><given-names>L.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Zhang</surname><given-names>S.</given-names></name>; <name><surname>Feng</surname><given-names>D.</given-names></name>; <name><surname>Sun</surname><given-names>Z.</given-names></name>; <name><surname>Qiu</surname><given-names>J.</given-names></name>
+<article-title>Depleted Upconversion Luminescence in NaYF<sub>4</sub>:Yb<sup>3+</sup>,Tm<sup>3+</sup> Nanoparticles via Simultaneous Two-Wavelength
+Excitation</article-title>. <source>Phys. Chem. Chem. Phys.</source>
+<year>2017</year>, <volume>19</volume>, <fpage>17756</fpage>&#x02013;<lpage>17764</lpage><pub-id pub-id-type="doi">10.1039/C7CP00099E</pub-id>.<pub-id pub-id-type="pmid">28657091</pub-id></mixed-citation></ref><ref id="ref69"><mixed-citation publication-type="journal" id="cit69"><name><surname>Shin</surname><given-names>K.</given-names></name>; <name><surname>Jung</surname><given-names>T.</given-names></name>; <name><surname>Lee</surname><given-names>E.</given-names></name>; <name><surname>Lee</surname><given-names>G.</given-names></name>; <name><surname>Goh</surname><given-names>Y.</given-names></name>; <name><surname>Heo</surname><given-names>J.</given-names></name>; <name><surname>Jung</surname><given-names>M.</given-names></name>; <name><surname>Jo</surname><given-names>E. J.</given-names></name>; <name><surname>Lee</surname><given-names>H.</given-names></name>; <name><surname>Kim</surname><given-names>M. G.</given-names></name>; <name><surname>Lee</surname><given-names>K. T.</given-names></name>
+<article-title>Distinct Mechanisms for the Upconversion
+of NaYF<sub>4</sub>:Yb<sup>3+</sup>,Er<sup>3+</sup> Nanoparticles
+Revealed by
+Stimulated Emission Depletion</article-title>. <source>Phys. Chem. Chem.
+Phys.</source>
+<year>2017</year>, <volume>19</volume>, <fpage>9739</fpage>&#x02013;<lpage>9744</lpage><pub-id pub-id-type="doi">10.1039/C7CP00918F</pub-id>.<pub-id pub-id-type="pmid">28367577</pub-id></mixed-citation></ref><ref id="ref70"><mixed-citation publication-type="patent" id="cit70"><person-group person-group-type="allauthors"><name><surname>Deisseroth</surname><given-names>K.</given-names></name>; <name><surname>Anikeeva</surname><given-names>P.</given-names></name></person-group><article-title>Upconversion
+of Light for Use in Optogenetic Methods</article-title>. <source>United
+States Patent</source>, <patent>PCT/US11/59287</patent>, <year>2011</year>.</mixed-citation></ref><ref id="ref71"><mixed-citation publication-type="journal" id="cit71"><name><surname>Shah</surname><given-names>S.</given-names></name>; <name><surname>Liu</surname><given-names>J. J.</given-names></name>; <name><surname>Pasquale</surname><given-names>N.</given-names></name>; <name><surname>Lai</surname><given-names>J.</given-names></name>; <name><surname>McGowan</surname><given-names>H.</given-names></name>; <name><surname>Pang</surname><given-names>Z. P.</given-names></name>; <name><surname>Lee</surname><given-names>K. B.</given-names></name>
+<article-title>Hybrid Upconversion
+Nanomaterials
+for Optogenetic Neuronal Control</article-title>. <source>Nanoscale</source>
+<year>2015</year>, <volume>7</volume>, <fpage>16571</fpage>&#x02013;<lpage>16577</lpage><pub-id pub-id-type="doi">10.1039/C5NR03411F</pub-id>.<pub-id pub-id-type="pmid">26415758</pub-id></mixed-citation></ref><ref id="ref72"><mixed-citation publication-type="journal" id="cit72"><name><surname>Hososhima</surname><given-names>S.</given-names></name>; <name><surname>Yuasa</surname><given-names>H.</given-names></name>; <name><surname>Ishizuka</surname><given-names>T.</given-names></name>; <name><surname>Hoque</surname><given-names>M. R.</given-names></name>; <name><surname>Yamashita</surname><given-names>T.</given-names></name>; <name><surname>Yamanaka</surname><given-names>A.</given-names></name>; <name><surname>Sugano</surname><given-names>E.</given-names></name>; <name><surname>Tomita</surname><given-names>T.</given-names></name>; <name><surname>Yawo</surname><given-names>H.</given-names></name>
+<article-title>Near-Infrared
+(NIR) Up-Conversion Optogenetics</article-title>. <source>Sci. Rep.</source>
+<year>2015</year>, <volume>5</volume>, <fpage>16533</fpage><pub-id pub-id-type="doi">10.1038/srep16533</pub-id>.<pub-id pub-id-type="pmid">26552717</pub-id></mixed-citation></ref><ref id="ref73"><mixed-citation publication-type="journal" id="cit73"><name><surname>He</surname><given-names>L.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Ma</surname><given-names>G.</given-names></name>; <name><surname>Tan</surname><given-names>P.</given-names></name>; <name><surname>Li</surname><given-names>Z.</given-names></name>; <name><surname>Zang</surname><given-names>S.</given-names></name>; <name><surname>Wu</surname><given-names>X.</given-names></name>; <name><surname>Jing</surname><given-names>J.</given-names></name>; <name><surname>Fang</surname><given-names>S.</given-names></name>; <name><surname>Zhou</surname><given-names>L.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Huang</surname><given-names>Y.</given-names></name>; <name><surname>Hogan</surname><given-names>P. G.</given-names></name>; <name><surname>Han</surname><given-names>G.</given-names></name>; <name><surname>Zhou</surname><given-names>Y.</given-names></name>
+<article-title>Near-Infrared Photoactivatable
+Control of Ca<sup>2+</sup> Signaling and Optogenetic Immunomodulation</article-title>. <source>eLife</source>
+<year>2015</year>, <volume>4</volume>, <fpage>e10024</fpage><pub-id pub-id-type="doi">10.7554/eLife.10024</pub-id>.<pub-id pub-id-type="pmid">26646180</pub-id></mixed-citation></ref><ref id="ref74"><mixed-citation publication-type="journal" id="cit74"><name><surname>Bansal</surname><given-names>A.</given-names></name>; <name><surname>Liu</surname><given-names>H.</given-names></name>; <name><surname>Jayakumar</surname><given-names>M. K. G.</given-names></name>; <name><surname>Andersson-Engels</surname><given-names>S.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>
+<article-title>Quasi-Continuous Wave
+Near-Infrared Excitation of Upconversion Nanoparticles
+for Optogenetic Manipulation of C. elegans</article-title>. <source>Small</source>
+<year>2016</year>, <volume>12</volume>, <fpage>1732</fpage>&#x02013;<lpage>1743</lpage><pub-id pub-id-type="doi">10.1002/smll.201503792</pub-id>.<pub-id pub-id-type="pmid">26849846</pub-id></mixed-citation></ref><ref id="ref75"><mixed-citation publication-type="journal" id="cit75"><name><surname>Ai</surname><given-names>X.</given-names></name>; <name><surname>Lyu</surname><given-names>L.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Tang</surname><given-names>Y.</given-names></name>; <name><surname>Mu</surname><given-names>J.</given-names></name>; <name><surname>Liu</surname><given-names>F.</given-names></name>; <name><surname>Zhou</surname><given-names>Y.</given-names></name>; <name><surname>Zuo</surname><given-names>Z.</given-names></name>; <name><surname>Liu</surname><given-names>G.</given-names></name>; <name><surname>Xing</surname><given-names>B.</given-names></name>
+<article-title>Remote Regulation
+of Membrane Channel Activity by Site-Specific Localization of Lanthanide-Doped
+Upconversion Nanocrystals</article-title>. <source>Angew. Chem., Int.
+Ed.</source>
+<year>2017</year>, <volume>56</volume>, <fpage>3031</fpage>&#x02013;<lpage>3035</lpage><pub-id pub-id-type="doi">10.1002/anie.201612142</pub-id>.</mixed-citation></ref><ref id="ref76"><mixed-citation publication-type="journal" id="cit76"><name><surname>Pliss</surname><given-names>A.</given-names></name>; <name><surname>Ohulchanskyy</surname><given-names>T. Y.</given-names></name>; <name><surname>Chen</surname><given-names>G.</given-names></name>; <name><surname>Damasco</surname><given-names>J.</given-names></name>; <name><surname>Bass</surname><given-names>C. E.</given-names></name>; <name><surname>Prasad</surname><given-names>P. N.</given-names></name>
+<article-title>Subcellular Optogenetics Enacted by Targeted Nanotransformers
+of Near-Infrared Light</article-title>. <source>ACS Photonics</source>
+<year>2017</year>, <volume>4</volume>, <fpage>806</fpage>&#x02013;<lpage>814</lpage><pub-id pub-id-type="doi">10.1021/acsphotonics.6b00475</pub-id>.</mixed-citation></ref><ref id="ref77"><mixed-citation publication-type="journal" id="cit77"><name><surname>Lin</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Yang</surname><given-names>R.</given-names></name>; <name><surname>Wang</surname><given-names>Z.</given-names></name>; <name><surname>Feng</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Lai</surname><given-names>K. W. C.</given-names></name>; <name><surname>He</surname><given-names>J.</given-names></name>; <name><surname>Wang</surname><given-names>F.</given-names></name>; <name><surname>Shi</surname><given-names>P.</given-names></name>
+<article-title>Multiplexed
+Optogenetic Stimulation
+of Neurons with Spectrum-Selective Upconversion Nanoparticles</article-title>. <source>Adv. Healthcare Mater.</source>
+<year>2017</year>, <volume>6</volume>, <fpage>1700446</fpage><pub-id pub-id-type="doi">10.1002/adhm.201700446</pub-id>.</mixed-citation></ref><ref id="ref78"><mixed-citation publication-type="journal" id="cit78"><name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Lin</surname><given-names>X.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Xu</surname><given-names>Z.</given-names></name>; <name><surname>Zhang</surname><given-names>W.</given-names></name>; <name><surname>Liao</surname><given-names>Q.</given-names></name>; <name><surname>Duan</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>X.</given-names></name>; <name><surname>Liu</surname><given-names>M.</given-names></name>; <name><surname>Wang</surname><given-names>F.</given-names></name>; <name><surname>He</surname><given-names>J.</given-names></name>; <name><surname>Shi</surname><given-names>P.</given-names></name>
+<article-title>Tetherless Near-Infrared
+Control of Brain Activity in Behaving Animals using Fully Implantable
+Upconversion Microdevices</article-title>. <source>Biomaterials</source>
+<year>2017</year>, <volume>142</volume>, <fpage>136</fpage>&#x02013;<lpage>148</lpage><pub-id pub-id-type="doi">10.1016/j.biomaterials.2017.07.017</pub-id>.<pub-id pub-id-type="pmid">28735174</pub-id></mixed-citation></ref><ref id="ref79"><mixed-citation publication-type="journal" id="cit79"><name><surname>Lin</surname><given-names>X.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Zhang</surname><given-names>W.</given-names></name>; <name><surname>Sun</surname><given-names>T.</given-names></name>; <name><surname>Fang</surname><given-names>P.</given-names></name>; <name><surname>Liao</surname><given-names>Q.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>He</surname><given-names>J.</given-names></name>; <name><surname>Liu</surname><given-names>M.</given-names></name>; <name><surname>Wang</surname><given-names>F.</given-names></name>; <name><surname>Shi</surname><given-names>P.</given-names></name>
+<article-title>Core-Shell-Shell Upconversion Nanoparticles
+with Enhanced Emission for Wireless Optogenetic Inhibition</article-title>. <source>Nano Lett.</source>
+<year>2018</year>, <volume>18</volume>, <fpage>948</fpage>&#x02013;<lpage>956</lpage><pub-id pub-id-type="doi">10.1021/acs.nanolett.7b04339</pub-id>.<pub-id pub-id-type="pmid">29278506</pub-id></mixed-citation></ref><ref id="ref80"><mixed-citation publication-type="journal" id="cit80"><name><surname>Chen</surname><given-names>S.</given-names></name>; <name><surname>Weitemier</surname><given-names>A. Z.</given-names></name>; <name><surname>Zeng</surname><given-names>X.</given-names></name>; <name><surname>He</surname><given-names>L.</given-names></name>; <name><surname>Wang</surname><given-names>X.</given-names></name>; <name><surname>Tao</surname><given-names>Y.</given-names></name>; <name><surname>Huang</surname><given-names>A. J. Y.</given-names></name>; <name><surname>Hashimotodani</surname><given-names>Y.</given-names></name>; <name><surname>Kano</surname><given-names>M.</given-names></name>; <name><surname>Iwasaki</surname><given-names>H.</given-names></name>; <name><surname>Parajuli</surname><given-names>L. K.</given-names></name>; <name><surname>Okabe</surname><given-names>S.</given-names></name>; <name><surname>Teh</surname><given-names>D. B. L.</given-names></name>; <name><surname>All</surname><given-names>A. H.</given-names></name>; <name><surname>Tsutsui-Kimura</surname><given-names>I.</given-names></name>; <name><surname>Tanaka</surname><given-names>K. F.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>; <name><surname>McHugh</surname><given-names>T. J.</given-names></name>
+<article-title>Near-Infrared
+Stimulation via Upconversion Nanoparticle&#x02013;Mediated Optogenetics</article-title>. <source>Science</source>
+<year>2018</year>, <volume>359</volume>, <fpage>679</fpage>&#x02013;<lpage>684</lpage><pub-id pub-id-type="doi">10.1126/science.aaq1144</pub-id>.<pub-id pub-id-type="pmid">29439241</pub-id></mixed-citation></ref><ref id="ref81"><mixed-citation publication-type="journal" id="cit81"><name><surname>Zheng</surname><given-names>B.</given-names></name>; <name><surname>Wang</surname><given-names>H.</given-names></name>; <name><surname>Pan</surname><given-names>H.</given-names></name>; <name><surname>Liang</surname><given-names>C.</given-names></name>; <name><surname>Ji</surname><given-names>W.</given-names></name>; <name><surname>Zhao</surname><given-names>L.</given-names></name>; <name><surname>Chen</surname><given-names>H.</given-names></name>; <name><surname>Gong</surname><given-names>X.</given-names></name>; <name><surname>Wu</surname><given-names>X.</given-names></name>; <name><surname>Chang</surname><given-names>J.</given-names></name>
+<article-title>Near-Infrared Light Triggered Upconversion Optogenetic Nanosystem
+for Cancer Therapy</article-title>. <source>ACS Nano</source>
+<year>2017</year>, <volume>11</volume>, <fpage>11898</fpage>&#x02013;<lpage>11907</lpage><pub-id pub-id-type="doi">10.1021/acsnano.7b06395</pub-id>.<pub-id pub-id-type="pmid">29064662</pub-id></mixed-citation></ref><ref id="ref82"><mixed-citation publication-type="journal" id="cit82"><name><surname>Zhao</surname><given-names>J.</given-names></name>; <name><surname>Jin</surname><given-names>D.</given-names></name>; <name><surname>Schartner</surname><given-names>E. P.</given-names></name>; <name><surname>Lu</surname><given-names>Y.</given-names></name>; <name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Zvyagin</surname><given-names>A. V.</given-names></name>; <name><surname>Zhang</surname><given-names>L.</given-names></name>; <name><surname>Dawes</surname><given-names>J. M.</given-names></name>; <name><surname>Xi</surname><given-names>P.</given-names></name>; <name><surname>Piper</surname><given-names>J. A.</given-names></name>; <name><surname>Goldys</surname><given-names>E. M.</given-names></name>; <name><surname>Monro</surname><given-names>T. M.</given-names></name>
+<article-title>Single-Nanocrystal
+Sensitivity Achieved
+by Enhanced Upconversion Luminescence</article-title>. <source>Nat.
+Nanotechnol.</source>
+<year>2013</year>, <volume>8</volume>, <fpage>729</fpage>&#x02013;<lpage>734</lpage><pub-id pub-id-type="doi">10.1038/nnano.2013.171</pub-id>.<pub-id pub-id-type="pmid">23995455</pub-id></mixed-citation></ref><ref id="ref83"><mixed-citation publication-type="journal" id="cit83"><name><surname>Gargas</surname><given-names>D. J.</given-names></name>; <name><surname>Chan</surname><given-names>E. M.</given-names></name>; <name><surname>Ostrowski</surname><given-names>A. D.</given-names></name>; <name><surname>Aloni</surname><given-names>S.</given-names></name>; <name><surname>Altoe</surname><given-names>M. V. P.</given-names></name>; <name><surname>Barnard</surname><given-names>E. S.</given-names></name>; <name><surname>Sanii</surname><given-names>B.</given-names></name>; <name><surname>Urban</surname><given-names>J. J.</given-names></name>; <name><surname>Milliron</surname><given-names>D. J.</given-names></name>; <name><surname>Cohen</surname><given-names>B. E.</given-names></name>; <name><surname>Schuck</surname><given-names>P. J.</given-names></name>
+<article-title>Engineering Bright Sub-10-nm Upconverting
+Nanocrystals for Single-Molecule Imaging</article-title>. <source>Nat.
+Nanotechnol.</source>
+<year>2014</year>, <volume>9</volume>, <fpage>300</fpage>&#x02013;<lpage>305</lpage><pub-id pub-id-type="doi">10.1038/nnano.2014.29</pub-id>.<pub-id pub-id-type="pmid">24633523</pub-id></mixed-citation></ref><ref id="ref84"><mixed-citation publication-type="journal" id="cit84"><name><surname>Liu</surname><given-names>Q.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Peng</surname><given-names>C. S.</given-names></name>; <name><surname>Yang</surname><given-names>T.</given-names></name>; <name><surname>Joubert</surname><given-names>L. M.</given-names></name>; <name><surname>Chu</surname><given-names>S.</given-names></name>
+<article-title>Single Upconversion
+Nanoparticle Imaging at Sub-10 W cm<sup>&#x02013;2</sup> Irradiance</article-title>. <source>Nat. Photonics</source>
+<year>2018</year>, <volume>12</volume>, <fpage>548</fpage>&#x02013;<lpage>553</lpage><pub-id pub-id-type="doi">10.1038/s41566-018-0217-1</pub-id>.</mixed-citation></ref><ref id="ref85"><mixed-citation publication-type="journal" id="cit85"><name><surname>Wu</surname><given-names>X.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Takle</surname><given-names>K.</given-names></name>; <name><surname>Bilsel</surname><given-names>O.</given-names></name>; <name><surname>Li</surname><given-names>Z.</given-names></name>; <name><surname>Lee</surname><given-names>H.</given-names></name>; <name><surname>Zhang</surname><given-names>Z.</given-names></name>; <name><surname>Li</surname><given-names>D.</given-names></name>; <name><surname>Fan</surname><given-names>W.</given-names></name>; <name><surname>Duan</surname><given-names>C.</given-names></name>; <name><surname>Chan</surname><given-names>E. M.</given-names></name>; <name><surname>Lois</surname><given-names>C.</given-names></name>; <name><surname>Xiang</surname><given-names>Y.</given-names></name>; <name><surname>Han</surname><given-names>G.</given-names></name>
+<article-title>Dye-Sensitized
+Core/Active Shell Upconversion Nanoparticles for Optogenetics and
+Bioimaging Applications</article-title>. <source>ACS Nano</source>
+<year>2016</year>, <volume>10</volume>, <fpage>1060</fpage>&#x02013;<lpage>1066</lpage><pub-id pub-id-type="doi">10.1021/acsnano.5b06383</pub-id>.<pub-id pub-id-type="pmid">26736013</pub-id></mixed-citation></ref><ref id="ref86"><mixed-citation publication-type="journal" id="cit86"><name><surname>Feliu</surname><given-names>N.</given-names></name>; <name><surname>Neher</surname><given-names>E.</given-names></name>; <name><surname>Parak</surname><given-names>W. J.</given-names></name>
+<article-title>Toward
+an Optically Controlled Brain</article-title>. <source>Science</source>
+<year>2018</year>, <volume>359</volume>, <fpage>633</fpage>&#x02013;<lpage>634</lpage><pub-id pub-id-type="doi">10.1126/science.aar7379</pub-id>.<pub-id pub-id-type="pmid">29439227</pub-id></mixed-citation></ref><ref id="ref87"><mixed-citation publication-type="journal" id="cit87"><name><surname>Johnson</surname><given-names>L. F.</given-names></name>; <name><surname>Guggenheim</surname><given-names>H. J.</given-names></name>
+<article-title>Infrared-Pumped
+Visible Laser</article-title>. <source>Appl. Phys. Lett.</source>
+<year>1971</year>, <volume>19</volume>, <fpage>44</fpage>&#x02013;<lpage>47</lpage><pub-id pub-id-type="doi">10.1063/1.1653816</pub-id>.</mixed-citation></ref><ref id="ref88"><mixed-citation publication-type="journal" id="cit88"><name><surname>Zhu</surname><given-names>H.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Jin</surname><given-names>L. M.</given-names></name>; <name><surname>Wang</surname><given-names>Q. J.</given-names></name>; <name><surname>Wang</surname><given-names>F.</given-names></name>; <name><surname>Yu</surname><given-names>S. F.</given-names></name>
+<article-title>Amplified Spontaneous
+Emission and Lasing from Lanthanide-Doped Up-Conversion
+Nanocrystals</article-title>. <source>ACS Nano</source>
+<year>2013</year>, <volume>7</volume>, <fpage>11420</fpage>&#x02013;<lpage>11426</lpage><pub-id pub-id-type="doi">10.1021/nn405387t</pub-id>.<pub-id pub-id-type="pmid">24266853</pub-id></mixed-citation></ref><ref id="ref89"><mixed-citation publication-type="journal" id="cit89"><name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Jin</surname><given-names>L.</given-names></name>; <name><surname>Kong</surname><given-names>W.</given-names></name>; <name><surname>Sun</surname><given-names>T.</given-names></name>; <name><surname>Zhang</surname><given-names>W.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>; <name><surname>Fan</surname><given-names>J.</given-names></name>; <name><surname>Yu</surname><given-names>S. F.</given-names></name>; <name><surname>Wang</surname><given-names>F.</given-names></name>
+<article-title>Confining Energy Migration in Upconversion
+Nanoparticles towards Deep Ultraviolet Lasing</article-title>. <source>Nat. Commun.</source>
+<year>2016</year>, <volume>7</volume>, <fpage>10304</fpage><pub-id pub-id-type="doi">10.1038/ncomms10304</pub-id>.<pub-id pub-id-type="pmid">26739352</pub-id></mixed-citation></ref><ref id="ref90"><mixed-citation publication-type="journal" id="cit90"><name><surname>Wang</surname><given-names>T.</given-names></name>; <name><surname>Yu</surname><given-names>H.</given-names></name>; <name><surname>Siu</surname><given-names>C. K.</given-names></name>; <name><surname>Qiu</surname><given-names>J.</given-names></name>; <name><surname>Xu</surname><given-names>X.</given-names></name>; <name><surname>Yu</surname><given-names>S. F.</given-names></name>
+<article-title>White-Light
+Whispering-Gallery-Mode Lasing from Lanthanide-Doped Upconversion
+NaYF<sub>4</sub> Hexagonal Microrods</article-title>. <source>ACS Photonics</source>
+<year>2017</year>, <volume>4</volume>, <fpage>1539</fpage>&#x02013;<lpage>1543</lpage><pub-id pub-id-type="doi">10.1021/acsphotonics.7b00301</pub-id>.</mixed-citation></ref><ref id="ref91"><mixed-citation publication-type="journal" id="cit91"><name><surname>Fernandez-Bravo</surname><given-names>A.</given-names></name>; <name><surname>Yao</surname><given-names>K.</given-names></name>; <name><surname>Barnard</surname><given-names>E. S.</given-names></name>; <name><surname>Borys</surname><given-names>N. J.</given-names></name>; <name><surname>Levy</surname><given-names>E. S.</given-names></name>; <name><surname>Tian</surname><given-names>B.</given-names></name>; <name><surname>Tajon</surname><given-names>C. A.</given-names></name>; <name><surname>Moretti</surname><given-names>L.</given-names></name>; <name><surname>Altoe</surname><given-names>M. V.</given-names></name>; <name><surname>Aloni</surname><given-names>S.</given-names></name>; <name><surname>Beketayev</surname><given-names>K.</given-names></name>; <name><surname>Scotognella</surname><given-names>F.</given-names></name>; <name><surname>Cohen</surname><given-names>B. E.</given-names></name>; <name><surname>Chan</surname><given-names>E. M.</given-names></name>; <name><surname>Schuck</surname><given-names>P. J.</given-names></name>
+<article-title>Continuous-Wave
+Upconverting Nanoparticle Microlasers</article-title>. <source>Nat.
+Nanotechnol.</source>
+<year>2018</year>, <volume>13</volume>, <fpage>572</fpage>&#x02013;<lpage>577</lpage><pub-id pub-id-type="doi">10.1038/s41565-018-0161-8</pub-id>.<pub-id pub-id-type="pmid">29915271</pub-id></mixed-citation></ref><ref id="ref92"><mixed-citation publication-type="journal" id="cit92"><name><surname>Yao</surname><given-names>W.</given-names></name>; <name><surname>Tian</surname><given-names>Q.</given-names></name>; <name><surname>Liu</surname><given-names>J.</given-names></name>; <name><surname>Wu</surname><given-names>Z.</given-names></name>; <name><surname>Cui</surname><given-names>S.</given-names></name>; <name><surname>Ding</surname><given-names>J.</given-names></name>; <name><surname>Dai</surname><given-names>Z.</given-names></name>; <name><surname>Wu</surname><given-names>W.</given-names></name>
+<article-title>Large-Scale Synthesis
+and Screen Printing of Upconversion Hexagonal-Phase NaYF<sub>4</sub>:Yb<sup>3+</sup>,Tm<sup>3+</sup>/Er<sup>3+</sup>/Eu<sup>3+</sup> Plates
+for Security Applications</article-title>. <source>J. Mater. Chem. C</source>
+<year>2016</year>, <volume>4</volume>, <fpage>6327</fpage>&#x02013;<lpage>6335</lpage><pub-id pub-id-type="doi">10.1039/C6TC01513A</pub-id>.</mixed-citation></ref><ref id="ref93"><mixed-citation publication-type="journal" id="cit93"><name><surname>Meruga</surname><given-names>J. M.</given-names></name>; <name><surname>Baride</surname><given-names>A.</given-names></name>; <name><surname>Cross</surname><given-names>W.</given-names></name>; <name><surname>Kellar</surname><given-names>J. J.</given-names></name>; <name><surname>May</surname><given-names>P. S.</given-names></name>
+<article-title>Red-Green-Blue
+Printing using Luminescence-Upconversion Inks</article-title>. <source>J. Mater. Chem. C</source>
+<year>2014</year>, <volume>2</volume>, <fpage>2221</fpage>&#x02013;<lpage>2227</lpage><pub-id pub-id-type="doi">10.1039/c3tc32233e</pub-id>.</mixed-citation></ref><ref id="ref94"><mixed-citation publication-type="journal" id="cit94"><name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Zhang</surname><given-names>L.</given-names></name>; <name><surname>Deng</surname><given-names>R.</given-names></name>; <name><surname>Tian</surname><given-names>J.</given-names></name>; <name><surname>Zong</surname><given-names>Y.</given-names></name>; <name><surname>Jin</surname><given-names>D.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>
+<article-title>Multicolor Barcoding in a Single Upconversion Crystal</article-title>. <source>J. Am. Chem. Soc.</source>
+<year>2014</year>, <volume>136</volume>, <fpage>4893</fpage>&#x02013;<lpage>4896</lpage><pub-id pub-id-type="doi">10.1021/ja5013646</pub-id>.<pub-id pub-id-type="pmid">24645923</pub-id></mixed-citation></ref><ref id="ref95"><mixed-citation publication-type="journal" id="cit95"><name><surname>Lee</surname><given-names>J.</given-names></name>; <name><surname>Bisso</surname><given-names>P. W.</given-names></name>; <name><surname>Srinivas</surname><given-names>R. L.</given-names></name>; <name><surname>Kim</surname><given-names>J. J.</given-names></name>; <name><surname>Swiston</surname><given-names>A. J.</given-names></name>; <name><surname>Doyle</surname><given-names>P. S.</given-names></name>
+<article-title>Universal Process-Inert Encoding Architecture for Polymer
+Microparticles</article-title>. <source>Nat. Mater.</source>
+<year>2014</year>, <volume>13</volume>, <fpage>524</fpage>&#x02013;<lpage>529</lpage><pub-id pub-id-type="doi">10.1038/nmat3938</pub-id>.<pub-id pub-id-type="pmid">24728464</pub-id></mixed-citation></ref><ref id="ref96"><mixed-citation publication-type="journal" id="cit96"><name><surname>You</surname><given-names>M.</given-names></name>; <name><surname>Zhong</surname><given-names>J.</given-names></name>; <name><surname>Hong</surname><given-names>Y.</given-names></name>; <name><surname>Duan</surname><given-names>Z.</given-names></name>; <name><surname>Lin</surname><given-names>M.</given-names></name>; <name><surname>Xu</surname><given-names>F.</given-names></name>
+<article-title>Inkjet Printing of
+Upconversion Nanoparticles for Anti-Counterfeit
+Applications</article-title>. <source>Nanoscale</source>
+<year>2015</year>, <volume>7</volume>, <fpage>4423</fpage>&#x02013;<lpage>4431</lpage><pub-id pub-id-type="doi">10.1039/C4NR06944G</pub-id>.<pub-id pub-id-type="pmid">25613526</pub-id></mixed-citation></ref><ref id="ref97"><mixed-citation publication-type="journal" id="cit97"><name><surname>Li</surname><given-names>M.</given-names></name>; <name><surname>Yao</surname><given-names>W.</given-names></name>; <name><surname>Liu</surname><given-names>J.</given-names></name>; <name><surname>Tian</surname><given-names>Q.</given-names></name>; <name><surname>Liu</surname><given-names>L.</given-names></name>; <name><surname>Ding</surname><given-names>J.</given-names></name>; <name><surname>Xue</surname><given-names>Q.</given-names></name>; <name><surname>Lu</surname><given-names>Q.</given-names></name>; <name><surname>Wu</surname><given-names>W.</given-names></name>
+<article-title>Facile Synthesis and Screen Printing
+of Dual-Mode Luminescent NaYF<sub>4</sub>&#x0202f;:Er,Yb (Tm)/Carbon
+Dots for Anti-Counterfeiting Applications</article-title>. <source>J.
+Mater. Chem. C</source>
+<year>2017</year>, <volume>5</volume>, <fpage>6512</fpage>&#x02013;<lpage>6520</lpage><pub-id pub-id-type="doi">10.1039/C7TC01585B</pub-id>.</mixed-citation></ref><ref id="ref98"><mixed-citation publication-type="journal" id="cit98"><name><surname>Zheng</surname><given-names>W.</given-names></name>; <name><surname>Huang</surname><given-names>P.</given-names></name>; <name><surname>Gong</surname><given-names>Z.</given-names></name>; <name><surname>Tu</surname><given-names>D.</given-names></name>; <name><surname>Xu</surname><given-names>J.</given-names></name>; <name><surname>Zou</surname><given-names>Q.</given-names></name>; <name><surname>Li</surname><given-names>R.</given-names></name>; <name><surname>You</surname><given-names>W.</given-names></name>; <name><surname>B&#x000fc;nzli</surname><given-names>J. C. G.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>
+<article-title>Near-Infrared-Triggered Photon Upconversion
+Tuning
+in All-Inorganic Cesium Lead Halide Perovskite Quantum Dots</article-title>. <source>Nat. Commun.</source>
+<year>2018</year>, <volume>9</volume>, <fpage>3462</fpage><pub-id pub-id-type="doi">10.1038/s41467-018-05947-2</pub-id>.<pub-id pub-id-type="pmid">30150637</pub-id></mixed-citation></ref><ref id="ref99"><mixed-citation publication-type="journal" id="cit99"><name><surname>Sun</surname><given-names>T.</given-names></name>; <name><surname>Xu</surname><given-names>B.</given-names></name>; <name><surname>Chen</surname><given-names>B.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Li</surname><given-names>M.</given-names></name>; <name><surname>Shi</surname><given-names>P.</given-names></name>; <name><surname>Wang</surname><given-names>F.</given-names></name>
+<article-title>Anti-Counterfeiting
+Patterns Encrypted with Multi-Mode Luminescent
+Nanotaggants</article-title>. <source>Nanoscale</source>
+<year>2017</year>, <volume>9</volume>, <fpage>2701</fpage>&#x02013;<lpage>2705</lpage><pub-id pub-id-type="doi">10.1039/C6NR09083D</pub-id>.<pub-id pub-id-type="pmid">28186524</pub-id></mixed-citation></ref><ref id="ref100"><mixed-citation publication-type="journal" id="cit100"><name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Tu</surname><given-names>D.</given-names></name>; <name><surname>Zhu</surname><given-names>H.</given-names></name>; <name><surname>Li</surname><given-names>R.</given-names></name>; <name><surname>Luo</surname><given-names>W.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>
+<article-title>A Strategy to Achieve Efficient Dual-Mode
+Luminescence of Eu<sup>3+</sup> in Lanthanides Doped Multifunctional
+NaGdF<sub>4</sub> nanocrystals</article-title>. <source>Adv. Mater.</source>
+<year>2010</year>, <volume>22</volume>, <fpage>3266</fpage>&#x02013;<lpage>3271</lpage><pub-id pub-id-type="doi">10.1002/adma.201000128</pub-id>.<pub-id pub-id-type="pmid">20533416</pub-id></mixed-citation></ref><ref id="ref101"><mixed-citation publication-type="journal" id="cit101"><name><surname>Kumar</surname><given-names>P.</given-names></name>; <name><surname>Dwivedi</surname><given-names>J.</given-names></name>; <name><surname>Gupta</surname><given-names>B. K.</given-names></name>
+<article-title>Highly
+Luminescent
+Dual Model Rare-Earth Nanorod Assisted Multi-Stage Excitable Security
+Ink for Anti-Counterfeiting Applications</article-title>. <source>J.
+Mater. Chem. C</source>
+<year>2014</year>, <volume>2</volume>, <fpage>10468</fpage>&#x02013;<lpage>10475</lpage><pub-id pub-id-type="doi">10.1039/C4TC02065K</pub-id>.</mixed-citation></ref><ref id="ref102"><mixed-citation publication-type="journal" id="cit102"><name><surname>Han</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>H.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Pan</surname><given-names>Y.</given-names></name>; <name><surname>Huang</surname><given-names>L.</given-names></name>; <name><surname>Song</surname><given-names>F.</given-names></name>; <name><surname>Huang</surname><given-names>W.</given-names></name>
+<article-title>Upconversion Modulation through Pulsed
+Laser Excitation for Anti-counterfeiting</article-title>. <source>Sci.
+Rep.</source>
+<year>2017</year>, <volume>7</volume>, <fpage>1320</fpage><pub-id pub-id-type="doi">10.1038/s41598-017-01611-9</pub-id>.<pub-id pub-id-type="pmid">28465571</pub-id></mixed-citation></ref><ref id="ref103"><mixed-citation publication-type="journal" id="cit103"><name><surname>Zhou</surname><given-names>D.</given-names></name>; <name><surname>Li</surname><given-names>D.</given-names></name>; <name><surname>Zhou</surname><given-names>X.</given-names></name>; <name><surname>Xu</surname><given-names>W.</given-names></name>; <name><surname>Chen</surname><given-names>X.</given-names></name>; <name><surname>Liu</surname><given-names>D.</given-names></name>; <name><surname>Zhu</surname><given-names>Y.</given-names></name>; <name><surname>Song</surname><given-names>H.</given-names></name>
+<article-title>Semiconductor
+Plasmon Induced Upconversion Enhancement in mCu<sub>2&#x02013;x</sub>S@SiO<sub>2</sub>@Y<sub>2</sub>O<sub>3</sub>:Yb<sup>3+</sup>,Er<sup>3+</sup> Core-Shell Nanocomposites</article-title>. <source>ACS Appl.
+Mater. Interfaces</source>
+<year>2017</year>, <volume>9</volume>, <fpage>35226</fpage>&#x02013;<lpage>35233</lpage><pub-id pub-id-type="doi">10.1021/acsami.7b09850</pub-id>.<pub-id pub-id-type="pmid">28922603</pub-id></mixed-citation></ref><ref id="ref104"><mixed-citation publication-type="journal" id="cit104"><name><surname>Liu</surname><given-names>H.</given-names></name>; <name><surname>Jayakumar</surname><given-names>M. K. G.</given-names></name>; <name><surname>Huang</surname><given-names>K.</given-names></name>; <name><surname>Wang</surname><given-names>Z.</given-names></name>; <name><surname>Zheng</surname><given-names>X.</given-names></name>; <name><surname>Agren</surname><given-names>H.</given-names></name>; <name><surname>Zhang</surname><given-names>Y.</given-names></name>
+<article-title>Phase Angle Encoded
+Upconversion Luminescent Nanocrystals for Multiplexing Applications</article-title>. <source>Nanoscale</source>
+<year>2017</year>, <volume>9</volume>, <fpage>1676</fpage>&#x02013;<lpage>1686</lpage><pub-id pub-id-type="doi">10.1039/C6NR09349C</pub-id>.<pub-id pub-id-type="pmid">28084478</pub-id></mixed-citation></ref><ref id="ref105"><mixed-citation publication-type="journal" id="cit105"><name><surname>Lu</surname><given-names>Y.</given-names></name>; <name><surname>Zhao</surname><given-names>J.</given-names></name>; <name><surname>Zhang</surname><given-names>R.</given-names></name>; <name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Liu</surname><given-names>D.</given-names></name>; <name><surname>Goldys</surname><given-names>E. M.</given-names></name>; <name><surname>Yang</surname><given-names>X.</given-names></name>; <name><surname>Xi</surname><given-names>P.</given-names></name>; <name><surname>Sunna</surname><given-names>A.</given-names></name>; <name><surname>Lu</surname><given-names>J.</given-names></name>; <name><surname>Shi</surname><given-names>Y.</given-names></name>; <name><surname>Leif</surname><given-names>R. C.</given-names></name>; <name><surname>Huo</surname><given-names>Y.</given-names></name>; <name><surname>Shen</surname><given-names>J.</given-names></name>; <name><surname>Piper</surname><given-names>J. A.</given-names></name>; <name><surname>Robinson</surname><given-names>J. P.</given-names></name>; <name><surname>Jin</surname><given-names>D.</given-names></name>
+<article-title>Tunable Lifetime Multiplexing
+using Luminescent Nanocrystals</article-title>. <source>Nat. Photonics</source>
+<year>2014</year>, <volume>8</volume>, <fpage>32</fpage>&#x02013;<lpage>36</lpage><pub-id pub-id-type="doi">10.1038/nphoton.2013.322</pub-id>.</mixed-citation></ref><ref id="ref106"><mixed-citation publication-type="journal" id="cit106"><name><surname>Dong</surname><given-names>H.</given-names></name>; <name><surname>Sun</surname><given-names>L. D.</given-names></name>; <name><surname>Feng</surname><given-names>W.</given-names></name>; <name><surname>Gu</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>F.</given-names></name>; <name><surname>Yan</surname><given-names>C. H.</given-names></name>
+<article-title>Versatile Spectral and Lifetime Multiplexing
+Nanoplatform
+with Excitation Orthogonalized Upconversion Luminescence</article-title>. <source>ACS Nano</source>
+<year>2017</year>, <volume>11</volume>, <fpage>3289</fpage>&#x02013;<lpage>3297</lpage><pub-id pub-id-type="doi">10.1021/acsnano.7b00559</pub-id>.<pub-id pub-id-type="pmid">28238259</pub-id></mixed-citation></ref><ref id="ref107"><mixed-citation publication-type="journal" id="cit107"><name><surname>Liu</surname><given-names>X.</given-names></name>; <name><surname>Wang</surname><given-names>Y.</given-names></name>; <name><surname>Li</surname><given-names>X.</given-names></name>; <name><surname>Yi</surname><given-names>Z.</given-names></name>; <name><surname>Deng</surname><given-names>R.</given-names></name>; <name><surname>Liang</surname><given-names>L.</given-names></name>; <name><surname>Xie</surname><given-names>X.</given-names></name>; <name><surname>Loong</surname><given-names>D. T. B.</given-names></name>; <name><surname>Song</surname><given-names>S.</given-names></name>; <name><surname>Fan</surname><given-names>D.</given-names></name>; <name><surname>All</surname><given-names>A. H.</given-names></name>; <name><surname>Zhang</surname><given-names>H.</given-names></name>; <name><surname>Huang</surname><given-names>L.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>
+<article-title>Binary Temporal
+Upconversion Codes of Mn<sup>2+</sup>-Activated Nanoparticles for
+Multilevel Anti-Counterfeiting</article-title>. <source>Nat. Commun.</source>
+<year>2017</year>, <volume>8</volume>, <fpage>899</fpage><pub-id pub-id-type="doi">10.1038/s41467-017-00916-7</pub-id>.<pub-id pub-id-type="pmid">29026084</pub-id></mixed-citation></ref><ref id="ref108"><mixed-citation publication-type="journal" id="cit108"><name><surname>Lei</surname><given-names>L.</given-names></name>; <name><surname>Chen</surname><given-names>D.</given-names></name>; <name><surname>Li</surname><given-names>C.</given-names></name>; <name><surname>Huang</surname><given-names>F.</given-names></name>; <name><surname>Zhang</surname><given-names>J.</given-names></name>; <name><surname>Xu</surname><given-names>S.</given-names></name>
+<article-title>Inverse Thermal Quenching
+Effect in Lanthanide-Doped Upconversion
+Nanocrystals for Anti-Counterfeiting</article-title>. <source>J. Mater.
+Chem. C</source>
+<year>2018</year>, <volume>6</volume>, <fpage>5427</fpage>&#x02013;<lpage>5433</lpage><pub-id pub-id-type="doi">10.1039/C8TC01433G</pub-id>.</mixed-citation></ref><ref id="ref109"><mixed-citation publication-type="journal" id="cit109"><name><surname>Wu</surname><given-names>Q.</given-names></name>; <name><surname>Huang</surname><given-names>B.</given-names></name>; <name><surname>Peng</surname><given-names>X.</given-names></name>; <name><surname>He</surname><given-names>S.</given-names></name>; <name><surname>Zhan</surname><given-names>Q.</given-names></name>
+<article-title>Non-Bleaching
+Fluorescence Emission Difference Microscopy using Single 808-nm Laser
+Excited Red Upconversion Emission</article-title>. <source>Opt. Express</source>
+<year>2017</year>, <volume>25</volume>, <fpage>30885</fpage><pub-id pub-id-type="doi">10.1364/OE.25.030885</pub-id>.<pub-id pub-id-type="pmid">29245768</pub-id></mixed-citation></ref><ref id="ref110"><mixed-citation publication-type="journal" id="cit110"><name><surname>Chen</surname><given-names>C.</given-names></name>; <name><surname>Wang</surname><given-names>F.</given-names></name>; <name><surname>Wen</surname><given-names>S.</given-names></name>; <name><surname>Su</surname><given-names>Q. P.</given-names></name>; <name><surname>Wu</surname><given-names>M. C. L.</given-names></name>; <name><surname>Liu</surname><given-names>Y.</given-names></name>; <name><surname>Wang</surname><given-names>B.</given-names></name>; <name><surname>Li</surname><given-names>D.</given-names></name>; <name><surname>Shan</surname><given-names>X.</given-names></name>; <name><surname>Kianinia</surname><given-names>M.</given-names></name>; <name><surname>Aharonovich</surname><given-names>I.</given-names></name>; <name><surname>Toth</surname><given-names>M.</given-names></name>; <name><surname>Jackson</surname><given-names>S. P.</given-names></name>; <name><surname>Xi</surname><given-names>P.</given-names></name>; <name><surname>Jin</surname><given-names>D.</given-names></name>
+<article-title>Multi-Photon
+Near-Infrared Emission Saturation Nanoscopy using Upconversion Nanoparticles</article-title>. <source>Nat. Commun.</source>
+<year>2018</year>, <volume>9</volume>, <fpage>3290</fpage><pub-id pub-id-type="doi">10.1038/s41467-018-05842-w</pub-id>.<pub-id pub-id-type="pmid">30120242</pub-id></mixed-citation></ref><ref id="ref111"><mixed-citation publication-type="journal" id="cit111"><name><surname>Huang</surname><given-names>X.</given-names></name>; <name><surname>Han</surname><given-names>S.</given-names></name>; <name><surname>Huang</surname><given-names>W.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>
+<article-title>Enhancing
+Solar Cell Efficiency: the Search for Luminescent Materials as Spectral
+Converters</article-title>. <source>Chem. Soc. Rev.</source>
+<year>2013</year>, <volume>42</volume>, <fpage>173</fpage>&#x02013;<lpage>201</lpage><pub-id pub-id-type="doi">10.1039/C2CS35288E</pub-id>.<pub-id pub-id-type="pmid">23072924</pub-id></mixed-citation></ref><ref id="ref112"><mixed-citation publication-type="journal" id="cit112"><name><surname>Van Sark</surname><given-names>W. G.</given-names></name>; <name><surname>de Wild</surname><given-names>J.</given-names></name>; <name><surname>Rath</surname><given-names>J. K.</given-names></name>; <name><surname>Meijerink</surname><given-names>A.</given-names></name>; <name><surname>Schropp</surname><given-names>R. E.</given-names></name>
+<article-title>Upconversion in Solar Cells</article-title>. <source>Nanoscale Res. Lett.</source>
+<year>2013</year>, <volume>8</volume>, <fpage>81</fpage><pub-id pub-id-type="doi">10.1186/1556-276X-8-81</pub-id>.<pub-id pub-id-type="pmid">23413889</pub-id></mixed-citation></ref><ref id="ref113"><mixed-citation publication-type="journal" id="cit113"><name><surname>Goldschmidt</surname><given-names>J. C.</given-names></name>; <name><surname>Fischer</surname><given-names>S.</given-names></name>
+<article-title>Upconversion for Photovoltaics &#x02013;
+A Review of Materials, Devices and Concepts for Performance Enhancement</article-title>. <source>Adv. Opt. Mater.</source>
+<year>2015</year>, <volume>3</volume>, <fpage>510</fpage>&#x02013;<lpage>535</lpage><pub-id pub-id-type="doi">10.1002/adom.201500024</pub-id>.</mixed-citation></ref><ref id="ref114"><mixed-citation publication-type="journal" id="cit114"><name><surname>He</surname><given-names>M.</given-names></name>; <name><surname>Pang</surname><given-names>X.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>; <name><surname>Jiang</surname><given-names>B.</given-names></name>; <name><surname>He</surname><given-names>Y.</given-names></name>; <name><surname>Snaith</surname><given-names>H.</given-names></name>; <name><surname>Lin</surname><given-names>Z.</given-names></name>
+<article-title>Monodisperse Dual-Functional Upconversion
+Nanoparticles Enabled Near-Infrared Organolead Halide Perovskite Solar
+Cells</article-title>. <source>Angew. Chem., Int. Ed.</source>
+<year>2016</year>, <volume>55</volume>, <fpage>4280</fpage>&#x02013;<lpage>4284</lpage><pub-id pub-id-type="doi">10.1002/anie.201600702</pub-id>.</mixed-citation></ref><ref id="ref115"><mixed-citation publication-type="journal" id="cit115"><name><surname>Roh</surname><given-names>J.</given-names></name>; <name><surname>Yu</surname><given-names>H.</given-names></name>; <name><surname>Jang</surname><given-names>J.</given-names></name>
+<article-title>Hexagonal
+&#x003b2;-NaYF<sub>4</sub>:Yb<sup>3+</sup>, Er<sup>3+</sup> Nanorpism-Incorporated
+Upconverting
+Layer in Perovskite Solar Cells for Near-Infrared Sunlight Harvesting</article-title>. <source>ACS Appl. Mater. Interfaces</source>
+<year>2016</year>, <volume>8</volume>, <fpage>19847</fpage>&#x02013;<lpage>19852</lpage><pub-id pub-id-type="doi">10.1021/acsami.6b04760</pub-id>.<pub-id pub-id-type="pmid">27472304</pub-id></mixed-citation></ref><ref id="ref116"><mixed-citation publication-type="journal" id="cit116"><name><surname>Arnaoutakis</surname><given-names>G. E.</given-names></name>; <name><surname>Marques-Hueso</surname><given-names>J.</given-names></name>; <name><surname>Ivaturi</surname><given-names>A.</given-names></name>; <name><surname>Fischer</surname><given-names>S.</given-names></name>; <name><surname>Goldschmidt</surname><given-names>J. C.</given-names></name>; <name><surname>Kr&#x000e4;mer</surname><given-names>K. W.</given-names></name>; <name><surname>Richards</surname><given-names>B. S.</given-names></name>
+<article-title>Enhanced Energy
+Conversion of Up-Conversion Solar Cells by the Integration of Compound
+Parabolic Concentrating Optics</article-title>. <source>Sol. Energy
+Mater. Sol. Cells</source>
+<year>2015</year>, <volume>140</volume>, <fpage>217</fpage>&#x02013;<lpage>223</lpage><pub-id pub-id-type="doi">10.1016/j.solmat.2015.04.020</pub-id>.</mixed-citation></ref><ref id="ref117"><mixed-citation publication-type="journal" id="cit117"><name><surname>Park</surname><given-names>J. E.</given-names></name>; <name><surname>Jung</surname><given-names>Y.</given-names></name>; <name><surname>Kim</surname><given-names>M.</given-names></name>; <name><surname>Nam</surname><given-names>J. M.</given-names></name>
+<article-title>Quantitative
+Nanoplasmonics</article-title>. <source>ACS Cent. Sci.</source>
+<year>2018</year>, <volume>4</volume>, <fpage>1303</fpage>&#x02013;<lpage>1314</lpage><pub-id pub-id-type="doi">10.1021/acscentsci.8b00423</pub-id>.<pub-id pub-id-type="pmid">30410968</pub-id></mixed-citation></ref><ref id="ref118"><mixed-citation publication-type="journal" id="cit118"><name><surname>Malta</surname><given-names>O. L.</given-names></name>
+<article-title>Mechanisms of Non-Radiative Energy
+Transfer Involving
+Lanthanide Ions Revisited</article-title>. <source>J. Non-Cryst. Solids</source>
+<year>2008</year>, <volume>354</volume>, <fpage>4770</fpage>&#x02013;<lpage>4776</lpage><pub-id pub-id-type="doi">10.1016/j.jnoncrysol.2008.04.023</pub-id>.</mixed-citation></ref><ref id="ref119"><mixed-citation publication-type="journal" id="cit119"><name><surname>Tanner</surname><given-names>P. A.</given-names></name>; <name><surname>Zhou</surname><given-names>L.</given-names></name>; <name><surname>Duan</surname><given-names>C.</given-names></name>; <name><surname>Wong</surname><given-names>K. L.</given-names></name>
+<article-title>Misconceptions
+in Electronic Energy Transfer: Bridging the Gap Between Chemistry
+and Physics</article-title>. <source>Chem. Soc. Rev.</source>
+<year>2018</year>, <volume>47</volume>, <fpage>5234</fpage>&#x02013;<lpage>5265</lpage><pub-id pub-id-type="doi">10.1039/C8CS00002F</pub-id>.<pub-id pub-id-type="pmid">29938282</pub-id></mixed-citation></ref><ref id="ref120"><mixed-citation publication-type="journal" id="cit120"><name><surname>Zhang</surname><given-names>Y.</given-names></name>; <name><surname>Kurt</surname><given-names>O.</given-names></name>; <name><surname>Ascienzo</surname><given-names>D.</given-names></name>; <name><surname>Yang</surname><given-names>Q.</given-names></name>; <name><surname>Le</surname><given-names>T.</given-names></name>; <name><surname>Greenbaum</surname><given-names>S.</given-names></name>; <name><surname>Bayer</surname><given-names>T. J. M.</given-names></name>; <name><surname>Randall</surname><given-names>C. A.</given-names></name>; <name><surname>Ren</surname><given-names>Y.</given-names></name>
+<article-title>Detection
+of Nanoscale Structural Defects in Degraded Fe-Doped SrTiO<sub>3</sub> by Ultrafast Photoacoustic Waves</article-title>. <source>J. Phys.
+Chem. C</source>
+<year>2018</year>, <volume>122</volume>, <fpage>12864</fpage>&#x02013;<lpage>12868</lpage><pub-id pub-id-type="doi">10.1021/acs.jpcc.8b03240</pub-id>.</mixed-citation></ref><ref id="ref121"><mixed-citation publication-type="journal" id="cit121"><name><surname>Qin</surname><given-names>X.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>; <name><surname>Huang</surname><given-names>W.</given-names></name>; <name><surname>Bettinelli</surname><given-names>M.</given-names></name>; <name><surname>Liu</surname><given-names>X.</given-names></name>
+<article-title>Lanthanide-Activated
+Phosphors Based on 4f-5d Optical Transitions:
+Theoretical and Experimental Aspects</article-title>. <source>Chem.
+Rev.</source>
+<year>2017</year>, <volume>117</volume>, <fpage>4488</fpage>&#x02013;<lpage>4527</lpage><pub-id pub-id-type="doi">10.1021/acs.chemrev.6b00691</pub-id>.<pub-id pub-id-type="pmid">28240879</pub-id></mixed-citation></ref><ref id="ref122"><mixed-citation publication-type="journal" id="cit122"><name><surname>Luo</surname><given-names>M.</given-names></name>; <name><surname>Mazyar</surname><given-names>O. A.</given-names></name>; <name><surname>Zhu</surname><given-names>Q.</given-names></name>; <name><surname>Vaughn</surname><given-names>M. W.</given-names></name>; <name><surname>Hase</surname><given-names>W. L.</given-names></name>; <name><surname>Dai</surname><given-names>L. L.</given-names></name>
+<article-title>Molecular Dynamics Simulation of Nanoparticle Self-Assembly
+at a Liquid-Liquid Interface</article-title>. <source>Langmuir</source>
+<year>2006</year>, <volume>22</volume>, <fpage>6385</fpage>&#x02013;<lpage>6390</lpage><pub-id pub-id-type="doi">10.1021/la0607196</pub-id>.<pub-id pub-id-type="pmid">16800703</pub-id></mixed-citation></ref><ref id="ref123"><mixed-citation publication-type="journal" id="cit123"><name><surname>Tian</surname><given-names>P.</given-names></name>
+<article-title>Molecular Dynamics Simulations of
+Nanoparticles</article-title>. <source>Annu. Rep. Prog. Chem., Sect.
+C: Phys. Chem.</source>
+<year>2008</year>, <volume>104</volume>, <fpage>142</fpage>&#x02013;<lpage>164</lpage><pub-id pub-id-type="doi">10.1039/b703897f</pub-id>.</mixed-citation></ref></ref-list></back></article>
